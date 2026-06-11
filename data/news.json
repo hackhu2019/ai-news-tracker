@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3132066",
+    "title": "Anthropic taps TCS to scale its enterprise AI deployments",
+    "link": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
+    "pubDate": "Thu, 11 Jun 2026 11:48:55 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "The partnership will see TCS creating a business unit focused on deploying Anthropic's AI models to its customers."
+  },
+  {
     "id": "https://techcrunch.com/?p=3132054",
     "title": "Anthropic’s Dario Amodei has just one direct report",
     "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
@@ -7,6 +16,33 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "If you doubted his genius, doubt no more."
+  },
+  {
+    "id": "https://openai.com/index/openai-to-acquire-ona",
+    "title": "OpenAI to acquire Ona",
+    "link": "https://openai.com/index/openai-to-acquire-ona",
+    "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows."
+  },
+  {
+    "id": "https://openai.com/index/bbva",
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "link": "https://openai.com/index/bbva",
+    "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
+  },
+  {
+    "id": "https://huggingface.co/blog/torch-mlp-fusion",
+    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+    "link": "https://huggingface.co/blog/torch-mlp-fusion",
+    "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
   },
   {
     "id": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
@@ -70,6 +106,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT."
+  },
+  {
+    "id": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "title": "Investing in multi-agent AI safety research",
+    "link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "pubDate": "Wed, 10 Jun 2026 10:21:19 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research."
   },
   {
     "id": "https://openai.com/index/lseg",
@@ -1753,50 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Explore 10 practical ChatGPT Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows."
-  },
-  {
-    "id": "https://openai.com/academy/what-is-codex",
-    "title": "What is Codex?",
-    "link": "https://openai.com/academy/what-is-codex",
-    "pubDate": "Thu, 23 Apr 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards."
-  },
-  {
-    "id": "https://huggingface.co/blog/transformersjs-chrome-extension",
-    "title": "How to Use Transformers.js in a Chrome Extension",
-    "link": "https://huggingface.co/blog/transformersjs-chrome-extension",
-    "pubDate": "Thu, 23 Apr 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
-    "title": "GPT-5.5 Bio Bug Bounty",
-    "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
-    "pubDate": "Thu, 23 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3115489",
-    "title": "Hands on with X’s new AI-powered custom feeds",
-    "link": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
-    "pubDate": "Wed, 22 Apr 2026 22:25:53 +0000",
-    "source": "TechCrunch - xAI",
-    "category": "Grok",
-    "summary": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots."
-  },
-  {
-    "id": "https://openai.com/index/making-chatgpt-better-for-clinicians",
-    "title": "Making ChatGPT better for clinicians",
-    "link": "https://openai.com/index/making-chatgpt-better-for-clinicians",
-    "pubDate": "Wed, 22 Apr 2026 15:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research."
   }
 ]

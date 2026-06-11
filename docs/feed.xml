@@ -5,9 +5,18 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 11 Jun 2026 03:53:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 11:48:55 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Anthropic taps TCS to scale its enterprise AI deployments]]></title>
+      <link>https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/</link>
+      <guid>https://techcrunch.com/?p=3132066</guid>
+      <pubDate>Thu, 11 Jun 2026 11:48:55 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[The partnership will see TCS creating a business unit focused on deploying Anthropic's AI models to its customers.]]></description>
+      <source url="https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/">TechCrunch - Anthropic</source>
+    </item>
     <item>
       <title><![CDATA[Anthropic’s Dario Amodei has just one direct report]]></title>
       <link>https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/</link>
@@ -16,6 +25,33 @@
       <category>Claude</category>
       <description><![CDATA[If you doubted his genius, doubt no more.]]></description>
       <source url="https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI to acquire Ona]]></title>
+      <link>https://openai.com/index/openai-to-acquire-ona</link>
+      <guid>https://openai.com/index/openai-to-acquire-ona</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.]]></description>
+      <source url="https://openai.com/index/openai-to-acquire-ona">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[BBVA puts AI at the core of banking with OpenAI]]></title>
+      <link>https://openai.com/index/bbva</link>
+      <guid>https://openai.com/index/bbva</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.]]></description>
+      <source url="https://openai.com/index/bbva">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP]]></title>
+      <link>https://huggingface.co/blog/torch-mlp-fusion</link>
+      <guid>https://huggingface.co/blog/torch-mlp-fusion</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/torch-mlp-fusion">Hugging Face Blog</source>
     </item>
     <item>
       <title><![CDATA[Supporting Europe’s work in ensuring a trustworthy AI ecosystem ]]></title>
@@ -79,6 +115,15 @@
       <category>ChatGPT</category>
       <description><![CDATA[A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT.]]></description>
       <source url="https://openai.com/index/prc-linked-influence-operations-ai-debates">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Investing in multi-agent AI safety research]]></title>
+      <link>https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/</link>
+      <guid>https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/</guid>
+      <pubDate>Wed, 10 Jun 2026 10:21:19 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[Google DeepMind and partners announce a $10M funding call for multi-agent safety research.]]></description>
+      <source url="https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/">Google DeepMind Blog</source>
     </item>
     <item>
       <title><![CDATA[From data to decisions: how LSEG is scaling trusted AI]]></title>
@@ -412,51 +457,6 @@
       <category>Claude</category>
       <description><![CDATA[Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.]]></description>
       <source url="https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries]]></title>
-      <link>https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/</link>
-      <guid>https://techcrunch.com/?p=3128586</guid>
-      <pubDate>Tue, 02 Jun 2026 14:44:21 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthc]]></description>
-      <source url="https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Holo3.1: Fast & Local Computer Use Agents]]></title>
-      <link>https://huggingface.co/blog/Hcompany/holo31</link>
-      <guid>https://huggingface.co/blog/Hcompany/holo31</guid>
-      <pubDate>Tue, 02 Jun 2026 14:13:23 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/Hcompany/holo31">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Travelers deploys AI-powered claims countrywide with OpenAI]]></title>
-      <link>https://openai.com/index/travelers</link>
-      <guid>https://openai.com/index/travelers</guid>
-      <pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.]]></description>
-      <source url="https://openai.com/index/travelers">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Codex for every role, tool, and workflow]]></title>
-      <link>https://openai.com/index/codex-for-every-role-tool-workflow</link>
-      <guid>https://openai.com/index/codex-for-every-role-tool-workflow</guid>
-      <pubDate>Tue, 02 Jun 2026 09:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.]]></description>
-      <source url="https://openai.com/index/codex-for-every-role-tool-workflow">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Advancing youth safety and opportunity through global leadership]]></title>
-      <link>https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership</link>
-      <guid>https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership</guid>
-      <pubDate>Tue, 02 Jun 2026 07:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.]]></description>
-      <source url="https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
