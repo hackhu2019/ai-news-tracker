@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
+  },
+  {
+    "id": "https://openai.com/index/openai-on-oracle-cloud",
+    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+    "link": "https://openai.com/index/openai-on-oracle-cloud",
+    "pubDate": "Wed, 10 Jun 2026 20:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance."
+  },
+  {
+    "id": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "title": "DiffusionGemma: 4x faster text generation",
+    "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "pubDate": "Wed, 10 Jun 2026 16:24:11 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+    "title": "PRC-linked influence operations are targeting AI debates in the US",
+    "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+    "pubDate": "Wed, 10 Jun 2026 12:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT."
+  },
+  {
     "id": "https://openai.com/index/lseg",
     "title": "From data to decisions: how LSEG is scaling trusted AI",
     "link": "https://openai.com/index/lseg",
@@ -1762,41 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows."
-  },
-  {
-    "id": "https://openai.com/index/equip-responses-api-computer-environment",
-    "title": "From model to agent: Equipping the Responses API with a computer environment ",
-    "link": "https://openai.com/index/equip-responses-api-computer-environment",
-    "pubDate": "Wed, 11 Mar 2026 11:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state."
-  },
-  {
-    "id": "https://openai.com/index/rakuten",
-    "title": "Rakuten fixes issues twice as fast with Codex",
-    "link": "https://openai.com/index/rakuten",
-    "pubDate": "Wed, 11 Mar 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/wayfair",
-    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-    "link": "https://openai.com/index/wayfair",
-    "pubDate": "Wed, 11 Mar 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale."
-  },
-  {
-    "id": "https://openai.com/index/instruction-hierarchy-challenge",
-    "title": "Improving instruction hierarchy in frontier LLMs",
-    "link": "https://openai.com/index/instruction-hierarchy-challenge",
-    "pubDate": "Tue, 10 Mar 2026 11:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks."
   }
 ]
