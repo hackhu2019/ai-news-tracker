@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3132054",
+    "title": "Anthropic’s Dario Amodei has just one direct report",
+    "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+    "pubDate": "Thu, 11 Jun 2026 03:53:06 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "If you doubted his genius, doubt no more."
+  },
+  {
     "id": "https://openai.com/index/using-codex-to-simulate-black-holes",
     "title": "How an astrophysicist uses Codex to help simulate black holes",
     "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
@@ -1143,6 +1152,15 @@
     "summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal."
   },
   {
+    "id": "https://techcrunch.com/?p=3119749",
+    "title": "DeepSeek could hit $45B valuation from its first investment round",
+    "link": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+    "pubDate": "Wed, 06 May 2026 17:20:34 +0000",
+    "source": "TechCrunch - DeepSeek",
+    "category": "China AI",
+    "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like tho"
+  },
+  {
     "id": "https://deepmind.google/blog/alphaevolve-impact/",
     "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
     "link": "https://deepmind.google/blog/alphaevolve-impact/",
@@ -1384,6 +1402,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3116123",
+    "title": "DeepSeek previews new AI model that ‘closes the gap’ with frontier models",
+    "link": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
+    "pubDate": "Fri, 24 Apr 2026 13:30:59 +0000",
+    "source": "TechCrunch - DeepSeek",
+    "category": "China AI",
+    "summary": "DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current leading models, both open and closed, on"
   },
   {
     "id": "https://openai.com/index/gpt-5-5-system-card",
@@ -1647,6 +1674,78 @@
     "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security."
   },
   {
+    "id": "https://openai.com/academy/applications-of-ai",
+    "title": "Applications of AI at OpenAI",
+    "link": "https://openai.com/academy/applications-of-ai",
+    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks."
+  },
+  {
+    "id": "https://openai.com/academy/responsible-and-safe-use",
+    "title": "Responsible and safe use of AI ",
+    "link": "https://openai.com/academy/responsible-and-safe-use",
+    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT."
+  },
+  {
+    "id": "https://openai.com/academy/writing",
+    "title": "Writing with ChatGPT",
+    "link": "https://openai.com/academy/writing",
+    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent."
+  },
+  {
+    "id": "https://openai.com/academy/brainstorming",
+    "title": "Brainstorming with ChatGPT",
+    "link": "https://openai.com/academy/brainstorming",
+    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans."
+  },
+  {
+    "id": "https://openai.com/academy/prompting",
+    "title": "Prompting fundamentals",
+    "link": "https://openai.com/academy/prompting",
+    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT."
+  },
+  {
+    "id": "https://openai.com/academy/data-analysis",
+    "title": "Analyzing data with ChatGPT",
+    "link": "https://openai.com/academy/data-analysis",
+    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions."
+  },
+  {
+    "id": "https://openai.com/academy/marketing",
+    "title": "ChatGPT for marketing teams",
+    "link": "https://openai.com/academy/marketing",
+    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster."
+  },
+  {
+    "id": "https://openai.com/academy/skills",
+    "title": "Using skills",
+    "link": "https://openai.com/academy/skills",
+    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs."
+  },
+  {
     "id": "https://openai.com/academy/finance",
     "title": "ChatGPT for finance teams",
     "link": "https://openai.com/academy/finance",
@@ -1699,104 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools."
-  },
-  {
-    "id": "https://openai.com/academy/sales",
-    "title": "ChatGPT for sales teams",
-    "link": "https://openai.com/academy/sales",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how sales teams use ChatGPT to research accounts, personalize outreach, manage deals, and improve pipeline and conversion."
-  },
-  {
-    "id": "https://openai.com/academy/personalization",
-    "title": "Personalizing ChatGPT",
-    "link": "https://openai.com/academy/personalization",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how to personalize ChatGPT using custom instructions and memory to get more relevant, consistent, and tailored responses."
-  },
-  {
-    "id": "https://openai.com/academy/research",
-    "title": "ChatGPT for research",
-    "link": "https://openai.com/academy/research",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights."
-  },
-  {
-    "id": "https://openai.com/academy/operations",
-    "title": "ChatGPT for operations teams",
-    "link": "https://openai.com/academy/operations",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution."
-  },
-  {
-    "id": "https://openai.com/academy/customer-success",
-    "title": "ChatGPT for customer success teams",
-    "link": "https://openai.com/academy/customer-success",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals."
-  },
-  {
-    "id": "https://openai.com/academy/projects",
-    "title": "Using projects in ChatGPT",
-    "link": "https://openai.com/academy/projects",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how to use projects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively."
-  },
-  {
-    "id": "https://openai.com/academy/working-with-files",
-    "title": "Working with files in ChatGPT",
-    "link": "https://openai.com/academy/working-with-files",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more."
-  },
-  {
-    "id": "https://openai.com/academy/custom-gpts",
-    "title": "Using custom GPTs",
-    "link": "https://openai.com/academy/custom-gpts",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants."
-  },
-  {
-    "id": "https://openai.com/academy/getting-started",
-    "title": "Getting started with ChatGPT",
-    "link": "https://openai.com/academy/getting-started",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI."
-  },
-  {
-    "id": "https://openai.com/academy/image-generation",
-    "title": "Creating images with ChatGPT",
-    "link": "https://openai.com/academy/image-generation",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes."
-  },
-  {
-    "id": "https://openai.com/academy/what-is-ai",
-    "title": "AI fundamentals",
-    "link": "https://openai.com/academy/what-is-ai",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence."
   }
 ]

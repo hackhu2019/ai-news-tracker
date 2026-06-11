@@ -178,6 +178,11 @@ h1 {
   color: #166534;
 }
 
+.category-China-AI {
+  background: #fef2f2;
+  color: #b91c1c;
+}
+
 .date {
   color: var(--text-secondary);
   font-size: 0.85rem;

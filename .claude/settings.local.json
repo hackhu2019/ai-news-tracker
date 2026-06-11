@@ -28,7 +28,8 @@
       "Bash(git pull *)",
       "Bash(git stash *)",
       "Bash(git checkout *)",
-      "Bash(git rebase *)"
+      "Bash(git rebase *)",
+      "Bash(curl -I https://github.com/QwenLM/Qwen/releases.atom)"
     ]
   }
 }

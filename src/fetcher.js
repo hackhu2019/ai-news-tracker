@@ -40,6 +40,11 @@ const SOURCES = [
     category: 'Mistral'
   },
   {
+    name: 'TechCrunch - DeepSeek',
+    url: 'https://techcrunch.com/tag/deepseek/feed/',
+    category: 'China AI'
+  },
+  {
     name: 'Hugging Face Blog',
     url: 'https://huggingface.co/blog/feed.xml',
     category: 'Open Source'
