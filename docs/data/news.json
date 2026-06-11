@@ -9,6 +9,15 @@
     "summary": "If you doubted his genius, doubt no more."
   },
   {
+    "id": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
+    "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
+  },
+  {
     "id": "https://openai.com/index/using-codex-to-simulate-black-holes",
     "title": "How an astrophysicist uses Codex to help simulate black holes",
     "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
@@ -90,6 +99,15 @@
     "summary": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders."
   },
   {
+    "id": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+    "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+    "link": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+    "pubDate": "Tue, 09 Jun 2026 19:38:28 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/?p=3131308",
     "title": "Can tech companies learn to love cheaper AI models? ",
     "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
@@ -106,6 +124,15 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology."
+  },
+  {
+    "id": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+    "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+    "link": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+    "pubDate": "Tue, 09 Jun 2026 15:56:23 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
   },
   {
     "id": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
@@ -144,6 +171,15 @@
     "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes."
   },
   {
+    "id": "https://huggingface.co/blog/mishig/spaces-agents-md",
+    "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+    "link": "https://huggingface.co/blog/mishig/spaces-agents-md",
+    "pubDate": "Tue, 09 Jun 2026 10:46:19 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://openai.com/index/notion",
     "title": "What Codex unlocks for Notion",
     "link": "https://openai.com/index/notion",
@@ -151,6 +187,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams."
+  },
+  {
+    "id": "https://huggingface.co/blog/github-ci-hf-jobs",
+    "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+    "link": "https://huggingface.co/blog/github-ci-hf-jobs",
+    "pubDate": "Tue, 09 Jun 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
   },
   {
     "id": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
@@ -187,6 +232,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone."
+  },
+  {
+    "id": "https://huggingface.co/blog/openenv-agentic-rl",
+    "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+    "link": "https://huggingface.co/blog/openenv-agentic-rl",
+    "pubDate": "Mon, 08 Jun 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
   },
   {
     "id": "https://openai.com/index/economic-research-exchange",
@@ -234,6 +288,15 @@
     "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory fa"
   },
   {
+    "id": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "pubDate": "Thu, 04 Jun 2026 18:57:45 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://openai.com/index/endava-frontiers",
     "title": "How Endava is redesigning software delivery around AI agents",
     "link": "https://openai.com/index/endava-frontiers",
@@ -250,6 +313,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations."
+  },
+  {
+    "id": "https://huggingface.co/blog/hf-cli-for-agents",
+    "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+    "link": "https://huggingface.co/blog/hf-cli-for-agents",
+    "pubDate": "Thu, 04 Jun 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
   },
   {
     "id": "https://openai.com/index/biodefense-in-the-intelligence-age",
@@ -279,6 +351,15 @@
     "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities."
   },
   {
+    "id": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+    "title": "Direct Preference Optimization Beyond Chatbots",
+    "link": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+    "pubDate": "Wed, 03 Jun 2026 12:55:11 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://openai.com/index/wasmer",
     "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
     "link": "https://openai.com/index/wasmer",
@@ -306,6 +387,15 @@
     "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society."
   },
   {
+    "id": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+    "title": "Adding MCP Tools to Reachy Mini",
+    "link": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+    "pubDate": "Wed, 03 Jun 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/?p=3128791",
     "title": "Uber caps employee AI spending after blowing through budget in 4 months",
     "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
@@ -322,6 +412,15 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthc"
+  },
+  {
+    "id": "https://huggingface.co/blog/Hcompany/holo31",
+    "title": "Holo3.1: Fast & Local Computer Use Agents",
+    "link": "https://huggingface.co/blog/Hcompany/holo31",
+    "pubDate": "Tue, 02 Jun 2026 14:13:23 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
   },
   {
     "id": "https://openai.com/index/travelers",
@@ -378,6 +477,24 @@
     "summary": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models."
   },
   {
+    "id": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+    "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+    "link": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+    "pubDate": "Mon, 01 Jun 2026 15:45:17 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+    "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+    "link": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+    "pubDate": "Mon, 01 Jun 2026 13:51:18 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://openai.com/index/stargate-michigan-data-center",
     "title": "Building the infrastructure for the Intelligence Age in Michigan",
     "link": "https://openai.com/index/stargate-michigan-data-center",
@@ -421,6 +538,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through "
+  },
+  {
+    "id": "https://huggingface.co/blog/torch-profiler",
+    "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+    "link": "https://huggingface.co/blog/torch-profiler",
+    "pubDate": "Fri, 29 May 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
   },
   {
     "id": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
@@ -513,6 +639,24 @@
     "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows."
   },
   {
+    "id": "https://huggingface.co/blog/local-reachy-mini-conversation",
+    "title": "Reachy Mini goes fully local",
+    "link": "https://huggingface.co/blog/local-reachy-mini-conversation",
+    "pubDate": "Wed, 27 May 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/delta-weight-sync",
+    "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+    "link": "https://huggingface.co/blog/delta-weight-sync",
+    "pubDate": "Wed, 27 May 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://openai.com/index/election-safeguards-2026",
     "title": "Election information and safeguards in 2026",
     "link": "https://openai.com/index/election-safeguards-2026",
@@ -529,6 +673,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows."
+  },
+  {
+    "id": "https://huggingface.co/blog/agent-glossary",
+    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+    "link": "https://huggingface.co/blog/agent-glossary",
+    "pubDate": "Mon, 25 May 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
   },
   {
     "id": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
@@ -702,6 +855,15 @@
     "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI."
   },
   {
+    "id": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
+    "link": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "pubDate": "Tue, 19 May 2026 18:38:09 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://openai.com/index/advancing-content-provenance",
     "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
     "link": "https://openai.com/index/advancing-content-provenance",
@@ -711,6 +873,15 @@
     "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media."
   },
   {
+    "id": "https://huggingface.co/blog/ettin-reranker",
+    "title": "Introducing the Ettin Reranker Family",
+    "link": "https://huggingface.co/blog/ettin-reranker",
+    "pubDate": "Tue, 19 May 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
     "title": "Fast-tracking genetic leads to reverse cellular aging",
     "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
@@ -718,6 +889,15 @@
     "source": "Google DeepMind Blog",
     "category": "Gemini",
     "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells."
+  },
+  {
+    "id": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+    "link": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "pubDate": "Mon, 18 May 2026 15:12:46 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
   },
   {
     "id": "https://openai.com/index/dell-codex-enterprise-partnership",
@@ -918,6 +1098,15 @@
     "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia."
   },
   {
+    "id": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+    "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+    "pubDate": "Thu, 14 May 2026 18:55:01 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://openai.com/index/work-with-codex-from-anywhere",
     "title": "Work with Codex from anywhere",
     "link": "https://openai.com/index/work-with-codex-from-anywhere",
@@ -925,6 +1114,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments."
+  },
+  {
+    "id": "https://huggingface.co/blog/continuous_async",
+    "title": "Unlocking asynchronicity in continuous batching",
+    "link": "https://huggingface.co/blog/continuous_async",
+    "pubDate": "Thu, 14 May 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
   },
   {
     "id": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
@@ -1015,6 +1213,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraint"
+  },
+  {
+    "id": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+    "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+    "link": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+    "pubDate": "Mon, 11 May 2026 23:18:26 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
   },
   {
     "id": "https://openai.com/signals/research/2026q1-update",
@@ -1143,6 +1350,15 @@
     "summary": "xAI's real business may be more about building data centers than training AI models."
   },
   {
+    "id": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+    "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+    "link": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+    "pubDate": "Wed, 06 May 2026 19:06:55 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/?p=3119755",
     "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
     "link": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
@@ -1177,6 +1393,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Learn how ChatGPT safeguards your privacy, reduces personal data in training, and gives you control over whether your conversations improve AI models."
+  },
+  {
+    "id": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+    "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+    "link": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+    "pubDate": "Wed, 06 May 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
   },
   {
     "id": "https://openai.com/index/uber",
@@ -1314,6 +1539,15 @@
     "summary": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior."
   },
   {
+    "id": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+    "title": "Granite 4.1 LLMs: How They’re Built",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+    "pubDate": "Wed, 29 Apr 2026 15:01:48 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
     "title": "Building the compute infrastructure for the Intelligence Age",
     "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
@@ -1330,6 +1564,24 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems."
+  },
+  {
+    "id": "https://huggingface.co/blog/inference-providers-deepinfra",
+    "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+    "link": "https://huggingface.co/blog/inference-providers-deepinfra",
+    "pubDate": "Wed, 29 Apr 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+    "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+    "pubDate": "Tue, 28 Apr 2026 15:58:57 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
   },
   {
     "id": "https://openai.com/index/openai-on-aws",
@@ -1377,6 +1629,15 @@
     "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale."
   },
   {
+    "id": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+    "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+    "link": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+    "pubDate": "Mon, 27 Apr 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://openai.com/index/open-source-codex-orchestration-symphony",
     "title": "An open-source spec for orchestration: Symphony",
     "link": "https://openai.com/index/open-source-codex-orchestration-symphony",
@@ -1411,6 +1672,15 @@
     "source": "TechCrunch - DeepSeek",
     "category": "China AI",
     "summary": "DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current leading models, both open and closed, on"
+  },
+  {
+    "id": "https://huggingface.co/blog/deepseekv4",
+    "title": "DeepSeek-V4: a million-token context that agents can actually use",
+    "link": "https://huggingface.co/blog/deepseekv4",
+    "pubDate": "Fri, 24 Apr 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
   },
   {
     "id": "https://openai.com/index/gpt-5-5-system-card",
@@ -1494,6 +1764,15 @@
     "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards."
   },
   {
+    "id": "https://huggingface.co/blog/transformersjs-chrome-extension",
+    "title": "How to Use Transformers.js in a Chrome Extension",
+    "link": "https://huggingface.co/blog/transformersjs-chrome-extension",
+    "pubDate": "Thu, 23 Apr 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
     "title": "GPT-5.5 Bio Bug Bounty",
     "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
@@ -1519,284 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research."
-  },
-  {
-    "id": "https://deepmind.google/blog/decoupled-diloco/",
-    "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
-    "link": "https://deepmind.google/blog/decoupled-diloco/",
-    "pubDate": "Wed, 22 Apr 2026 10:20:03 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-    "title": "Introducing workspace agents in ChatGPT",
-    "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-    "pubDate": "Wed, 22 Apr 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely."
-  },
-  {
-    "id": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-    "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-    "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-    "pubDate": "Wed, 22 Apr 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency."
-  },
-  {
-    "id": "https://openai.com/academy/workspace-agents",
-    "title": "Workspace agents",
-    "link": "https://openai.com/academy/workspace-agents",
-    "pubDate": "Wed, 22 Apr 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations."
-  },
-  {
-    "id": "https://openai.com/index/introducing-openai-privacy-filter",
-    "title": "Introducing OpenAI Privacy Filter",
-    "link": "https://openai.com/index/introducing-openai-privacy-filter",
-    "pubDate": "Wed, 22 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy"
-  },
-  {
-    "id": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
-    "title": "Partnering with industry leaders to accelerate AI transformation",
-    "link": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
-    "pubDate": "Tue, 21 Apr 2026 14:54:15 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world."
-  },
-  {
-    "id": "https://openai.com/index/introducing-chatgpt-images-2-0",
-    "title": "Introducing ChatGPT Images 2.0",
-    "link": "https://openai.com/index/introducing-chatgpt-images-2-0",
-    "pubDate": "Tue, 21 Apr 2026 12:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning."
-  },
-  {
-    "id": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
-    "title": "Scaling Codex to enterprises worldwide",
-    "link": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
-    "pubDate": "Tue, 21 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU."
-  },
-  {
-    "id": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
-    "title": "OpenAI helps Hyatt advance AI among colleagues ",
-    "link": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
-    "pubDate": "Mon, 20 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences."
-  },
-  {
-    "id": "https://openai.com/index/codex-for-almost-everything",
-    "title": "Codex for (almost) everything",
-    "link": "https://openai.com/index/codex-for-almost-everything",
-    "pubDate": "Thu, 16 Apr 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows."
-  },
-  {
-    "id": "https://openai.com/index/introducing-gpt-rosalind",
-    "title": "Introducing GPT-Rosalind for life sciences research",
-    "link": "https://openai.com/index/introducing-gpt-rosalind",
-    "pubDate": "Thu, 16 Apr 2026 01:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows."
-  },
-  {
-    "id": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
-    "title": "Accelerating the cyber defense ecosystem that protects us all",
-    "link": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
-    "pubDate": "Thu, 16 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense."
-  },
-  {
-    "id": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
-    "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-    "link": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
-    "pubDate": "Wed, 15 Apr 2026 16:03:19 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation."
-  },
-  {
-    "id": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-    "title": "The next evolution of the Agents SDK",
-    "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-    "pubDate": "Wed, 15 Apr 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools."
-  },
-  {
-    "id": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
-    "title": "Trusted access for the next era of cyber defense",
-    "link": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
-    "pubDate": "Tue, 14 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance."
-  },
-  {
-    "id": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
-    "title": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
-    "link": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
-    "pubDate": "Mon, 13 Apr 2026 15:52:13 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics."
-  },
-  {
-    "id": "https://openai.com/index/cloudflare-openai-agent-cloud",
-    "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI ",
-    "link": "https://openai.com/index/cloudflare-openai-agent-cloud",
-    "pubDate": "Mon, 13 Apr 2026 06:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security."
-  },
-  {
-    "id": "https://openai.com/academy/applications-of-ai",
-    "title": "Applications of AI at OpenAI",
-    "link": "https://openai.com/academy/applications-of-ai",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks."
-  },
-  {
-    "id": "https://openai.com/academy/responsible-and-safe-use",
-    "title": "Responsible and safe use of AI ",
-    "link": "https://openai.com/academy/responsible-and-safe-use",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT."
-  },
-  {
-    "id": "https://openai.com/academy/writing",
-    "title": "Writing with ChatGPT",
-    "link": "https://openai.com/academy/writing",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent."
-  },
-  {
-    "id": "https://openai.com/academy/brainstorming",
-    "title": "Brainstorming with ChatGPT",
-    "link": "https://openai.com/academy/brainstorming",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans."
-  },
-  {
-    "id": "https://openai.com/academy/prompting",
-    "title": "Prompting fundamentals",
-    "link": "https://openai.com/academy/prompting",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT."
-  },
-  {
-    "id": "https://openai.com/academy/data-analysis",
-    "title": "Analyzing data with ChatGPT",
-    "link": "https://openai.com/academy/data-analysis",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions."
-  },
-  {
-    "id": "https://openai.com/academy/marketing",
-    "title": "ChatGPT for marketing teams",
-    "link": "https://openai.com/academy/marketing",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster."
-  },
-  {
-    "id": "https://openai.com/academy/skills",
-    "title": "Using skills",
-    "link": "https://openai.com/academy/skills",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs."
-  },
-  {
-    "id": "https://openai.com/academy/finance",
-    "title": "ChatGPT for finance teams",
-    "link": "https://openai.com/academy/finance",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly."
-  },
-  {
-    "id": "https://openai.com/academy/financial-services",
-    "title": "Financial services",
-    "link": "https://openai.com/academy/financial-services",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely."
-  },
-  {
-    "id": "https://openai.com/academy/managers",
-    "title": "ChatGPT for managers",
-    "link": "https://openai.com/academy/managers",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness."
-  },
-  {
-    "id": "https://openai.com/academy/search-and-deep-research",
-    "title": "Research with ChatGPT",
-    "link": "https://openai.com/academy/search-and-deep-research",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights."
-  },
-  {
-    "id": "https://openai.com/index/axios-developer-tool-compromise",
-    "title": "Our response to the Axios developer tool compromise",
-    "link": "https://openai.com/index/axios-developer-tool-compromise",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised."
-  },
-  {
-    "id": "https://openai.com/academy/healthcare",
-    "title": "Healthcare",
-    "link": "https://openai.com/academy/healthcare",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools."
   }
 ]
