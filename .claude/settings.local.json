@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(node *)",
+      "WebSearch",
+      "WebFetch(domain:www.anthropic.com)",
+      "Bash(npx serve *)",
+      "Bash(curl -s http://localhost:3000)",
+      "Bash(lsof *)",
+      "Bash(python3 -m http.server 8000 --directory docs)",
+      "Bash(curl -s http://localhost:8000)",
+      "Bash(ln *)",
+      "Bash(curl -s http://localhost:8000/data/news.json)",
+      "Bash(git init *)",
+      "Bash(git add *)"
+    ]
+  }
+}

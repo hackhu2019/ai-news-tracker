@@ -1,0 +1,16 @@
+{
+  "name": "ai-news-tracker",
+  "version": "1.0.0",
+  "description": "AI 动态追踪服务 - 自动获取 Claude、ChatGPT 等模型更新",
+  "type": "module",
+  "scripts": {
+    "fetch": "node src/fetcher.js",
+    "preview": "npx serve docs"
+  },
+  "keywords": ["ai", "news", "claude", "chatgpt", "tracker"],
+  "author": "stormzhang",
+  "license": "MIT",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

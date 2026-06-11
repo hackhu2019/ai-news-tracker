@@ -1,0 +1,40 @@
+name: Fetch AI News
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # 每6小时运行一次
+  workflow_dispatch:        # 支持手动触发
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Fetch news
+        run: node src/fetcher.js
+
+      - name: Sync data to docs
+        run: cp data/news.json docs/data/news.json
+
+      - name: Commit and push
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add data/news.json docs/data/news.json
+          git diff --quiet && git diff --staged --quiet || (
+            git commit -m "Update news: $(date +'%Y-%m-%d %H:%M UTC')"
+            git push
+          )
