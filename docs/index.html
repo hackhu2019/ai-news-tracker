@@ -13,12 +13,18 @@
       <h1>🤖 AI 动态追踪</h1>
       <p class="subtitle">实时追踪 Claude、ChatGPT、Gemini 等一流模型的最新动态</p>
 
+      <div class="stats">
+        <span id="total-count">加载中...</span>
+        <span id="last-update">最后更新: --</span>
+      </div>
+
       <div class="filters">
         <button class="filter-btn active" data-category="all">全部</button>
         <button class="filter-btn" data-category="ChatGPT">ChatGPT</button>
         <button class="filter-btn" data-category="Claude">Claude</button>
         <button class="filter-btn" data-category="Gemini">Gemini</button>
         <button class="filter-btn" data-category="Grok">Grok</button>
+        <button class="filter-btn" data-category="Mistral">Mistral</button>
         <button class="filter-btn" data-category="Open Source">开源模型</button>
       </div>
 
@@ -35,7 +41,11 @@
   </div>
 
   <footer>
-    <p>数据每 6 小时自动更新 | <a href="https://github.com" target="_blank">GitHub</a></p>
+    <p>
+      数据每 6 小时自动更新 |
+      <a href="feed.xml" target="_blank">RSS 订阅</a> |
+      <a href="https://github.com/hackhu2019/ai-news-tracker" target="_blank">GitHub</a>
+    </p>
   </footer>
 
   <script src="app.js"></script>

@@ -35,6 +35,11 @@ const SOURCES = [
     category: 'Grok'
   },
   {
+    name: 'TechCrunch - Mistral AI',
+    url: 'https://techcrunch.com/tag/mistral-ai/feed/',
+    category: 'Mistral'
+  },
+  {
     name: 'Hugging Face Blog',
     url: 'https://huggingface.co/blog/feed.xml',
     category: 'Open Source'

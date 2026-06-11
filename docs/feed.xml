@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI 动态追踪</title>
+    <link>https://hackhu2019.github.io/ai-news-tracker/</link>
+    <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 11 Jun 2026 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title><![CDATA[How an astrophysicist uses Codex to help simulate black holes]]></title>
+      <link>https://openai.com/index/using-codex-to-simulate-black-holes</link>
+      <guid>https://openai.com/index/using-codex-to-simulate-black-holes</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.]]></description>
+      <source url="https://openai.com/index/using-codex-to-simulate-black-holes">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims]]></title>
+      <link>https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/</link>
+      <guid>https://techcrunch.com/?p=3131988</guid>
+      <pubDate>Wed, 10 Jun 2026 22:31:19 +0000</pubDate>
+      <category>Grok</category>
+      <description><![CDATA[A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.]]></description>
+      <source url="https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/">TechCrunch - xAI</source>
+    </item>
+    <item>
+      <title><![CDATA[Access OpenAI models and Codex through your Oracle cloud commitment]]></title>
+      <link>https://openai.com/index/openai-on-oracle-cloud</link>
+      <guid>https://openai.com/index/openai-on-oracle-cloud</guid>
+      <pubDate>Wed, 10 Jun 2026 20:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.]]></description>
+      <source url="https://openai.com/index/openai-on-oracle-cloud">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[DiffusionGemma: 4x faster text generation]]></title>
+      <link>https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/</link>
+      <guid>https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/</guid>
+      <pubDate>Wed, 10 Jun 2026 16:24:11 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[]]></description>
+      <source url="https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/">Google DeepMind Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable]]></title>
+      <link>https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/</link>
+      <guid>https://techcrunch.com/?p=3131724</guid>
+      <pubDate>Wed, 10 Jun 2026 15:41:22 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.]]></description>
+      <source url="https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[PRC-linked influence operations are targeting AI debates in the US]]></title>
+      <link>https://openai.com/index/prc-linked-influence-operations-ai-debates</link>
+      <guid>https://openai.com/index/prc-linked-influence-operations-ai-debates</guid>
+      <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT.]]></description>
+      <source url="https://openai.com/index/prc-linked-influence-operations-ai-debates">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[From data to decisions: how LSEG is scaling trusted AI]]></title>
+      <link>https://openai.com/index/lseg</link>
+      <guid>https://openai.com/index/lseg</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.]]></description>
+      <source url="https://openai.com/index/lseg">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund]]></title>
+      <link>https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/</link>
+      <guid>https://techcrunch.com/?p=3131312</guid>
+      <pubDate>Tue, 09 Jun 2026 23:17:51 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.]]></description>
+      <source url="https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic’s Fable 5 can make weirdly fun video games with the click of a button]]></title>
+      <link>https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/</link>
+      <guid>https://techcrunch.com/?p=3131281</guid>
+      <pubDate>Tue, 09 Jun 2026 20:37:49 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.]]></description>
+      <source url="https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Can tech companies learn to love cheaper AI models? ]]></title>
+      <link>https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/</link>
+      <guid>https://techcrunch.com/?p=3131308</guid>
+      <pubDate>Tue, 09 Jun 2026 18:56:09 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.]]></description>
+      <source url="https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic’s Claude Fable 5 is a version of Mythos the public can access today]]></title>
+      <link>https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/</link>
+      <guid>https://techcrunch.com/?p=3131081</guid>
+      <pubDate>Tue, 09 Jun 2026 17:00:00 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.]]></description>
+      <source url="https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Fluid, natural voice translation with Gemini 3.5 Live Translate]]></title>
+      <link>https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/</link>
+      <guid>https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/</guid>
+      <pubDate>Tue, 09 Jun 2026 15:16:25 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.]]></description>
+      <source url="https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/">Google DeepMind Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Introducing Gemma 4 12B: a unified, encoder-free multimodal model]]></title>
+      <link>https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/</link>
+      <guid>https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/</guid>
+      <pubDate>Tue, 09 Jun 2026 14:10:19 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[]]></description>
+      <source url="https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/">Google DeepMind Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Powering the future of robotics in Europe]]></title>
+      <link>https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/</link>
+      <guid>https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/</guid>
+      <pubDate>Tue, 09 Jun 2026 14:02:33 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[]]></description>
+      <source url="https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/">Google DeepMind Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[How engineers at Nextdoor use Codex to build without limits]]></title>
+      <link>https://openai.com/index/nextdoor</link>
+      <guid>https://openai.com/index/nextdoor</guid>
+      <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.]]></description>
+      <source url="https://openai.com/index/nextdoor">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[What Codex unlocks for Notion]]></title>
+      <link>https://openai.com/index/notion</link>
+      <guid>https://openai.com/index/notion</guid>
+      <pubDate>Tue, 09 Jun 2026 10:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.]]></description>
+      <source url="https://openai.com/index/notion">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Industrial policy for the Intelligence Age]]></title>
+      <link>https://openai.com/index/industrial-policy-for-the-intelligence-age</link>
+      <guid>https://openai.com/index/industrial-policy-for-the-intelligence-age</guid>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.]]></description>
+      <source url="https://openai.com/index/industrial-policy-for-the-intelligence-age">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Confidential submission of draft S-1 to the SEC]]></title>
+      <link>https://openai.com/index/openai-submits-confidential-s-1</link>
+      <guid>https://openai.com/index/openai-submits-confidential-s-1</guid>
+      <pubDate>Mon, 08 Jun 2026 14:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.]]></description>
+      <source url="https://openai.com/index/openai-submits-confidential-s-1">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Measuring the impact of learning with AI in Sierra Leone and beyond]]></title>
+      <link>https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/</link>
+      <guid>https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/</guid>
+      <pubDate>Mon, 08 Jun 2026 13:04:59 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.]]></description>
+      <source url="https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/">Google DeepMind Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Built to benefit everyone: our plan]]></title>
+      <link>https://openai.com/index/built-to-benefit-everyone-our-plan</link>
+      <guid>https://openai.com/index/built-to-benefit-everyone-our-plan</guid>
+      <pubDate>Mon, 08 Jun 2026 01:30:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.]]></description>
+      <source url="https://openai.com/index/built-to-benefit-everyone-our-plan">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Introducing the OpenAI Economic Research Exchange]]></title>
+      <link>https://openai.com/index/economic-research-exchange</link>
+      <guid>https://openai.com/index/economic-research-exchange</guid>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.]]></description>
+      <source url="https://openai.com/index/economic-research-exchange">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Is this the dawn of the Tokenpocalypse?]]></title>
+      <link>https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/</link>
+      <guid>https://techcrunch.com/?p=3130284</guid>
+      <pubDate>Sun, 07 Jun 2026 20:26:13 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[We're likely to see more price increases as the big AI companies plan to go public.]]></description>
+      <source url="https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Notion restores access to Anthropic after service disruption]]></title>
+      <link>https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/</link>
+      <guid>https://techcrunch.com/?p=3130281</guid>
+      <pubDate>Sun, 07 Jun 2026 17:56:22 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Notion's head of product said he was "astonished" at “the amount of people RT-ing this."]]></description>
+      <source url="https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[NSA said to be readying Anthropic’s Mythos for use in cyber operations]]></title>
+      <link>https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/</link>
+      <guid>https://techcrunch.com/?p=3129906</guid>
+      <pubDate>Fri, 05 Jun 2026 14:32:57 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[The U.S. eavesdropping agency is reportedly preparing Anthropic's Mythos for use in cyberattacks, despite a federal ban on using the AI model maker.]]></description>
+      <source url="https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns]]></title>
+      <link>https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/</link>
+      <guid>https://techcrunch.com/?p=3129760</guid>
+      <pubDate>Thu, 04 Jun 2026 22:43:26 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory fa]]></description>
+      <source url="https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[How Endava is redesigning software delivery around AI agents]]></title>
+      <link>https://openai.com/index/endava-frontiers</link>
+      <guid>https://openai.com/index/endava-frontiers</guid>
+      <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.]]></description>
+      <source url="https://openai.com/index/endava-frontiers">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Dreaming: Better memory for a more helpful ChatGPT]]></title>
+      <link>https://openai.com/index/chatgpt-memory-dreaming</link>
+      <guid>https://openai.com/index/chatgpt-memory-dreaming</guid>
+      <pubDate>Thu, 04 Jun 2026 09:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.]]></description>
+      <source url="https://openai.com/index/chatgpt-memory-dreaming">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Biodefense in the Intelligence Age]]></title>
+      <link>https://openai.com/index/biodefense-in-the-intelligence-age</link>
+      <guid>https://openai.com/index/biodefense-in-the-intelligence-age</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[An action plan for AI-powered biological resilience]]></description>
+      <source url="https://openai.com/index/biodefense-in-the-intelligence-age">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Lovable signs multiyear deal with Google Cloud to up usage 5x, source says]]></title>
+      <link>https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/</link>
+      <guid>https://techcrunch.com/?p=3129396</guid>
+      <pubDate>Wed, 03 Jun 2026 22:56:51 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.]]></description>
+      <source url="https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Introducing new capabilities to GPT-Rosalind]]></title>
+      <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind</link>
+      <guid>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind</guid>
+      <pubDate>Wed, 03 Jun 2026 13:15:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.]]></description>
+      <source url="https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[How Wasmer used Codex to build a Node.js runtime for the edge]]></title>
+      <link>https://openai.com/index/wasmer</link>
+      <guid>https://openai.com/index/wasmer</guid>
+      <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.]]></description>
+      <source url="https://openai.com/index/wasmer">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[A blueprint for democratic governance of frontier AI]]></title>
+      <link>https://openai.com/index/frontier-safety-blueprint</link>
+      <guid>https://openai.com/index/frontier-safety-blueprint</guid>
+      <pubDate>Wed, 03 Jun 2026 10:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.]]></description>
+      <source url="https://openai.com/index/frontier-safety-blueprint">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI public policy agenda]]></title>
+      <link>https://openai.com/index/public-policy-agenda</link>
+      <guid>https://openai.com/index/public-policy-agenda</guid>
+      <pubDate>Wed, 03 Jun 2026 10:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.]]></description>
+      <source url="https://openai.com/index/public-policy-agenda">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Uber caps employee AI spending after blowing through budget in 4 months]]></title>
+      <link>https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/</link>
+      <guid>https://techcrunch.com/?p=3128791</guid>
+      <pubDate>Tue, 02 Jun 2026 19:11:48 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.]]></description>
+      <source url="https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries]]></title>
+      <link>https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/</link>
+      <guid>https://techcrunch.com/?p=3128586</guid>
+      <pubDate>Tue, 02 Jun 2026 14:44:21 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthc]]></description>
+      <source url="https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Travelers deploys AI-powered claims countrywide with OpenAI]]></title>
+      <link>https://openai.com/index/travelers</link>
+      <guid>https://openai.com/index/travelers</guid>
+      <pubDate>Tue, 02 Jun 2026 12:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.]]></description>
+      <source url="https://openai.com/index/travelers">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Codex for every role, tool, and workflow]]></title>
+      <link>https://openai.com/index/codex-for-every-role-tool-workflow</link>
+      <guid>https://openai.com/index/codex-for-every-role-tool-workflow</guid>
+      <pubDate>Tue, 02 Jun 2026 09:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.]]></description>
+      <source url="https://openai.com/index/codex-for-every-role-tool-workflow">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Advancing youth safety and opportunity through global leadership]]></title>
+      <link>https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership</link>
+      <guid>https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership</guid>
+      <pubDate>Tue, 02 Jun 2026 07:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.]]></description>
+      <source url="https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Codex is becoming a productivity tool for everyone]]></title>
+      <link>https://openai.com/index/codex-for-knowledge-work</link>
+      <guid>https://openai.com/index/codex-for-knowledge-work</guid>
+      <pubDate>Tue, 02 Jun 2026 02:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.]]></description>
+      <source url="https://openai.com/index/codex-for-knowledge-work">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Our views on AI policy and political advocacy]]></title>
+      <link>https://openai.com/index/our-views-on-ai-policy-and-political-advocacy</link>
+      <guid>https://openai.com/index/our-views-on-ai-policy-and-political-advocacy</guid>
+      <pubDate>Mon, 01 Jun 2026 17:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.]]></description>
+      <source url="https://openai.com/index/our-views-on-ai-policy-and-political-advocacy">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic files to go public]]></title>
+      <link>https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/</link>
+      <guid>https://techcrunch.com/?p=3128178</guid>
+      <pubDate>Mon, 01 Jun 2026 16:36:55 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models.]]></description>
+      <source url="https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Building the infrastructure for the Intelligence Age in Michigan]]></title>
+      <link>https://openai.com/index/stargate-michigan-data-center</link>
+      <guid>https://openai.com/index/stargate-michigan-data-center</guid>
+      <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.]]></description>
+      <source url="https://openai.com/index/stargate-michigan-data-center">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI frontier models and Codex are now available on AWS]]></title>
+      <link>https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws</link>
+      <guid>https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws</guid>
+      <pubDate>Mon, 01 Jun 2026 10:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already u]]></description>
+      <source url="https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Boston Children’s uses AI to unlock new diagnoses]]></title>
+      <link>https://openai.com/index/boston-childrens-hospital</link>
+      <guid>https://openai.com/index/boston-childrens-hospital</guid>
+      <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.]]></description>
+      <source url="https://openai.com/index/boston-childrens-hospital">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[How Braintrust turns customer requests into code with Codex]]></title>
+      <link>https://openai.com/index/braintrust</link>
+      <guid>https://openai.com/index/braintrust</guid>
+      <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.]]></description>
+      <source url="https://openai.com/index/braintrust">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Strengthening societal resilience with Rosalind Biodefense]]></title>
+      <link>https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense</link>
+      <guid>https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense</guid>
+      <pubDate>Fri, 29 May 2026 03:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through ]]></description>
+      <source url="https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[A shared playbook for trustworthy third party evaluations]]></title>
+      <link>https://openai.com/index/trustworthy-third-party-evaluations-foundations</link>
+      <guid>https://openai.com/index/trustworthy-third-party-evaluations-foundations</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.]]></description>
+      <source url="https://openai.com/index/trustworthy-third-party-evaluations-foundations">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic raises $65 billion, nears $1T valuation ahead of IPO]]></title>
+      <link>https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/</link>
+      <guid>https://techcrunch.com/?p=3127386</guid>
+      <pubDate>Thu, 28 May 2026 18:52:51 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.]]></description>
+      <source url="https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool]]></title>
+      <link>https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/</link>
+      <guid>https://techcrunch.com/?p=3127264</guid>
+      <pubDate>Thu, 28 May 2026 17:00:09 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents.]]></description>
+      <source url="https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[How long is Anthropic’s lease with SpaceX? Opinions vary]]></title>
+      <link>https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/</link>
+      <guid>https://techcrunch.com/?p=3127112</guid>
+      <pubDate>Thu, 28 May 2026 15:36:00 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.]]></description>
+      <source url="https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/">TechCrunch - Anthropic</source>
+    </item>
+  </channel>
+</rss>

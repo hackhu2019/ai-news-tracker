@@ -7,10 +7,36 @@ async function loadNews() {
     const response = await fetch('data/news.json');
     allNews = await response.json();
     document.getElementById('loading').style.display = 'none';
+    updateStats();
     renderNews();
   } catch (error) {
     console.error('Failed to load news:', error);
     document.getElementById('loading').textContent = '加载失败，请刷新重试';
+  }
+}
+
+function updateStats() {
+  const totalCount = document.getElementById('total-count');
+  const lastUpdate = document.getElementById('last-update');
+
+  totalCount.textContent = `共 ${allNews.length} 条动态`;
+
+  if (allNews.length > 0) {
+    const latest = new Date(allNews[0].pubDate);
+    const now = new Date();
+    const diffHours = Math.floor((now - latest) / (1000 * 60 * 60));
+
+    let timeText;
+    if (diffHours < 1) {
+      timeText = '刚刚更新';
+    } else if (diffHours < 24) {
+      timeText = `${diffHours} 小时前`;
+    } else {
+      const diffDays = Math.floor(diffHours / 24);
+      timeText = `${diffDays} 天前`;
+    }
+
+    lastUpdate.textContent = `最新动态: ${timeText}`;
   }
 }
 
