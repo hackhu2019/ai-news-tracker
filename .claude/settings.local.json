@@ -13,7 +13,22 @@
       "Bash(ln *)",
       "Bash(curl -s http://localhost:8000/data/news.json)",
       "Bash(git init *)",
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(gh auth *)",
+      "Bash(gh repo *)",
+      "Bash(gh api *)",
+      "Bash(gh workflow *)",
+      "Bash(curl -s https://x.ai/news -I)",
+      "Bash(curl -s https://www.deepseek.com/ -I)",
+      "Bash(curl -s https://qwenlm.github.io/blog/ -I)",
+      "Bash(git push *)",
+      "Bash(git config *)",
+      "Bash(git remote *)",
+      "Bash(git pull *)",
+      "Bash(git stash *)",
+      "Bash(git checkout *)",
+      "Bash(git rebase *)"
     ]
   }
 }

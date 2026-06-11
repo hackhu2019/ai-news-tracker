@@ -9,6 +9,15 @@
     "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
   },
   {
+    "id": "https://techcrunch.com/?p=3131988",
+    "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+    "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+    "pubDate": "Wed, 10 Jun 2026 22:31:19 +0000",
+    "source": "TechCrunch - xAI",
+    "category": "Grok",
+    "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO."
+  },
+  {
     "id": "https://openai.com/index/openai-on-oracle-cloud",
     "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
     "link": "https://openai.com/index/openai-on-oracle-cloud",
@@ -27,6 +36,15 @@
     "summary": ""
   },
   {
+    "id": "https://techcrunch.com/?p=3131724",
+    "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+    "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+    "pubDate": "Wed, 10 Jun 2026 15:41:22 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work."
+  },
+  {
     "id": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
     "title": "PRC-linked influence operations are targeting AI debates in the US",
     "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
@@ -43,6 +61,42 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3131312",
+    "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+    "link": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+    "pubDate": "Tue, 09 Jun 2026 23:17:51 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3131281",
+    "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+    "link": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+    "pubDate": "Tue, 09 Jun 2026 20:37:49 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3131308",
+    "title": "Can tech companies learn to love cheaper AI models? ",
+    "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+    "pubDate": "Tue, 09 Jun 2026 18:56:09 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3131081",
+    "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+    "link": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
+    "pubDate": "Tue, 09 Jun 2026 17:00:00 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology."
   },
   {
     "id": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
@@ -135,6 +189,42 @@
     "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects."
   },
   {
+    "id": "https://techcrunch.com/?p=3130284",
+    "title": "Is this the dawn of the Tokenpocalypse?",
+    "link": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+    "pubDate": "Sun, 07 Jun 2026 20:26:13 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "We're likely to see more price increases as the big AI companies plan to go public."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3130281",
+    "title": "Notion restores access to Anthropic after service disruption",
+    "link": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+    "pubDate": "Sun, 07 Jun 2026 17:56:22 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\""
+  },
+  {
+    "id": "https://techcrunch.com/?p=3129906",
+    "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations",
+    "link": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
+    "pubDate": "Fri, 05 Jun 2026 14:32:57 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "The U.S. eavesdropping agency is reportedly preparing Anthropic's Mythos for use in cyberattacks, despite a federal ban on using the AI model maker."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3129760",
+    "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+    "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+    "pubDate": "Thu, 04 Jun 2026 22:43:26 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory fa"
+  },
+  {
     "id": "https://openai.com/index/endava-frontiers",
     "title": "How Endava is redesigning software delivery around AI agents",
     "link": "https://openai.com/index/endava-frontiers",
@@ -160,6 +250,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "An action plan for AI-powered biological resilience"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3129396",
+    "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+    "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+    "pubDate": "Wed, 03 Jun 2026 22:56:51 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude."
   },
   {
     "id": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
@@ -196,6 +295,24 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3128791",
+    "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+    "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+    "pubDate": "Tue, 02 Jun 2026 19:11:48 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3128586",
+    "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
+    "link": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+    "pubDate": "Tue, 02 Jun 2026 14:44:21 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthc"
   },
   {
     "id": "https://openai.com/index/travelers",
@@ -241,6 +358,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3128178",
+    "title": "Anthropic files to go public",
+    "link": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+    "pubDate": "Mon, 01 Jun 2026 16:36:55 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models."
   },
   {
     "id": "https://openai.com/index/stargate-michigan-data-center",
@@ -295,6 +421,42 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3127386",
+    "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+    "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+    "pubDate": "Thu, 28 May 2026 18:52:51 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3127264",
+    "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
+    "link": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+    "pubDate": "Thu, 28 May 2026 17:00:09 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3127112",
+    "title": "How long is Anthropic’s lease with SpaceX? Opinions vary",
+    "link": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
+    "pubDate": "Thu, 28 May 2026 15:36:00 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3127112",
+    "title": "How long is Anthropic’s lease with SpaceX? Opinions vary",
+    "link": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
+    "pubDate": "Thu, 28 May 2026 15:36:00 +0000",
+    "source": "TechCrunch - xAI",
+    "category": "Grok",
+    "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029."
   },
   {
     "id": "https://openai.com/index/endava",
@@ -369,6 +531,42 @@
     "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency."
   },
   {
+    "id": "https://techcrunch.com/?p=3125639",
+    "title": "TechCrunch Mobility: Robotaxi reality check",
+    "link": "https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/",
+    "pubDate": "Sun, 24 May 2026 16:05:00 +0000",
+    "source": "TechCrunch - xAI",
+    "category": "Grok",
+    "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3125279",
+    "title": "Elon Musk has given up on solar power (on Earth)",
+    "link": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+    "pubDate": "Sat, 23 May 2026 13:00:00 +0000",
+    "source": "TechCrunch - xAI",
+    "category": "Grok",
+    "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?"
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3125546",
+    "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
+    "link": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
+    "pubDate": "Fri, 22 May 2026 18:17:07 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total"
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_video&p=3125550",
+    "title": "SpaceX files to go public, and the math requires a little faith",
+    "link": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
+    "pubDate": "Fri, 22 May 2026 14:30:00 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total"
+  },
+  {
     "id": "https://openai.com/index/virgin-atlantic",
     "title": "How Virgin Atlantic ships faster with Codex",
     "link": "https://openai.com/index/virgin-atlantic",
@@ -396,6 +594,15 @@
     "summary": ""
   },
   {
+    "id": "https://techcrunch.com/?p=3125265",
+    "title": "How Elon Musk will increase his power through the SpaceX IPO",
+    "link": "https://techcrunch.com/2026/05/21/how-elon-musk-will-increase-his-power-through-the-spacex-ipo/",
+    "pubDate": "Thu, 21 May 2026 19:35:21 +0000",
+    "source": "TechCrunch - xAI",
+    "category": "Grok",
+    "summary": "Musk, who will have more than 50% of the voting power, will have a monarchical grip over the publicly-traded version of SpaceX — control that goes far beyond what other tech founders enjoy."
+  },
+  {
     "id": "https://openai.com/index/adventhealth",
     "title": "AdventHealth advances whole-person care with OpenAI",
     "link": "https://openai.com/index/adventhealth",
@@ -403,6 +610,51 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3124883",
+    "title": "Anthropic says it’s about to have its first profitable quarter",
+    "link": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+    "pubDate": "Thu, 21 May 2026 00:21:21 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3124339",
+    "title": "The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center",
+    "link": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
+    "pubDate": "Wed, 20 May 2026 23:03:02 +0000",
+    "source": "TechCrunch - xAI",
+    "category": "Grok",
+    "summary": "SpaceX has finally made the contents of its IPO filing public, weeks ahead of what is expected to be the largest IPO ever and one that will make Musk the CEO, CTO, and chairman of the board."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3124841",
+    "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
+    "link": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
+    "pubDate": "Wed, 20 May 2026 21:55:49 +0000",
+    "source": "TechCrunch - xAI",
+    "category": "Grok",
+    "summary": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3124805",
+    "title": "Anthropic will pay xAI $1.25B per month for compute",
+    "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+    "pubDate": "Wed, 20 May 2026 21:29:22 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3124805",
+    "title": "Anthropic will pay xAI $1.25B per month for compute",
+    "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+    "pubDate": "Wed, 20 May 2026 21:29:22 +0000",
+    "source": "TechCrunch - xAI",
+    "category": "Grok",
+    "summary": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth."
   },
   {
     "id": "https://openai.com/index/the-next-phase-of-education-for-countries",
@@ -639,6 +891,15 @@
     "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goa"
   },
   {
+    "id": "https://techcrunch.com/?p=3122877",
+    "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+    "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+    "pubDate": "Thu, 14 May 2026 21:30:44 +0000",
+    "source": "TechCrunch - xAI",
+    "category": "Grok",
+    "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakene"
+  },
+  {
     "id": "https://openai.com/index/sea-david-chen",
     "title": "Sea's View on the Future of Agentic Software Development with Codex",
     "link": "https://openai.com/index/sea-david-chen",
@@ -666,6 +927,15 @@
     "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely."
   },
   {
+    "id": "https://techcrunch.com/?p=3122344",
+    "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+    "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+    "pubDate": "Wed, 13 May 2026 19:49:42 +0000",
+    "source": "TechCrunch - xAI",
+    "category": "Grok",
+    "summary": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants."
+  },
+  {
     "id": "https://openai.com/index/building-codex-windows-sandbox",
     "title": "Building a safe, effective sandbox to enable Codex on Windows",
     "link": "https://openai.com/index/building-codex-windows-sandbox",
@@ -682,6 +952,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenA"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3121675",
+    "title": "Report: Google and SpaceX in talks to put data centers into orbit",
+    "link": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
+    "pubDate": "Tue, 12 May 2026 17:30:57 +0000",
+    "source": "TechCrunch - xAI",
+    "category": "Grok",
+    "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground."
   },
   {
     "id": "https://openai.com/academy/how-finance-teams-use-codex",
@@ -765,6 +1044,24 @@
     "summary": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact."
   },
   {
+    "id": "https://techcrunch.com/?p=3121081",
+    "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+    "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+    "pubDate": "Sun, 10 May 2026 15:34:25 +0000",
+    "source": "TechCrunch - xAI",
+    "category": "Grok",
+    "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX."
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3120755",
+    "title": "The “people’s airline” and the enterprise AI gold rush",
+    "link": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+    "pubDate": "Fri, 08 May 2026 15:46:17 +0000",
+    "source": "TechCrunch - xAI",
+    "category": "Grok",
+    "summary": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves. From Anthropic and OpenAI announcing new joint ventures targeting enterprise AI deploym"
+  },
+  {
     "id": "https://openai.com/index/running-codex-safely",
     "title": "Running Codex safely at OpenAI",
     "link": "https://openai.com/index/running-codex-safely",
@@ -826,6 +1123,24 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3119918",
+    "title": "Is xAI a neocloud now?",
+    "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+    "pubDate": "Wed, 06 May 2026 21:32:55 +0000",
+    "source": "TechCrunch - xAI",
+    "category": "Grok",
+    "summary": "xAI's real business may be more about building data centers than training AI models."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3119755",
+    "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
+    "link": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
+    "pubDate": "Wed, 06 May 2026 17:23:08 +0000",
+    "source": "TechCrunch - xAI",
+    "category": "Grok",
+    "summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal."
   },
   {
     "id": "https://deepmind.google/blog/alphaevolve-impact/",
@@ -943,6 +1258,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3117901",
+    "title": "X announces a rebuilt ad platform powered by AI",
+    "link": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
+    "pubDate": "Thu, 30 Apr 2026 15:14:55 +0000",
+    "source": "TechCrunch - xAI",
+    "category": "Grok",
+    "summary": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again."
   },
   {
     "id": "https://deepmind.google/blog/ai-co-clinician/",
@@ -1150,6 +1474,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3115489",
+    "title": "Hands on with X’s new AI-powered custom feeds",
+    "link": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+    "pubDate": "Wed, 22 Apr 2026 22:25:53 +0000",
+    "source": "TechCrunch - xAI",
+    "category": "Grok",
+    "summary": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots."
   },
   {
     "id": "https://openai.com/index/making-chatgpt-better-for-clinicians",
@@ -1465,338 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs."
-  },
-  {
-    "id": "https://openai.com/academy/search-and-deep-research",
-    "title": "Research with ChatGPT",
-    "link": "https://openai.com/academy/search-and-deep-research",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights."
-  },
-  {
-    "id": "https://openai.com/academy/managers",
-    "title": "ChatGPT for managers",
-    "link": "https://openai.com/academy/managers",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness."
-  },
-  {
-    "id": "https://openai.com/academy/finance",
-    "title": "ChatGPT for finance teams",
-    "link": "https://openai.com/academy/finance",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly."
-  },
-  {
-    "id": "https://openai.com/academy/financial-services",
-    "title": "Financial services",
-    "link": "https://openai.com/academy/financial-services",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely."
-  },
-  {
-    "id": "https://openai.com/index/axios-developer-tool-compromise",
-    "title": "Our response to the Axios developer tool compromise",
-    "link": "https://openai.com/index/axios-developer-tool-compromise",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised."
-  },
-  {
-    "id": "https://openai.com/academy/healthcare",
-    "title": "Healthcare",
-    "link": "https://openai.com/academy/healthcare",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools."
-  },
-  {
-    "id": "https://openai.com/academy/sales",
-    "title": "ChatGPT for sales teams",
-    "link": "https://openai.com/academy/sales",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how sales teams use ChatGPT to research accounts, personalize outreach, manage deals, and improve pipeline and conversion."
-  },
-  {
-    "id": "https://openai.com/academy/personalization",
-    "title": "Personalizing ChatGPT",
-    "link": "https://openai.com/academy/personalization",
-    "pubDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how to personalize ChatGPT using custom instructions and memory to get more relevant, consistent, and tailored responses."
-  },
-  {
-    "id": "https://openai.com/index/cyberagent",
-    "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
-    "link": "https://openai.com/index/cyberagent",
-    "pubDate": "Thu, 09 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming."
-  },
-  {
-    "id": "https://openai.com/index/next-phase-of-enterprise-ai",
-    "title": "The next phase of enterprise AI",
-    "link": "https://openai.com/index/next-phase-of-enterprise-ai",
-    "pubDate": "Wed, 08 Apr 2026 14:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents."
-  },
-  {
-    "id": "https://openai.com/index/introducing-child-safety-blueprint",
-    "title": "Introducing the Child Safety Blueprint",
-    "link": "https://openai.com/index/introducing-child-safety-blueprint",
-    "pubDate": "Wed, 08 Apr 2026 05:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online."
-  },
-  {
-    "id": "https://openai.com/index/introducing-openai-safety-fellowship",
-    "title": "Announcing the OpenAI Safety Fellowship",
-    "link": "https://openai.com/index/introducing-openai-safety-fellowship",
-    "pubDate": "Mon, 06 Apr 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "A pilot program to support independent safety and alignment research and develop the next generation of talent"
-  },
-  {
-    "id": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
-    "title": "Gemma 4: Byte for byte, the most capable open models",
-    "link": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
-    "pubDate": "Thu, 02 Apr 2026 16:00:49 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows."
-  },
-  {
-    "id": "https://openai.com/index/openai-acquires-tbpn",
-    "title": "OpenAI acquires TBPN",
-    "link": "https://openai.com/index/openai-acquires-tbpn",
-    "pubDate": "Thu, 02 Apr 2026 10:30:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community."
-  },
-  {
-    "id": "https://openai.com/index/codex-flexible-pricing-for-teams",
-    "title": "Codex now offers more flexible pricing for teams",
-    "link": "https://openai.com/index/codex-flexible-pricing-for-teams",
-    "pubDate": "Thu, 02 Apr 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption."
-  },
-  {
-    "id": "https://openai.com/index/gradient-labs",
-    "title": "Gradient Labs gives every bank customer an AI account manager",
-    "link": "https://openai.com/index/gradient-labs",
-    "pubDate": "Wed, 01 Apr 2026 02:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability."
-  },
-  {
-    "id": "https://openai.com/index/accelerating-the-next-phase-ai",
-    "title": "Accelerating the next phase of AI",
-    "link": "https://openai.com/index/accelerating-the-next-phase-ai",
-    "pubDate": "Tue, 31 Mar 2026 13:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI."
-  },
-  {
-    "id": "https://openai.com/index/helping-disaster-response-teams-asia",
-    "title": "Helping disaster response teams turn AI into action across Asia",
-    "link": "https://openai.com/index/helping-disaster-response-teams-asia",
-    "pubDate": "Sun, 29 Mar 2026 22:15:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation"
-  },
-  {
-    "id": "https://deepmind.google/blog/ai-pointer/",
-    "title": "Reimagining the mouse pointer for the AI era",
-    "link": "https://deepmind.google/blog/ai-pointer/",
-    "pubDate": "Sun, 29 Mar 2026 10:50:49 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Google DeepMind is transforming the mouse pointer into a context-aware AI partner. Move beyond the friction of traditional prompting with intuitive AI collaboration in Chrome and beyond."
-  },
-  {
-    "id": "https://openai.com/index/stadler",
-    "title": "STADLER reshapes knowledge work at a 230-year-old company",
-    "link": "https://openai.com/index/stadler",
-    "pubDate": "Fri, 27 Mar 2026 22:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees."
-  },
-  {
-    "id": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
-    "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
-    "link": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
-    "pubDate": "Thu, 26 Mar 2026 15:23:35 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise."
-  },
-  {
-    "id": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
-    "title": "Protecting people from harmful manipulation",
-    "link": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
-    "pubDate": "Wed, 25 Mar 2026 16:46:20 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures."
-  },
-  {
-    "id": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
-    "title": "Lyria 3 Pro: Create longer tracks in more",
-    "link": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
-    "pubDate": "Wed, 25 Mar 2026 16:01:39 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Introducing Lyria 3 Pro, which unlocks longer tracks with structural awareness. We’re also bringing Lyria to more Google products and surfaces."
-  },
-  {
-    "id": "https://openai.com/index/our-approach-to-the-model-spec",
-    "title": "Inside our approach to the Model Spec",
-    "link": "https://openai.com/index/our-approach-to-the-model-spec",
-    "pubDate": "Wed, 25 Mar 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance."
-  },
-  {
-    "id": "https://openai.com/index/safety-bug-bounty",
-    "title": "Introducing the OpenAI Safety Bug Bounty program",
-    "link": "https://openai.com/index/safety-bug-bounty",
-    "pubDate": "Wed, 25 Mar 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration."
-  },
-  {
-    "id": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
-    "title": "Helping developers build safer AI experiences for teens",
-    "link": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
-    "pubDate": "Tue, 24 Mar 2026 11:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems."
-  },
-  {
-    "id": "https://openai.com/index/update-on-the-openai-foundation",
-    "title": "Update on the OpenAI Foundation",
-    "link": "https://openai.com/index/update-on-the-openai-foundation",
-    "pubDate": "Tue, 24 Mar 2026 09:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs."
-  },
-  {
-    "id": "https://openai.com/index/powering-product-discovery-in-chatgpt",
-    "title": "Powering product discovery in ChatGPT",
-    "link": "https://openai.com/index/powering-product-discovery-in-chatgpt",
-    "pubDate": "Tue, 24 Mar 2026 09:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration."
-  },
-  {
-    "id": "https://openai.com/index/creating-with-sora-safely",
-    "title": "Creating with Sora Safely",
-    "link": "https://openai.com/index/creating-with-sora-safely",
-    "pubDate": "Mon, 23 Mar 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approac"
-  },
-  {
-    "id": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-    "title": "How we monitor internal coding agents for misalignment",
-    "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-    "pubDate": "Thu, 19 Mar 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards."
-  },
-  {
-    "id": "https://openai.com/index/openai-to-acquire-astral",
-    "title": "OpenAI to acquire Astral",
-    "link": "https://openai.com/index/openai-to-acquire-astral",
-    "pubDate": "Thu, 19 Mar 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Accelerates Codex growth to power the next generation of Python developer tools"
-  },
-  {
-    "id": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
-    "title": "Measuring progress toward AGI: A cognitive framework",
-    "link": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
-    "pubDate": "Tue, 17 Mar 2026 16:03:47 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "We’re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations."
-  },
-  {
-    "id": "https://openai.com/index/japan-teen-safety-blueprint",
-    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-    "link": "https://openai.com/index/japan-teen-safety-blueprint",
-    "pubDate": "Tue, 17 Mar 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI."
-  },
-  {
-    "id": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-    "title": "Introducing GPT-5.4 mini and nano",
-    "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-    "pubDate": "Tue, 17 Mar 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads."
-  },
-  {
-    "id": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
-    "title": "Equipping workers with insights about compensation",
-    "link": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
-    "pubDate": "Tue, 17 Mar 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap."
-  },
-  {
-    "id": "https://openai.com/index/why-codex-security-doesnt-include-sast",
-    "title": "Why Codex Security Doesn’t Include a SAST Report",
-    "link": "https://openai.com/index/why-codex-security-doesnt-include-sast",
-    "pubDate": "Mon, 16 Mar 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives."
-  },
-  {
-    "id": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
-    "title": "Designing AI agents to resist prompt injection",
-    "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
-    "pubDate": "Wed, 11 Mar 2026 11:30:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows."
   }
 ]

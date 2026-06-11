@@ -149,9 +149,14 @@ h1 {
   color: #3730a3;
 }
 
-.category-Meta-AI {
+.category-Grok {
   background: #fce7f3;
   color: #831843;
+}
+
+.category-Open-Source {
+  background: #dcfce7;
+  color: #166534;
 }
 
 .date {

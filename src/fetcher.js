@@ -7,7 +7,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 const parser = new Parser({
-  timeout: 10000,
+  timeout: 20000,
   headers: {
     'User-Agent': 'AI-News-Tracker/1.0'
   }
@@ -23,6 +23,21 @@ const SOURCES = [
     name: 'Google DeepMind Blog',
     url: 'https://deepmind.google/blog/rss.xml',
     category: 'Gemini'
+  },
+  {
+    name: 'TechCrunch - Anthropic',
+    url: 'https://techcrunch.com/tag/anthropic/feed/',
+    category: 'Claude'
+  },
+  {
+    name: 'TechCrunch - xAI',
+    url: 'https://techcrunch.com/tag/xai/feed/',
+    category: 'Grok'
+  },
+  {
+    name: 'Hugging Face Blog',
+    url: 'https://huggingface.co/blog/feed.xml',
+    category: 'Open Source'
   }
 ];
 
