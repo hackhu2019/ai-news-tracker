@@ -1746,6 +1746,15 @@
     "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools."
   },
   {
+    "id": "https://openai.com/academy/what-is-codex",
+    "title": "What is Codex?",
+    "link": "https://openai.com/academy/what-is-codex",
+    "pubDate": "Thu, 23 Apr 2026 10:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards."
+  },
+  {
     "id": "https://openai.com/academy/codex-automations",
     "title": "Automations",
     "link": "https://openai.com/academy/codex-automations",
@@ -1789,14 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results."
-  },
-  {
-    "id": "https://openai.com/academy/how-to-use-codex-for-everyday-work",
-    "title": "How to use Codex for everyday work",
-    "link": "https://openai.com/academy/how-to-use-codex-for-everyday-work",
-    "pubDate": "Thu, 23 Apr 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Explore 10 practical ChatGPT Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows."
   }
 ]
