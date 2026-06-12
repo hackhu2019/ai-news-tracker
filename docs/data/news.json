@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://openai.com/index/preply",
+    "title": "How Preply combines AI and human tutors to personalize learning",
+    "link": "https://openai.com/index/preply",
+    "pubDate": "Fri, 12 Jun 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises."
+  },
+  {
     "id": "https://techcrunch.com/?p=3132066",
     "title": "Anthropic taps TCS to scale its enterprise AI deployments",
     "link": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
@@ -1746,6 +1755,15 @@
     "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools."
   },
   {
+    "id": "https://openai.com/academy/how-to-use-codex-for-everyday-work",
+    "title": "How to use Codex for everyday work",
+    "link": "https://openai.com/academy/how-to-use-codex-for-everyday-work",
+    "pubDate": "Thu, 23 Apr 2026 10:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Explore 10 practical ChatGPT Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows."
+  },
+  {
     "id": "https://openai.com/academy/what-is-codex",
     "title": "What is Codex?",
     "link": "https://openai.com/academy/what-is-codex",
@@ -1780,23 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance."
-  },
-  {
-    "id": "https://openai.com/academy/working-with-codex",
-    "title": "Working with Codex",
-    "link": "https://openai.com/academy/working-with-codex",
-    "pubDate": "Thu, 23 Apr 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance."
-  },
-  {
-    "id": "https://openai.com/academy/codex-plugins-and-skills",
-    "title": "Plugins and skills",
-    "link": "https://openai.com/academy/codex-plugins-and-skills",
-    "pubDate": "Thu, 23 Apr 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results."
   }
 ]

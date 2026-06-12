@@ -5,9 +5,18 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 11 Jun 2026 11:48:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[How Preply combines AI and human tutors to personalize learning]]></title>
+      <link>https://openai.com/index/preply</link>
+      <guid>https://openai.com/index/preply</guid>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.]]></description>
+      <source url="https://openai.com/index/preply">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Anthropic taps TCS to scale its enterprise AI deployments]]></title>
       <link>https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/</link>
@@ -448,15 +457,6 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Uber caps employee AI spending after blowing through budget in 4 months]]></title>
-      <link>https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/</link>
-      <guid>https://techcrunch.com/?p=3128791</guid>
-      <pubDate>Tue, 02 Jun 2026 19:11:48 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.]]></description>
-      <source url="https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>
