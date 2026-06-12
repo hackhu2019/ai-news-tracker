@@ -5,9 +5,54 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 12 Jun 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 17:38:11 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Mistral is rumored to be raising €3B at €20B valuation]]></title>
+      <link>https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/</link>
+      <guid>https://techcrunch.com/?p=3132412</guid>
+      <pubDate>Fri, 12 Jun 2026 17:38:11 +0000</pubDate>
+      <category>Mistral</category>
+      <description><![CDATA[The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.]]></description>
+      <source url="https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/">TechCrunch - Mistral AI</source>
+    </item>
+    <item>
+      <title><![CDATA[SpaceX, Anthropic, and OpenAI’s hot IPO summer]]></title>
+      <link>https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/</link>
+      <guid>https://techcrunch.com/?post_type=tc_video&p=3132423</guid>
+      <pubDate>Fri, 12 Jun 2026 16:23:25 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, N]]></description>
+      <source url="https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[olmo-eval: An evaluation workbench for the model development loop]]></title>
+      <link>https://huggingface.co/blog/allenai/olmo-eval</link>
+      <guid>https://huggingface.co/blog/allenai/olmo-eval</guid>
+      <pubDate>Fri, 12 Jun 2026 15:56:10 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/allenai/olmo-eval">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[It’s hot IPO summer, and the MANGOS are ripe]]></title>
+      <link>https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/</link>
+      <guid>https://techcrunch.com/?post_type=tc_podcast&p=3132406</guid>
+      <pubDate>Fri, 12 Jun 2026 15:50:52 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, N]]></description>
+      <source url="https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[New OpenAI Academy courses for the next era of work]]></title>
+      <link>https://openai.com/index/academy-courses-applying-ai-at-work</link>
+      <guid>https://openai.com/index/academy-courses-applying-ai-at-work</guid>
+      <pubDate>Fri, 12 Jun 2026 10:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.]]></description>
+      <source url="https://openai.com/index/academy-courses-applying-ai-at-work">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[How Preply combines AI and human tutors to personalize learning]]></title>
       <link>https://openai.com/index/preply</link>
@@ -412,51 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.]]></description>
       <source url="https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Direct Preference Optimization Beyond Chatbots]]></title>
-      <link>https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots</link>
-      <guid>https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots</guid>
-      <pubDate>Wed, 03 Jun 2026 12:55:11 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How Wasmer used Codex to build a Node.js runtime for the edge]]></title>
-      <link>https://openai.com/index/wasmer</link>
-      <guid>https://openai.com/index/wasmer</guid>
-      <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.]]></description>
-      <source url="https://openai.com/index/wasmer">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[A blueprint for democratic governance of frontier AI]]></title>
-      <link>https://openai.com/index/frontier-safety-blueprint</link>
-      <guid>https://openai.com/index/frontier-safety-blueprint</guid>
-      <pubDate>Wed, 03 Jun 2026 10:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.]]></description>
-      <source url="https://openai.com/index/frontier-safety-blueprint">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI public policy agenda]]></title>
-      <link>https://openai.com/index/public-policy-agenda</link>
-      <guid>https://openai.com/index/public-policy-agenda</guid>
-      <pubDate>Wed, 03 Jun 2026 10:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.]]></description>
-      <source url="https://openai.com/index/public-policy-agenda">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Adding MCP Tools to Reachy Mini]]></title>
-      <link>https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini</link>
-      <guid>https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini</guid>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini">Hugging Face Blog</source>
     </item>
   </channel>
 </rss>
