@@ -5,9 +5,27 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 12 Jun 2026 17:38:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 03:00:00 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[As Anthropic suspends access to new models, India debates its AI future]]></title>
+      <link>https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/</link>
+      <guid>https://techcrunch.com/?p=3132702</guid>
+      <pubDate>Sun, 14 Jun 2026 03:00:00 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.]]></description>
+      <source url="https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Amazon CEO reportedly raised Anthropic model concerns before government crackdown]]></title>
+      <link>https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/</link>
+      <guid>https://techcrunch.com/?p=3132688</guid>
+      <pubDate>Sat, 13 Jun 2026 19:11:41 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.]]></description>
+      <source url="https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/">TechCrunch - Anthropic</source>
+    </item>
     <item>
       <title><![CDATA[Mistral is rumored to be raising €3B at €20B valuation]]></title>
       <link>https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/</link>
@@ -439,24 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[An action plan for AI-powered biological resilience]]></description>
       <source url="https://openai.com/index/biodefense-in-the-intelligence-age">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Lovable signs multiyear deal with Google Cloud to up usage 5x, source says]]></title>
-      <link>https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/</link>
-      <guid>https://techcrunch.com/?p=3129396</guid>
-      <pubDate>Wed, 03 Jun 2026 22:56:51 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.]]></description>
-      <source url="https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Introducing new capabilities to GPT-Rosalind]]></title>
-      <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind</link>
-      <guid>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind</guid>
-      <pubDate>Wed, 03 Jun 2026 13:15:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.]]></description>
-      <source url="https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind">OpenAI Blog</source>
     </item>
   </channel>
 </rss>

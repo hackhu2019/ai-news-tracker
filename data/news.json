@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3132702",
+    "title": "As Anthropic suspends access to new models, India debates its AI future",
+    "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+    "pubDate": "Sun, 14 Jun 2026 03:00:00 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132688",
+    "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+    "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+    "pubDate": "Sat, 13 Jun 2026 19:11:41 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday."
+  },
+  {
     "id": "https://techcrunch.com/?p=3132412",
     "title": "Mistral is rumored to be raising €3B at €20B valuation",
     "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
@@ -1780,23 +1798,5 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/gpt-5-5-system-card",
-    "title": "GPT-5.5 System Card",
-    "link": "https://openai.com/index/gpt-5-5-system-card",
-    "pubDate": "Thu, 23 Apr 2026 11:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/introducing-gpt-5-5",
-    "title": "Introducing GPT-5.5",
-    "link": "https://openai.com/index/introducing-gpt-5-5",
-    "pubDate": "Thu, 23 Apr 2026 11:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools."
   }
 ]
