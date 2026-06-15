@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3132849",
+    "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
+    "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+    "pubDate": "Mon, 15 Jun 2026 15:29:51 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic’s models Fable and Mythos, arguing that the order is going to limit the abil"
+  },
+  {
     "id": "https://openai.com/index/introducing-openai-partner-network",
     "title": "Introducing the OpenAI Partner Network",
     "link": "https://openai.com/index/introducing-openai-partner-network",
@@ -34,6 +43,15 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132661",
+    "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+    "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+    "pubDate": "Sat, 13 Jun 2026 02:26:30 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the "
   },
   {
     "id": "https://techcrunch.com/?p=3132412",
@@ -1780,23 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching."
-  },
-  {
-    "id": "https://openai.com/index/choco",
-    "title": "Choco automates food distribution with AI agents",
-    "link": "https://openai.com/index/choco",
-    "pubDate": "Mon, 27 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact."
-  },
-  {
-    "id": "https://openai.com/index/our-principles",
-    "title": "Our principles",
-    "link": "https://openai.com/index/our-principles",
-    "pubDate": "Sun, 26 Apr 2026 16:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work."
   }
 ]
