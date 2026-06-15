@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://openai.com/index/introducing-openai-partner-network",
+    "title": "Introducing the OpenAI Partner Network",
+    "link": "https://openai.com/index/introducing-openai-partner-network",
+    "pubDate": "Sun, 14 Jun 2026 17:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation."
+  },
+  {
     "id": "https://techcrunch.com/?p=3132739",
     "title": "As AI companies race to go public, who else is along for the ride?",
     "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
@@ -1789,14 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3116123",
-    "title": "DeepSeek previews new AI model that ‘closes the gap’ with frontier models",
-    "link": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
-    "pubDate": "Fri, 24 Apr 2026 13:30:59 +0000",
-    "source": "TechCrunch - DeepSeek",
-    "category": "China AI",
-    "summary": "DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current leading models, both open and closed, on"
   }
 ]
