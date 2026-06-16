@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3133261",
+    "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
+    "link": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+    "pubDate": "Tue, 16 Jun 2026 15:05:03 +0000",
+    "source": "TechCrunch - xAI",
+    "category": "Grok",
+    "summary": "The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines."
+  },
+  {
     "id": "https://techcrunch.com/?p=3133070",
     "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
     "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
@@ -1789,14 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale."
-  },
-  {
-    "id": "https://openai.com/index/choco",
-    "title": "Choco automates food distribution with AI agents",
-    "link": "https://openai.com/index/choco",
-    "pubDate": "Mon, 27 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact."
   }
 ]
