@@ -9,6 +9,15 @@
     "summary": "The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines."
   },
   {
+    "id": "https://openai.com/index/deployment-simulation",
+    "title": "Predicting model behavior before release by simulating deployment",
+    "link": "https://openai.com/index/deployment-simulation",
+    "pubDate": "Tue, 16 Jun 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy."
+  },
+  {
     "id": "https://techcrunch.com/?p=3133070",
     "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
     "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
@@ -1789,14 +1798,5 @@
     "source": "Google DeepMind Blog",
     "category": "Gemini",
     "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models"
-  },
-  {
-    "id": "https://openai.com/index/next-phase-of-microsoft-partnership",
-    "title": "The next phase of the Microsoft OpenAI partnership",
-    "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
-    "pubDate": "Mon, 27 Apr 2026 06:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale."
   }
 ]

@@ -18,6 +18,15 @@
       <source url="https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/">TechCrunch - xAI</source>
     </item>
     <item>
+      <title><![CDATA[Predicting model behavior before release by simulating deployment]]></title>
+      <link>https://openai.com/index/deployment-simulation</link>
+      <guid>https://openai.com/index/deployment-simulation</guid>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.]]></description>
+      <source url="https://openai.com/index/deployment-simulation">OpenAI Blog</source>
+    </item>
+    <item>
       <title><![CDATA[The US government’s Anthropic models ban was never about an AI jailbreak]]></title>
       <link>https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/</link>
       <guid>https://techcrunch.com/?p=3133070</guid>
@@ -448,15 +457,6 @@
       <category>Claude</category>
       <description><![CDATA[Notion's head of product said he was "astonished" at “the amount of people RT-ing this."]]></description>
       <source url="https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[NSA said to be readying Anthropic’s Mythos for use in cyber operations]]></title>
-      <link>https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/</link>
-      <guid>https://techcrunch.com/?p=3129906</guid>
-      <pubDate>Fri, 05 Jun 2026 14:32:57 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[The U.S. eavesdropping agency is reportedly preparing Anthropic's Mythos for use in cyberattacks, despite a federal ban on using the AI model maker.]]></description>
-      <source url="https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>
