@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3133070",
+    "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+    "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+    "pubDate": "Mon, 15 Jun 2026 21:50:21 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune fro"
+  },
+  {
     "id": "https://techcrunch.com/?p=3132849",
     "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
     "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
@@ -1782,21 +1791,12 @@
     "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale."
   },
   {
-    "id": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
-    "title": "How to build scalable web apps with OpenAI's Privacy Filter",
-    "link": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
-    "pubDate": "Mon, 27 Apr 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/open-source-codex-orchestration-symphony",
-    "title": "An open-source spec for orchestration: Symphony",
-    "link": "https://openai.com/index/open-source-codex-orchestration-symphony",
+    "id": "https://openai.com/index/choco",
+    "title": "Choco automates food distribution with AI agents",
+    "link": "https://openai.com/index/choco",
     "pubDate": "Mon, 27 Apr 2026 00:00:00 GMT",
     "source": "OpenAI Blog",
     "category": "ChatGPT",
-    "summary": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching."
+    "summary": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact."
   }
 ]
