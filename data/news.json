@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3133924",
+    "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+    "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+    "pubDate": "Wed, 17 Jun 2026 19:01:19 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight  — a fear the Anthropic blackout just made real."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3133904",
+    "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+    "link": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+    "pubDate": "Wed, 17 Jun 2026 18:30:56 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects."
+  },
+  {
     "id": "https://huggingface.co/blog/allenai/molmomotion",
     "title": "MolmoMotion: Language-guided 3D motion forecasting",
     "link": "https://huggingface.co/blog/allenai/molmomotion",
@@ -18,10 +36,28 @@
     "summary": ""
   },
   {
+    "id": "https://openai.com/index/ai-chemist-improves-reaction",
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "link": "https://openai.com/index/ai-chemist-improves-reaction",
+    "pubDate": "Wed, 17 Jun 2026 10:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research."
+  },
+  {
     "id": "https://huggingface.co/blog/zai-org/glm-52-blog",
     "title": "GLM-5.2: Built for Long-Horizon Tasks",
     "link": "https://huggingface.co/blog/zai-org/glm-52-blog",
     "pubDate": "Wed, 17 Jun 2026 09:01:25 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+    "title": "Agentic Resource Discovery: Let agents search",
+    "link": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+    "pubDate": "Wed, 17 Jun 2026 00:00:00 GMT",
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
@@ -1762,41 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior."
-  },
-  {
-    "id": "https://huggingface.co/blog/ibm-granite/granite-4-1",
-    "title": "Granite 4.1 LLMs: How They’re Built",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-4-1",
-    "pubDate": "Wed, 29 Apr 2026 15:01:48 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-    "title": "Building the compute infrastructure for the Intelligence Age",
-    "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-    "pubDate": "Wed, 29 Apr 2026 15:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand."
-  },
-  {
-    "id": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-    "title": "Cybersecurity in the Intelligence Age",
-    "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-    "pubDate": "Wed, 29 Apr 2026 04:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems."
-  },
-  {
-    "id": "https://huggingface.co/blog/inference-providers-deepinfra",
-    "title": "DeepInfra on Hugging Face Inference Providers 🔥",
-    "link": "https://huggingface.co/blog/inference-providers-deepinfra",
-    "pubDate": "Wed, 29 Apr 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
   }
 ]
