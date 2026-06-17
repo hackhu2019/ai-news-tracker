@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://huggingface.co/blog/allenai/molmomotion",
+    "title": "MolmoMotion: Language-guided 3D motion forecasting",
+    "link": "https://huggingface.co/blog/allenai/molmomotion",
+    "pubDate": "Wed, 17 Jun 2026 15:26:44 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+    "link": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "pubDate": "Wed, 17 Jun 2026 10:18:05 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/zai-org/glm-52-blog",
+    "title": "GLM-5.2: Built for Long-Horizon Tasks",
+    "link": "https://huggingface.co/blog/zai-org/glm-52-blog",
+    "pubDate": "Wed, 17 Jun 2026 09:01:25 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/?p=3133474",
+    "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+    "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+    "pubDate": "Tue, 16 Jun 2026 22:34:17 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests."
+  },
+  {
+    "id": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "title": "Unlocking UK house-building with AI-accelerated planning",
+    "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "pubDate": "Tue, 16 Jun 2026 21:29:50 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions."
+  },
+  {
     "id": "https://techcrunch.com/?p=3133261",
     "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
     "link": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
@@ -1753,50 +1798,5 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
-    "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
-    "pubDate": "Tue, 28 Apr 2026 15:58:57 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/openai-on-aws",
-    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-    "link": "https://openai.com/index/openai-on-aws",
-    "pubDate": "Tue, 28 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments."
-  },
-  {
-    "id": "https://openai.com/index/our-commitment-to-community-safety",
-    "title": "Our commitment to community safety",
-    "link": "https://openai.com/index/our-commitment-to-community-safety",
-    "pubDate": "Tue, 28 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts."
-  },
-  {
-    "id": "https://openai.com/index/openai-available-at-fedramp-moderate",
-    "title": "OpenAI available at FedRAMP Moderate",
-    "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
-    "pubDate": "Mon, 27 Apr 2026 14:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies."
-  },
-  {
-    "id": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
-    "title": "Announcing our partnership with the Republic of Korea",
-    "link": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
-    "pubDate": "Mon, 27 Apr 2026 07:00:06 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models"
   }
 ]
