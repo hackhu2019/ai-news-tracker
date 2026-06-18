@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "pubDate": "Thu, 18 Jun 2026 08:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases."
+  },
+  {
+    "id": "https://huggingface.co/blog/peft-beyond-lora",
+    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+    "link": "https://huggingface.co/blog/peft-beyond-lora",
+    "pubDate": "Thu, 18 Jun 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/is-it-agentic-enough",
+    "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+    "link": "https://huggingface.co/blog/is-it-agentic-enough",
+    "pubDate": "Thu, 18 Jun 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/?p=3133924",
     "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
     "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
@@ -88,6 +115,15 @@
     "source": "Google DeepMind Blog",
     "category": "Gemini",
     "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions."
+  },
+  {
+    "id": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "title": "Securing the future of AI agents",
+    "link": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "pubDate": "Tue, 16 Jun 2026 15:46:31 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring."
   },
   {
     "id": "https://techcrunch.com/?p=3133261",
@@ -1762,41 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function."
-  },
-  {
-    "id": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
-    "title": "How OpenAI delivers low-latency voice AI at scale",
-    "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
-    "pubDate": "Mon, 04 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3117901",
-    "title": "X announces a rebuilt ad platform powered by AI",
-    "link": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
-    "pubDate": "Thu, 30 Apr 2026 15:14:55 +0000",
-    "source": "TechCrunch - xAI",
-    "category": "Grok",
-    "summary": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again."
-  },
-  {
-    "id": "https://deepmind.google/blog/ai-co-clinician/",
-    "title": "Enabling a new model for healthcare with AI co-clinician",
-    "link": "https://deepmind.google/blog/ai-co-clinician/",
-    "pubDate": "Thu, 30 Apr 2026 12:14:15 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Researching the path to AI-augmented care and development of an AI co-clinician."
-  },
-  {
-    "id": "https://openai.com/index/advanced-account-security",
-    "title": "Introducing Advanced Account Security",
-    "link": "https://openai.com/index/advanced-account-security",
-    "pubDate": "Thu, 30 Apr 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover."
   }
 ]
