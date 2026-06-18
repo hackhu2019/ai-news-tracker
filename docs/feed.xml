@@ -63,6 +63,15 @@
       <source url="https://huggingface.co/blog/zai-org/glm-52-blog">Hugging Face Blog</source>
     </item>
     <item>
+      <title><![CDATA[Introducing LifeSciBench]]></title>
+      <link>https://openai.com/index/introducing-life-sci-bench</link>
+      <guid>https://openai.com/index/introducing-life-sci-bench</guid>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.]]></description>
+      <source url="https://openai.com/index/introducing-life-sci-bench">OpenAI Blog</source>
+    </item>
+    <item>
       <title><![CDATA[Agentic Resource Discovery: Let agents search]]></title>
       <link>https://huggingface.co/blog/agentic-resource-discovery-launch</link>
       <guid>https://huggingface.co/blog/agentic-resource-discovery-launch</guid>
@@ -448,15 +457,6 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/mishig/spaces-agents-md">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[What Codex unlocks for Notion]]></title>
-      <link>https://openai.com/index/notion</link>
-      <guid>https://openai.com/index/notion</guid>
-      <pubDate>Tue, 09 Jun 2026 10:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.]]></description>
-      <source url="https://openai.com/index/notion">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
