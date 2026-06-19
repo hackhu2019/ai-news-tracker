@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "title": "MosaicLeaks: Can your research agent keep a secret?",
+    "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "pubDate": "Thu, 18 Jun 2026 18:13:13 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "pubDate": "Thu, 18 Jun 2026 17:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence."
+  },
+  {
+    "id": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "title": "Improving health intelligence in ChatGPT",
+    "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "pubDate": "Thu, 18 Jun 2026 11:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations."
+  },
+  {
     "id": "https://openai.com/index/diagnose-rare-childhood-diseases",
     "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
     "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
@@ -1771,32 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters."
-  },
-  {
-    "id": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-    "title": "New ways to buy ChatGPT ads",
-    "link": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-    "pubDate": "Tue, 05 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads."
-  },
-  {
-    "id": "https://openai.com/index/advancing-youth-safety-in-emea",
-    "title": "Advancing youth safety and wellbeing in EMEA",
-    "link": "https://openai.com/index/advancing-youth-safety-in-emea",
-    "pubDate": "Tue, 05 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Explore OpenAI’s European Youth Safety Blueprint and EMEA Youth & Wellbeing Grants, advancing safe, responsible AI for teens, families, and educators."
-  },
-  {
-    "id": "https://openai.com/index/openai-pwc-finance-collaboration",
-    "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-    "link": "https://openai.com/index/openai-pwc-finance-collaboration",
-    "pubDate": "Mon, 04 May 2026 21:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function."
   }
 ]

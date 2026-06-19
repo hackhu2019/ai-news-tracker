@@ -5,9 +5,36 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 18 Jun 2026 08:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 18:13:13 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[MosaicLeaks: Can your research agent keep a secret?]]></title>
+      <link>https://huggingface.co/blog/ServiceNow/mosaicleaks</link>
+      <guid>https://huggingface.co/blog/ServiceNow/mosaicleaks</guid>
+      <pubDate>Thu, 18 Jun 2026 18:13:13 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/ServiceNow/mosaicleaks">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[New usage analytics and updated spend controls for enterprises]]></title>
+      <link>https://openai.com/index/chatgpt-enterprise-spend-controls</link>
+      <guid>https://openai.com/index/chatgpt-enterprise-spend-controls</guid>
+      <pubDate>Thu, 18 Jun 2026 17:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.]]></description>
+      <source url="https://openai.com/index/chatgpt-enterprise-spend-controls">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Improving health intelligence in ChatGPT]]></title>
+      <link>https://openai.com/index/improving-health-intelligence-in-chatgpt</link>
+      <guid>https://openai.com/index/improving-health-intelligence-in-chatgpt</guid>
+      <pubDate>Thu, 18 Jun 2026 11:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.]]></description>
+      <source url="https://openai.com/index/improving-health-intelligence-in-chatgpt">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Using AI to help physicians diagnose rare genetic diseases affecting children]]></title>
       <link>https://openai.com/index/diagnose-rare-childhood-diseases</link>
@@ -430,33 +457,6 @@
       <category>Claude</category>
       <description><![CDATA[If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.]]></description>
       <source url="https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic’s Claude Fable 5 is a version of Mythos the public can access today]]></title>
-      <link>https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/</link>
-      <guid>https://techcrunch.com/?p=3131081</guid>
-      <pubDate>Tue, 09 Jun 2026 17:00:00 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.]]></description>
-      <source url="https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Introducing North Mini Code: Cohere’s First Model For Developers]]></title>
-      <link>https://huggingface.co/blog/CohereLabs/introducing-north-mini-code</link>
-      <guid>https://huggingface.co/blog/CohereLabs/introducing-north-mini-code</guid>
-      <pubDate>Tue, 09 Jun 2026 15:56:23 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/CohereLabs/introducing-north-mini-code">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Fluid, natural voice translation with Gemini 3.5 Live Translate]]></title>
-      <link>https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/</link>
-      <guid>https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/</guid>
-      <pubDate>Tue, 09 Jun 2026 15:16:25 +0000</pubDate>
-      <category>Gemini</category>
-      <description><![CDATA[Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.]]></description>
-      <source url="https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/">Google DeepMind Blog</source>
     </item>
   </channel>
 </rss>
