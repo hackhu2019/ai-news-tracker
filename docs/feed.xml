@@ -5,9 +5,36 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 18 Jun 2026 18:13:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 22:40:14 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work]]></title>
+      <link>https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/</link>
+      <guid>https://techcrunch.com/?p=3134219</guid>
+      <pubDate>Fri, 19 Jun 2026 22:40:14 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.]]></description>
+      <source url="https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Is the US government’s Anthropic ban accidentally helping the brand?]]></title>
+      <link>https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/</link>
+      <guid>https://techcrunch.com/?post_type=tc_video&p=3134608</guid>
+      <pubDate>Fri, 19 Jun 2026 16:08:17 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way t]]></description>
+      <source url="https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care]]></title>
+      <link>https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/</link>
+      <guid>https://techcrunch.com/?post_type=tc_podcast&p=3134607</guid>
+      <pubDate>Fri, 19 Jun 2026 16:01:03 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way t]]></description>
+      <source url="https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/">TechCrunch - Anthropic</source>
+    </item>
     <item>
       <title><![CDATA[MosaicLeaks: Can your research agent keep a secret?]]></title>
       <link>https://huggingface.co/blog/ServiceNow/mosaicleaks</link>
@@ -430,33 +457,6 @@
       <category>Claude</category>
       <description><![CDATA[Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.]]></description>
       <source url="https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic’s Fable 5 can make weirdly fun video games with the click of a button]]></title>
-      <link>https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/</link>
-      <guid>https://techcrunch.com/?p=3131281</guid>
-      <pubDate>Tue, 09 Jun 2026 20:37:49 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.]]></description>
-      <source url="https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech]]></title>
-      <link>https://huggingface.co/blog/ServiceNow-AI/code-switching</link>
-      <guid>https://huggingface.co/blog/ServiceNow-AI/code-switching</guid>
-      <pubDate>Tue, 09 Jun 2026 19:38:28 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/ServiceNow-AI/code-switching">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Can tech companies learn to love cheaper AI models? ]]></title>
-      <link>https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/</link>
-      <guid>https://techcrunch.com/?p=3131308</guid>
-      <pubDate>Tue, 09 Jun 2026 18:56:09 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.]]></description>
-      <source url="https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>

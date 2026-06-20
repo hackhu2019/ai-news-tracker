@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3134219",
+    "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
+    "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+    "pubDate": "Fri, 19 Jun 2026 22:40:14 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos."
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_video&p=3134608",
+    "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+    "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+    "pubDate": "Fri, 19 Jun 2026 16:08:17 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way t"
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3134607",
+    "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+    "link": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+    "pubDate": "Fri, 19 Jun 2026 16:01:03 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way t"
+  },
+  {
     "id": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
     "title": "MosaicLeaks: Can your research agent keep a secret?",
     "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
@@ -1771,32 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage."
-  },
-  {
-    "id": "https://openai.com/index/gpt-5-5-instant-system-card",
-    "title": "GPT-5.5 Instant System Card",
-    "link": "https://openai.com/index/gpt-5-5-instant-system-card",
-    "pubDate": "Tue, 05 May 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/gpt-5-5-instant",
-    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-    "link": "https://openai.com/index/gpt-5-5-instant",
-    "pubDate": "Tue, 05 May 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls."
-  },
-  {
-    "id": "https://openai.com/index/mrc-supercomputer-networking",
-    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-    "link": "https://openai.com/index/mrc-supercomputer-networking",
-    "pubDate": "Tue, 05 May 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters."
   }
 ]
