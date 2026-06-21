@@ -1764,6 +1764,15 @@
     "summary": "Learn how ChatGPT safeguards your privacy, reduces personal data in training, and gives you control over whether your conversations improve AI models."
   },
   {
+    "id": "https://openai.com/index/introducing-b2b-signals",
+    "title": "How frontier firms are pulling ahead",
+    "link": "https://openai.com/index/introducing-b2b-signals",
+    "pubDate": "Wed, 06 May 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage."
+  },
+  {
     "id": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
     "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
     "link": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
@@ -1789,14 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up."
-  },
-  {
-    "id": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-    "title": "Introducing ChatGPT Futures: Class of 2026",
-    "link": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-    "pubDate": "Wed, 06 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity "
   }
 ]
