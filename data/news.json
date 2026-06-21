@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3134677",
+    "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+    "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+    "pubDate": "Sat, 20 Jun 2026 16:39:57 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Jumper isn't the only big name leaving Google DeepMind."
+  },
+  {
     "id": "https://techcrunch.com/?p=3134219",
     "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
     "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
@@ -1789,14 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity "
-  },
-  {
-    "id": "https://openai.com/index/introducing-b2b-signals",
-    "title": "How frontier firms are pulling ahead",
-    "link": "https://openai.com/index/introducing-b2b-signals",
-    "pubDate": "Wed, 06 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage."
   }
 ]
