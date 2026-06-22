@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3135006",
+    "title": "Anthropic says Claude may want to see your ID",
+    "link": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
+    "pubDate": "Mon, 22 Jun 2026 18:05:13 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Claude's chatbot may ask to verify your age and identity \"in certain circumstances,\" such as with a passport or driver's license, according to a privacy policy change."
+  },
+  {
+    "id": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+    "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "pubDate": "Mon, 22 Jun 2026 13:18:56 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/daybreak-securing-the-world",
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "link": "https://openai.com/index/daybreak-securing-the-world",
+    "pubDate": "Mon, 22 Jun 2026 10:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale."
+  },
+  {
+    "id": "https://openai.com/index/patch-the-planet",
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "link": "https://openai.com/index/patch-the-planet",
+    "pubDate": "Mon, 22 Jun 2026 10:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review."
+  },
+  {
+    "id": "https://openai.com/index/codex-maxxing-long-running-work",
+    "title": "Codex-maxxing for long-running work",
+    "link": "https://openai.com/index/codex-maxxing-long-running-work",
+    "pubDate": "Mon, 22 Jun 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt."
+  },
+  {
+    "id": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "pubDate": "Sun, 21 Jun 2026 23:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3134737",
+    "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+    "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+    "pubDate": "Sun, 21 Jun 2026 15:28:17 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem."
+  },
+  {
     "id": "https://techcrunch.com/?p=3134677",
     "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
     "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
@@ -1735,68 +1798,5 @@
     "source": "TechCrunch - xAI",
     "category": "Grok",
     "summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3119749",
-    "title": "DeepSeek could hit $45B valuation from its first investment round",
-    "link": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
-    "pubDate": "Wed, 06 May 2026 17:20:34 +0000",
-    "source": "TechCrunch - DeepSeek",
-    "category": "China AI",
-    "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like tho"
-  },
-  {
-    "id": "https://deepmind.google/blog/alphaevolve-impact/",
-    "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
-    "link": "https://deepmind.google/blog/alphaevolve-impact/",
-    "pubDate": "Wed, 06 May 2026 10:43:49 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science."
-  },
-  {
-    "id": "https://openai.com/index/how-chatgpt-protects-privacy",
-    "title": "How ChatGPT learns about the world while protecting privacy ",
-    "link": "https://openai.com/index/how-chatgpt-protects-privacy",
-    "pubDate": "Wed, 06 May 2026 08:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how ChatGPT safeguards your privacy, reduces personal data in training, and gives you control over whether your conversations improve AI models."
-  },
-  {
-    "id": "https://openai.com/index/introducing-b2b-signals",
-    "title": "How frontier firms are pulling ahead",
-    "link": "https://openai.com/index/introducing-b2b-signals",
-    "pubDate": "Wed, 06 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage."
-  },
-  {
-    "id": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
-    "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
-    "link": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
-    "pubDate": "Wed, 06 May 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/uber",
-    "title": "Uber uses OpenAI to help people earn smarter and book faster",
-    "link": "https://openai.com/index/uber",
-    "pubDate": "Wed, 06 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace."
-  },
-  {
-    "id": "https://openai.com/index/singular-bank",
-    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-    "link": "https://openai.com/index/singular-bank",
-    "pubDate": "Wed, 06 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up."
   }
 ]

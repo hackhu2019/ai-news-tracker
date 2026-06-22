@@ -5,9 +5,72 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 20 Jun 2026 16:39:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 18:05:13 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Anthropic says Claude may want to see your ID]]></title>
+      <link>https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/</link>
+      <guid>https://techcrunch.com/?p=3135006</guid>
+      <pubDate>Mon, 22 Jun 2026 18:05:13 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Claude's chatbot may ask to verify your age and identity "in certain circumstances," such as with a passport or driver's license, according to a privacy policy change.]]></description>
+      <source url="https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters]]></title>
+      <link>https://huggingface.co/blog/PaddlePaddle/pp-ocrv6</link>
+      <guid>https://huggingface.co/blog/PaddlePaddle/pp-ocrv6</guid>
+      <pubDate>Mon, 22 Jun 2026 13:18:56 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/PaddlePaddle/pp-ocrv6">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Daybreak: Tools for securing every organization in the world]]></title>
+      <link>https://openai.com/index/daybreak-securing-the-world</link>
+      <guid>https://openai.com/index/daybreak-securing-the-world</guid>
+      <pubDate>Mon, 22 Jun 2026 10:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.]]></description>
+      <source url="https://openai.com/index/daybreak-securing-the-world">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Patch the Planet: a Daybreak initiative to support open source maintainers]]></title>
+      <link>https://openai.com/index/patch-the-planet</link>
+      <guid>https://openai.com/index/patch-the-planet</guid>
+      <pubDate>Mon, 22 Jun 2026 10:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.]]></description>
+      <source url="https://openai.com/index/patch-the-planet">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Codex-maxxing for long-running work]]></title>
+      <link>https://openai.com/index/codex-maxxing-long-running-work</link>
+      <guid>https://openai.com/index/codex-maxxing-long-running-work</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.]]></description>
+      <source url="https://openai.com/index/codex-maxxing-long-running-work">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Samsung Electronics brings ChatGPT and Codex to employees]]></title>
+      <link>https://openai.com/index/samsung-electronics-chatgpt-codex-deployment</link>
+      <guid>https://openai.com/index/samsung-electronics-chatgpt-codex-deployment</guid>
+      <pubDate>Sun, 21 Jun 2026 23:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.]]></description>
+      <source url="https://openai.com/index/samsung-electronics-chatgpt-codex-deployment">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[When the Trump administration cracks down on Anthropic, who benefits?]]></title>
+      <link>https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/</link>
+      <guid>https://techcrunch.com/?p=3134737</guid>
+      <pubDate>Sun, 21 Jun 2026 15:28:17 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.]]></description>
+      <source url="https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/">TechCrunch - Anthropic</source>
+    </item>
     <item>
       <title><![CDATA[Nobel laureate John Jumper is leaving DeepMind for rival Anthropic]]></title>
       <link>https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/</link>
@@ -394,69 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.]]></description>
       <source url="https://openai.com/index/using-codex-to-simulate-black-holes">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims]]></title>
-      <link>https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/</link>
-      <guid>https://techcrunch.com/?p=3131988</guid>
-      <pubDate>Wed, 10 Jun 2026 22:31:19 +0000</pubDate>
-      <category>Grok</category>
-      <description><![CDATA[A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.]]></description>
-      <source url="https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/">TechCrunch - xAI</source>
-    </item>
-    <item>
-      <title><![CDATA[Access OpenAI models and Codex through your Oracle cloud commitment]]></title>
-      <link>https://openai.com/index/openai-on-oracle-cloud</link>
-      <guid>https://openai.com/index/openai-on-oracle-cloud</guid>
-      <pubDate>Wed, 10 Jun 2026 20:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.]]></description>
-      <source url="https://openai.com/index/openai-on-oracle-cloud">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[DiffusionGemma: 4x faster text generation]]></title>
-      <link>https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/</link>
-      <guid>https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/</guid>
-      <pubDate>Wed, 10 Jun 2026 16:24:11 +0000</pubDate>
-      <category>Gemini</category>
-      <description><![CDATA[]]></description>
-      <source url="https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/">Google DeepMind Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable]]></title>
-      <link>https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/</link>
-      <guid>https://techcrunch.com/?p=3131724</guid>
-      <pubDate>Wed, 10 Jun 2026 15:41:22 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.]]></description>
-      <source url="https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[PRC-linked influence operations are targeting AI debates in the US]]></title>
-      <link>https://openai.com/index/prc-linked-influence-operations-ai-debates</link>
-      <guid>https://openai.com/index/prc-linked-influence-operations-ai-debates</guid>
-      <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT.]]></description>
-      <source url="https://openai.com/index/prc-linked-influence-operations-ai-debates">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Investing in multi-agent AI safety research]]></title>
-      <link>https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/</link>
-      <guid>https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/</guid>
-      <pubDate>Wed, 10 Jun 2026 10:21:19 +0000</pubDate>
-      <category>Gemini</category>
-      <description><![CDATA[Google DeepMind and partners announce a $10M funding call for multi-agent safety research.]]></description>
-      <source url="https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/">Google DeepMind Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[From data to decisions: how LSEG is scaling trusted AI]]></title>
-      <link>https://openai.com/index/lseg</link>
-      <guid>https://openai.com/index/lseg</guid>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.]]></description>
-      <source url="https://openai.com/index/lseg">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
