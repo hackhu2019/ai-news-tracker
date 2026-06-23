@@ -1,9 +1,45 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3135406",
+    "title": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
+    "link": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
+    "pubDate": "Tue, 23 Jun 2026 19:49:55 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Menlo has created a solid rep for itself as an AI investor, all based on one gutsy $750 million move in 2024."
+  },
+  {
+    "id": "https://openai.com/index/gpt-5-immunology-mystery",
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "link": "https://openai.com/index/gpt-5-immunology-mystery",
+    "pubDate": "Tue, 23 Jun 2026 17:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3135349",
+    "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+    "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+    "pubDate": "Tue, 23 Jun 2026 17:00:00 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise"
+  },
+  {
     "id": "https://huggingface.co/blog/ibm-research/cuga-apps",
     "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
     "link": "https://huggingface.co/blog/ibm-research/cuga-apps",
     "pubDate": "Tue, 23 Jun 2026 12:51:55 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/cross-origin-storage",
+    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+    "link": "https://huggingface.co/blog/cross-origin-storage",
+    "pubDate": "Tue, 23 Jun 2026 00:00:00 GMT",
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
@@ -1762,41 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure."
-  },
-  {
-    "id": "https://openai.com/index/parloa",
-    "title": "Parloa builds service agents customers want to talk to",
-    "link": "https://openai.com/index/parloa",
-    "pubDate": "Thu, 07 May 2026 11:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions."
-  },
-  {
-    "id": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-    "title": "Advancing voice intelligence with new models in the API",
-    "link": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-    "pubDate": "Thu, 07 May 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences."
-  },
-  {
-    "id": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-    "title": "Introducing Trusted Contact in ChatGPT",
-    "link": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-    "pubDate": "Thu, 07 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected."
-  },
-  {
-    "id": "https://openai.com/index/testing-ads-in-chatgpt",
-    "title": "Testing ads in ChatGPT",
-    "link": "https://openai.com/index/testing-ads-in-chatgpt",
-    "pubDate": "Thu, 07 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
   }
 ]

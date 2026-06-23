@@ -5,9 +5,36 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 23 Jun 2026 12:51:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 19:49:55 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund]]></title>
+      <link>https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/</link>
+      <guid>https://techcrunch.com/?p=3135406</guid>
+      <pubDate>Tue, 23 Jun 2026 19:49:55 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Menlo has created a solid rep for itself as an AI investor, all based on one gutsy $750 million move in 2024.]]></description>
+      <source url="https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery]]></title>
+      <link>https://openai.com/index/gpt-5-immunology-mystery</link>
+      <guid>https://openai.com/index/gpt-5-immunology-mystery</guid>
+      <pubDate>Tue, 23 Jun 2026 17:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.]]></description>
+      <source url="https://openai.com/index/gpt-5-immunology-mystery">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic’s Claude Tag is learning your company, one Slack message at a time]]></title>
+      <link>https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/</link>
+      <guid>https://techcrunch.com/?p=3135349</guid>
+      <pubDate>Tue, 23 Jun 2026 17:00:00 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise]]></description>
+      <source url="https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/">TechCrunch - Anthropic</source>
+    </item>
     <item>
       <title><![CDATA[Build real agentic apps using CUGA: two dozen working examples on a lightweight harness]]></title>
       <link>https://huggingface.co/blog/ibm-research/cuga-apps</link>
@@ -16,6 +43,15 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/ibm-research/cuga-apps">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Experimenting with the proposed Cross-Origin Storage API in Transformers.js]]></title>
+      <link>https://huggingface.co/blog/cross-origin-storage</link>
+      <guid>https://huggingface.co/blog/cross-origin-storage</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/cross-origin-storage">Hugging Face Blog</source>
     </item>
     <item>
       <title><![CDATA[How Omio is building the future of conversational travel]]></title>
@@ -421,42 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.]]></description>
       <source url="https://openai.com/index/academy-courses-applying-ai-at-work">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How Preply combines AI and human tutors to personalize learning]]></title>
-      <link>https://openai.com/index/preply</link>
-      <guid>https://openai.com/index/preply</guid>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.]]></description>
-      <source url="https://openai.com/index/preply">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic taps TCS to scale its enterprise AI deployments]]></title>
-      <link>https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/</link>
-      <guid>https://techcrunch.com/?p=3132066</guid>
-      <pubDate>Thu, 11 Jun 2026 11:48:55 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[The partnership will see TCS creating a business unit focused on deploying Anthropic's AI models to its customers.]]></description>
-      <source url="https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic’s Dario Amodei has just one direct report]]></title>
-      <link>https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/</link>
-      <guid>https://techcrunch.com/?p=3132054</guid>
-      <pubDate>Thu, 11 Jun 2026 03:53:06 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[If you doubted his genius, doubt no more.]]></description>
-      <source url="https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI to acquire Ona]]></title>
-      <link>https://openai.com/index/openai-to-acquire-ona</link>
-      <guid>https://openai.com/index/openai-to-acquire-ona</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.]]></description>
-      <source url="https://openai.com/index/openai-to-acquire-ona">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
