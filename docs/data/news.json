@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+    "link": "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "pubDate": "Tue, 23 Jun 2026 12:51:55 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/omio",
+    "title": "How Omio is building the future of conversational travel",
+    "link": "https://openai.com/index/omio",
+    "pubDate": "Tue, 23 Jun 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company."
+  },
+  {
+    "id": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+    "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "pubDate": "Tue, 23 Jun 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/?p=3135006",
     "title": "Anthropic says Claude may want to see your ID",
     "link": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
@@ -34,6 +61,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review."
+  },
+  {
+    "id": "https://huggingface.co/blog/local-models-pr-triage",
+    "title": "We got local models to triage the OpenClaw repo for FREE!*",
+    "link": "https://huggingface.co/blog/local-models-pr-triage",
+    "pubDate": "Mon, 22 Jun 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
   },
   {
     "id": "https://openai.com/index/codex-maxxing-long-running-work",
@@ -1762,41 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
-  },
-  {
-    "id": "https://openai.com/index/simplex",
-    "title": "Simplex rethinks software development with Codex",
-    "link": "https://openai.com/index/simplex",
-    "pubDate": "Thu, 07 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3119918",
-    "title": "Is xAI a neocloud now?",
-    "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
-    "pubDate": "Wed, 06 May 2026 21:32:55 +0000",
-    "source": "TechCrunch - xAI",
-    "category": "Grok",
-    "summary": "xAI's real business may be more about building data centers than training AI models."
-  },
-  {
-    "id": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
-    "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
-    "link": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
-    "pubDate": "Wed, 06 May 2026 19:06:55 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3119755",
-    "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
-    "link": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
-    "pubDate": "Wed, 06 May 2026 17:23:08 +0000",
-    "source": "TechCrunch - xAI",
-    "category": "Grok",
-    "summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal."
   }
 ]

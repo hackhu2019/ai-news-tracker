@@ -5,9 +5,36 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 22 Jun 2026 18:05:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 12:51:55 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Build real agentic apps using CUGA: two dozen working examples on a lightweight harness]]></title>
+      <link>https://huggingface.co/blog/ibm-research/cuga-apps</link>
+      <guid>https://huggingface.co/blog/ibm-research/cuga-apps</guid>
+      <pubDate>Tue, 23 Jun 2026 12:51:55 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/ibm-research/cuga-apps">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[How Omio is building the future of conversational travel]]></title>
+      <link>https://openai.com/index/omio</link>
+      <guid>https://openai.com/index/omio</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.]]></description>
+      <source url="https://openai.com/index/omio">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Shipping huggingface_hub every week with AI, open tools, and a human in the loop]]></title>
+      <link>https://huggingface.co/blog/huggingface-hub-release-ci</link>
+      <guid>https://huggingface.co/blog/huggingface-hub-release-ci</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/huggingface-hub-release-ci">Hugging Face Blog</source>
+    </item>
     <item>
       <title><![CDATA[Anthropic says Claude may want to see your ID]]></title>
       <link>https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/</link>
@@ -43,6 +70,15 @@
       <category>ChatGPT</category>
       <description><![CDATA[OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.]]></description>
       <source url="https://openai.com/index/patch-the-planet">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[We got local models to triage the OpenClaw repo for FREE!*]]></title>
+      <link>https://huggingface.co/blog/local-models-pr-triage</link>
+      <guid>https://huggingface.co/blog/local-models-pr-triage</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/local-models-pr-triage">Hugging Face Blog</source>
     </item>
     <item>
       <title><![CDATA[Codex-maxxing for long-running work]]></title>
@@ -421,42 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.]]></description>
       <source url="https://openai.com/index/openai-to-acquire-ona">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[BBVA puts AI at the core of banking with OpenAI]]></title>
-      <link>https://openai.com/index/bbva</link>
-      <guid>https://openai.com/index/bbva</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.]]></description>
-      <source url="https://openai.com/index/bbva">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP]]></title>
-      <link>https://huggingface.co/blog/torch-mlp-fusion</link>
-      <guid>https://huggingface.co/blog/torch-mlp-fusion</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/torch-mlp-fusion">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Supporting Europe’s work in ensuring a trustworthy AI ecosystem ]]></title>
-      <link>https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</link>
-      <guid>https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.]]></description>
-      <source url="https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How an astrophysicist uses Codex to help simulate black holes]]></title>
-      <link>https://openai.com/index/using-codex-to-simulate-black-holes</link>
-      <guid>https://openai.com/index/using-codex-to-simulate-black-holes</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.]]></description>
-      <source url="https://openai.com/index/using-codex-to-simulate-black-holes">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
