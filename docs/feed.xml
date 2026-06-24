@@ -36,6 +36,15 @@
       <source url="https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/">TechCrunch - Anthropic</source>
     </item>
     <item>
+      <title><![CDATA[Helping build shared standards for advanced AI]]></title>
+      <link>https://openai.com/index/helping-build-shared-standards-for-advanced-ai</link>
+      <guid>https://openai.com/index/helping-build-shared-standards-for-advanced-ai</guid>
+      <pubDate>Tue, 23 Jun 2026 13:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.]]></description>
+      <source url="https://openai.com/index/helping-build-shared-standards-for-advanced-ai">OpenAI Blog</source>
+    </item>
+    <item>
       <title><![CDATA[Build real agentic apps using CUGA: two dozen working examples on a lightweight harness]]></title>
       <link>https://huggingface.co/blog/ibm-research/cuga-apps</link>
       <guid>https://huggingface.co/blog/ibm-research/cuga-apps</guid>
@@ -448,15 +457,6 @@
       <category>Claude</category>
       <description><![CDATA[The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, N]]></description>
       <source url="https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[New OpenAI Academy courses for the next era of work]]></title>
-      <link>https://openai.com/index/academy-courses-applying-ai-at-work</link>
-      <guid>https://openai.com/index/academy-courses-applying-ai-at-work</guid>
-      <pubDate>Fri, 12 Jun 2026 10:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.]]></description>
-      <source url="https://openai.com/index/academy-courses-applying-ai-at-work">OpenAI Blog</source>
     </item>
   </channel>
 </rss>

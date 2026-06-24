@@ -27,6 +27,15 @@
     "summary": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise"
   },
   {
+    "id": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "title": "Helping build shared standards for advanced AI",
+    "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "pubDate": "Tue, 23 Jun 2026 13:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation."
+  },
+  {
     "id": "https://huggingface.co/blog/ibm-research/cuga-apps",
     "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
     "link": "https://huggingface.co/blog/ibm-research/cuga-apps",
@@ -1789,14 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption."
-  },
-  {
-    "id": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-    "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-    "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-    "pubDate": "Thu, 07 May 2026 13:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure."
   }
 ]
