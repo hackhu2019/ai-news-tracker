@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "pubDate": "Wed, 24 Jun 2026 06:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems."
+  },
+  {
     "id": "https://techcrunch.com/?p=3135406",
     "title": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
     "link": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
@@ -1789,14 +1798,5 @@
     "source": "TechCrunch - xAI",
     "category": "Grok",
     "summary": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves. From Anthropic and OpenAI announcing new joint ventures targeting enterprise AI deploym"
-  },
-  {
-    "id": "https://openai.com/index/running-codex-safely",
-    "title": "Running Codex safely at OpenAI",
-    "link": "https://openai.com/index/running-codex-safely",
-    "pubDate": "Fri, 08 May 2026 12:30:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption."
   }
 ]
