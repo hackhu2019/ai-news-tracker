@@ -5,9 +5,27 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 24 Jun 2026 06:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 16:30:01 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Introducing computer use in Gemini 3.5 Flash]]></title>
+      <link>https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/</link>
+      <guid>https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/</guid>
+      <pubDate>Wed, 24 Jun 2026 16:30:01 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[]]></description>
+      <source url="https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/">Google DeepMind Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel]]></title>
+      <link>https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel</link>
+      <guid>https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel</guid>
+      <pubDate>Wed, 24 Jun 2026 16:00:13 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel">Hugging Face Blog</source>
+    </item>
     <item>
       <title><![CDATA[OpenAI and Broadcom unveil LLM-optimized inference chip]]></title>
       <link>https://openai.com/index/openai-broadcom-jalapeno-inference-chip</link>
@@ -16,6 +34,15 @@
       <category>ChatGPT</category>
       <description><![CDATA[OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.]]></description>
       <source url="https://openai.com/index/openai-broadcom-jalapeno-inference-chip">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World]]></title>
+      <link>https://huggingface.co/blog/ffasr-leaderboard</link>
+      <guid>https://huggingface.co/blog/ffasr-leaderboard</guid>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/ffasr-leaderboard">Hugging Face Blog</source>
     </item>
     <item>
       <title><![CDATA[After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund]]></title>
@@ -430,33 +457,6 @@
       <category>Claude</category>
       <description><![CDATA[Anthropic isn't hiding its frustration. "We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people," the ]]></description>
       <source url="https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Mistral is rumored to be raising €3B at €20B valuation]]></title>
-      <link>https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/</link>
-      <guid>https://techcrunch.com/?p=3132412</guid>
-      <pubDate>Fri, 12 Jun 2026 17:38:11 +0000</pubDate>
-      <category>Mistral</category>
-      <description><![CDATA[The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.]]></description>
-      <source url="https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/">TechCrunch - Mistral AI</source>
-    </item>
-    <item>
-      <title><![CDATA[SpaceX, Anthropic, and OpenAI’s hot IPO summer]]></title>
-      <link>https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/</link>
-      <guid>https://techcrunch.com/?post_type=tc_video&p=3132423</guid>
-      <pubDate>Fri, 12 Jun 2026 16:23:25 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, N]]></description>
-      <source url="https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[olmo-eval: An evaluation workbench for the model development loop]]></title>
-      <link>https://huggingface.co/blog/allenai/olmo-eval</link>
-      <guid>https://huggingface.co/blog/allenai/olmo-eval</guid>
-      <pubDate>Fri, 12 Jun 2026 15:56:10 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/allenai/olmo-eval">Hugging Face Blog</source>
     </item>
   </channel>
 </rss>
