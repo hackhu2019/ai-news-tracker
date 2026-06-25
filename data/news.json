@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3135892",
+    "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+    "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+    "pubDate": "Thu, 25 Jun 2026 17:38:27 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows."
+  },
+  {
+    "id": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+    "title": "Which tokens does a hybrid model predict better?",
+    "link": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+    "pubDate": "Thu, 25 Jun 2026 16:11:42 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://openai.com/index/how-agents-are-transforming-work",
     "title": "How agents are transforming work",
     "link": "https://openai.com/index/how-agents-are-transforming-work",
@@ -1780,23 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraint"
-  },
-  {
-    "id": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
-    "title": "Building Blocks for Foundation Model Training and Inference on AWS",
-    "link": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
-    "pubDate": "Mon, 11 May 2026 23:18:26 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/signals/research/2026q1-update",
-    "title": "How ChatGPT adoption broadened in early 2026",
-    "link": "https://openai.com/signals/research/2026q1-update",
-    "pubDate": "Mon, 11 May 2026 15:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption."
   }
 ]

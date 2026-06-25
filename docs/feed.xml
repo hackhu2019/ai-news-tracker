@@ -5,9 +5,27 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 25 Jun 2026 02:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 17:38:27 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT]]></title>
+      <link>https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/</link>
+      <guid>https://techcrunch.com/?p=3135892</guid>
+      <pubDate>Thu, 25 Jun 2026 17:38:27 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.]]></description>
+      <source url="https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Which tokens does a hybrid model predict better?]]></title>
+      <link>https://huggingface.co/blog/allenai/hybrid-token-prediction</link>
+      <guid>https://huggingface.co/blog/allenai/hybrid-token-prediction</guid>
+      <pubDate>Thu, 25 Jun 2026 16:11:42 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/allenai/hybrid-token-prediction">Hugging Face Blog</source>
+    </item>
     <item>
       <title><![CDATA[How agents are transforming work]]></title>
       <link>https://openai.com/index/how-agents-are-transforming-work</link>
@@ -439,24 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.]]></description>
       <source url="https://openai.com/index/introducing-openai-partner-network">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[As AI companies race to go public, who else is along for the ride?]]></title>
-      <link>https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/</link>
-      <guid>https://techcrunch.com/?p=3132739</guid>
-      <pubDate>Sun, 14 Jun 2026 16:38:09 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Startups are trying to "ride that SpaceX IPO wave."]]></description>
-      <source url="https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[As Anthropic suspends access to new models, India debates its AI future]]></title>
-      <link>https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/</link>
-      <guid>https://techcrunch.com/?p=3132702</guid>
-      <pubDate>Sun, 14 Jun 2026 03:00:00 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.]]></description>
-      <source url="https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>
