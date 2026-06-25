@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3135911",
+    "title": "AI researchers continue to leave Google for its rivals",
+    "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+    "pubDate": "Wed, 24 Jun 2026 21:42:07 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper."
+  },
+  {
     "id": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
     "title": "Introducing computer use in Gemini 3.5 Flash",
     "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
@@ -1789,14 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community."
-  },
-  {
-    "id": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-    "title": "How enterprises are scaling AI",
-    "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-    "pubDate": "Mon, 11 May 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale."
   }
 ]
