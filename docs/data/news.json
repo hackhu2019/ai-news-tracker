@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://techcrunch.com/?post_type=tc_video&p=3136708",
+    "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+    "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+    "pubDate": "Fri, 26 Jun 2026 17:43:22 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built wit"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3136684",
+    "title": "It’s not about Anthropic vs. OpenAI anymore",
+    "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+    "pubDate": "Fri, 26 Jun 2026 16:24:47 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action."
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3136707",
+    "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+    "link": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+    "pubDate": "Fri, 26 Jun 2026 14:00:00 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built wit"
+  },
+  {
+    "id": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "link": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "pubDate": "Fri, 26 Jun 2026 10:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack."
+  },
+  {
     "id": "https://huggingface.co/blog/vllm-jobs",
     "title": "Run a vLLM Server on HF Jobs in One Command",
     "link": "https://huggingface.co/blog/vllm-jobs",
@@ -1762,41 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenA"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3121675",
-    "title": "Report: Google and SpaceX in talks to put data centers into orbit",
-    "link": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
-    "pubDate": "Tue, 12 May 2026 17:30:57 +0000",
-    "source": "TechCrunch - xAI",
-    "category": "Grok",
-    "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground."
-  },
-  {
-    "id": "https://openai.com/academy/how-finance-teams-use-codex",
-    "title": "How finance teams use Codex",
-    "link": "https://openai.com/academy/how-finance-teams-use-codex",
-    "pubDate": "Tue, 12 May 2026 15:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs."
-  },
-  {
-    "id": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
-    "title": "Co-Scientist: A multi-agent AI partner to accelerate research",
-    "link": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
-    "pubDate": "Tue, 12 May 2026 14:40:07 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Introducing Co-Scientist, a collaborative AI partner built with Gemini to help researchers accelerate scientific breakthroughs."
-  },
-  {
-    "id": "https://openai.com/index/nvidia",
-    "title": "How NVIDIA engineers and researchers build with Codex",
-    "link": "https://openai.com/index/nvidia",
-    "pubDate": "Tue, 12 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments."
   }
 ]

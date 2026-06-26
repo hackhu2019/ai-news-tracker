@@ -5,9 +5,45 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 26 Jun 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 17:43:22 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)]]></title>
+      <link>https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/</link>
+      <guid>https://techcrunch.com/?post_type=tc_video&p=3136708</guid>
+      <pubDate>Fri, 26 Jun 2026 17:43:22 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built wit]]></description>
+      <source url="https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[It’s not about Anthropic vs. OpenAI anymore]]></title>
+      <link>https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/</link>
+      <guid>https://techcrunch.com/?p=3136684</guid>
+      <pubDate>Fri, 26 Jun 2026 16:24:47 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.]]></description>
+      <source url="https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia]]></title>
+      <link>https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/</link>
+      <guid>https://techcrunch.com/?post_type=tc_podcast&p=3136707</guid>
+      <pubDate>Fri, 26 Jun 2026 14:00:00 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built wit]]></description>
+      <source url="https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Previewing GPT-5.6 Sol: a next-generation model]]></title>
+      <link>https://openai.com/index/previewing-gpt-5-6-sol</link>
+      <guid>https://openai.com/index/previewing-gpt-5-6-sol</guid>
+      <pubDate>Fri, 26 Jun 2026 10:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.]]></description>
+      <source url="https://openai.com/index/previewing-gpt-5-6-sol">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Run a vLLM Server on HF Jobs in One Command]]></title>
       <link>https://huggingface.co/blog/vllm-jobs</link>
@@ -421,42 +457,6 @@
       <category>Gemini</category>
       <description><![CDATA[UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.]]></description>
       <source url="https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/">Google DeepMind Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Securing the future of AI agents]]></title>
-      <link>https://deepmind.google/blog/securing-the-future-of-ai-agents/</link>
-      <guid>https://deepmind.google/blog/securing-the-future-of-ai-agents/</guid>
-      <pubDate>Tue, 16 Jun 2026 15:46:31 +0000</pubDate>
-      <category>Gemini</category>
-      <description><![CDATA[Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.]]></description>
-      <source url="https://deepmind.google/blog/securing-the-future-of-ai-agents/">Google DeepMind Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’]]></title>
-      <link>https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/</link>
-      <guid>https://techcrunch.com/?p=3133261</guid>
-      <pubDate>Tue, 16 Jun 2026 15:05:03 +0000</pubDate>
-      <category>Grok</category>
-      <description><![CDATA[The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines.]]></description>
-      <source url="https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/">TechCrunch - xAI</source>
-    </item>
-    <item>
-      <title><![CDATA[Predicting model behavior before release by simulating deployment]]></title>
-      <link>https://openai.com/index/deployment-simulation</link>
-      <guid>https://openai.com/index/deployment-simulation</guid>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.]]></description>
-      <source url="https://openai.com/index/deployment-simulation">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[The US government’s Anthropic models ban was never about an AI jailbreak]]></title>
-      <link>https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/</link>
-      <guid>https://techcrunch.com/?p=3133070</guid>
-      <pubDate>Mon, 15 Jun 2026 21:50:21 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune fro]]></description>
-      <source url="https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>
