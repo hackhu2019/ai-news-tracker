@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://huggingface.co/blog/vllm-jobs",
+    "title": "Run a vLLM Server on HF Jobs in One Command",
+    "link": "https://huggingface.co/blog/vllm-jobs",
+    "pubDate": "Fri, 26 Jun 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/?p=3136540",
+    "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+    "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+    "pubDate": "Thu, 25 Jun 2026 23:34:39 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to."
+  },
+  {
     "id": "https://techcrunch.com/?p=3135892",
     "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
     "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
@@ -1780,23 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments."
-  },
-  {
-    "id": "https://openai.com/index/autoscout24",
-    "title": "AutoScout24 scales engineering with AI-powered workflows",
-    "link": "https://openai.com/index/autoscout24",
-    "pubDate": "Tue, 12 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption."
-  },
-  {
-    "id": "https://openai.com/index/what-parameter-golf-taught-us",
-    "title": "What Parameter Golf taught us about AI-assisted research",
-    "link": "https://openai.com/index/what-parameter-golf-taught-us",
-    "pubDate": "Tue, 12 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraint"
   }
 ]
