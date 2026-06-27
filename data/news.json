@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3136677",
+    "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+    "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "pubDate": "Sat, 27 Jun 2026 12:00:00 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market."
+  },
+  {
     "id": "https://techcrunch.com/?p=3136944",
     "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
     "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
@@ -1789,14 +1798,5 @@
     "source": "TechCrunch - xAI",
     "category": "Grok",
     "summary": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants."
-  },
-  {
-    "id": "https://openai.com/index/building-codex-windows-sandbox",
-    "title": "Building a safe, effective sandbox to enable Codex on Windows",
-    "link": "https://openai.com/index/building-codex-windows-sandbox",
-    "pubDate": "Wed, 13 May 2026 11:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how OpenAI built a safe, effective sandbox to enable Codex on Windows with controlled file access and network limits."
   }
 ]
