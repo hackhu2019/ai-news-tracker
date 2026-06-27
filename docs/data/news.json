@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3136944",
+    "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+    "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+    "pubDate": "Sat, 27 Jun 2026 01:01:37 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees."
+  },
+  {
     "id": "https://techcrunch.com/?post_type=tc_video&p=3136708",
     "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
     "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
@@ -1789,14 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Learn how OpenAI built a safe, effective sandbox to enable Codex on Windows with controlled file access and network limits."
-  },
-  {
-    "id": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-    "title": "Our response to the TanStack npm supply chain attack",
-    "link": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-    "pubDate": "Wed, 13 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenA"
   }
 ]
