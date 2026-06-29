@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3137238",
+    "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+    "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+    "pubDate": "Mon, 29 Jun 2026 18:10:26 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival."
+  },
+  {
+    "id": "https://huggingface.co/blog/allenai/discoformer",
+    "title": "DiScoFormer: One transformer for density and score, across distributions",
+    "link": "https://huggingface.co/blog/allenai/discoformer",
+    "pubDate": "Mon, 29 Jun 2026 18:02:48 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://openai.com/index/mapping-ai-jobs-transition-eu",
     "title": "Mapping Europe’s AI Workforce Opportunity",
     "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
@@ -1777,24 +1795,6 @@
     "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
     "link": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
     "pubDate": "Thu, 14 May 2026 18:55:01 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/work-with-codex-from-anywhere",
-    "title": "Work with Codex from anywhere",
-    "link": "https://openai.com/index/work-with-codex-from-anywhere",
-    "pubDate": "Thu, 14 May 2026 13:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments."
-  },
-  {
-    "id": "https://huggingface.co/blog/continuous_async",
-    "title": "Unlocking asynchronicity in continuous batching",
-    "link": "https://huggingface.co/blog/continuous_async",
-    "pubDate": "Thu, 14 May 2026 00:00:00 GMT",
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
