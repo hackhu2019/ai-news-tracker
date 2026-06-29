@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://openai.com/index/hp-frontier-partnership",
+    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+    "link": "https://openai.com/index/hp-frontier-partnership",
+    "pubDate": "Sun, 28 Jun 2026 17:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations."
+  },
+  {
     "id": "https://techcrunch.com/?p=3136677",
     "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
     "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
@@ -1789,14 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3122344",
-    "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
-    "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
-    "pubDate": "Wed, 13 May 2026 19:49:42 +0000",
-    "source": "TechCrunch - xAI",
-    "category": "Grok",
-    "summary": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants."
   }
 ]
