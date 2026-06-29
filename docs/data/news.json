@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "title": "Mapping Europe’s AI Workforce Opportunity",
+    "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes."
+  },
+  {
     "id": "https://openai.com/index/hp-frontier-partnership",
     "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
     "link": "https://openai.com/index/hp-frontier-partnership",
@@ -1789,14 +1798,5 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-    "title": "Helping ChatGPT better recognize context in sensitive conversations",
-    "link": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-    "pubDate": "Thu, 14 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely."
   }
 ]
