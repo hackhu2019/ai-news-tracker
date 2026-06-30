@@ -5,9 +5,99 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 29 Jun 2026 18:10:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 18:32:50 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration]]></title>
+      <link>https://huggingface.co/blog/ibm-research/scarfbench</link>
+      <guid>https://huggingface.co/blog/ibm-research/scarfbench</guid>
+      <pubDate>Tue, 30 Jun 2026 18:32:50 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/ibm-research/scarfbench">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic launches Claude Sonnet 5 as a cheaper way to run agents]]></title>
+      <link>https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/</link>
+      <guid>https://techcrunch.com/?p=3137723</guid>
+      <pubDate>Tue, 30 Jun 2026 18:00:00 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.]]></description>
+      <source url="https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists]]></title>
+      <link>https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/</link>
+      <guid>https://techcrunch.com/?p=3137674</guid>
+      <pubDate>Tue, 30 Jun 2026 17:00:00 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.]]></description>
+      <source url="https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Start building with Nano Banana 2 Lite and Gemini Omni Flash]]></title>
+      <link>https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/</link>
+      <guid>https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/</guid>
+      <pubDate>Tue, 30 Jun 2026 16:02:40 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[]]></description>
+      <source url="https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/">Google DeepMind Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Why Specialization Is Inevitable]]></title>
+      <link>https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable</link>
+      <guid>https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable</guid>
+      <pubDate>Tue, 30 Jun 2026 14:39:11 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[How ChatGPT adoption has expanded]]></title>
+      <link>https://openai.com/index/how-chatgpt-adoption-has-expanded</link>
+      <guid>https://openai.com/index/how-chatgpt-adoption-has-expanded</guid>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.]]></description>
+      <source url="https://openai.com/index/how-chatgpt-adoption-has-expanded">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Introducing GeneBench-Pro]]></title>
+      <link>https://openai.com/index/introducing-genebench-pro</link>
+      <guid>https://openai.com/index/introducing-genebench-pro</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.]]></description>
+      <source url="https://openai.com/index/introducing-genebench-pro">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Core dump epidemiology: fixing an 18-year-old bug]]></title>
+      <link>https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</link>
+      <guid>https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.]]></description>
+      <source url="https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Inside Genebench-Pro]]></title>
+      <link>https://openai.com/index/genebench-pro/case-studies</link>
+      <guid>https://openai.com/index/genebench-pro/case-studies</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[]]></description>
+      <source url="https://openai.com/index/genebench-pro/case-studies">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Featuring Every Eval Ever Results on Hugging Face Model Pages]]></title>
+      <link>https://huggingface.co/blog/eee-community-evals</link>
+      <guid>https://huggingface.co/blog/eee-community-evals</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/eee-community-evals">Hugging Face Blog</source>
+    </item>
     <item>
       <title><![CDATA[Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price]]></title>
       <link>https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/</link>
@@ -367,96 +457,6 @@
       <category>Claude</category>
       <description><![CDATA[Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way t]]></description>
       <source url="https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[MosaicLeaks: Can your research agent keep a secret?]]></title>
-      <link>https://huggingface.co/blog/ServiceNow/mosaicleaks</link>
-      <guid>https://huggingface.co/blog/ServiceNow/mosaicleaks</guid>
-      <pubDate>Thu, 18 Jun 2026 18:13:13 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/ServiceNow/mosaicleaks">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[New usage analytics and updated spend controls for enterprises]]></title>
-      <link>https://openai.com/index/chatgpt-enterprise-spend-controls</link>
-      <guid>https://openai.com/index/chatgpt-enterprise-spend-controls</guid>
-      <pubDate>Thu, 18 Jun 2026 17:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.]]></description>
-      <source url="https://openai.com/index/chatgpt-enterprise-spend-controls">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Improving health intelligence in ChatGPT]]></title>
-      <link>https://openai.com/index/improving-health-intelligence-in-chatgpt</link>
-      <guid>https://openai.com/index/improving-health-intelligence-in-chatgpt</guid>
-      <pubDate>Thu, 18 Jun 2026 11:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.]]></description>
-      <source url="https://openai.com/index/improving-health-intelligence-in-chatgpt">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Using AI to help physicians diagnose rare genetic diseases affecting children]]></title>
-      <link>https://openai.com/index/diagnose-rare-childhood-diseases</link>
-      <guid>https://openai.com/index/diagnose-rare-childhood-diseases</guid>
-      <pubDate>Thu, 18 Jun 2026 08:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.]]></description>
-      <source url="https://openai.com/index/diagnose-rare-childhood-diseases">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Beyond LoRA: Can you beat the most popular fine-tuning technique?]]></title>
-      <link>https://huggingface.co/blog/peft-beyond-lora</link>
-      <guid>https://huggingface.co/blog/peft-beyond-lora</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/peft-beyond-lora">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Is it agentic enough? Benchmarking open models on your own tooling]]></title>
-      <link>https://huggingface.co/blog/is-it-agentic-enough</link>
-      <guid>https://huggingface.co/blog/is-it-agentic-enough</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/is-it-agentic-enough">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[World leaders want American AI. They just don’t want America to be able to turn it off.]]></title>
-      <link>https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/</link>
-      <guid>https://techcrunch.com/?p=3133924</guid>
-      <pubDate>Wed, 17 Jun 2026 19:01:19 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight  — a fear the Anthropic blackout just made real.]]></description>
-      <source url="https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic becomes first AI startup to join the Frontier carbon removal coalition]]></title>
-      <link>https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/</link>
-      <guid>https://techcrunch.com/?p=3133904</guid>
-      <pubDate>Wed, 17 Jun 2026 18:30:56 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.]]></description>
-      <source url="https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[MolmoMotion: Language-guided 3D motion forecasting]]></title>
-      <link>https://huggingface.co/blog/allenai/molmomotion</link>
-      <guid>https://huggingface.co/blog/allenai/molmomotion</guid>
-      <pubDate>Wed, 17 Jun 2026 15:26:44 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/allenai/molmomotion">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot]]></title>
-      <link>https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware</link>
-      <guid>https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware</guid>
-      <pubDate>Wed, 17 Jun 2026 10:18:05 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware">Hugging Face Blog</source>
     </item>
   </channel>
 </rss>

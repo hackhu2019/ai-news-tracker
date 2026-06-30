@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+    "link": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "pubDate": "Tue, 30 Jun 2026 18:32:50 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/?p=3137723",
+    "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+    "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+    "pubDate": "Tue, 30 Jun 2026 18:00:00 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3137674",
+    "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
+    "link": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+    "pubDate": "Tue, 30 Jun 2026 17:00:00 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools."
+  },
+  {
+    "id": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+    "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "pubDate": "Tue, 30 Jun 2026 16:02:40 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "title": "Why Specialization Is Inevitable",
+    "link": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "pubDate": "Tue, 30 Jun 2026 14:39:11 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "title": "How ChatGPT adoption has expanded",
+    "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "pubDate": "Tue, 30 Jun 2026 09:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages."
+  },
+  {
+    "id": "https://openai.com/index/introducing-genebench-pro",
+    "title": "Introducing GeneBench-Pro",
+    "link": "https://openai.com/index/introducing-genebench-pro",
+    "pubDate": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets."
+  },
+  {
+    "id": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "pubDate": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug."
+  },
+  {
+    "id": "https://openai.com/index/genebench-pro/case-studies",
+    "title": "Inside Genebench-Pro",
+    "link": "https://openai.com/index/genebench-pro/case-studies",
+    "pubDate": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/eee-community-evals",
+    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+    "link": "https://huggingface.co/blog/eee-community-evals",
+    "pubDate": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/?p=3137238",
     "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
     "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
@@ -1708,95 +1798,5 @@
     "source": "Google DeepMind Blog",
     "category": "Gemini",
     "summary": "Learn how our WeatherNext AI model help forecasters give communities unprecedented time to prepare ahead of  the historic Hurricane Melissa."
-  },
-  {
-    "id": "https://openai.com/index/malta-chatgpt-plus-partnership",
-    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-    "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
-    "pubDate": "Sat, 16 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly."
-  },
-  {
-    "id": "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/",
-    "title": "Gemini 3.5: frontier intelligence with action",
-    "link": "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/",
-    "pubDate": "Fri, 15 May 2026 22:50:12 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Gemini 3.5 is built to help you execute complex, agentic workflows."
-  },
-  {
-    "id": "https://openai.com/index/databricks",
-    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-    "link": "https://openai.com/index/databricks",
-    "pubDate": "Fri, 15 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark."
-  },
-  {
-    "id": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "title": "How data science teams use Codex",
-    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "pubDate": "Fri, 15 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
-  },
-  {
-    "id": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-    "title": "How business operations teams use Codex",
-    "link": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-    "pubDate": "Fri, 15 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs."
-  },
-  {
-    "id": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-    "title": "How sales teams use Codex",
-    "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-    "pubDate": "Fri, 15 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
-  },
-  {
-    "id": "https://openai.com/index/personal-finance-chatgpt",
-    "title": "A new personal finance experience in ChatGPT",
-    "link": "https://openai.com/index/personal-finance-chatgpt",
-    "pubDate": "Fri, 15 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goa"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3122877",
-    "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
-    "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
-    "pubDate": "Thu, 14 May 2026 21:30:44 +0000",
-    "source": "TechCrunch - xAI",
-    "category": "Grok",
-    "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakene"
-  },
-  {
-    "id": "https://openai.com/index/sea-david-chen",
-    "title": "Sea's View on the Future of Agentic Software Development with Codex",
-    "link": "https://openai.com/index/sea-david-chen",
-    "pubDate": "Thu, 14 May 2026 20:30:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia."
-  },
-  {
-    "id": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
-    "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
-    "pubDate": "Thu, 14 May 2026 18:55:01 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
   }
 ]
