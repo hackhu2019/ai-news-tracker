@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3137898",
+    "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+    "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+    "pubDate": "Wed, 01 Jul 2026 02:16:06 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases."
+  },
+  {
     "id": "https://huggingface.co/blog/ibm-research/scarfbench",
     "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
     "link": "https://huggingface.co/blog/ibm-research/scarfbench",
@@ -1789,14 +1798,5 @@
     "source": "Google DeepMind Blog",
     "category": "Gemini",
     "summary": "Stanford geneticist uses Co-Scientist to help find new treatments for chronic liver disease and liver fibrosis."
-  },
-  {
-    "id": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
-    "title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
-    "link": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
-    "pubDate": "Sat, 16 May 2026 03:14:17 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Learn how our WeatherNext AI model help forecasters give communities unprecedented time to prepare ahead of  the historic Hurricane Melissa."
   }
 ]
