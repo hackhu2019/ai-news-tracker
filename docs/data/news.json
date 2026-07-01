@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3138299",
+    "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+    "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+    "pubDate": "Wed, 01 Jul 2026 18:54:18 +0000",
+    "source": "TechCrunch - xAI",
+    "category": "Grok",
+    "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless."
+  },
+  {
     "id": "https://techcrunch.com/?p=3137898",
     "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
     "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
@@ -7,6 +16,15 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases."
+  },
+  {
+    "id": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "pubDate": "Wed, 01 Jul 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
   },
   {
     "id": "https://huggingface.co/blog/ibm-research/scarfbench",
@@ -1780,23 +1798,5 @@
     "source": "Google DeepMind Blog",
     "category": "Gemini",
     "summary": "Filippo Menolascina uses Co-Scientist to identify new liver disease treatments and explain why existing drugs only help certain patients."
-  },
-  {
-    "id": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/",
-    "title": "Uniting biological toolkits for a new approach to ALS",
-    "link": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/",
-    "pubDate": "Sat, 16 May 2026 07:53:11 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Co-Scientist unites Boston Children’s Hospital and MIT’s labs to explore new RNA-based treatments for ALS."
-  },
-  {
-    "id": "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis/",
-    "title": "Uncovering repurposed medicines to fight liver fibrosis",
-    "link": "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis/",
-    "pubDate": "Sat, 16 May 2026 07:40:27 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Stanford geneticist uses Co-Scientist to help find new treatments for chronic liver disease and liver fibrosis."
   }
 ]
