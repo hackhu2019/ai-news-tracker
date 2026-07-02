@@ -5,9 +5,18 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 01 Jul 2026 18:54:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 18:31:09 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Anthropic is discussing a new custom chip with Samsung]]></title>
+      <link>https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/</link>
+      <guid>https://techcrunch.com/?p=3138664</guid>
+      <pubDate>Thu, 02 Jul 2026 18:31:09 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.]]></description>
+      <source url="https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/">TechCrunch - Anthropic</source>
+    </item>
     <item>
       <title><![CDATA[SpaceX has an AI device prototype, and it sure sounds phone-ish]]></title>
       <link>https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/</link>
@@ -448,15 +457,6 @@
       <category>Claude</category>
       <description><![CDATA[On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.]]></description>
       <source url="https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Nobel laureate John Jumper is leaving DeepMind for rival Anthropic]]></title>
-      <link>https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/</link>
-      <guid>https://techcrunch.com/?p=3134677</guid>
-      <pubDate>Sat, 20 Jun 2026 16:39:57 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Jumper isn't the only big name leaving Google DeepMind.]]></description>
-      <source url="https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>
