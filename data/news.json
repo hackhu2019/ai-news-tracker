@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+    "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "pubDate": "Fri, 03 Jul 2026 14:25:43 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/?p=3138664",
     "title": "Anthropic is discussing a new custom chip with Samsung",
     "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
@@ -1789,14 +1798,5 @@
     "source": "Google DeepMind Blog",
     "category": "Gemini",
     "summary": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases."
-  },
-  {
-    "id": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
-    "title": "Opening new paths in aging research",
-    "link": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
-    "pubDate": "Sat, 16 May 2026 08:08:44 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research."
   }
 ]
