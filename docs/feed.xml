@@ -5,9 +5,18 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 03 Jul 2026 14:25:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 15:51:32 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[What is Mistral AI? Everything to know about the OpenAI competitor]]></title>
+      <link>https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/</link>
+      <guid>https://techcrunch.com/?p=2970347</guid>
+      <pubDate>Sat, 04 Jul 2026 15:51:32 +0000</pubDate>
+      <category>Mistral</category>
+      <description><![CDATA[Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”]]></description>
+      <source url="https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/">TechCrunch - Mistral AI</source>
+    </item>
     <item>
       <title><![CDATA[Google DeepMind and A24 announce first-of-its-kind research partnership]]></title>
       <link>https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/</link>
@@ -448,15 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.]]></description>
       <source url="https://openai.com/index/codex-maxxing-long-running-work">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Samsung Electronics brings ChatGPT and Codex to employees]]></title>
-      <link>https://openai.com/index/samsung-electronics-chatgpt-codex-deployment</link>
-      <guid>https://openai.com/index/samsung-electronics-chatgpt-codex-deployment</guid>
-      <pubDate>Sun, 21 Jun 2026 23:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.]]></description>
-      <source url="https://openai.com/index/samsung-electronics-chatgpt-codex-deployment">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
