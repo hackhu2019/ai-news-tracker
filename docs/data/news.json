@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://huggingface.co/blog/revamped-kernels",
+    "title": "🤗 Kernels: Major Updates",
+    "link": "https://huggingface.co/blog/revamped-kernels",
+    "pubDate": "Mon, 06 Jul 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/?p=2970347",
     "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
     "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
@@ -1789,14 +1798,5 @@
     "source": "Google DeepMind Blog",
     "category": "Gemini",
     "summary": "We're expanding our tools to help you understand how content was created and edited across the web."
-  },
-  {
-    "id": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
-    "title": "Strengthening Singapore’s AI Future: A New National Partnership",
-    "link": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
-    "pubDate": "Sat, 16 May 2026 09:13:34 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more."
   }
 ]
