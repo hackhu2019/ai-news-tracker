@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://huggingface.co/blog/lerobot-release-v060",
+    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+    "link": "https://huggingface.co/blog/lerobot-release-v060",
+    "pubDate": "Tue, 07 Jul 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+    "title": "PRX Part 4: Our Data Strategy",
+    "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+    "pubDate": "Mon, 06 Jul 2026 15:30:55 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://huggingface.co/blog/revamped-kernels",
     "title": "🤗 Kernels: Major Updates",
     "link": "https://huggingface.co/blog/revamped-kernels",
@@ -1780,23 +1798,5 @@
     "source": "Google DeepMind Blog",
     "category": "Gemini",
     "summary": ""
-  },
-  {
-    "id": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
-    "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
-    "link": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
-    "pubDate": "Sun, 17 May 2026 13:50:34 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "A collection of science tools and experiments to expand the scale and precision of scientific exploration."
-  },
-  {
-    "id": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
-    "title": "Making it easier to understand how content was created and edited",
-    "link": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
-    "pubDate": "Sun, 17 May 2026 13:43:50 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "We're expanding our tools to help you understand how content was created and edited across the web."
   }
 ]
