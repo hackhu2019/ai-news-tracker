@@ -5,9 +5,45 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 07 Jul 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 16:27:18 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Claude Cowork expands to mobile and web]]></title>
+      <link>https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/</link>
+      <guid>https://techcrunch.com/?p=3139729</guid>
+      <pubDate>Tue, 07 Jul 2026 16:27:18 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.]]></description>
+      <source url="https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Hugging Face Models on Foundry Managed Compute]]></title>
+      <link>https://huggingface.co/blog/microsoft/foundry-managed-compute</link>
+      <guid>https://huggingface.co/blog/microsoft/foundry-managed-compute</guid>
+      <pubDate>Tue, 07 Jul 2026 15:20:06 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/microsoft/foundry-managed-compute">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Australian Payments Plus moves faster with ChatGPT and Codex]]></title>
+      <link>https://openai.com/index/australian-payments-plus</link>
+      <guid>https://openai.com/index/australian-payments-plus</guid>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.]]></description>
+      <source url="https://openai.com/index/australian-payments-plus">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot]]></title>
+      <link>https://huggingface.co/blog/skypilot-hf-storage</link>
+      <guid>https://huggingface.co/blog/skypilot-hf-storage</guid>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/skypilot-hf-storage">Hugging Face Blog</source>
+    </item>
     <item>
       <title><![CDATA[LeRobot v0.6.0: Imagine, Evaluate, Improve]]></title>
       <link>https://huggingface.co/blog/lerobot-release-v060</link>
@@ -421,42 +457,6 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/cross-origin-storage">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How Omio is building the future of conversational travel]]></title>
-      <link>https://openai.com/index/omio</link>
-      <guid>https://openai.com/index/omio</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.]]></description>
-      <source url="https://openai.com/index/omio">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Shipping huggingface_hub every week with AI, open tools, and a human in the loop]]></title>
-      <link>https://huggingface.co/blog/huggingface-hub-release-ci</link>
-      <guid>https://huggingface.co/blog/huggingface-hub-release-ci</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/huggingface-hub-release-ci">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic says Claude may want to see your ID]]></title>
-      <link>https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/</link>
-      <guid>https://techcrunch.com/?p=3135006</guid>
-      <pubDate>Mon, 22 Jun 2026 18:05:13 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Claude's chatbot may ask to verify your age and identity "in certain circumstances," such as with a passport or driver's license, according to a privacy policy change.]]></description>
-      <source url="https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters]]></title>
-      <link>https://huggingface.co/blog/PaddlePaddle/pp-ocrv6</link>
-      <guid>https://huggingface.co/blog/PaddlePaddle/pp-ocrv6</guid>
-      <pubDate>Mon, 22 Jun 2026 13:18:56 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/PaddlePaddle/pp-ocrv6">Hugging Face Blog</source>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3139729",
+    "title": "Claude Cowork expands to mobile and web",
+    "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+    "pubDate": "Tue, 07 Jul 2026 16:27:18 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed."
+  },
+  {
+    "id": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "title": "Hugging Face Models on Foundry Managed Compute",
+    "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "pubDate": "Tue, 07 Jul 2026 15:20:06 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/australian-payments-plus",
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "link": "https://openai.com/index/australian-payments-plus",
+    "pubDate": "Tue, 07 Jul 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central."
+  },
+  {
+    "id": "https://huggingface.co/blog/skypilot-hf-storage",
+    "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+    "link": "https://huggingface.co/blog/skypilot-hf-storage",
+    "pubDate": "Tue, 07 Jul 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://huggingface.co/blog/lerobot-release-v060",
     "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
     "link": "https://huggingface.co/blog/lerobot-release-v060",
@@ -1762,41 +1798,5 @@
     "source": "Google DeepMind Blog",
     "category": "Gemini",
     "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells."
-  },
-  {
-    "id": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-    "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-    "link": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-    "pubDate": "Mon, 18 May 2026 15:12:46 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/dell-codex-enterprise-partnership",
-    "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-    "link": "https://openai.com/index/dell-codex-enterprise-partnership",
-    "pubDate": "Mon, 18 May 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows."
-  },
-  {
-    "id": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
-    "title": "Simulate real-world places with Project Genie and Street View",
-    "link": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
-    "pubDate": "Sun, 17 May 2026 19:53:18 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View."
-  },
-  {
-    "id": "https://deepmind.google/blog/introducing-gemini-omni/",
-    "title": "Introducing Gemini Omni",
-    "link": "https://deepmind.google/blog/introducing-gemini-omni/",
-    "pubDate": "Sun, 17 May 2026 19:50:57 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": ""
   }
 ]
