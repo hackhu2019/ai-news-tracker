@@ -36,6 +36,15 @@
       <source url="https://huggingface.co/blog/revamped-kernels">Hugging Face Blog</source>
     </item>
     <item>
+      <title><![CDATA[Alibaba reportedly bans employees from using Claude Code]]></title>
+      <link>https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/</link>
+      <guid>https://techcrunch.com/?p=3138976</guid>
+      <pubDate>Sat, 04 Jul 2026 16:32:08 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Alibaba has reportedly classified Claude Code as high-risk software.]]></description>
+      <source url="https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
       <title><![CDATA[What is Mistral AI? Everything to know about the OpenAI competitor]]></title>
       <link>https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/</link>
       <guid>https://techcrunch.com/?p=2970347</guid>
@@ -448,15 +457,6 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/PaddlePaddle/pp-ocrv6">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Daybreak: Tools for securing every organization in the world]]></title>
-      <link>https://openai.com/index/daybreak-securing-the-world</link>
-      <guid>https://openai.com/index/daybreak-securing-the-world</guid>
-      <pubDate>Mon, 22 Jun 2026 10:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.]]></description>
-      <source url="https://openai.com/index/daybreak-securing-the-world">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
