@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+    "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "pubDate": "Tue, 07 Jul 2026 21:15:33 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/?p=3139798",
+    "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+    "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+    "pubDate": "Tue, 07 Jul 2026 20:04:32 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3139819",
+    "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+    "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+    "pubDate": "Tue, 07 Jul 2026 19:58:20 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending."
+  },
+  {
     "id": "https://techcrunch.com/?p=3139729",
     "title": "Claude Cowork expands to mobile and web",
     "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
@@ -1771,32 +1798,5 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/advancing-content-provenance",
-    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-    "link": "https://openai.com/index/advancing-content-provenance",
-    "pubDate": "Tue, 19 May 2026 10:45:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media."
-  },
-  {
-    "id": "https://huggingface.co/blog/ettin-reranker",
-    "title": "Introducing the Ettin Reranker Family",
-    "link": "https://huggingface.co/blog/ettin-reranker",
-    "pubDate": "Tue, 19 May 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
-    "title": "Fast-tracking genetic leads to reverse cellular aging",
-    "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
-    "pubDate": "Mon, 18 May 2026 18:21:39 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells."
   }
 ]
