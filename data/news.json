@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "title": "Data for Agents",
+    "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "pubDate": "Wed, 08 Jul 2026 17:16:05 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/?p=3139890",
+    "title": "These AI startups are growing  revenue at faster and faster rates",
+    "link": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+    "pubDate": "Wed, 08 Jul 2026 15:41:06 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say."
+  },
+  {
+    "id": "https://openai.com/index/k-12-educators-practical-skills",
+    "title": "Helping K–12 educators build practical AI skills",
+    "link": "https://openai.com/index/k-12-educators-practical-skills",
+    "pubDate": "Wed, 08 Jul 2026 10:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom."
+  },
+  {
+    "id": "https://openai.com/index/introducing-gpt-live",
+    "title": "Introducing GPT-Live",
+    "link": "https://openai.com/index/introducing-gpt-live",
+    "pubDate": "Wed, 08 Jul 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice."
+  },
+  {
+    "id": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "title": "Native-speed vLLM transformers modeling backend",
+    "link": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "pubDate": "Wed, 08 Jul 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
     "title": "From Hugging Face to Amazon SageMaker Studio in one click",
     "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
@@ -1753,50 +1798,5 @@
     "source": "TechCrunch - xAI",
     "category": "Grok",
     "summary": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth."
-  },
-  {
-    "id": "https://openai.com/index/the-next-phase-of-education-for-countries",
-    "title": "The next phase of OpenAI’s Education for Countries",
-    "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
-    "pubDate": "Wed, 20 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes."
-  },
-  {
-    "id": "https://openai.com/index/ramp",
-    "title": "How Ramp engineers accelerate code review with Codex",
-    "link": "https://openai.com/index/ramp",
-    "pubDate": "Wed, 20 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours."
-  },
-  {
-    "id": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-    "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-    "pubDate": "Wed, 20 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics."
-  },
-  {
-    "id": "https://openai.com/index/introducing-openai-for-singapore",
-    "title": "Introducing OpenAI for Singapore",
-    "link": "https://openai.com/index/introducing-openai-for-singapore",
-    "pubDate": "Tue, 19 May 2026 20:30:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI."
-  },
-  {
-    "id": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-    "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
-    "link": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-    "pubDate": "Tue, 19 May 2026 18:38:09 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
   }
 ]

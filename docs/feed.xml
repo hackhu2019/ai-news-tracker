@@ -5,9 +5,54 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 07 Jul 2026 21:15:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 17:16:05 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Data for Agents]]></title>
+      <link>https://huggingface.co/blog/nvidia/open-data-for-agents</link>
+      <guid>https://huggingface.co/blog/nvidia/open-data-for-agents</guid>
+      <pubDate>Wed, 08 Jul 2026 17:16:05 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/nvidia/open-data-for-agents">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[These AI startups are growing  revenue at faster and faster rates]]></title>
+      <link>https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/</link>
+      <guid>https://techcrunch.com/?p=3139890</guid>
+      <pubDate>Wed, 08 Jul 2026 15:41:06 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[There are a lot of fast-growing AI startups, but some are growing even faster, they say.]]></description>
+      <source url="https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Helping K–12 educators build practical AI skills]]></title>
+      <link>https://openai.com/index/k-12-educators-practical-skills</link>
+      <guid>https://openai.com/index/k-12-educators-practical-skills</guid>
+      <pubDate>Wed, 08 Jul 2026 10:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.]]></description>
+      <source url="https://openai.com/index/k-12-educators-practical-skills">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Introducing GPT-Live]]></title>
+      <link>https://openai.com/index/introducing-gpt-live</link>
+      <guid>https://openai.com/index/introducing-gpt-live</guid>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.]]></description>
+      <source url="https://openai.com/index/introducing-gpt-live">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Native-speed vLLM transformers modeling backend]]></title>
+      <link>https://huggingface.co/blog/native-speed-vllm-transformers-backend</link>
+      <guid>https://huggingface.co/blog/native-speed-vllm-transformers-backend</guid>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/native-speed-vllm-transformers-backend">Hugging Face Blog</source>
+    </item>
     <item>
       <title><![CDATA[From Hugging Face to Amazon SageMaker Studio in one click]]></title>
       <link>https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio</link>
@@ -412,51 +457,6 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI and Broadcom unveil LLM-optimized inference chip]]></title>
-      <link>https://openai.com/index/openai-broadcom-jalapeno-inference-chip</link>
-      <guid>https://openai.com/index/openai-broadcom-jalapeno-inference-chip</guid>
-      <pubDate>Wed, 24 Jun 2026 06:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.]]></description>
-      <source url="https://openai.com/index/openai-broadcom-jalapeno-inference-chip">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World]]></title>
-      <link>https://huggingface.co/blog/ffasr-leaderboard</link>
-      <guid>https://huggingface.co/blog/ffasr-leaderboard</guid>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/ffasr-leaderboard">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund]]></title>
-      <link>https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/</link>
-      <guid>https://techcrunch.com/?p=3135406</guid>
-      <pubDate>Tue, 23 Jun 2026 19:49:55 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Menlo has created a solid rep for itself as an AI investor, all based on one gutsy $750 million move in 2024.]]></description>
-      <source url="https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery]]></title>
-      <link>https://openai.com/index/gpt-5-immunology-mystery</link>
-      <guid>https://openai.com/index/gpt-5-immunology-mystery</guid>
-      <pubDate>Tue, 23 Jun 2026 17:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.]]></description>
-      <source url="https://openai.com/index/gpt-5-immunology-mystery">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic’s Claude Tag is learning your company, one Slack message at a time]]></title>
-      <link>https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/</link>
-      <guid>https://techcrunch.com/?p=3135349</guid>
-      <pubDate>Tue, 23 Jun 2026 17:00:00 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise]]></description>
-      <source url="https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>
