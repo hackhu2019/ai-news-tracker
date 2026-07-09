@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3140476",
+    "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+    "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+    "pubDate": "Thu, 09 Jul 2026 14:53:09 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3140464",
+    "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+    "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+    "pubDate": "Thu, 09 Jul 2026 14:51:00 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC backed exits since 2000."
+  },
+  {
     "id": "https://huggingface.co/blog/nvidia/open-data-for-agents",
     "title": "Data for Agents",
     "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
@@ -1780,23 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3124339",
-    "title": "The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center",
-    "link": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
-    "pubDate": "Wed, 20 May 2026 23:03:02 +0000",
-    "source": "TechCrunch - xAI",
-    "category": "Grok",
-    "summary": "SpaceX has finally made the contents of its IPO filing public, weeks ahead of what is expected to be the largest IPO ever and one that will make Musk the CEO, CTO, and chairman of the board."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3124841",
-    "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
-    "link": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
-    "pubDate": "Wed, 20 May 2026 21:55:49 +0000",
-    "source": "TechCrunch - xAI",
-    "category": "Grok",
-    "summary": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing."
   }
 ]
