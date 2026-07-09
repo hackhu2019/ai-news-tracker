@@ -18,6 +18,24 @@
     "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say."
   },
   {
+    "id": "https://openai.com/index/government-national-security-partnerships",
+    "title": "Our approach to government and national security partnerships",
+    "link": "https://openai.com/index/government-national-security-partnerships",
+    "pubDate": "Wed, 08 Jul 2026 13:30:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety."
+  },
+  {
+    "id": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "title": "Separating signal from noise in coding evaluations",
+    "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "pubDate": "Wed, 08 Jul 2026 13:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models."
+  },
+  {
     "id": "https://openai.com/index/k-12-educators-practical-skills",
     "title": "Helping K–12 educators build practical AI skills",
     "link": "https://openai.com/index/k-12-educators-practical-skills",
@@ -1780,23 +1798,5 @@
     "source": "TechCrunch - xAI",
     "category": "Grok",
     "summary": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3124805",
-    "title": "Anthropic will pay xAI $1.25B per month for compute",
-    "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
-    "pubDate": "Wed, 20 May 2026 21:29:22 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3124805",
-    "title": "Anthropic will pay xAI $1.25B per month for compute",
-    "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
-    "pubDate": "Wed, 20 May 2026 21:29:22 +0000",
-    "source": "TechCrunch - xAI",
-    "category": "Grok",
-    "summary": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth."
   }
 ]
