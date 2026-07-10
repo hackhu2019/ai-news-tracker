@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3140701",
+    "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+    "link": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+    "pubDate": "Thu, 09 Jul 2026 21:57:42 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3140701",
+    "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+    "link": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+    "pubDate": "Thu, 09 Jul 2026 21:57:42 +0000",
+    "source": "TechCrunch - xAI",
+    "category": "Grok",
+    "summary": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3140525",
+    "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+    "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+    "pubDate": "Thu, 09 Jul 2026 19:40:45 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI compa"
+  },
+  {
     "id": "https://techcrunch.com/?p=3140476",
     "title": "Anthropic’s new Claude feature is quietly selling you on AI",
     "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
@@ -16,6 +43,42 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC backed exits since 2000."
+  },
+  {
+    "id": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "pubDate": "Thu, 09 Jul 2026 13:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work."
+  },
+  {
+    "id": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "title": "ChatGPT is now a partner for your most ambitious work",
+    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "pubDate": "Thu, 09 Jul 2026 10:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work."
+  },
+  {
+    "id": "https://openai.com/index/bio-bug-bounty",
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "link": "https://openai.com/index/bio-bug-bounty",
+    "pubDate": "Thu, 09 Jul 2026 10:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Details about the OpenAI Bio Bounty program"
+  },
+  {
+    "id": "https://openai.com/index/gpt-5-6",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "link": "https://openai.com/index/gpt-5-6",
+    "pubDate": "Thu, 09 Jul 2026 10:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work."
   },
   {
     "id": "https://huggingface.co/blog/nvidia/open-data-for-agents",
@@ -1449,6 +1512,15 @@
     "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand."
   },
   {
+    "id": "https://openai.com/academy/chatgpt-sites",
+    "title": "ChatGPT Sites",
+    "link": "https://openai.com/academy/chatgpt-sites",
+    "pubDate": "Tue, 02 Jun 2026 10:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Create that kind of lightweight website or app with Codex."
+  },
+  {
     "id": "https://openai.com/index/codex-for-every-role-tool-workflow",
     "title": "Codex for every role, tool, and workflow",
     "link": "https://openai.com/index/codex-for-every-role-tool-workflow",
@@ -1692,6 +1764,15 @@
     "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows."
   },
   {
+    "id": "https://openai.com/index/ai-first-hire-small-business",
+    "title": "AI is becoming a first hire for small businesses",
+    "link": "https://openai.com/index/ai-first-hire-small-business",
+    "pubDate": "Mon, 25 May 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "New research shows how 4 million Americans use ChatGPT to start, run, and grow small businesses, lowering the cost of entrepreneurship with AI."
+  },
+  {
     "id": "https://huggingface.co/blog/agent-glossary",
     "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
     "link": "https://huggingface.co/blog/agent-glossary",
@@ -1717,86 +1798,5 @@
     "source": "TechCrunch - xAI",
     "category": "Grok",
     "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3125279",
-    "title": "Elon Musk has given up on solar power (on Earth)",
-    "link": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
-    "pubDate": "Sat, 23 May 2026 13:00:00 +0000",
-    "source": "TechCrunch - xAI",
-    "category": "Grok",
-    "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?"
-  },
-  {
-    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3125546",
-    "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
-    "link": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
-    "pubDate": "Fri, 22 May 2026 18:17:07 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total"
-  },
-  {
-    "id": "https://techcrunch.com/?post_type=tc_video&p=3125550",
-    "title": "SpaceX files to go public, and the math requires a little faith",
-    "link": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
-    "pubDate": "Fri, 22 May 2026 14:30:00 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total"
-  },
-  {
-    "id": "https://openai.com/index/virgin-atlantic",
-    "title": "How Virgin Atlantic ships faster with Codex",
-    "link": "https://openai.com/index/virgin-atlantic",
-    "pubDate": "Fri, 22 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects."
-  },
-  {
-    "id": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-    "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-    "pubDate": "Fri, 22 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment."
-  },
-  {
-    "id": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
-    "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
-    "link": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
-    "pubDate": "Thu, 21 May 2026 19:46:42 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3125265",
-    "title": "How Elon Musk will increase his power through the SpaceX IPO",
-    "link": "https://techcrunch.com/2026/05/21/how-elon-musk-will-increase-his-power-through-the-spacex-ipo/",
-    "pubDate": "Thu, 21 May 2026 19:35:21 +0000",
-    "source": "TechCrunch - xAI",
-    "category": "Grok",
-    "summary": "Musk, who will have more than 50% of the voting power, will have a monarchical grip over the publicly-traded version of SpaceX — control that goes far beyond what other tech founders enjoy."
-  },
-  {
-    "id": "https://openai.com/index/adventhealth",
-    "title": "AdventHealth advances whole-person care with OpenAI",
-    "link": "https://openai.com/index/adventhealth",
-    "pubDate": "Thu, 21 May 2026 12:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3124883",
-    "title": "Anthropic says it’s about to have its first profitable quarter",
-    "link": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-    "pubDate": "Thu, 21 May 2026 00:21:21 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter."
   }
 ]

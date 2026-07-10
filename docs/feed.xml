@@ -5,9 +5,36 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 09 Jul 2026 14:53:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 21:57:42 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic]]></title>
+      <link>https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/</link>
+      <guid>https://techcrunch.com/?p=3140701</guid>
+      <pubDate>Thu, 09 Jul 2026 21:57:42 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.]]></description>
+      <source url="https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic]]></title>
+      <link>https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/</link>
+      <guid>https://techcrunch.com/?p=3140701</guid>
+      <pubDate>Thu, 09 Jul 2026 21:57:42 +0000</pubDate>
+      <category>Grok</category>
+      <description><![CDATA[Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.]]></description>
+      <source url="https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/">TechCrunch - xAI</source>
+    </item>
+    <item>
+      <title><![CDATA[Meta enters the crowded AI coding battle with Muse Spark 1.1]]></title>
+      <link>https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/</link>
+      <guid>https://techcrunch.com/?p=3140525</guid>
+      <pubDate>Thu, 09 Jul 2026 19:40:45 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI compa]]></description>
+      <source url="https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/">TechCrunch - Anthropic</source>
+    </item>
     <item>
       <title><![CDATA[Anthropic’s new Claude feature is quietly selling you on AI]]></title>
       <link>https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/</link>
@@ -25,6 +52,42 @@
       <category>Claude</category>
       <description><![CDATA[Three big AI IPOs are set to generate more value than all the U.S. VC backed exits since 2000.]]></description>
       <source url="https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[GPT-5.6 is now the preferred model in Microsoft 365 Copilot]]></title>
+      <link>https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot</link>
+      <guid>https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot</guid>
+      <pubDate>Thu, 09 Jul 2026 13:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.]]></description>
+      <source url="https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[ChatGPT is now a partner for your most ambitious work]]></title>
+      <link>https://openai.com/index/chatgpt-for-your-most-ambitious-work</link>
+      <guid>https://openai.com/index/chatgpt-for-your-most-ambitious-work</guid>
+      <pubDate>Thu, 09 Jul 2026 10:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.]]></description>
+      <source url="https://openai.com/index/chatgpt-for-your-most-ambitious-work">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[GPT-5.5 Bio Bug Bounty]]></title>
+      <link>https://openai.com/index/bio-bug-bounty</link>
+      <guid>https://openai.com/index/bio-bug-bounty</guid>
+      <pubDate>Thu, 09 Jul 2026 10:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Details about the OpenAI Bio Bounty program]]></description>
+      <source url="https://openai.com/index/bio-bug-bounty">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[GPT-5.6: Frontier intelligence that scales with your ambition]]></title>
+      <link>https://openai.com/index/gpt-5-6</link>
+      <guid>https://openai.com/index/gpt-5-6</guid>
+      <pubDate>Thu, 09 Jul 2026 10:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.]]></description>
+      <source url="https://openai.com/index/gpt-5-6">OpenAI Blog</source>
     </item>
     <item>
       <title><![CDATA[Data for Agents]]></title>
@@ -394,69 +457,6 @@
       <category>Claude</category>
       <description><![CDATA[Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built wit]]></description>
       <source url="https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[It’s not about Anthropic vs. OpenAI anymore]]></title>
-      <link>https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/</link>
-      <guid>https://techcrunch.com/?p=3136684</guid>
-      <pubDate>Fri, 26 Jun 2026 16:24:47 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.]]></description>
-      <source url="https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia]]></title>
-      <link>https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/</link>
-      <guid>https://techcrunch.com/?post_type=tc_podcast&p=3136707</guid>
-      <pubDate>Fri, 26 Jun 2026 14:00:00 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built wit]]></description>
-      <source url="https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Previewing GPT-5.6 Sol: a next-generation model]]></title>
-      <link>https://openai.com/index/previewing-gpt-5-6-sol</link>
-      <guid>https://openai.com/index/previewing-gpt-5-6-sol</guid>
-      <pubDate>Fri, 26 Jun 2026 10:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.]]></description>
-      <source url="https://openai.com/index/previewing-gpt-5-6-sol">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Run a vLLM Server on HF Jobs in One Command]]></title>
-      <link>https://huggingface.co/blog/vllm-jobs</link>
-      <guid>https://huggingface.co/blog/vllm-jobs</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/vllm-jobs">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[The White House is asking OpenAI to slow roll the release of its new model over safety concerns]]></title>
-      <link>https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/</link>
-      <guid>https://techcrunch.com/?p=3136540</guid>
-      <pubDate>Thu, 25 Jun 2026 23:34:39 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.]]></description>
-      <source url="https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT]]></title>
-      <link>https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/</link>
-      <guid>https://techcrunch.com/?p=3135892</guid>
-      <pubDate>Thu, 25 Jun 2026 17:38:27 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.]]></description>
-      <source url="https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Which tokens does a hybrid model predict better?]]></title>
-      <link>https://huggingface.co/blog/allenai/hybrid-token-prediction</link>
-      <guid>https://huggingface.co/blog/allenai/hybrid-token-prediction</guid>
-      <pubDate>Thu, 25 Jun 2026 16:11:42 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/allenai/hybrid-token-prediction">Hugging Face Blog</source>
     </item>
   </channel>
 </rss>
