@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3141549",
+    "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+    "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+    "pubDate": "Mon, 13 Jul 2026 15:34:59 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans."
+  },
+  {
     "id": "https://openai.com/index/deutsche-telekom",
     "title": "How Deutsche Telekom is rewiring telecommunications with AI",
     "link": "https://openai.com/index/deutsche-telekom",
@@ -1789,14 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows."
-  },
-  {
-    "id": "https://huggingface.co/blog/agent-glossary",
-    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
-    "link": "https://huggingface.co/blog/agent-glossary",
-    "pubDate": "Mon, 25 May 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
   }
 ]
