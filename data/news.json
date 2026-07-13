@@ -9,6 +9,15 @@
     "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice."
   },
   {
+    "id": "https://openai.com/academy/getting-started",
+    "title": "Getting started with ChatGPT",
+    "link": "https://openai.com/academy/getting-started",
+    "pubDate": "Fri, 10 Jul 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI."
+  },
+  {
     "id": "https://huggingface.co/blog/torch-attention-profile",
     "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
     "link": "https://huggingface.co/blog/torch-attention-profile",
@@ -1782,21 +1791,12 @@
     "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows."
   },
   {
-    "id": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-    "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-    "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+    "id": "https://huggingface.co/blog/agent-glossary",
+    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+    "link": "https://huggingface.co/blog/agent-glossary",
     "pubDate": "Mon, 25 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency."
-  },
-  {
-    "id": "https://openai.com/index/ai-first-hire-small-business",
-    "title": "AI is becoming a first hire for small businesses",
-    "link": "https://openai.com/index/ai-first-hire-small-business",
-    "pubDate": "Mon, 25 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "New research shows how 4 million Americans use ChatGPT to start, run, and grow small businesses, lowering the cost of entrepreneurship with AI."
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
   }
 ]
