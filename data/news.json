@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3142610",
+    "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+    "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+    "pubDate": "Wed, 15 Jul 2026 13:10:47 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption."
+  },
+  {
+    "id": "https://huggingface.co/blog/real-world-voiceeq",
+    "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+    "link": "https://huggingface.co/blog/real-world-voiceeq",
+    "pubDate": "Wed, 15 Jul 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/?p=3142178",
     "title": "Anthropic’s newest ad is creeping people out",
     "link": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
@@ -1780,23 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours."
-  },
-  {
-    "id": "https://openai.com/index/openai-frontier-governance-framework",
-    "title": "OpenAI’s Frontier Governance Framework",
-    "link": "https://openai.com/index/openai-frontier-governance-framework",
-    "pubDate": "Thu, 28 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations."
-  },
-  {
-    "id": "https://openai.com/index/mufg",
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "link": "https://openai.com/index/mufg",
-    "pubDate": "Thu, 28 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale."
   }
 ]
