@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3142816",
+    "title": "Inside Ode with Anthropic, the private equity-backed startup betting AI services are the future of enterprise",
+    "link": "https://techcrunch.com/podcast/inside-ode-with-anthropic-the-private-equity-backed-startup-betting-ai-services-are-the-future-of-enterprise/",
+    "pubDate": "Wed, 15 Jul 2026 17:55:22 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engineers in enterprise fi"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3142810",
+    "title": "Google’s biggest clean power project is 40 miles north of xAI’s unpermitted gas power plant",
+    "link": "https://techcrunch.com/2026/07/15/googles-biggest-clean-power-project-is-40-miles-north-of-xais-unpermitted-gas-power-plant/",
+    "pubDate": "Wed, 15 Jul 2026 17:39:54 +0000",
+    "source": "TechCrunch - xAI",
+    "category": "Grok",
+    "summary": "Google's biggest solar and battery project stands in sharp contrast with xAI's nearby unpermitted power plant."
+  },
+  {
+    "id": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+    "title": "What building Shippy taught us about building agents",
+    "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+    "pubDate": "Wed, 15 Jul 2026 17:29:41 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "title": "Model Routing Is Simple. Until It Isn’t.",
+    "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "pubDate": "Wed, 15 Jul 2026 17:27:01 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_video&p=3142876",
+    "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+    "link": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+    "pubDate": "Wed, 15 Jul 2026 15:00:00 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engineers in enterprise fi"
+  },
+  {
     "id": "https://techcrunch.com/?p=3142610",
     "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
     "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
@@ -7,6 +52,33 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption."
+  },
+  {
+    "id": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "title": "The US is advancing AI safety through state and federal action",
+    "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "pubDate": "Wed, 15 Jul 2026 12:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI."
+  },
+  {
+    "id": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "pubDate": "Wed, 15 Jul 2026 10:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness."
+  },
+  {
+    "id": "https://huggingface.co/blog/thinkingmachines-inkling",
+    "title": "Welcome Inkling by Thinking Machines",
+    "link": "https://huggingface.co/blog/thinkingmachines-inkling",
+    "pubDate": "Wed, 15 Jul 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
   },
   {
     "id": "https://huggingface.co/blog/real-world-voiceeq",
@@ -295,6 +367,15 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/mufg",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "link": "https://openai.com/index/mufg",
+    "pubDate": "Tue, 07 Jul 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale."
   },
   {
     "id": "https://openai.com/index/australian-payments-plus",
@@ -1717,86 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases."
-  },
-  {
-    "id": "https://openai.com/index/braintrust",
-    "title": "How Braintrust turns customer requests into code with Codex",
-    "link": "https://openai.com/index/braintrust",
-    "pubDate": "Fri, 29 May 2026 12:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster."
-  },
-  {
-    "id": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-    "title": "Strengthening societal resilience with Rosalind Biodefense",
-    "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-    "pubDate": "Fri, 29 May 2026 03:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through "
-  },
-  {
-    "id": "https://huggingface.co/blog/torch-profiler",
-    "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
-    "link": "https://huggingface.co/blog/torch-profiler",
-    "pubDate": "Fri, 29 May 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-    "title": "A shared playbook for trustworthy third party evaluations",
-    "link": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-    "pubDate": "Fri, 29 May 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3127386",
-    "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
-    "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
-    "pubDate": "Thu, 28 May 2026 18:52:51 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3127264",
-    "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
-    "link": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
-    "pubDate": "Thu, 28 May 2026 17:00:09 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3127112",
-    "title": "How long is Anthropic’s lease with SpaceX? Opinions vary",
-    "link": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
-    "pubDate": "Thu, 28 May 2026 15:36:00 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3127112",
-    "title": "How long is Anthropic’s lease with SpaceX? Opinions vary",
-    "link": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
-    "pubDate": "Thu, 28 May 2026 15:36:00 +0000",
-    "source": "TechCrunch - xAI",
-    "category": "Grok",
-    "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029."
-  },
-  {
-    "id": "https://openai.com/index/endava",
-    "title": "How Endava builds an agentic organization with Codex",
-    "link": "https://openai.com/index/endava",
-    "pubDate": "Thu, 28 May 2026 12:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours."
   }
 ]
