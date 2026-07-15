@@ -5,9 +5,54 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 13 Jul 2026 15:34:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 19:41:27 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Anthropic’s newest ad is creeping people out]]></title>
+      <link>https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/</link>
+      <guid>https://techcrunch.com/?p=3142178</guid>
+      <pubDate>Tue, 14 Jul 2026 19:41:27 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of]]></description>
+      <source url="https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[DeepSeek reportedly in talks to raise $1.5B, then IPO]]></title>
+      <link>https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/</link>
+      <guid>https://techcrunch.com/?p=3142154</guid>
+      <pubDate>Tue, 14 Jul 2026 16:45:23 +0000</pubDate>
+      <category>China AI</category>
+      <description><![CDATA[DeepSeek, the Chinese large language model developer, is said to be preparing for a 2027 IPO debut as it also looks to raise around $1.5 billion in new funds at a $71 billion valuation.]]></description>
+      <source url="https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/">TechCrunch - DeepSeek</source>
+    </item>
+    <item>
+      <title><![CDATA[How to manage AI investments in the agentic era]]></title>
+      <link>https://openai.com/index/managing-ai-investments-in-agentic-era</link>
+      <guid>https://openai.com/index/managing-ai-investments-in-agentic-era</guid>
+      <pubDate>Tue, 14 Jul 2026 10:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.]]></description>
+      <source url="https://openai.com/index/managing-ai-investments-in-agentic-era">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[How data science teams use ChatGPT Work]]></title>
+      <link>https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex</link>
+      <guid>https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.]]></description>
+      <source url="https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[How sales teams use ChatGPT Work]]></title>
+      <link>https://openai.com/academy/codex-for-work/how-sales-teams-use-codex</link>
+      <guid>https://openai.com/academy/codex-for-work/how-sales-teams-use-codex</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.]]></description>
+      <source url="https://openai.com/academy/codex-for-work/how-sales-teams-use-codex">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Anthropic starts localizing Claude pricing for India, its biggest market after the US]]></title>
       <link>https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/</link>
@@ -412,51 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.]]></description>
       <source url="https://openai.com/index/introducing-genebench-pro">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Core dump epidemiology: fixing an 18-year-old bug]]></title>
-      <link>https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</link>
-      <guid>https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.]]></description>
-      <source url="https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Inside Genebench-Pro]]></title>
-      <link>https://openai.com/index/genebench-pro/case-studies</link>
-      <guid>https://openai.com/index/genebench-pro/case-studies</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[]]></description>
-      <source url="https://openai.com/index/genebench-pro/case-studies">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Featuring Every Eval Ever Results on Hugging Face Model Pages]]></title>
-      <link>https://huggingface.co/blog/eee-community-evals</link>
-      <guid>https://huggingface.co/blog/eee-community-evals</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/eee-community-evals">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price]]></title>
-      <link>https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/</link>
-      <guid>https://techcrunch.com/?p=3137238</guid>
-      <pubDate>Mon, 29 Jun 2026 18:10:26 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.]]></description>
-      <source url="https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[DiScoFormer: One transformer for density and score, across distributions]]></title>
-      <link>https://huggingface.co/blog/allenai/discoformer</link>
-      <guid>https://huggingface.co/blog/allenai/discoformer</guid>
-      <pubDate>Mon, 29 Jun 2026 18:02:48 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/allenai/discoformer">Hugging Face Blog</source>
     </item>
   </channel>
 </rss>
