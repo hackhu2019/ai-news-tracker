@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3143149",
+    "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
+    "link": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
+    "pubDate": "Thu, 16 Jul 2026 00:20:42 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls \"the most important partner\" to its founders."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3143129",
+    "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+    "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+    "pubDate": "Wed, 15 Jul 2026 23:59:44 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models."
+  },
+  {
     "id": "https://techcrunch.com/?post_type=tc_podcast&p=3142816",
     "title": "Inside Ode with Anthropic, the private equity-backed startup betting AI services are the future of enterprise",
     "link": "https://techcrunch.com/podcast/inside-ode-with-anthropic-the-private-equity-backed-startup-betting-ai-services-are-the-future-of-enterprise/",
@@ -1780,23 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities."
-  },
-  {
-    "id": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-    "title": "OpenAI frontier models and Codex are now available on AWS",
-    "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-    "pubDate": "Mon, 01 Jun 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already u"
-  },
-  {
-    "id": "https://openai.com/index/boston-childrens-hospital",
-    "title": "Boston Children’s uses AI to unlock new diagnoses",
-    "link": "https://openai.com/index/boston-childrens-hospital",
-    "pubDate": "Fri, 29 May 2026 12:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases."
   }
 ]

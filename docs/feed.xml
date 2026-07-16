@@ -5,9 +5,27 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 15 Jul 2026 17:55:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 00:20:42 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Why Greylock capped its new fund at $1.5B when it says it could have raised more]]></title>
+      <link>https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/</link>
+      <guid>https://techcrunch.com/?p=3143149</guid>
+      <pubDate>Thu, 16 Jul 2026 00:20:42 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls "the most important partner" to its founders.]]></description>
+      <source url="https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic]]></title>
+      <link>https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/</link>
+      <guid>https://techcrunch.com/?p=3143129</guid>
+      <pubDate>Wed, 15 Jul 2026 23:59:44 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.]]></description>
+      <source url="https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/">TechCrunch - Anthropic</source>
+    </item>
     <item>
       <title><![CDATA[Inside Ode with Anthropic, the private equity-backed startup betting AI services are the future of enterprise]]></title>
       <link>https://techcrunch.com/podcast/inside-ode-with-anthropic-the-private-equity-backed-startup-betting-ai-services-are-the-future-of-enterprise/</link>
@@ -439,24 +457,6 @@
       <category>Claude</category>
       <description><![CDATA[Alibaba has reportedly classified Claude Code as high-risk software.]]></description>
       <source url="https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[What is Mistral AI? Everything to know about the OpenAI competitor]]></title>
-      <link>https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/</link>
-      <guid>https://techcrunch.com/?p=2970347</guid>
-      <pubDate>Sat, 04 Jul 2026 15:51:32 +0000</pubDate>
-      <category>Mistral</category>
-      <description><![CDATA[Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”]]></description>
-      <source url="https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/">TechCrunch - Mistral AI</source>
-    </item>
-    <item>
-      <title><![CDATA[Google DeepMind and A24 announce first-of-its-kind research partnership]]></title>
-      <link>https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/</link>
-      <guid>https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/</guid>
-      <pubDate>Fri, 03 Jul 2026 14:25:43 +0000</pubDate>
-      <category>Gemini</category>
-      <description><![CDATA[]]></description>
-      <source url="https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/">Google DeepMind Blog</source>
     </item>
   </channel>
 </rss>
