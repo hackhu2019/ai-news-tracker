@@ -5,9 +5,27 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 16 Jul 2026 00:20:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 11:49:48 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Newer Models, Same Advantage]]></title>
+      <link>https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages</link>
+      <guid>https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages</guid>
+      <pubDate>Thu, 16 Jul 2026 11:49:48 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Our approach to bioresilience]]></title>
+      <link>https://deepmind.google/blog/our-approach-to-bioresilience/</link>
+      <guid>https://deepmind.google/blog/our-approach-to-bioresilience/</guid>
+      <pubDate>Thu, 16 Jul 2026 09:30:42 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.]]></description>
+      <source url="https://deepmind.google/blog/our-approach-to-bioresilience/">Google DeepMind Blog</source>
+    </item>
     <item>
       <title><![CDATA[Why Greylock capped its new fund at $1.5B when it says it could have raised more]]></title>
       <link>https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/</link>
@@ -16,6 +34,15 @@
       <category>Claude</category>
       <description><![CDATA[By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls "the most important partner" to its founders.]]></description>
       <source url="https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Security incident disclosure — July 2026]]></title>
+      <link>https://huggingface.co/blog/security-incident-july-2026</link>
+      <guid>https://huggingface.co/blog/security-incident-july-2026</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/security-incident-july-2026">Hugging Face Blog</source>
     </item>
     <item>
       <title><![CDATA[Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic]]></title>
@@ -430,33 +457,6 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/lerobot-release-v060">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[PRX Part 4: Our Data Strategy]]></title>
-      <link>https://huggingface.co/blog/Photoroom/prx-part4-data</link>
-      <guid>https://huggingface.co/blog/Photoroom/prx-part4-data</guid>
-      <pubDate>Mon, 06 Jul 2026 15:30:55 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/Photoroom/prx-part4-data">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[🤗 Kernels: Major Updates]]></title>
-      <link>https://huggingface.co/blog/revamped-kernels</link>
-      <guid>https://huggingface.co/blog/revamped-kernels</guid>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/revamped-kernels">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Alibaba reportedly bans employees from using Claude Code]]></title>
-      <link>https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/</link>
-      <guid>https://techcrunch.com/?p=3138976</guid>
-      <pubDate>Sat, 04 Jul 2026 16:32:08 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Alibaba has reportedly classified Claude Code as high-risk software.]]></description>
-      <source url="https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>

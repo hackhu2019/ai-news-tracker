@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+    "title": "Newer Models, Same Advantage",
+    "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+    "pubDate": "Thu, 16 Jul 2026 11:49:48 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+    "title": "Our approach to bioresilience",
+    "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+    "pubDate": "Thu, 16 Jul 2026 09:30:42 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models."
+  },
+  {
     "id": "https://techcrunch.com/?p=3143149",
     "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
     "link": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
@@ -7,6 +25,15 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls \"the most important partner\" to its founders."
+  },
+  {
+    "id": "https://huggingface.co/blog/security-incident-july-2026",
+    "title": "Security incident disclosure — July 2026",
+    "link": "https://huggingface.co/blog/security-incident-july-2026",
+    "pubDate": "Thu, 16 Jul 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
   },
   {
     "id": "https://techcrunch.com/?p=3143129",
@@ -1771,32 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models."
-  },
-  {
-    "id": "https://huggingface.co/blog/JetBrains/mellum2-launch",
-    "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
-    "link": "https://huggingface.co/blog/JetBrains/mellum2-launch",
-    "pubDate": "Mon, 01 Jun 2026 15:45:17 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
-    "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
-    "link": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
-    "pubDate": "Mon, 01 Jun 2026 13:51:18 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/stargate-michigan-data-center",
-    "title": "Building the infrastructure for the Intelligence Age in Michigan",
-    "link": "https://openai.com/index/stargate-michigan-data-center",
-    "pubDate": "Mon, 01 Jun 2026 12:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities."
   }
 ]
