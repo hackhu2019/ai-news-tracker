@@ -5,9 +5,45 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 16 Jul 2026 11:49:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 15:57:54 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers]]></title>
+      <link>https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel</link>
+      <guid>https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel</guid>
+      <pubDate>Fri, 17 Jul 2026 15:57:54 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[A scorecard for the AI age]]></title>
+      <link>https://openai.com/index/a-scorecard-for-the-ai-age</link>
+      <guid>https://openai.com/index/a-scorecard-for-the-ai-age</guid>
+      <pubDate>Fri, 17 Jul 2026 10:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.]]></description>
+      <source url="https://openai.com/index/a-scorecard-for-the-ai-age">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Why teens deserve access to safe AI]]></title>
+      <link>https://openai.com/index/why-teens-deserve-access-safe-ai</link>
+      <guid>https://openai.com/index/why-teens-deserve-access-safe-ai</guid>
+      <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.]]></description>
+      <source url="https://openai.com/index/why-teens-deserve-access-safe-ai">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8]]></title>
+      <link>https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/</link>
+      <guid>https://techcrunch.com/?p=3143233</guid>
+      <pubDate>Thu, 16 Jul 2026 14:26:29 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.]]></description>
+      <source url="https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/">TechCrunch - Anthropic</source>
+    </item>
     <item>
       <title><![CDATA[Newer Models, Same Advantage]]></title>
       <link>https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages</link>
@@ -34,6 +70,15 @@
       <category>Claude</category>
       <description><![CDATA[By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls "the most important partner" to its founders.]]></description>
       <source url="https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[How Cars24 scales conversations and builds faster with OpenAI]]></title>
+      <link>https://openai.com/index/cars24</link>
+      <guid>https://openai.com/index/cars24</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.]]></description>
+      <source url="https://openai.com/index/cars24">OpenAI Blog</source>
     </item>
     <item>
       <title><![CDATA[Security incident disclosure — July 2026]]></title>
@@ -412,51 +457,6 @@
       <category>Claude</category>
       <description><![CDATA[With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.]]></description>
       <source url="https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Hugging Face Models on Foundry Managed Compute]]></title>
-      <link>https://huggingface.co/blog/microsoft/foundry-managed-compute</link>
-      <guid>https://huggingface.co/blog/microsoft/foundry-managed-compute</guid>
-      <pubDate>Tue, 07 Jul 2026 15:20:06 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/microsoft/foundry-managed-compute">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[MUFG aims to become AI-native with OpenAI]]></title>
-      <link>https://openai.com/index/mufg</link>
-      <guid>https://openai.com/index/mufg</guid>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.]]></description>
-      <source url="https://openai.com/index/mufg">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Australian Payments Plus moves faster with ChatGPT and Codex]]></title>
-      <link>https://openai.com/index/australian-payments-plus</link>
-      <guid>https://openai.com/index/australian-payments-plus</guid>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.]]></description>
-      <source url="https://openai.com/index/australian-payments-plus">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot]]></title>
-      <link>https://huggingface.co/blog/skypilot-hf-storage</link>
-      <guid>https://huggingface.co/blog/skypilot-hf-storage</guid>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/skypilot-hf-storage">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[LeRobot v0.6.0: Imagine, Evaluate, Improve]]></title>
-      <link>https://huggingface.co/blog/lerobot-release-v060</link>
-      <guid>https://huggingface.co/blog/lerobot-release-v060</guid>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/lerobot-release-v060">Hugging Face Blog</source>
     </item>
   </channel>
 </rss>
