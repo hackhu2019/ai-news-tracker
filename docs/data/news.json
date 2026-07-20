@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://huggingface.co/blog/nvidia/cosmos3edge",
+    "title": "Introducing Cosmos 3 Edge",
+    "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
+    "pubDate": "Mon, 20 Jul 2026 15:58:51 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "title": "Safety and alignment in an era of long-horizon models",
+    "link": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "pubDate": "Mon, 20 Jul 2026 10:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment."
+  },
+  {
     "id": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
     "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
     "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
@@ -1780,23 +1798,5 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/travelers",
-    "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-    "link": "https://openai.com/index/travelers",
-    "pubDate": "Tue, 02 Jun 2026 12:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand."
-  },
-  {
-    "id": "https://openai.com/academy/chatgpt-sites",
-    "title": "ChatGPT Sites",
-    "link": "https://openai.com/academy/chatgpt-sites",
-    "pubDate": "Tue, 02 Jun 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Create that kind of lightweight website or app with Codex."
   }
 ]

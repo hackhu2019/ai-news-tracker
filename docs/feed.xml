@@ -5,9 +5,27 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 17 Jul 2026 15:57:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 15:58:51 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Introducing Cosmos 3 Edge]]></title>
+      <link>https://huggingface.co/blog/nvidia/cosmos3edge</link>
+      <guid>https://huggingface.co/blog/nvidia/cosmos3edge</guid>
+      <pubDate>Mon, 20 Jul 2026 15:58:51 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/nvidia/cosmos3edge">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Safety and alignment in an era of long-horizon models]]></title>
+      <link>https://openai.com/index/safety-alignment-long-horizon-models</link>
+      <guid>https://openai.com/index/safety-alignment-long-horizon-models</guid>
+      <pubDate>Mon, 20 Jul 2026 10:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.]]></description>
+      <source url="https://openai.com/index/safety-alignment-long-horizon-models">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers]]></title>
       <link>https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel</link>
@@ -439,24 +457,6 @@
       <category>Claude</category>
       <description><![CDATA[Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.]]></description>
       <source url="https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Microsoft joins AI cost-cutting trend by relying more on its own models]]></title>
-      <link>https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/</link>
-      <guid>https://techcrunch.com/?p=3139819</guid>
-      <pubDate>Tue, 07 Jul 2026 19:58:20 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Microsoft is the latest Silicon Valley giant to cut back on its AI spending.]]></description>
-      <source url="https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Claude Cowork expands to mobile and web]]></title>
-      <link>https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/</link>
-      <guid>https://techcrunch.com/?p=3139729</guid>
-      <pubDate>Tue, 07 Jul 2026 16:27:18 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.]]></description>
-      <source url="https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>
