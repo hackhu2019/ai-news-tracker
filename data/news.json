@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3144516",
+    "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+    "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+    "pubDate": "Tue, 21 Jul 2026 00:12:24 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models."
+  },
+  {
     "id": "https://huggingface.co/blog/nvidia/cosmos3edge",
     "title": "Introducing Cosmos 3 Edge",
     "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
@@ -1789,14 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthc"
-  },
-  {
-    "id": "https://huggingface.co/blog/Hcompany/holo31",
-    "title": "Holo3.1: Fast & Local Computer Use Agents",
-    "link": "https://huggingface.co/blog/Hcompany/holo31",
-    "pubDate": "Tue, 02 Jun 2026 14:13:23 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
   }
 ]
