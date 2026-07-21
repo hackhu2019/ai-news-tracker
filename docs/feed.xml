@@ -18,6 +18,15 @@
       <source url="https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/">TechCrunch - Anthropic</source>
     </item>
     <item>
+      <title><![CDATA[Grabette: an open system to record robot-manipulation data]]></title>
+      <link>https://huggingface.co/blog/grabette</link>
+      <guid>https://huggingface.co/blog/grabette</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/grabette">Hugging Face Blog</source>
+    </item>
+    <item>
       <title><![CDATA[Introducing Cosmos 3 Edge]]></title>
       <link>https://huggingface.co/blog/nvidia/cosmos3edge</link>
       <guid>https://huggingface.co/blog/nvidia/cosmos3edge</guid>
@@ -448,15 +457,6 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/native-speed-vllm-transformers-backend">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[From Hugging Face to Amazon SageMaker Studio in one click]]></title>
-      <link>https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio</link>
-      <guid>https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio</guid>
-      <pubDate>Tue, 07 Jul 2026 21:15:33 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio">Hugging Face Blog</source>
     </item>
   </channel>
 </rss>

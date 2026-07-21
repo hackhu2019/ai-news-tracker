@@ -9,6 +9,15 @@
     "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models."
   },
   {
+    "id": "https://huggingface.co/blog/grabette",
+    "title": "Grabette: an open system to record robot-manipulation data",
+    "link": "https://huggingface.co/blog/grabette",
+    "pubDate": "Tue, 21 Jul 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://huggingface.co/blog/nvidia/cosmos3edge",
     "title": "Introducing Cosmos 3 Edge",
     "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
@@ -1789,14 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3128586",
-    "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
-    "link": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
-    "pubDate": "Tue, 02 Jun 2026 14:44:21 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthc"
   }
 ]
