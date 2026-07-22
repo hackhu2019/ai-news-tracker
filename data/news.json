@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3145006",
+    "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+    "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+    "pubDate": "Wed, 22 Jul 2026 03:20:57 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor."
+  },
+  {
     "id": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
     "title": "The State of Simulation for Physical AI: An Overview",
     "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
@@ -1789,14 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude."
-  },
-  {
-    "id": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-    "title": "Introducing new capabilities to GPT-Rosalind",
-    "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-    "pubDate": "Wed, 03 Jun 2026 13:15:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities."
   }
 ]
