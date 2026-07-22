@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?post_type=tc_video&p=3145436",
+    "title": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)",
+    "link": "https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/",
+    "pubDate": "Wed, 22 Jul 2026 18:02:57 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic leaped to a $47 billion revenue run rate by May, compared to $9 billion in 2025. It’s the kind of growth that Menlo Ventures’ Matt Murphy says he’s never seen in 25 years of investing, not i"
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3145431",
+    "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+    "link": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
+    "pubDate": "Wed, 22 Jul 2026 14:00:00 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic leaped to a $47 billion revenue run rate by May, compared to $9 billion in 2025. It’s the kind of growth that Menlo Ventures’ Matt Murphy says he’s never seen in 25 years of investing, not i"
+  },
+  {
     "id": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
     "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
     "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
@@ -16,6 +34,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex."
+  },
+  {
+    "id": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "title": "Advancing the next era of national science",
+    "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "pubDate": "Wed, 22 Jul 2026 12:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery."
   },
   {
     "id": "https://openai.com/index/introducing-openai-presence",
@@ -1771,32 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory fa"
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-    "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-    "pubDate": "Thu, 04 Jun 2026 18:57:45 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/endava-frontiers",
-    "title": "How Endava is redesigning software delivery around AI agents",
-    "link": "https://openai.com/index/endava-frontiers",
-    "pubDate": "Thu, 04 Jun 2026 12:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise."
-  },
-  {
-    "id": "https://openai.com/index/chatgpt-memory-dreaming",
-    "title": "Dreaming: Better memory for a more helpful ChatGPT",
-    "link": "https://openai.com/index/chatgpt-memory-dreaming",
-    "pubDate": "Thu, 04 Jun 2026 09:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations."
   }
 ]

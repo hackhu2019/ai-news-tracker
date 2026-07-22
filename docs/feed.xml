@@ -5,9 +5,27 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 22 Jul 2026 13:38:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 18:02:57 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)]]></title>
+      <link>https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/</link>
+      <guid>https://techcrunch.com/?post_type=tc_video&p=3145436</guid>
+      <pubDate>Wed, 22 Jul 2026 18:02:57 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Anthropic leaped to a $47 billion revenue run rate by May, compared to $9 billion in 2025. It’s the kind of growth that Menlo Ventures’ Matt Murphy says he’s never seen in 25 years of investing, not i]]></description>
+      <source url="https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently]]></title>
+      <link>https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/</link>
+      <guid>https://techcrunch.com/?post_type=tc_podcast&p=3145431</guid>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Anthropic leaped to a $47 billion revenue run rate by May, compared to $9 billion in 2025. It’s the kind of growth that Menlo Ventures’ Matt Murphy says he’s never seen in 25 years of investing, not i]]></description>
+      <source url="https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/">TechCrunch - Anthropic</source>
+    </item>
     <item>
       <title><![CDATA[Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission]]></title>
       <link>https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/</link>
@@ -25,6 +43,15 @@
       <category>ChatGPT</category>
       <description><![CDATA[OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.]]></description>
       <source url="https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Advancing the next era of national science]]></title>
+      <link>https://openai.com/index/advancing-the-next-era-of-national-science</link>
+      <guid>https://openai.com/index/advancing-the-next-era-of-national-science</guid>
+      <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.]]></description>
+      <source url="https://openai.com/index/advancing-the-next-era-of-national-science">OpenAI Blog</source>
     </item>
     <item>
       <title><![CDATA[Introducing OpenAI Presence]]></title>
@@ -430,33 +457,6 @@
       <category>Claude</category>
       <description><![CDATA[Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI compa]]></description>
       <source url="https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic’s new Claude feature is quietly selling you on AI]]></title>
-      <link>https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/</link>
-      <guid>https://techcrunch.com/?p=3140476</guid>
-      <pubDate>Thu, 09 Jul 2026 14:53:09 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.]]></description>
-      <source url="https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits]]></title>
-      <link>https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/</link>
-      <guid>https://techcrunch.com/?p=3140464</guid>
-      <pubDate>Thu, 09 Jul 2026 14:51:00 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Three big AI IPOs are set to generate more value than all the U.S. VC backed exits since 2000.]]></description>
-      <source url="https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[GPT-5.6 is now the preferred model in Microsoft 365 Copilot]]></title>
-      <link>https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot</link>
-      <guid>https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot</guid>
-      <pubDate>Thu, 09 Jul 2026 13:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.]]></description>
-      <source url="https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
