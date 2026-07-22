@@ -5,9 +5,18 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 17:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 20:00:27 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[The State of Simulation for Physical AI: An Overview]]></title>
+      <link>https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai</link>
+      <guid>https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai</guid>
+      <pubDate>Tue, 21 Jul 2026 20:00:27 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai">Hugging Face Blog</source>
+    </item>
     <item>
       <title><![CDATA[Introducing the ChatGPT for small business program]]></title>
       <link>https://openai.com/index/introducing-chatgpt-small-business-program</link>
@@ -27,6 +36,15 @@
       <source url="https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/">Google DeepMind Blog</source>
     </item>
     <item>
+      <title><![CDATA[OpenAI and Hugging Face partner to address security incident during model evaluation]]></title>
+      <link>https://openai.com/index/hugging-face-model-evaluation-security-incident</link>
+      <guid>https://openai.com/index/hugging-face-model-evaluation-security-incident</guid>
+      <pubDate>Tue, 21 Jul 2026 07:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.]]></description>
+      <source url="https://openai.com/index/hugging-face-model-evaluation-security-incident">OpenAI Blog</source>
+    </item>
+    <item>
       <title><![CDATA[Anthropic’s landmark $1.5B copyright settlement is approved]]></title>
       <link>https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/</link>
       <guid>https://techcrunch.com/?p=3144516</guid>
@@ -34,6 +52,15 @@
       <category>Claude</category>
       <description><![CDATA[The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.]]></description>
       <source url="https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC]]></title>
+      <link>https://openai.com/index/david-velez-robin-vince-join-openai-boards</link>
+      <guid>https://openai.com/index/david-velez-robin-vince-join-openai-boards</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.]]></description>
+      <source url="https://openai.com/index/david-velez-robin-vince-join-openai-boards">OpenAI Blog</source>
     </item>
     <item>
       <title><![CDATA[Grabette: an open system to record robot-manipulation data]]></title>
@@ -430,33 +457,6 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/nvidia/open-data-for-agents">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[These AI startups are growing  revenue at faster and faster rates]]></title>
-      <link>https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/</link>
-      <guid>https://techcrunch.com/?p=3139890</guid>
-      <pubDate>Wed, 08 Jul 2026 15:41:06 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[There are a lot of fast-growing AI startups, but some are growing even faster, they say.]]></description>
-      <source url="https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Our approach to government and national security partnerships]]></title>
-      <link>https://openai.com/index/government-national-security-partnerships</link>
-      <guid>https://openai.com/index/government-national-security-partnerships</guid>
-      <pubDate>Wed, 08 Jul 2026 13:30:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.]]></description>
-      <source url="https://openai.com/index/government-national-security-partnerships">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Separating signal from noise in coding evaluations]]></title>
-      <link>https://openai.com/index/separating-signal-from-noise-coding-evaluations</link>
-      <guid>https://openai.com/index/separating-signal-from-noise-coding-evaluations</guid>
-      <pubDate>Wed, 08 Jul 2026 13:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.]]></description>
-      <source url="https://openai.com/index/separating-signal-from-noise-coding-evaluations">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
