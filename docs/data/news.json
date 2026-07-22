@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+    "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "pubDate": "Wed, 22 Jul 2026 13:38:54 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission"
+  },
+  {
+    "id": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "title": "Building AI infrastructure with the Effingham County community",
+    "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "pubDate": "Wed, 22 Jul 2026 13:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex."
+  },
+  {
+    "id": "https://openai.com/index/introducing-openai-presence",
+    "title": "Introducing OpenAI Presence",
+    "link": "https://openai.com/index/introducing-openai-presence",
+    "pubDate": "Wed, 22 Jul 2026 05:30:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows."
+  },
+  {
     "id": "https://techcrunch.com/?p=3145006",
     "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
     "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
@@ -1771,32 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations."
-  },
-  {
-    "id": "https://huggingface.co/blog/hf-cli-for-agents",
-    "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
-    "link": "https://huggingface.co/blog/hf-cli-for-agents",
-    "pubDate": "Thu, 04 Jun 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/biodefense-in-the-intelligence-age",
-    "title": "Biodefense in the Intelligence Age",
-    "link": "https://openai.com/index/biodefense-in-the-intelligence-age",
-    "pubDate": "Thu, 04 Jun 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "An action plan for AI-powered biological resilience"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3129396",
-    "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
-    "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
-    "pubDate": "Wed, 03 Jun 2026 22:56:51 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude."
   }
 ]
