@@ -5,9 +5,36 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 23 Jul 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 19:00:00 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Anthropic updates Claude voice mode with more capable models]]></title>
+      <link>https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/</link>
+      <guid>https://techcrunch.com/?p=3145822</guid>
+      <pubDate>Thu, 23 Jul 2026 19:00:00 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Claude's new voice model will let you reschedule your meeting or draft an email]]></description>
+      <source url="https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good]]></title>
+      <link>https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/</link>
+      <guid>https://techcrunch.com/?p=3145469</guid>
+      <pubDate>Thu, 23 Jul 2026 11:00:00 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA["I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation," one expert told TechCrunch.]]></description>
+      <source url="https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Launching Health in ChatGPT ]]></title>
+      <link>https://openai.com/index/health-in-chatgpt</link>
+      <guid>https://openai.com/index/health-in-chatgpt</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.]]></description>
+      <source url="https://openai.com/index/health-in-chatgpt">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Bringing Nunchaku 4-bit Diffusion Inference to Diffusers]]></title>
       <link>https://huggingface.co/blog/nunchaku-diffusers</link>
@@ -430,33 +457,6 @@
       <category>Claude</category>
       <description><![CDATA[Claude users in India are starting to see Indian rupee-denominated subscription plans.]]></description>
       <source url="https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Empowering India’s next generation of innovators with ATL Saathi]]></title>
-      <link>https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/</link>
-      <guid>https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/</guid>
-      <pubDate>Mon, 13 Jul 2026 12:37:28 +0000</pubDate>
-      <category>Gemini</category>
-      <description><![CDATA[Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.]]></description>
-      <source url="https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/">Google DeepMind Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How Deutsche Telekom is rewiring telecommunications with AI]]></title>
-      <link>https://openai.com/index/deutsche-telekom</link>
-      <guid>https://openai.com/index/deutsche-telekom</guid>
-      <pubDate>Fri, 10 Jul 2026 07:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.]]></description>
-      <source url="https://openai.com/index/deutsche-telekom">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Getting started with ChatGPT]]></title>
-      <link>https://openai.com/academy/getting-started</link>
-      <guid>https://openai.com/academy/getting-started</guid>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.]]></description>
-      <source url="https://openai.com/academy/getting-started">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
