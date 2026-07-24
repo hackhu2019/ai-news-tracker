@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3145851",
+    "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+    "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+    "pubDate": "Thu, 23 Jul 2026 20:33:02 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year."
+  },
+  {
     "id": "https://techcrunch.com/?p=3145822",
     "title": "Anthropic updates Claude voice mode with more capable models",
     "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
@@ -268,6 +277,15 @@
     "source": "Google DeepMind Blog",
     "category": "Gemini",
     "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models."
+  },
+  {
+    "id": "https://openai.com/index/codex-collaborator-creative-team",
+    "title": "How Codex became a collaborator for OpenAI’s creative team",
+    "link": "https://openai.com/index/codex-collaborator-creative-team",
+    "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI."
   },
   {
     "id": "https://techcrunch.com/?p=3143149",
@@ -1780,23 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves."
-  },
-  {
-    "id": "https://openai.com/index/openai-submits-confidential-s-1",
-    "title": "Confidential submission of draft S-1 to the SEC",
-    "link": "https://openai.com/index/openai-submits-confidential-s-1",
-    "pubDate": "Mon, 08 Jun 2026 14:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action."
-  },
-  {
-    "id": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
-    "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
-    "link": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
-    "pubDate": "Mon, 08 Jun 2026 13:04:59 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning."
   }
 ]

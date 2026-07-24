@@ -5,9 +5,18 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 23 Jul 2026 19:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 20:33:02 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[AMD takes on Nvidia with its Helios AI rack-scale system]]></title>
+      <link>https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/</link>
+      <guid>https://techcrunch.com/?p=3145851</guid>
+      <pubDate>Thu, 23 Jul 2026 20:33:02 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.]]></description>
+      <source url="https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/">TechCrunch - Anthropic</source>
+    </item>
     <item>
       <title><![CDATA[Anthropic updates Claude voice mode with more capable models]]></title>
       <link>https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/</link>
@@ -279,6 +288,15 @@
       <source url="https://deepmind.google/blog/our-approach-to-bioresilience/">Google DeepMind Blog</source>
     </item>
     <item>
+      <title><![CDATA[How Codex became a collaborator for OpenAI’s creative team]]></title>
+      <link>https://openai.com/index/codex-collaborator-creative-team</link>
+      <guid>https://openai.com/index/codex-collaborator-creative-team</guid>
+      <pubDate>Thu, 16 Jul 2026 07:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.]]></description>
+      <source url="https://openai.com/index/codex-collaborator-creative-team">OpenAI Blog</source>
+    </item>
+    <item>
       <title><![CDATA[Why Greylock capped its new fund at $1.5B when it says it could have raised more]]></title>
       <link>https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/</link>
       <guid>https://techcrunch.com/?p=3143149</guid>
@@ -439,24 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.]]></description>
       <source url="https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How sales teams use ChatGPT Work]]></title>
-      <link>https://openai.com/academy/codex-for-work/how-sales-teams-use-codex</link>
-      <guid>https://openai.com/academy/codex-for-work/how-sales-teams-use-codex</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.]]></description>
-      <source url="https://openai.com/academy/codex-for-work/how-sales-teams-use-codex">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic starts localizing Claude pricing for India, its biggest market after the US]]></title>
-      <link>https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/</link>
-      <guid>https://techcrunch.com/?p=3141549</guid>
-      <pubDate>Mon, 13 Jul 2026 15:34:59 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Claude users in India are starting to see Indian rupee-denominated subscription plans.]]></description>
-      <source url="https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>
