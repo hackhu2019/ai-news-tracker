@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3146446",
+    "title": "Anthropic launches Opus 5",
+    "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+    "pubDate": "Fri, 24 Jul 2026 17:00:00 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases."
+  },
+  {
     "id": "https://techcrunch.com/?p=3145851",
     "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
     "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
@@ -1789,14 +1798,5 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-    "title": "Industrial policy for the Intelligence Age",
-    "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-    "pubDate": "Tue, 09 Jun 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves."
   }
 ]
