@@ -18,6 +18,15 @@
       <source url="https://huggingface.co/blog/nvidia/cosmos-h-dreams">Hugging Face Blog</source>
     </item>
     <item>
+      <title><![CDATA[How AI is expanding what people do at work]]></title>
+      <link>https://openai.com/index/how-ai-is-expanding-what-people-do-at-work</link>
+      <guid>https://openai.com/index/how-ai-is-expanding-what-people-do-at-work</guid>
+      <pubDate>Mon, 27 Jul 2026 03:30:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.]]></description>
+      <source url="https://openai.com/index/how-ai-is-expanding-what-people-do-at-work">OpenAI Blog</source>
+    </item>
+    <item>
       <title><![CDATA[Anthropic launches Opus 5]]></title>
       <link>https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/</link>
       <guid>https://techcrunch.com/?p=3146446</guid>
@@ -178,6 +187,15 @@
       <category>ChatGPT</category>
       <description><![CDATA[OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.]]></description>
       <source url="https://openai.com/index/introducing-chatgpt-small-business-program">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber]]></title>
+      <link>https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/</link>
+      <guid>https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/</guid>
+      <pubDate>Tue, 21 Jul 2026 15:16:30 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.]]></description>
+      <source url="https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/">Google DeepMind Blog</source>
     </item>
     <item>
       <title><![CDATA[Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber]]></title>
@@ -439,24 +457,6 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/real-world-voiceeq">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic’s newest ad is creeping people out]]></title>
-      <link>https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/</link>
-      <guid>https://techcrunch.com/?p=3142178</guid>
-      <pubDate>Tue, 14 Jul 2026 19:41:27 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of]]></description>
-      <source url="https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek reportedly in talks to raise $1.5B, then IPO]]></title>
-      <link>https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/</link>
-      <guid>https://techcrunch.com/?p=3142154</guid>
-      <pubDate>Tue, 14 Jul 2026 16:45:23 +0000</pubDate>
-      <category>China AI</category>
-      <description><![CDATA[DeepSeek, the Chinese large language model developer, is said to be preparing for a 2027 IPO debut as it also looks to raise around $1.5 billion in new funds at a $71 billion valuation.]]></description>
-      <source url="https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/">TechCrunch - DeepSeek</source>
     </item>
   </channel>
 </rss>
