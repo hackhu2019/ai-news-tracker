@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3147197",
+    "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+    "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+    "pubDate": "Tue, 28 Jul 2026 00:13:33 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3147064",
+    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+    "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+    "pubDate": "Mon, 27 Jul 2026 20:19:42 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project."
+  },
+  {
     "id": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
     "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
     "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
@@ -1780,23 +1798,5 @@
     "source": "Google DeepMind Blog",
     "category": "Gemini",
     "summary": ""
-  },
-  {
-    "id": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
-    "title": "Powering the future of robotics in Europe",
-    "link": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
-    "pubDate": "Tue, 09 Jun 2026 14:02:33 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/nextdoor",
-    "title": "How engineers at Nextdoor use Codex to build without limits",
-    "link": "https://openai.com/index/nextdoor",
-    "pubDate": "Tue, 09 Jun 2026 12:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes."
   }
 ]
