@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://openai.com/index/scientific-computing-agentic-ai",
+    "title": "Scientific computing in the age of agentic AI",
+    "link": "https://openai.com/index/scientific-computing-agentic-ai",
+    "pubDate": "Tue, 28 Jul 2026 17:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond."
+  },
+  {
+    "id": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "pubDate": "Tue, 28 Jul 2026 16:27:42 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+    "pubDate": "Tue, 28 Jul 2026 15:01:45 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/?p=3147197",
     "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
     "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
@@ -1771,32 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology."
-  },
-  {
-    "id": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
-    "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
-    "link": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
-    "pubDate": "Tue, 09 Jun 2026 15:56:23 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
-    "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
-    "link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
-    "pubDate": "Tue, 09 Jun 2026 15:16:25 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet."
-  },
-  {
-    "id": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
-    "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-    "link": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
-    "pubDate": "Tue, 09 Jun 2026 14:10:19 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": ""
   }
 ]
