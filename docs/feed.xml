@@ -5,9 +5,27 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 28 Jul 2026 17:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 16:02:10 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control]]></title>
+      <link>https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/</link>
+      <guid>https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/</guid>
+      <pubDate>Wed, 29 Jul 2026 16:02:10 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[]]></description>
+      <source url="https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/">Google DeepMind Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Accelerating scientific discovery with ChatGPT for Academic Researchers]]></title>
+      <link>https://openai.com/index/chatgpt-for-academic-researchers</link>
+      <guid>https://openai.com/index/chatgpt-for-academic-researchers</guid>
+      <pubDate>Wed, 29 Jul 2026 10:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.]]></description>
+      <source url="https://openai.com/index/chatgpt-for-academic-researchers">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Scientific computing in the age of agentic AI]]></title>
       <link>https://openai.com/index/scientific-computing-agentic-ai</link>
@@ -439,24 +457,6 @@
       <category>Grok</category>
       <description><![CDATA[Google's biggest solar and battery project stands in sharp contrast with xAI's nearby unpermitted power plant.]]></description>
       <source url="https://techcrunch.com/2026/07/15/googles-biggest-clean-power-project-is-40-miles-north-of-xais-unpermitted-gas-power-plant/">TechCrunch - xAI</source>
-    </item>
-    <item>
-      <title><![CDATA[What building Shippy taught us about building agents]]></title>
-      <link>https://huggingface.co/blog/allenai/shippy-tech-blog</link>
-      <guid>https://huggingface.co/blog/allenai/shippy-tech-blog</guid>
-      <pubDate>Wed, 15 Jul 2026 17:29:41 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/allenai/shippy-tech-blog">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Model Routing Is Simple. Until It Isn’t.]]></title>
-      <link>https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt</link>
-      <guid>https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt</guid>
-      <pubDate>Wed, 15 Jul 2026 17:27:01 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt">Hugging Face Blog</source>
     </item>
   </channel>
 </rss>
