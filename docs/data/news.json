@@ -63,6 +63,15 @@
     "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries."
   },
   {
+    "id": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+    "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "pubDate": "Mon, 27 Jul 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/?p=3146446",
     "title": "Anthropic launches Opus 5",
     "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
@@ -1789,14 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3131081",
-    "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
-    "link": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
-    "pubDate": "Tue, 09 Jun 2026 17:00:00 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology."
   }
 ]

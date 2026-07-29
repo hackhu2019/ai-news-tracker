@@ -72,6 +72,15 @@
       <source url="https://openai.com/index/how-ai-is-expanding-what-people-do-at-work">OpenAI Blog</source>
     </item>
     <item>
+      <title><![CDATA[Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident]]></title>
+      <link>https://huggingface.co/blog/agent-intrusion-technical-timeline</link>
+      <guid>https://huggingface.co/blog/agent-intrusion-technical-timeline</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/agent-intrusion-technical-timeline">Hugging Face Blog</source>
+    </item>
+    <item>
       <title><![CDATA[Anthropic launches Opus 5]]></title>
       <link>https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/</link>
       <guid>https://techcrunch.com/?p=3146446</guid>
@@ -448,15 +457,6 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Inside Ode with Anthropic, the startup betting AI services are the future of enterprise]]></title>
-      <link>https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/</link>
-      <guid>https://techcrunch.com/?post_type=tc_video&p=3142876</guid>
-      <pubDate>Wed, 15 Jul 2026 15:00:00 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engineers in enterprise fi]]></description>
-      <source url="https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>
