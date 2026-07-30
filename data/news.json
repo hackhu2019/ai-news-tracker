@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3148002",
+    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+    "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+    "pubDate": "Wed, 29 Jul 2026 22:46:03 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and compe"
+  },
+  {
     "id": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
     "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
     "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
@@ -9,6 +18,15 @@
     "summary": ""
   },
   {
+    "id": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "pubDate": "Wed, 29 Jul 2026 15:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction."
+  },
+  {
     "id": "https://openai.com/index/chatgpt-for-academic-researchers",
     "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
     "link": "https://openai.com/index/chatgpt-for-academic-researchers",
@@ -16,6 +34,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery."
+  },
+  {
+    "id": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "pubDate": "Wed, 29 Jul 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar."
   },
   {
     "id": "https://openai.com/index/scientific-computing-agentic-ai",
@@ -1771,32 +1798,5 @@
     "source": "Google DeepMind Blog",
     "category": "Gemini",
     "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research."
-  },
-  {
-    "id": "https://openai.com/index/lseg",
-    "title": "From data to decisions: how LSEG is scaling trusted AI",
-    "link": "https://openai.com/index/lseg",
-    "pubDate": "Wed, 10 Jun 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3131312",
-    "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
-    "link": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
-    "pubDate": "Tue, 09 Jun 2026 23:17:51 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3131281",
-    "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
-    "link": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
-    "pubDate": "Tue, 09 Jun 2026 20:37:49 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders."
   }
 ]

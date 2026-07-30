@@ -5,9 +5,18 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 29 Jul 2026 16:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 22:46:03 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag]]></title>
+      <link>https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/</link>
+      <guid>https://techcrunch.com/?p=3148002</guid>
+      <pubDate>Wed, 29 Jul 2026 22:46:03 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and compe]]></description>
+      <source url="https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/">TechCrunch - Anthropic</source>
+    </item>
     <item>
       <title><![CDATA[We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control]]></title>
       <link>https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/</link>
@@ -18,6 +27,15 @@
       <source url="https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/">Google DeepMind Blog</source>
     </item>
     <item>
+      <title><![CDATA[How enabling two settings tripled our scores on the ARC-AGI-3 benchmark]]></title>
+      <link>https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores</link>
+      <guid>https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores</guid>
+      <pubDate>Wed, 29 Jul 2026 15:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.]]></description>
+      <source url="https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores">OpenAI Blog</source>
+    </item>
+    <item>
       <title><![CDATA[Accelerating scientific discovery with ChatGPT for Academic Researchers]]></title>
       <link>https://openai.com/index/chatgpt-for-academic-researchers</link>
       <guid>https://openai.com/index/chatgpt-for-academic-researchers</guid>
@@ -25,6 +43,15 @@
       <category>ChatGPT</category>
       <description><![CDATA[OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.]]></description>
       <source url="https://openai.com/index/chatgpt-for-academic-researchers">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[How GPT-5.6 fuses frontier intelligence with frontier efficiency]]></title>
+      <link>https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency</link>
+      <guid>https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.]]></description>
+      <source url="https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency">OpenAI Blog</source>
     </item>
     <item>
       <title><![CDATA[Scientific computing in the age of agentic AI]]></title>
@@ -430,33 +457,6 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/security-incident-july-2026">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic]]></title>
-      <link>https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/</link>
-      <guid>https://techcrunch.com/?p=3143129</guid>
-      <pubDate>Wed, 15 Jul 2026 23:59:44 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.]]></description>
-      <source url="https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Inside Ode with Anthropic, the private equity-backed startup betting AI services are the future of enterprise]]></title>
-      <link>https://techcrunch.com/podcast/inside-ode-with-anthropic-the-private-equity-backed-startup-betting-ai-services-are-the-future-of-enterprise/</link>
-      <guid>https://techcrunch.com/?post_type=tc_podcast&p=3142816</guid>
-      <pubDate>Wed, 15 Jul 2026 17:55:22 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engineers in enterprise fi]]></description>
-      <source url="https://techcrunch.com/podcast/inside-ode-with-anthropic-the-private-equity-backed-startup-betting-ai-services-are-the-future-of-enterprise/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Google’s biggest clean power project is 40 miles north of xAI’s unpermitted gas power plant]]></title>
-      <link>https://techcrunch.com/2026/07/15/googles-biggest-clean-power-project-is-40-miles-north-of-xais-unpermitted-gas-power-plant/</link>
-      <guid>https://techcrunch.com/?p=3142810</guid>
-      <pubDate>Wed, 15 Jul 2026 17:39:54 +0000</pubDate>
-      <category>Grok</category>
-      <description><![CDATA[Google's biggest solar and battery project stands in sharp contrast with xAI's nearby unpermitted power plant.]]></description>
-      <source url="https://techcrunch.com/2026/07/15/googles-biggest-clean-power-project-is-40-miles-north-of-xais-unpermitted-gas-power-plant/">TechCrunch - xAI</source>
     </item>
   </channel>
 </rss>
