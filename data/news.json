@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "pubDate": "Thu, 30 Jul 2026 15:09:09 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+    "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "pubDate": "Thu, 30 Jul 2026 15:00:59 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic app"
+  },
+  {
+    "id": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "pubDate": "Thu, 30 Jul 2026 10:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148055",
+    "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+    "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+    "pubDate": "Thu, 30 Jul 2026 00:21:06 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth."
+  },
+  {
     "id": "https://techcrunch.com/?p=3148002",
     "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
     "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
@@ -69,6 +105,15 @@
     "pubDate": "Tue, 28 Jul 2026 15:01:45 GMT",
     "source": "Hugging Face Blog",
     "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+    "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "pubDate": "Tue, 28 Jul 2026 13:21:37 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
     "summary": ""
   },
   {
@@ -1753,50 +1798,5 @@
     "source": "TechCrunch - xAI",
     "category": "Grok",
     "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO."
-  },
-  {
-    "id": "https://openai.com/index/openai-on-oracle-cloud",
-    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-    "link": "https://openai.com/index/openai-on-oracle-cloud",
-    "pubDate": "Wed, 10 Jun 2026 20:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance."
-  },
-  {
-    "id": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
-    "title": "DiffusionGemma: 4x faster text generation",
-    "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
-    "pubDate": "Wed, 10 Jun 2026 16:24:11 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3131724",
-    "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
-    "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-    "pubDate": "Wed, 10 Jun 2026 15:41:22 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work."
-  },
-  {
-    "id": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-    "title": "PRC-linked influence operations are targeting AI debates in the US",
-    "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-    "pubDate": "Wed, 10 Jun 2026 12:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT."
-  },
-  {
-    "id": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
-    "title": "Investing in multi-agent AI safety research",
-    "link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
-    "pubDate": "Wed, 10 Jun 2026 10:21:19 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research."
   }
 ]
