@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "title": "Advancing responsible AI across Europe",
+    "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "pubDate": "Fri, 31 Jul 2026 15:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances."
+  },
+  {
     "id": "https://techcrunch.com/?p=3148621",
     "title": "Anthropic says its own AI models breached three companies during security tests",
     "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
@@ -1782,21 +1791,12 @@
     "summary": "If you doubted his genius, doubt no more."
   },
   {
-    "id": "https://openai.com/index/openai-to-acquire-ona",
-    "title": "OpenAI to acquire Ona",
-    "link": "https://openai.com/index/openai-to-acquire-ona",
+    "id": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
     "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
     "source": "OpenAI Blog",
     "category": "ChatGPT",
-    "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows."
-  },
-  {
-    "id": "https://openai.com/index/bbva",
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "link": "https://openai.com/index/bbva",
-    "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
+    "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
   }
 ]
