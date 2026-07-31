@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3148621",
+    "title": "Anthropic says its own AI models breached three companies during security tests",
+    "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+    "pubDate": "Fri, 31 Jul 2026 01:06:54 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148482",
+    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+    "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+    "pubDate": "Thu, 30 Jul 2026 23:25:58 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148510",
+    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+    "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+    "pubDate": "Thu, 30 Jul 2026 20:26:38 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology."
+  },
+  {
     "id": "https://huggingface.co/blog/Dharma-AI/gpu-management",
     "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
     "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
@@ -34,6 +61,15 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth."
+  },
+  {
+    "id": "https://openai.com/index/avatarin",
+    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+    "link": "https://openai.com/index/avatarin",
+    "pubDate": "Thu, 30 Jul 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive."
   },
   {
     "id": "https://techcrunch.com/?p=3148002",
@@ -1762,41 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
-  },
-  {
-    "id": "https://huggingface.co/blog/torch-mlp-fusion",
-    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-    "link": "https://huggingface.co/blog/torch-mlp-fusion",
-    "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
-    "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-    "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
-  },
-  {
-    "id": "https://openai.com/index/using-codex-to-simulate-black-holes",
-    "title": "How an astrophysicist uses Codex to help simulate black holes",
-    "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
-    "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3131988",
-    "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-    "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
-    "pubDate": "Wed, 10 Jun 2026 22:31:19 +0000",
-    "source": "TechCrunch - xAI",
-    "category": "Grok",
-    "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO."
   }
 ]

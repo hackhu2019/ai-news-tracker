@@ -5,9 +5,36 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 30 Jul 2026 15:09:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 01:06:54 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Anthropic says its own AI models breached three companies during security tests]]></title>
+      <link>https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/</link>
+      <guid>https://techcrunch.com/?p=3148621</guid>
+      <pubDate>Fri, 31 Jul 2026 01:06:54 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents]]></description>
+      <source url="https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares]]></title>
+      <link>https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/</link>
+      <guid>https://techcrunch.com/?p=3148482</guid>
+      <pubDate>Thu, 30 Jul 2026 23:25:58 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.]]></description>
+      <source url="https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label]]></title>
+      <link>https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/</link>
+      <guid>https://techcrunch.com/?p=3148510</guid>
+      <pubDate>Thu, 30 Jul 2026 20:26:38 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.]]></description>
+      <source url="https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/">TechCrunch - Anthropic</source>
+    </item>
     <item>
       <title><![CDATA[GPU Management: Why Idle GPUs Are the New Grounded Aircraft]]></title>
       <link>https://huggingface.co/blog/Dharma-AI/gpu-management</link>
@@ -43,6 +70,15 @@
       <category>Claude</category>
       <description><![CDATA[Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.]]></description>
       <source url="https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[How avatarin built a 24/7 retail agent with GPT-Realtime]]></title>
+      <link>https://openai.com/index/avatarin</link>
+      <guid>https://openai.com/index/avatarin</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.]]></description>
+      <source url="https://openai.com/index/avatarin">OpenAI Blog</source>
     </item>
     <item>
       <title><![CDATA[Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag]]></title>
@@ -421,42 +457,6 @@
       <category>Gemini</category>
       <description><![CDATA[Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.]]></description>
       <source url="https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/">Google DeepMind Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[A scorecard for the AI age]]></title>
-      <link>https://openai.com/index/a-scorecard-for-the-ai-age</link>
-      <guid>https://openai.com/index/a-scorecard-for-the-ai-age</guid>
-      <pubDate>Fri, 17 Jul 2026 10:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.]]></description>
-      <source url="https://openai.com/index/a-scorecard-for-the-ai-age">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Why teens deserve access to safe AI]]></title>
-      <link>https://openai.com/index/why-teens-deserve-access-safe-ai</link>
-      <guid>https://openai.com/index/why-teens-deserve-access-safe-ai</guid>
-      <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.]]></description>
-      <source url="https://openai.com/index/why-teens-deserve-access-safe-ai">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8]]></title>
-      <link>https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/</link>
-      <guid>https://techcrunch.com/?p=3143233</guid>
-      <pubDate>Thu, 16 Jul 2026 14:26:29 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.]]></description>
-      <source url="https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Newer Models, Same Advantage]]></title>
-      <link>https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages</link>
-      <guid>https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages</guid>
-      <pubDate>Thu, 16 Jul 2026 11:49:48 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages">Hugging Face Blog</source>
     </item>
   </channel>
 </rss>
