@@ -9,6 +9,15 @@
     "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
   },
   {
+    "id": "https://techcrunch.com/?p=3149027",
+    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "pubDate": "Sat, 01 Aug 2026 20:26:04 +0000",
+    "source": "TechCrunch - xAI",
+    "category": "Grok",
+    "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward."
+  },
+  {
     "id": "https://openai.com/index/ten-advances-in-mathematics",
     "title": "Ten advances in mathematics and theoretical computer science",
     "link": "https://openai.com/index/ten-advances-in-mathematics",
@@ -1789,14 +1798,5 @@
     "source": "TechCrunch - Mistral AI",
     "category": "Mistral",
     "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion."
-  },
-  {
-    "id": "https://techcrunch.com/?post_type=tc_video&p=3132423",
-    "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
-    "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
-    "pubDate": "Fri, 12 Jun 2026 16:23:25 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, N"
   }
 ]
