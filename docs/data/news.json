@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "pubDate": "Tue, 04 Aug 2026 13:58:29 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
     "title": "Disrupting a Criminal Scam Operation",
     "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
@@ -7,6 +16,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
+  },
+  {
+    "id": "https://openai.com/index/apple-is-getting-this-wrong",
+    "title": "Apple is getting this wrong",
+    "link": "https://openai.com/index/apple-is-getting-this-wrong",
+    "pubDate": "Mon, 03 Aug 2026 22:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened."
   },
   {
     "id": "https://techcrunch.com/?p=3149175",
@@ -1780,23 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3132739",
-    "title": "As AI companies race to go public, who else is along for the ride?",
-    "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-    "pubDate": "Sun, 14 Jun 2026 16:38:09 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Startups are trying to \"ride that SpaceX IPO wave.\""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3132702",
-    "title": "As Anthropic suspends access to new models, India debates its AI future",
-    "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-    "pubDate": "Sun, 14 Jun 2026 03:00:00 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions."
   }
 ]
