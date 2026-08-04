@@ -18,6 +18,33 @@
       <source url="https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation">OpenAI Blog</source>
     </item>
     <item>
+      <title><![CDATA[Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated]]></title>
+      <link>https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/</link>
+      <guid>https://techcrunch.com/?p=3149175</guid>
+      <pubDate>Mon, 03 Aug 2026 19:45:35 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the]]></description>
+      <source url="https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[How we built a realtime system for responsive voice AI in six months]]></title>
+      <link>https://openai.com/index/continuous-voice-interaction-with-gpt-live</link>
+      <guid>https://openai.com/index/continuous-voice-interaction-with-gpt-live</guid>
+      <pubDate>Mon, 03 Aug 2026 07:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.]]></description>
+      <source url="https://openai.com/index/continuous-voice-interaction-with-gpt-live">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Circles powers telco personalization with OpenAI technology]]></title>
+      <link>https://openai.com/index/circles</link>
+      <guid>https://openai.com/index/circles</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.]]></description>
+      <source url="https://openai.com/index/circles">OpenAI Blog</source>
+    </item>
+    <item>
       <title><![CDATA[Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps]]></title>
       <link>https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/</link>
       <guid>https://techcrunch.com/?p=3149027</guid>
@@ -430,33 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.]]></description>
       <source url="https://openai.com/index/ntt-data">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[The State of Simulation for Physical AI: An Overview]]></title>
-      <link>https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai</link>
-      <guid>https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai</guid>
-      <pubDate>Tue, 21 Jul 2026 20:00:27 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Introducing the ChatGPT for small business program]]></title>
-      <link>https://openai.com/index/introducing-chatgpt-small-business-program</link>
-      <guid>https://openai.com/index/introducing-chatgpt-small-business-program</guid>
-      <pubDate>Tue, 21 Jul 2026 17:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.]]></description>
-      <source url="https://openai.com/index/introducing-chatgpt-small-business-program">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber]]></title>
-      <link>https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/</link>
-      <guid>https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/</guid>
-      <pubDate>Tue, 21 Jul 2026 15:16:30 +0000</pubDate>
-      <category>Gemini</category>
-      <description><![CDATA[We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.]]></description>
-      <source url="https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/">Google DeepMind Blog</source>
     </item>
   </channel>
 </rss>

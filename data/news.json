@@ -9,6 +9,33 @@
     "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
   },
   {
+    "id": "https://techcrunch.com/?p=3149175",
+    "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+    "link": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+    "pubDate": "Mon, 03 Aug 2026 19:45:35 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the"
+  },
+  {
+    "id": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "title": "How we built a realtime system for responsive voice AI in six months",
+    "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations."
+  },
+  {
+    "id": "https://openai.com/index/circles",
+    "title": "Circles powers telco personalization with OpenAI technology",
+    "link": "https://openai.com/index/circles",
+    "pubDate": "Mon, 03 Aug 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency."
+  },
+  {
     "id": "https://techcrunch.com/?p=3149027",
     "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
     "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
@@ -1771,32 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3132688",
-    "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
-    "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
-    "pubDate": "Sat, 13 Jun 2026 19:11:41 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3132661",
-    "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-    "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-    "pubDate": "Sat, 13 Jun 2026 02:26:30 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the "
-  },
-  {
-    "id": "https://techcrunch.com/?p=3132412",
-    "title": "Mistral is rumored to be raising €3B at €20B valuation",
-    "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-    "pubDate": "Fri, 12 Jun 2026 17:38:11 +0000",
-    "source": "TechCrunch - Mistral AI",
-    "category": "Mistral",
-    "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion."
   }
 ]
