@@ -9,6 +9,15 @@
     "summary": ""
   },
   {
+    "id": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "pubDate": "Tue, 04 Aug 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build."
+  },
+  {
     "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
     "title": "Disrupting a Criminal Scam Operation",
     "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
@@ -1789,14 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic’s models Fable and Mythos, arguing that the order is going to limit the abil"
-  },
-  {
-    "id": "https://openai.com/index/introducing-openai-partner-network",
-    "title": "Introducing the OpenAI Partner Network",
-    "link": "https://openai.com/index/introducing-openai-partner-network",
-    "pubDate": "Sun, 14 Jun 2026 17:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation."
   }
 ]

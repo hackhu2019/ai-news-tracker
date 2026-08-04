@@ -18,6 +18,15 @@
       <source url="https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b">Hugging Face Blog</source>
     </item>
     <item>
+      <title><![CDATA[New ways to learn and teach with ChatGPT Work and Codex]]></title>
+      <link>https://openai.com/index/learn-teach-chatgpt-work-codex</link>
+      <guid>https://openai.com/index/learn-teach-chatgpt-work-codex</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.]]></description>
+      <source url="https://openai.com/index/learn-teach-chatgpt-work-codex">OpenAI Blog</source>
+    </item>
+    <item>
       <title><![CDATA[Disrupting a Criminal Scam Operation]]></title>
       <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
       <guid>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</guid>
@@ -448,15 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.]]></description>
       <source url="https://openai.com/index/advancing-the-next-era-of-national-science">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Introducing OpenAI Presence]]></title>
-      <link>https://openai.com/index/introducing-openai-presence</link>
-      <guid>https://openai.com/index/introducing-openai-presence</guid>
-      <pubDate>Wed, 22 Jul 2026 05:30:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.]]></description>
-      <source url="https://openai.com/index/introducing-openai-presence">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
