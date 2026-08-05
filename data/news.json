@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3149877",
+    "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+    "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+    "pubDate": "Tue, 04 Aug 2026 21:07:26 +0000",
+    "source": "TechCrunch - xAI",
+    "category": "Grok",
+    "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3149770",
+    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+    "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+    "pubDate": "Tue, 04 Aug 2026 19:48:40 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta."
+  },
+  {
+    "id": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "pubDate": "Tue, 04 Aug 2026 19:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation."
+  },
+  {
     "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
     "title": "Deploy local agents everywhere with LFM2.5-2.6B",
     "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
@@ -1771,32 +1798,5 @@
     "source": "TechCrunch - xAI",
     "category": "Grok",
     "summary": "The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines."
-  },
-  {
-    "id": "https://openai.com/index/deployment-simulation",
-    "title": "Predicting model behavior before release by simulating deployment",
-    "link": "https://openai.com/index/deployment-simulation",
-    "pubDate": "Tue, 16 Jun 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3133070",
-    "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
-    "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-    "pubDate": "Mon, 15 Jun 2026 21:50:21 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune fro"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3132849",
-    "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
-    "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
-    "pubDate": "Mon, 15 Jun 2026 15:29:51 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic’s models Fable and Mythos, arguing that the order is going to limit the abil"
   }
 ]

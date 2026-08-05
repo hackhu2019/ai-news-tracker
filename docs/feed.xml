@@ -5,9 +5,36 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 04 Aug 2026 13:58:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 21:07:26 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[SpaceX has bought $329M worth of Tesla Megapacks so far this year]]></title>
+      <link>https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/</link>
+      <guid>https://techcrunch.com/?p=3149877</guid>
+      <pubDate>Tue, 04 Aug 2026 21:07:26 +0000</pubDate>
+      <category>Grok</category>
+      <description><![CDATA[The purchase illustrates just how interconnected Elon Musk's universe of companies are.]]></description>
+      <source url="https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/">TechCrunch - xAI</source>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic signs $10B deal with AI cloud startup Volta]]></title>
+      <link>https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/</link>
+      <guid>https://techcrunch.com/?p=3149770</guid>
+      <pubDate>Tue, 04 Aug 2026 19:48:40 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.]]></description>
+      <source url="https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Third-party cyber evaluations involving OpenAI models]]></title>
+      <link>https://openai.com/index/third-party-cyber-evaluations-involving-openai-models</link>
+      <guid>https://openai.com/index/third-party-cyber-evaluations-involving-openai-models</guid>
+      <pubDate>Tue, 04 Aug 2026 19:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.]]></description>
+      <source url="https://openai.com/index/third-party-cyber-evaluations-involving-openai-models">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Deploy local agents everywhere with LFM2.5-2.6B]]></title>
       <link>https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b</link>
@@ -430,33 +457,6 @@
       <category>Gemini</category>
       <description><![CDATA[Google commits $40M in AI tokens and credits for the Genesis Mission]]></description>
       <source url="https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/">Google DeepMind Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How news organizations are using AI to advance their vital missions]]></title>
-      <link>https://openai.com/index/how-news-organizations-are-using-ai</link>
-      <guid>https://openai.com/index/how-news-organizations-are-using-ai</guid>
-      <pubDate>Wed, 22 Jul 2026 13:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.]]></description>
-      <source url="https://openai.com/index/how-news-organizations-are-using-ai">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Building AI infrastructure with the Effingham County community]]></title>
-      <link>https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community</link>
-      <guid>https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community</guid>
-      <pubDate>Wed, 22 Jul 2026 13:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.]]></description>
-      <source url="https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Advancing the next era of national science]]></title>
-      <link>https://openai.com/index/advancing-the-next-era-of-national-science</link>
-      <guid>https://openai.com/index/advancing-the-next-era-of-national-science</guid>
-      <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.]]></description>
-      <source url="https://openai.com/index/advancing-the-next-era-of-national-science">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
