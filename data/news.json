@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3150382",
+    "title": "Meta launches Muse Code, an AI agent for large code bases",
+    "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+    "pubDate": "Wed, 05 Aug 2026 21:21:28 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3150081",
+    "title": "Anthropic is hiring an AI chip design team",
+    "link": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+    "pubDate": "Wed, 05 Aug 2026 14:13:18 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently."
+  },
+  {
     "id": "https://techcrunch.com/?p=3149877",
     "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
     "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
@@ -1780,23 +1798,5 @@
     "source": "Google DeepMind Blog",
     "category": "Gemini",
     "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions."
-  },
-  {
-    "id": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
-    "title": "Securing the future of AI agents",
-    "link": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
-    "pubDate": "Tue, 16 Jun 2026 15:46:31 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3133261",
-    "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
-    "link": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
-    "pubDate": "Tue, 16 Jun 2026 15:05:03 +0000",
-    "source": "TechCrunch - xAI",
-    "category": "Grok",
-    "summary": "The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines."
   }
 ]

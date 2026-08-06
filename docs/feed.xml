@@ -5,9 +5,27 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 04 Aug 2026 21:07:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 21:21:28 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Meta launches Muse Code, an AI agent for large code bases]]></title>
+      <link>https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/</link>
+      <guid>https://techcrunch.com/?p=3150382</guid>
+      <pubDate>Wed, 05 Aug 2026 21:21:28 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.]]></description>
+      <source url="https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic is hiring an AI chip design team]]></title>
+      <link>https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/</link>
+      <guid>https://techcrunch.com/?p=3150081</guid>
+      <pubDate>Wed, 05 Aug 2026 14:13:18 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.]]></description>
+      <source url="https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/">TechCrunch - Anthropic</source>
+    </item>
     <item>
       <title><![CDATA[SpaceX has bought $329M worth of Tesla Megapacks so far this year]]></title>
       <link>https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/</link>
@@ -439,24 +457,6 @@
       <category>Claude</category>
       <description><![CDATA[Anthropic leaped to a $47 billion revenue run rate by May, compared to $9 billion in 2025. It’s the kind of growth that Menlo Ventures’ Matt Murphy says he’s never seen in 25 years of investing, not i]]></description>
       <source url="https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently]]></title>
-      <link>https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/</link>
-      <guid>https://techcrunch.com/?post_type=tc_podcast&p=3145431</guid>
-      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Anthropic leaped to a $47 billion revenue run rate by May, compared to $9 billion in 2025. It’s the kind of growth that Menlo Ventures’ Matt Murphy says he’s never seen in 25 years of investing, not i]]></description>
-      <source url="https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission]]></title>
-      <link>https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/</link>
-      <guid>https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/</guid>
-      <pubDate>Wed, 22 Jul 2026 13:38:54 +0000</pubDate>
-      <category>Gemini</category>
-      <description><![CDATA[Google commits $40M in AI tokens and credits for the Genesis Mission]]></description>
-      <source url="https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/">Google DeepMind Blog</source>
     </item>
   </channel>
 </rss>
