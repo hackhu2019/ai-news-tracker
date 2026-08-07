@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://huggingface.co/blog/allenai/tutormoments",
+    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "link": "https://huggingface.co/blog/allenai/tutormoments",
+    "pubDate": "Fri, 07 Aug 2026 17:53:32 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "pubDate": "Fri, 07 Aug 2026 15:20:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls."
+  },
+  {
     "id": "https://openai.com/index/hsp-gruppe",
     "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
     "link": "https://openai.com/index/hsp-gruppe",
@@ -1780,23 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects."
-  },
-  {
-    "id": "https://huggingface.co/blog/allenai/molmomotion",
-    "title": "MolmoMotion: Language-guided 3D motion forecasting",
-    "link": "https://huggingface.co/blog/allenai/molmomotion",
-    "pubDate": "Wed, 17 Jun 2026 15:26:44 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-    "link": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-    "pubDate": "Wed, 17 Jun 2026 10:18:05 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
   }
 ]

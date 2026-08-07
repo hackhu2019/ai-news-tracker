@@ -5,9 +5,27 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 07 Aug 2026 09:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 17:53:32 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[TutorMoments: Do AI tutors know when to help and when to hold back?]]></title>
+      <link>https://huggingface.co/blog/allenai/tutormoments</link>
+      <guid>https://huggingface.co/blog/allenai/tutormoments</guid>
+      <pubDate>Fri, 07 Aug 2026 17:53:32 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/allenai/tutormoments">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Responding to the next frontier of critical cyber capabilities]]></title>
+      <link>https://openai.com/index/responding-next-frontier-critical-cyber-capabilities</link>
+      <guid>https://openai.com/index/responding-next-frontier-critical-cyber-capabilities</guid>
+      <pubDate>Fri, 07 Aug 2026 15:20:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.]]></description>
+      <source url="https://openai.com/index/responding-next-frontier-critical-cyber-capabilities">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[How HSP GRUPPE builds AI capabilities for tax advisory]]></title>
       <link>https://openai.com/index/hsp-gruppe</link>
@@ -439,24 +457,6 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/agent-intrusion-technical-timeline">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic launches Opus 5]]></title>
-      <link>https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/</link>
-      <guid>https://techcrunch.com/?p=3146446</guid>
-      <pubDate>Fri, 24 Jul 2026 17:00:00 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.]]></description>
-      <source url="https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[AMD takes on Nvidia with its Helios AI rack-scale system]]></title>
-      <link>https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/</link>
-      <guid>https://techcrunch.com/?p=3145851</guid>
-      <pubDate>Thu, 23 Jul 2026 20:33:02 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.]]></description>
-      <source url="https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>
