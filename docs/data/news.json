@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://openai.com/index/hsp-gruppe",
+    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+    "link": "https://openai.com/index/hsp-gruppe",
+    "pubDate": "Fri, 07 Aug 2026 09:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service."
+  },
+  {
     "id": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
     "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
     "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
@@ -1789,14 +1798,5 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/ai-chemist-improves-reaction",
-    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-    "link": "https://openai.com/index/ai-chemist-improves-reaction",
-    "pubDate": "Wed, 17 Jun 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research."
   }
 ]
