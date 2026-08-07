@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+    "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "pubDate": "Thu, 06 Aug 2026 15:06:15 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "pubDate": "Thu, 06 Aug 2026 10:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna."
+  },
+  {
+    "id": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+    "title": "Working with the American Psychological Association on youth mental health and AI",
+    "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+    "pubDate": "Thu, 06 Aug 2026 06:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health."
+  },
+  {
+    "id": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "title": "From asking to doing: How the world is putting ChatGPT to work",
+    "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "pubDate": "Thu, 06 Aug 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior."
+  },
+  {
+    "id": "https://huggingface.co/blog/baseten",
+    "title": "Baseten on Hugging Face Inference Providers 🔥",
+    "link": "https://huggingface.co/blog/baseten",
+    "pubDate": "Thu, 06 Aug 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/?p=3150382",
     "title": "Meta launches Muse Code, an AI agent for large code bases",
     "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
@@ -1753,50 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research."
-  },
-  {
-    "id": "https://huggingface.co/blog/zai-org/glm-52-blog",
-    "title": "GLM-5.2: Built for Long-Horizon Tasks",
-    "link": "https://huggingface.co/blog/zai-org/glm-52-blog",
-    "pubDate": "Wed, 17 Jun 2026 09:01:25 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/introducing-life-sci-bench",
-    "title": "Introducing LifeSciBench",
-    "link": "https://openai.com/index/introducing-life-sci-bench",
-    "pubDate": "Wed, 17 Jun 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions."
-  },
-  {
-    "id": "https://huggingface.co/blog/agentic-resource-discovery-launch",
-    "title": "Agentic Resource Discovery: Let agents search",
-    "link": "https://huggingface.co/blog/agentic-resource-discovery-launch",
-    "pubDate": "Wed, 17 Jun 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3133474",
-    "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
-    "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
-    "pubDate": "Tue, 16 Jun 2026 22:34:17 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests."
-  },
-  {
-    "id": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-    "title": "Unlocking UK house-building with AI-accelerated planning",
-    "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-    "pubDate": "Tue, 16 Jun 2026 21:29:50 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions."
   }
 ]

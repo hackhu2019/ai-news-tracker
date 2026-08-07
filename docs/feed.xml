@@ -5,9 +5,54 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 05 Aug 2026 21:21:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 15:06:15 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[WeatherNext: AI model achieves breakthrough in forecasting cyclones]]></title>
+      <link>https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/</link>
+      <guid>https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/</guid>
+      <pubDate>Thu, 06 Aug 2026 15:06:15 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[]]></description>
+      <source url="https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/">Google DeepMind Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users]]></title>
+      <link>https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt</link>
+      <guid>https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt</guid>
+      <pubDate>Thu, 06 Aug 2026 10:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.]]></description>
+      <source url="https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Working with the American Psychological Association on youth mental health and AI]]></title>
+      <link>https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai</link>
+      <guid>https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai</guid>
+      <pubDate>Thu, 06 Aug 2026 06:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.]]></description>
+      <source url="https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[From asking to doing: How the world is putting ChatGPT to work]]></title>
+      <link>https://openai.com/index/how-the-world-is-putting-chatgpt-to-work</link>
+      <guid>https://openai.com/index/how-the-world-is-putting-chatgpt-to-work</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.]]></description>
+      <source url="https://openai.com/index/how-the-world-is-putting-chatgpt-to-work">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Baseten on Hugging Face Inference Providers 🔥]]></title>
+      <link>https://huggingface.co/blog/baseten</link>
+      <guid>https://huggingface.co/blog/baseten</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/baseten">Hugging Face Blog</source>
+    </item>
     <item>
       <title><![CDATA[Meta launches Muse Code, an AI agent for large code bases]]></title>
       <link>https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/</link>
@@ -412,51 +457,6 @@
       <category>Claude</category>
       <description><![CDATA[Claude's new voice model will let you reschedule your meeting or draft an email]]></description>
       <source url="https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good]]></title>
-      <link>https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/</link>
-      <guid>https://techcrunch.com/?p=3145469</guid>
-      <pubDate>Thu, 23 Jul 2026 11:00:00 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA["I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation," one expert told TechCrunch.]]></description>
-      <source url="https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Launching Health in ChatGPT ]]></title>
-      <link>https://openai.com/index/health-in-chatgpt</link>
-      <guid>https://openai.com/index/health-in-chatgpt</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.]]></description>
-      <source url="https://openai.com/index/health-in-chatgpt">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Bringing Nunchaku 4-bit Diffusion Inference to Diffusers]]></title>
-      <link>https://huggingface.co/blog/nunchaku-diffusers</link>
-      <guid>https://huggingface.co/blog/nunchaku-diffusers</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/nunchaku-diffusers">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable]]></title>
-      <link>https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/</link>
-      <guid>https://techcrunch.com/?p=3145517</guid>
-      <pubDate>Wed, 22 Jul 2026 20:49:03 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[The episode has also intensified a broader debate in Washington over the influx of Chinese open models.]]></description>
-      <source url="https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)]]></title>
-      <link>https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/</link>
-      <guid>https://techcrunch.com/?post_type=tc_video&p=3145436</guid>
-      <pubDate>Wed, 22 Jul 2026 18:02:57 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Anthropic leaped to a $47 billion revenue run rate by May, compared to $9 billion in 2025. It’s the kind of growth that Menlo Ventures’ Matt Murphy says he’s never seen in 25 years of investing, not i]]></description>
-      <source url="https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>
