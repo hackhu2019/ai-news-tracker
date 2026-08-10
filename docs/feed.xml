@@ -5,9 +5,45 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 10 Aug 2026 10:05:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 17:00:00 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[What building an AI-native finance function taught me]]></title>
+      <link>https://openai.com/index/building-an-ai-native-finance-function</link>
+      <guid>https://openai.com/index/building-an-ai-native-finance-function</guid>
+      <pubDate>Mon, 10 Aug 2026 17:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.]]></description>
+      <source url="https://openai.com/index/building-an-ai-native-finance-function">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS]]></title>
+      <link>https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents</link>
+      <guid>https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents</guid>
+      <pubDate>Mon, 10 Aug 2026 16:25:36 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas]]></title>
+      <link>https://openai.com/index/responsible-ai-infrastructure-texas</link>
+      <guid>https://openai.com/index/responsible-ai-infrastructure-texas</guid>
+      <pubDate>Mon, 10 Aug 2026 14:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.]]></description>
+      <source url="https://openai.com/index/responsible-ai-infrastructure-texas">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Model ML completes finance work more efficiently with GPT-5.6 Sol]]></title>
+      <link>https://openai.com/index/model-ml</link>
+      <guid>https://openai.com/index/model-ml</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.]]></description>
+      <source url="https://openai.com/index/model-ml">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Making Knowledge Distillation Cheap Enough to Run at Scale]]></title>
       <link>https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation</link>
@@ -16,6 +52,33 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Expanding Daybreak as the Cyber Defense Window Narrows]]></title>
+      <link>https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows</link>
+      <guid>https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows</guid>
+      <pubDate>Mon, 10 Aug 2026 10:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.]]></description>
+      <source url="https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Putting frontier cyber models in more trusted hands]]></title>
+      <link>https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands</link>
+      <guid>https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands</guid>
+      <pubDate>Mon, 10 Aug 2026 10:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.]]></description>
+      <source url="https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Premium seats are coming to ChatGPT Business]]></title>
+      <link>https://openai.com/index/premium-seats-chatgpt-business</link>
+      <guid>https://openai.com/index/premium-seats-chatgpt-business</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.]]></description>
+      <source url="https://openai.com/index/premium-seats-chatgpt-business">OpenAI Blog</source>
     </item>
     <item>
       <title><![CDATA[Meta is back with Muse Glimmer: local, agentic, multimodal, and open source]]></title>
@@ -394,69 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.]]></description>
       <source url="https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Accelerating scientific discovery with ChatGPT for Academic Researchers]]></title>
-      <link>https://openai.com/index/chatgpt-for-academic-researchers</link>
-      <guid>https://openai.com/index/chatgpt-for-academic-researchers</guid>
-      <pubDate>Wed, 29 Jul 2026 10:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.]]></description>
-      <source url="https://openai.com/index/chatgpt-for-academic-researchers">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How GPT-5.6 fuses frontier intelligence with frontier efficiency]]></title>
-      <link>https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency</link>
-      <guid>https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency</guid>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.]]></description>
-      <source url="https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Scientific computing in the age of agentic AI]]></title>
-      <link>https://openai.com/index/scientific-computing-agentic-ai</link>
-      <guid>https://openai.com/index/scientific-computing-agentic-ai</guid>
-      <pubDate>Tue, 28 Jul 2026 17:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.]]></description>
-      <source url="https://openai.com/index/scientific-computing-agentic-ai">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[The OlmoEarth Platform: Geospatial inference at planetary scale]]></title>
-      <link>https://huggingface.co/blog/allenai/olmoearth-infrastructure</link>
-      <guid>https://huggingface.co/blog/allenai/olmoearth-infrastructure</guid>
-      <pubDate>Tue, 28 Jul 2026 16:27:42 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/allenai/olmoearth-infrastructure">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[LFM2.5-Encoders for Fast Long-Context Inference on CPU]]></title>
-      <link>https://huggingface.co/blog/LiquidAI/lfm2-5-encoders</link>
-      <guid>https://huggingface.co/blog/LiquidAI/lfm2-5-encoders</guid>
-      <pubDate>Tue, 28 Jul 2026 15:01:45 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/LiquidAI/lfm2-5-encoders">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Gemini Robotics 2 brings whole body intelligence to robots]]></title>
-      <link>https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/</link>
-      <guid>https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/</guid>
-      <pubDate>Tue, 28 Jul 2026 13:21:37 +0000</pubDate>
-      <category>Gemini</category>
-      <description><![CDATA[]]></description>
-      <source url="https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/">Google DeepMind Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI]]></title>
-      <link>https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/</link>
-      <guid>https://techcrunch.com/?p=3147197</guid>
-      <pubDate>Tue, 28 Jul 2026 00:13:33 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.]]></description>
-      <source url="https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>
