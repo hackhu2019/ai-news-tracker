@@ -5,9 +5,18 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 09 Aug 2026 14:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 19:20:32 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Anthropic is turning Claude Code’s auto mode on by default]]></title>
+      <link>https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/</link>
+      <guid>https://techcrunch.com/?p=3151431</guid>
+      <pubDate>Sun, 09 Aug 2026 19:20:32 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Programming with Claude Code will soon require even less human oversight.]]></description>
+      <source url="https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/">TechCrunch - Anthropic</source>
+    </item>
     <item>
       <title><![CDATA[The AI safety test is becoming a safety risk]]></title>
       <link>https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/</link>
@@ -448,15 +457,6 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/nvidia/cosmos-h-dreams">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How AI is expanding what people do at work]]></title>
-      <link>https://openai.com/index/how-ai-is-expanding-what-people-do-at-work</link>
-      <guid>https://openai.com/index/how-ai-is-expanding-what-people-do-at-work</guid>
-      <pubDate>Mon, 27 Jul 2026 03:30:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.]]></description>
-      <source url="https://openai.com/index/how-ai-is-expanding-what-people-do-at-work">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
