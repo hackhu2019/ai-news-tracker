@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+    "pubDate": "Mon, 10 Aug 2026 10:05:36 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/muse-glimmer",
+    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+    "link": "https://huggingface.co/blog/muse-glimmer",
+    "pubDate": "Mon, 10 Aug 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/?p=3151431",
     "title": "Anthropic is turning Claude Code’s auto mode on by default",
     "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
@@ -1780,23 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases."
-  },
-  {
-    "id": "https://huggingface.co/blog/peft-beyond-lora",
-    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-    "link": "https://huggingface.co/blog/peft-beyond-lora",
-    "pubDate": "Thu, 18 Jun 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/is-it-agentic-enough",
-    "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-    "link": "https://huggingface.co/blog/is-it-agentic-enough",
-    "pubDate": "Thu, 18 Jun 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
   }
 ]
