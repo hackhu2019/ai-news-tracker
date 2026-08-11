@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3151655",
+    "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+    "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+    "pubDate": "Mon, 10 Aug 2026 23:56:15 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it."
+  },
+  {
     "id": "https://openai.com/index/building-an-ai-native-finance-function",
     "title": "What building an AI-native finance function taught me",
     "link": "https://openai.com/index/building-an-ai-native-finance-function",
@@ -61,6 +70,24 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers."
+  },
+  {
+    "id": "https://openai.com/index/zapier",
+    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+    "link": "https://openai.com/index/zapier",
+    "pubDate": "Mon, 10 Aug 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting."
+  },
+  {
+    "id": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+    "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+    "pubDate": "Mon, 10 Aug 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey."
   },
   {
     "id": "https://openai.com/index/premium-seats-chatgpt-business",
@@ -1771,32 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt."
-  },
-  {
-    "id": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-    "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-    "pubDate": "Sun, 21 Jun 2026 23:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3134737",
-    "title": "When the Trump administration cracks down on Anthropic, who benefits?",
-    "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
-    "pubDate": "Sun, 21 Jun 2026 15:28:17 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3134677",
-    "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-    "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-    "pubDate": "Sat, 20 Jun 2026 16:39:57 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Jumper isn't the only big name leaving Google DeepMind."
   }
 ]

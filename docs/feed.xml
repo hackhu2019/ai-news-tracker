@@ -5,9 +5,18 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 10 Aug 2026 17:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 23:56:15 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[As AI-led attacks multiply, OpenAI launches a new cyber model]]></title>
+      <link>https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/</link>
+      <guid>https://techcrunch.com/?p=3151655</guid>
+      <pubDate>Mon, 10 Aug 2026 23:56:15 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.]]></description>
+      <source url="https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/">TechCrunch - Anthropic</source>
+    </item>
     <item>
       <title><![CDATA[What building an AI-native finance function taught me]]></title>
       <link>https://openai.com/index/building-an-ai-native-finance-function</link>
@@ -70,6 +79,24 @@
       <category>ChatGPT</category>
       <description><![CDATA[Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.]]></description>
       <source url="https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[How Zapier transformed core marketing processes with ChatGPT Work]]></title>
+      <link>https://openai.com/index/zapier</link>
+      <guid>https://openai.com/index/zapier</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.]]></description>
+      <source url="https://openai.com/index/zapier">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Virgin Atlantic sharpens customer journeys with ChatGPT Work]]></title>
+      <link>https://openai.com/index/virgin-atlantic/chatgpt-work</link>
+      <guid>https://openai.com/index/virgin-atlantic/chatgpt-work</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.]]></description>
+      <source url="https://openai.com/index/virgin-atlantic/chatgpt-work">OpenAI Blog</source>
     </item>
     <item>
       <title><![CDATA[Premium seats are coming to ChatGPT Business]]></title>
@@ -430,33 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.]]></description>
       <source url="https://openai.com/index/avatarin">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag]]></title>
-      <link>https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/</link>
-      <guid>https://techcrunch.com/?p=3148002</guid>
-      <pubDate>Wed, 29 Jul 2026 22:46:03 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and compe]]></description>
-      <source url="https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control]]></title>
-      <link>https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/</link>
-      <guid>https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/</guid>
-      <pubDate>Wed, 29 Jul 2026 16:02:10 +0000</pubDate>
-      <category>Gemini</category>
-      <description><![CDATA[]]></description>
-      <source url="https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/">Google DeepMind Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How enabling two settings tripled our scores on the ARC-AGI-3 benchmark]]></title>
-      <link>https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores</link>
-      <guid>https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores</guid>
-      <pubDate>Wed, 29 Jul 2026 15:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.]]></description>
-      <source url="https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
