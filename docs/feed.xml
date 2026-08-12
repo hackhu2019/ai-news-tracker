@@ -36,6 +36,15 @@
       <source url="https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/">TechCrunch - Anthropic</source>
     </item>
     <item>
+      <title><![CDATA[Daybreak models are now available on AWS]]></title>
+      <link>https://openai.com/index/daybreak-models-are-now-available-on-aws</link>
+      <guid>https://openai.com/index/daybreak-models-are-now-available-on-aws</guid>
+      <pubDate>Tue, 11 Aug 2026 10:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.]]></description>
+      <source url="https://openai.com/index/daybreak-models-are-now-available-on-aws">OpenAI Blog</source>
+    </item>
+    <item>
       <title><![CDATA[Testing ads in ChatGPT]]></title>
       <link>https://openai.com/index/testing-ads-in-chatgpt</link>
       <guid>https://openai.com/index/testing-ads-in-chatgpt</guid>
@@ -448,15 +457,6 @@
       <category>Claude</category>
       <description><![CDATA[A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.]]></description>
       <source url="https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[GPU Management: Why Idle GPUs Are the New Grounded Aircraft]]></title>
-      <link>https://huggingface.co/blog/Dharma-AI/gpu-management</link>
-      <guid>https://huggingface.co/blog/Dharma-AI/gpu-management</guid>
-      <pubDate>Thu, 30 Jul 2026 15:09:09 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/Dharma-AI/gpu-management">Hugging Face Blog</source>
     </item>
   </channel>
 </rss>
