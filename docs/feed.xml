@@ -5,9 +5,18 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 11 Aug 2026 16:25:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 06:00:00 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[From assistance to execution: How enterprises put AI to work]]></title>
+      <link>https://openai.com/index/how-enterprises-put-ai-to-work</link>
+      <guid>https://openai.com/index/how-enterprises-put-ai-to-work</guid>
+      <pubDate>Wed, 12 Aug 2026 06:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.]]></description>
+      <source url="https://openai.com/index/how-enterprises-put-ai-to-work">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[An unreleased Anthropic model made progress on one of math’s biggest unsolved problems]]></title>
       <link>https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/</link>
@@ -448,15 +457,6 @@
       <category>Claude</category>
       <description><![CDATA[The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.]]></description>
       <source url="https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label]]></title>
-      <link>https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/</link>
-      <guid>https://techcrunch.com/?p=3148510</guid>
-      <pubDate>Thu, 30 Jul 2026 20:26:38 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.]]></description>
-      <source url="https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>
