@@ -5,9 +5,36 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 12 Aug 2026 06:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 16:14:36 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis]]></title>
+      <link>https://huggingface.co/blog/allenai/olmoearth-embeddings</link>
+      <guid>https://huggingface.co/blog/allenai/olmoearth-embeddings</guid>
+      <pubDate>Wed, 12 Aug 2026 16:14:36 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/allenai/olmoearth-embeddings">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Putting sign language AI into users’ hands]]></title>
+      <link>https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/</link>
+      <guid>https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/</guid>
+      <pubDate>Wed, 12 Aug 2026 14:01:59 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.]]></description>
+      <source url="https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/">Google DeepMind Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge]]></title>
+      <link>https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b</link>
+      <guid>https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b</guid>
+      <pubDate>Wed, 12 Aug 2026 14:00:51 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b">Hugging Face Blog</source>
+    </item>
     <item>
       <title><![CDATA[From assistance to execution: How enterprises put AI to work]]></title>
       <link>https://openai.com/index/how-enterprises-put-ai-to-work</link>
@@ -430,33 +457,6 @@
       <category>Claude</category>
       <description><![CDATA[After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out o]]></description>
       <source url="https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Univé builds an AI-ready workforce]]></title>
-      <link>https://openai.com/index/unive</link>
-      <guid>https://openai.com/index/unive</guid>
-      <pubDate>Fri, 31 Jul 2026 07:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.]]></description>
-      <source url="https://openai.com/index/unive">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic says its own AI models breached three companies during security tests]]></title>
-      <link>https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/</link>
-      <guid>https://techcrunch.com/?p=3148621</guid>
-      <pubDate>Fri, 31 Jul 2026 01:06:54 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents]]></description>
-      <source url="https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares]]></title>
-      <link>https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/</link>
-      <guid>https://techcrunch.com/?p=3148482</guid>
-      <pubDate>Thu, 30 Jul 2026 23:25:58 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.]]></description>
-      <source url="https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>
