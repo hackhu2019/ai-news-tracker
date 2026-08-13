@@ -5,9 +5,18 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 12 Aug 2026 16:14:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 22:26:37 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes]]></title>
+      <link>https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/</link>
+      <guid>https://techcrunch.com/?p=3152533</guid>
+      <pubDate>Wed, 12 Aug 2026 22:26:37 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.]]></description>
+      <source url="https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/">TechCrunch - Anthropic</source>
+    </item>
     <item>
       <title><![CDATA[Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis]]></title>
       <link>https://huggingface.co/blog/allenai/olmoearth-embeddings</link>
@@ -43,6 +52,15 @@
       <category>ChatGPT</category>
       <description><![CDATA[OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.]]></description>
       <source url="https://openai.com/index/how-enterprises-put-ai-to-work">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[How RingCentral builds AI-native work from engineering to ops]]></title>
+      <link>https://openai.com/index/ringcentral</link>
+      <guid>https://openai.com/index/ringcentral</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.]]></description>
+      <source url="https://openai.com/index/ringcentral">OpenAI Blog</source>
     </item>
     <item>
       <title><![CDATA[An unreleased Anthropic model made progress on one of math’s biggest unsolved problems]]></title>
@@ -439,24 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.]]></description>
       <source url="https://openai.com/index/building-abundant-intelligence">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Advancing responsible AI across Europe]]></title>
-      <link>https://openai.com/index/advancing-responsible-ai-across-europe</link>
-      <guid>https://openai.com/index/advancing-responsible-ai-across-europe</guid>
-      <pubDate>Fri, 31 Jul 2026 15:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.]]></description>
-      <source url="https://openai.com/index/advancing-responsible-ai-across-europe">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off]]></title>
-      <link>https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/</link>
-      <guid>https://techcrunch.com/?post_type=tc_podcast&p=3148831</guid>
-      <pubDate>Fri, 31 Jul 2026 14:00:00 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out o]]></description>
-      <source url="https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>
