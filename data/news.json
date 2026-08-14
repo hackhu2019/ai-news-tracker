@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3152875",
+    "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "pubDate": "Thu, 13 Aug 2026 19:22:40 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users."
+  },
+  {
     "id": "https://techcrunch.com/?p=3152849",
     "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
     "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
@@ -1789,14 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows."
-  },
-  {
-    "id": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
-    "title": "Which tokens does a hybrid model predict better?",
-    "link": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
-    "pubDate": "Thu, 25 Jun 2026 16:11:42 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
   }
 ]

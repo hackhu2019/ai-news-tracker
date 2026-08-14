@@ -5,9 +5,18 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 13 Aug 2026 18:28:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 19:22:40 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed]]></title>
+      <link>https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/</link>
+      <guid>https://techcrunch.com/?p=3152875</guid>
+      <pubDate>Thu, 13 Aug 2026 19:22:40 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.]]></description>
+      <source url="https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/">TechCrunch - Anthropic</source>
+    </item>
     <item>
       <title><![CDATA[Anthropic set AI agents loose on the same task. They started a turf war.]]></title>
       <link>https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/</link>
@@ -448,15 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.]]></description>
       <source url="https://openai.com/index/apple-is-getting-this-wrong">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated]]></title>
-      <link>https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/</link>
-      <guid>https://techcrunch.com/?p=3149175</guid>
-      <pubDate>Mon, 03 Aug 2026 19:45:35 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the]]></description>
-      <source url="https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>
