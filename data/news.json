@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/?post_type=tc_video&p=3153153",
+    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+    "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+    "pubDate": "Fri, 14 Aug 2026 15:43:28 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its ow"
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3153152",
+    "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong ",
+    "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+    "pubDate": "Fri, 14 Aug 2026 14:00:00 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its ow"
+  },
+  {
+    "id": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "title": "State of Open Models: Summer 2026 Observations",
+    "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "pubDate": "Fri, 14 Aug 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/?p=3152875",
     "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
     "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
@@ -1771,32 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack."
-  },
-  {
-    "id": "https://huggingface.co/blog/vllm-jobs",
-    "title": "Run a vLLM Server on HF Jobs in One Command",
-    "link": "https://huggingface.co/blog/vllm-jobs",
-    "pubDate": "Fri, 26 Jun 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3136540",
-    "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-    "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-    "pubDate": "Thu, 25 Jun 2026 23:34:39 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3135892",
-    "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-    "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-    "pubDate": "Thu, 25 Jun 2026 17:38:27 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows."
   }
 ]
