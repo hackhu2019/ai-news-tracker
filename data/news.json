@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3153258",
+    "title": "How to tell if your AI platforms’ accounts have been hacked",
+    "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+    "pubDate": "Sat, 15 Aug 2026 16:10:00 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms."
+  },
+  {
     "id": "https://techcrunch.com/?post_type=tc_video&p=3153153",
     "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
     "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
@@ -1789,14 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built wit"
-  },
-  {
-    "id": "https://openai.com/index/previewing-gpt-5-6-sol",
-    "title": "Previewing GPT-5.6 Sol: a next-generation model",
-    "link": "https://openai.com/index/previewing-gpt-5-6-sol",
-    "pubDate": "Fri, 26 Jun 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack."
   }
 ]
