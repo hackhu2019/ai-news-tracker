@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3153318",
+    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "pubDate": "Sun, 16 Aug 2026 16:53:51 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
+  },
+  {
     "id": "https://techcrunch.com/?p=3153310",
     "title": "Anthropic shares more details about how Claude’s new watermarks will work",
     "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
@@ -1789,14 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built wit"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3136684",
-    "title": "It’s not about Anthropic vs. OpenAI anymore",
-    "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-    "pubDate": "Fri, 26 Jun 2026 16:24:47 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action."
   }
 ]
