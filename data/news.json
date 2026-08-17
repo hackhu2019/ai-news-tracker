@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://openai.com/index/the-defenders-window",
+    "title": "The Defender’s Window",
+    "link": "https://openai.com/index/the-defenders-window",
+    "pubDate": "Mon, 17 Aug 2026 05:30:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now."
+  },
+  {
+    "id": "https://openai.com/index/openai-joins-ports-pike-project",
+    "title": "OpenAI joins PORTS-Pike project",
+    "link": "https://openai.com/index/openai-joins-ports-pike-project",
+    "pubDate": "Mon, 17 Aug 2026 05:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs"
+  },
+  {
+    "id": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+    "title": "New policy ideas for the Intelligence Age",
+    "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+    "pubDate": "Mon, 17 Aug 2026 03:15:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age."
+  },
+  {
     "id": "https://techcrunch.com/?p=3153318",
     "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
     "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
@@ -1771,32 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3136677",
-    "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
-    "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-    "pubDate": "Sat, 27 Jun 2026 12:00:00 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3136944",
-    "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
-    "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-    "pubDate": "Sat, 27 Jun 2026 01:01:37 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees."
-  },
-  {
-    "id": "https://techcrunch.com/?post_type=tc_video&p=3136708",
-    "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-    "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-    "pubDate": "Fri, 26 Jun 2026 17:43:22 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built wit"
   }
 ]

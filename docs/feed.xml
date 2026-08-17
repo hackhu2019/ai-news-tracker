@@ -5,9 +5,36 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 16 Aug 2026 16:53:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 05:30:00 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[The Defender’s Window]]></title>
+      <link>https://openai.com/index/the-defenders-window</link>
+      <guid>https://openai.com/index/the-defenders-window</guid>
+      <pubDate>Mon, 17 Aug 2026 05:30:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.]]></description>
+      <source url="https://openai.com/index/the-defenders-window">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI joins PORTS-Pike project]]></title>
+      <link>https://openai.com/index/openai-joins-ports-pike-project</link>
+      <guid>https://openai.com/index/openai-joins-ports-pike-project</guid>
+      <pubDate>Mon, 17 Aug 2026 05:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs]]></description>
+      <source url="https://openai.com/index/openai-joins-ports-pike-project">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[New policy ideas for the Intelligence Age]]></title>
+      <link>https://openai.com/index/new-policy-ideas-for-the-intelligence-age</link>
+      <guid>https://openai.com/index/new-policy-ideas-for-the-intelligence-age</guid>
+      <pubDate>Mon, 17 Aug 2026 03:15:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.]]></description>
+      <source url="https://openai.com/index/new-policy-ideas-for-the-intelligence-age">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’]]></title>
       <link>https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/</link>
@@ -430,33 +457,6 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/baseten">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Meta launches Muse Code, an AI agent for large code bases]]></title>
-      <link>https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/</link>
-      <guid>https://techcrunch.com/?p=3150382</guid>
-      <pubDate>Wed, 05 Aug 2026 21:21:28 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.]]></description>
-      <source url="https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic is hiring an AI chip design team]]></title>
-      <link>https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/</link>
-      <guid>https://techcrunch.com/?p=3150081</guid>
-      <pubDate>Wed, 05 Aug 2026 14:13:18 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.]]></description>
-      <source url="https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[SpaceX has bought $329M worth of Tesla Megapacks so far this year]]></title>
-      <link>https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/</link>
-      <guid>https://techcrunch.com/?p=3149877</guid>
-      <pubDate>Tue, 04 Aug 2026 21:07:26 +0000</pubDate>
-      <category>Grok</category>
-      <description><![CDATA[The purchase illustrates just how interconnected Elon Musk's universe of companies are.]]></description>
-      <source url="https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/">TechCrunch - xAI</source>
     </item>
   </channel>
 </rss>
