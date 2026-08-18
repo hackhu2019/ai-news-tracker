@@ -5,9 +5,18 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 18 Aug 2026 11:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 18:09:38 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[How Much Memory Does Your Agent Actually Need?]]></title>
+      <link>https://huggingface.co/blog/ibm-research/altk-evolve-hmm</link>
+      <guid>https://huggingface.co/blog/ibm-research/altk-evolve-hmm</guid>
+      <pubDate>Tue, 18 Aug 2026 18:09:38 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/ibm-research/altk-evolve-hmm">Hugging Face Blog</source>
+    </item>
     <item>
       <title><![CDATA[Partnering with CodeAI to prepare the first AI generation]]></title>
       <link>https://openai.com/index/partnering-with-codeai</link>
@@ -25,6 +34,24 @@
       <category>ChatGPT</category>
       <description><![CDATA[ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.]]></description>
       <source url="https://openai.com/index/chatgpt-for-teens">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Asana cleared 5 years of engineering work in 2 weeks with Codex]]></title>
+      <link>https://openai.com/index/asana</link>
+      <guid>https://openai.com/index/asana</guid>
+      <pubDate>Tue, 18 Aug 2026 07:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.]]></description>
+      <source url="https://openai.com/index/asana">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers]]></title>
+      <link>https://huggingface.co/blog/multi-vector-encoder</link>
+      <guid>https://huggingface.co/blog/multi-vector-encoder</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/multi-vector-encoder">Hugging Face Blog</source>
     </item>
     <item>
       <title><![CDATA[Anthropic’s annualized revenue surges to $65B]]></title>
@@ -430,33 +457,6 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/allenai/tutormoments">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Responding to the next frontier of critical cyber capabilities]]></title>
-      <link>https://openai.com/index/responding-next-frontier-critical-cyber-capabilities</link>
-      <guid>https://openai.com/index/responding-next-frontier-critical-cyber-capabilities</guid>
-      <pubDate>Fri, 07 Aug 2026 15:20:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.]]></description>
-      <source url="https://openai.com/index/responding-next-frontier-critical-cyber-capabilities">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How HSP GRUPPE builds AI capabilities for tax advisory]]></title>
-      <link>https://openai.com/index/hsp-gruppe</link>
-      <guid>https://openai.com/index/hsp-gruppe</guid>
-      <pubDate>Fri, 07 Aug 2026 09:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.]]></description>
-      <source url="https://openai.com/index/hsp-gruppe">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[WeatherNext: AI model achieves breakthrough in forecasting cyclones]]></title>
-      <link>https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/</link>
-      <guid>https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/</guid>
-      <pubDate>Thu, 06 Aug 2026 15:06:15 +0000</pubDate>
-      <category>Gemini</category>
-      <description><![CDATA[]]></description>
-      <source url="https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/">Google DeepMind Blog</source>
     </item>
   </channel>
 </rss>

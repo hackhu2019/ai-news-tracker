@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "pubDate": "Tue, 18 Aug 2026 18:09:38 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://openai.com/index/partnering-with-codeai",
     "title": "Partnering with CodeAI to prepare the first AI generation",
     "link": "https://openai.com/index/partnering-with-codeai",
@@ -16,6 +25,24 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents."
+  },
+  {
+    "id": "https://openai.com/index/asana",
+    "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+    "link": "https://openai.com/index/asana",
+    "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K."
+  },
+  {
+    "id": "https://huggingface.co/blog/multi-vector-encoder",
+    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+    "link": "https://huggingface.co/blog/multi-vector-encoder",
+    "pubDate": "Tue, 18 Aug 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
   },
   {
     "id": "https://techcrunch.com/?p=3153733",
@@ -1771,32 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets."
-  },
-  {
-    "id": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "pubDate": "Tue, 30 Jun 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug."
-  },
-  {
-    "id": "https://openai.com/index/genebench-pro/case-studies",
-    "title": "Inside Genebench-Pro",
-    "link": "https://openai.com/index/genebench-pro/case-studies",
-    "pubDate": "Tue, 30 Jun 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/eee-community-evals",
-    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-    "link": "https://huggingface.co/blog/eee-community-evals",
-    "pubDate": "Tue, 30 Jun 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
   }
 ]
