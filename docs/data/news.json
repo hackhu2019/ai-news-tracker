@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://openai.com/index/partnering-with-codeai",
+    "title": "Partnering with CodeAI to prepare the first AI generation",
+    "link": "https://openai.com/index/partnering-with-codeai",
+    "pubDate": "Tue, 18 Aug 2026 11:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly."
+  },
+  {
+    "id": "https://openai.com/index/chatgpt-for-teens",
+    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "link": "https://openai.com/index/chatgpt-for-teens",
+    "pubDate": "Tue, 18 Aug 2026 11:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents."
+  },
+  {
     "id": "https://techcrunch.com/?p=3153733",
     "title": "Anthropic’s annualized revenue surges to $65B",
     "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
@@ -1777,24 +1795,6 @@
     "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
     "link": "https://huggingface.co/blog/eee-community-evals",
     "pubDate": "Tue, 30 Jun 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3137238",
-    "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-    "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-    "pubDate": "Mon, 29 Jun 2026 18:10:26 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival."
-  },
-  {
-    "id": "https://huggingface.co/blog/allenai/discoformer",
-    "title": "DiScoFormer: One transformer for density and score, across distributions",
-    "link": "https://huggingface.co/blog/allenai/discoformer",
-    "pubDate": "Mon, 29 Jun 2026 18:02:48 GMT",
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
