@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3153733",
+    "title": "Anthropic’s annualized revenue surges to $65B",
+    "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+    "pubDate": "Mon, 17 Aug 2026 23:56:26 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "The model maker added $18 billion in annualized revenue in two months."
+  },
+  {
+    "id": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+    "pubDate": "Mon, 17 Aug 2026 19:46:21 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://openai.com/index/the-defenders-window",
     "title": "The Defender’s Window",
     "link": "https://openai.com/index/the-defenders-window",
@@ -1780,23 +1798,5 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-    "title": "Mapping Europe’s AI Workforce Opportunity",
-    "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-    "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes."
-  },
-  {
-    "id": "https://openai.com/index/hp-frontier-partnership",
-    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-    "link": "https://openai.com/index/hp-frontier-partnership",
-    "pubDate": "Sun, 28 Jun 2026 17:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations."
   }
 ]
