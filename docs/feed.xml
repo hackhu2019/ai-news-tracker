@@ -5,9 +5,36 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 18 Aug 2026 22:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 19:00:00 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Offering Zero Data Retention for frontier models]]></title>
+      <link>https://openai.com/index/our-commitment-to-zero-data-retention</link>
+      <guid>https://openai.com/index/our-commitment-to-zero-data-retention</guid>
+      <pubDate>Wed, 19 Aug 2026 19:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.]]></description>
+      <source url="https://openai.com/index/our-commitment-to-zero-data-retention">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[LFM2.5 Q4\_0 Checkpoints from Quantization-Aware Distillation]]></title>
+      <link>https://huggingface.co/blog/LiquidAI/qad</link>
+      <guid>https://huggingface.co/blog/LiquidAI/qad</guid>
+      <pubDate>Wed, 19 Aug 2026 13:48:49 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/LiquidAI/qad">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Replit expands access to software creation with GPT-5.6 Luna]]></title>
+      <link>https://openai.com/index/replit</link>
+      <guid>https://openai.com/index/replit</guid>
+      <pubDate>Wed, 19 Aug 2026 07:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.]]></description>
+      <source url="https://openai.com/index/replit">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[ChatGPT Ads expands across Europe]]></title>
       <link>https://openai.com/index/chatgpt-ads-expands-across-europe</link>
@@ -430,33 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.]]></description>
       <source url="https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How Zapier transformed core marketing processes with ChatGPT Work]]></title>
-      <link>https://openai.com/index/zapier</link>
-      <guid>https://openai.com/index/zapier</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.]]></description>
-      <source url="https://openai.com/index/zapier">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Virgin Atlantic sharpens customer journeys with ChatGPT Work]]></title>
-      <link>https://openai.com/index/virgin-atlantic/chatgpt-work</link>
-      <guid>https://openai.com/index/virgin-atlantic/chatgpt-work</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.]]></description>
-      <source url="https://openai.com/index/virgin-atlantic/chatgpt-work">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Premium seats are coming to ChatGPT Business]]></title>
-      <link>https://openai.com/index/premium-seats-chatgpt-business</link>
-      <guid>https://openai.com/index/premium-seats-chatgpt-business</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.]]></description>
-      <source url="https://openai.com/index/premium-seats-chatgpt-business">OpenAI Blog</source>
     </item>
   </channel>
 </rss>

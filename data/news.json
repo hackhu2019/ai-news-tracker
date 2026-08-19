@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://openai.com/index/our-commitment-to-zero-data-retention",
+    "title": "Offering Zero Data Retention for frontier models",
+    "link": "https://openai.com/index/our-commitment-to-zero-data-retention",
+    "pubDate": "Wed, 19 Aug 2026 19:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
+  },
+  {
+    "id": "https://huggingface.co/blog/LiquidAI/qad",
+    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+    "link": "https://huggingface.co/blog/LiquidAI/qad",
+    "pubDate": "Wed, 19 Aug 2026 13:48:49 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/replit",
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "link": "https://openai.com/index/replit",
+    "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
+  },
+  {
     "id": "https://openai.com/index/chatgpt-ads-expands-across-europe",
     "title": "ChatGPT Ads expands across Europe",
     "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
@@ -1771,32 +1798,5 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/ibm-research/scarfbench",
-    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-    "link": "https://huggingface.co/blog/ibm-research/scarfbench",
-    "pubDate": "Tue, 30 Jun 2026 18:32:50 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3137723",
-    "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-    "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-    "pubDate": "Tue, 30 Jun 2026 18:00:00 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3137674",
-    "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
-    "link": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-    "pubDate": "Tue, 30 Jun 2026 17:00:00 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools."
   }
 ]
