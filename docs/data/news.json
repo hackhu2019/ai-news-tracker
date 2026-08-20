@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3154506",
+    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+    "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+    "pubDate": "Wed, 19 Aug 2026 22:10:46 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data."
+  },
+  {
+    "id": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "title": "Offering Zero Data Retention for frontier models",
+    "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "pubDate": "Wed, 19 Aug 2026 19:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
+  },
+  {
     "id": "https://openai.com/index/our-commitment-to-zero-data-retention",
     "title": "Offering Zero Data Retention for frontier models",
     "link": "https://openai.com/index/our-commitment-to-zero-data-retention",
@@ -1780,23 +1798,5 @@
     "source": "TechCrunch - xAI",
     "category": "Grok",
     "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3137898",
-    "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-    "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-    "pubDate": "Wed, 01 Jul 2026 02:16:06 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases."
-  },
-  {
-    "id": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-    "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-    "pubDate": "Wed, 01 Jul 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
   }
 ]
