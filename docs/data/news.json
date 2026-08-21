@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+    "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "pubDate": "Fri, 21 Aug 2026 11:59:48 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
+  },
+  {
     "id": "https://techcrunch.com/?p=3155215",
     "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
     "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
@@ -1786,15 +1795,6 @@
     "title": "PRX Part 4: Our Data Strategy",
     "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
     "pubDate": "Mon, 06 Jul 2026 15:30:55 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/revamped-kernels",
-    "title": "🤗 Kernels: Major Updates",
-    "link": "https://huggingface.co/blog/revamped-kernels",
-    "pubDate": "Mon, 06 Jul 2026 00:00:00 GMT",
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
