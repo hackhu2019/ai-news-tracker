@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3155215",
+    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+    "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+    "pubDate": "Thu, 20 Aug 2026 22:36:37 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3154977",
+    "title": "Grok keeps sending gibberish responses to users",
+    "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+    "pubDate": "Thu, 20 Aug 2026 17:32:16 +0000",
+    "source": "TechCrunch - xAI",
+    "category": "Grok",
+    "summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning."
+  },
+  {
+    "id": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "pubDate": "Thu, 20 Aug 2026 16:52:57 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/introducing-ai-futures",
+    "title": "Introducing AI Futures",
+    "link": "https://openai.com/index/introducing-ai-futures",
+    "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
+  },
+  {
+    "id": "https://openai.com/index/stampli",
+    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+    "link": "https://openai.com/index/stampli",
+    "pubDate": "Thu, 20 Aug 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
+  },
+  {
     "id": "https://techcrunch.com/?p=3154506",
     "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
     "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
@@ -1753,50 +1798,5 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3138976",
-    "title": "Alibaba reportedly bans employees from using Claude Code",
-    "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-    "pubDate": "Sat, 04 Jul 2026 16:32:08 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Alibaba has reportedly classified Claude Code as high-risk software."
-  },
-  {
-    "id": "https://techcrunch.com/?p=2970347",
-    "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-    "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-    "pubDate": "Sat, 04 Jul 2026 15:51:32 +0000",
-    "source": "TechCrunch - Mistral AI",
-    "category": "Mistral",
-    "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”"
-  },
-  {
-    "id": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-    "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-    "pubDate": "Fri, 03 Jul 2026 14:25:43 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3138664",
-    "title": "Anthropic is discussing a new custom chip with Samsung",
-    "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-    "pubDate": "Thu, 02 Jul 2026 18:31:09 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3138299",
-    "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-    "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
-    "pubDate": "Wed, 01 Jul 2026 18:54:18 +0000",
-    "source": "TechCrunch - xAI",
-    "category": "Grok",
-    "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless."
   }
 ]
