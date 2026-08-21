@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?post_type=tc_video&p=3155423",
+    "title": "Why is the DOJ investigating Andreessen Horowitz’s board seats?",
+    "link": "https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/",
+    "pubDate": "Fri, 21 Aug 2026 16:53:39 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surfac"
+  },
+  {
     "id": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
     "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
     "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
@@ -7,6 +16,15 @@
     "source": "Google DeepMind Blog",
     "category": "Gemini",
     "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
+  },
+  {
+    "id": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "title": "Measuring benchmark optimization in speech recognition",
+    "link": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "pubDate": "Fri, 21 Aug 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
   },
   {
     "id": "https://techcrunch.com/?p=3155215",
@@ -1777,24 +1795,6 @@
     "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
     "link": "https://huggingface.co/blog/skypilot-hf-storage",
     "pubDate": "Tue, 07 Jul 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/lerobot-release-v060",
-    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-    "link": "https://huggingface.co/blog/lerobot-release-v060",
-    "pubDate": "Tue, 07 Jul 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-    "title": "PRX Part 4: Our Data Strategy",
-    "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-    "pubDate": "Mon, 06 Jul 2026 15:30:55 GMT",
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
