@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3155131",
+    "title": "Anthropic’s Opus 4.6 is a smut-machine",
+    "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+    "pubDate": "Fri, 21 Aug 2026 23:07:25 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction."
+  },
+  {
     "id": "https://techcrunch.com/?post_type=tc_video&p=3155423",
     "title": "Why is the DOJ investigating Andreessen Horowitz’s board seats?",
     "link": "https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/",
@@ -1773,6 +1782,15 @@
     "summary": ""
   },
   {
+    "id": "https://huggingface.co/blog/lerobot-release-v060",
+    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+    "link": "https://huggingface.co/blog/lerobot-release-v060",
+    "pubDate": "Tue, 07 Jul 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://openai.com/index/mufg",
     "title": "MUFG aims to become AI-native with OpenAI",
     "link": "https://openai.com/index/mufg",
@@ -1780,23 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale."
-  },
-  {
-    "id": "https://openai.com/index/australian-payments-plus",
-    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-    "link": "https://openai.com/index/australian-payments-plus",
-    "pubDate": "Tue, 07 Jul 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central."
-  },
-  {
-    "id": "https://huggingface.co/blog/skypilot-hf-storage",
-    "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-    "link": "https://huggingface.co/blog/skypilot-hf-storage",
-    "pubDate": "Tue, 07 Jul 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
   }
 ]
