@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3155518",
+    "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+    "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+    "pubDate": "Sat, 22 Aug 2026 16:00:00 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3155518",
+    "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+    "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+    "pubDate": "Sat, 22 Aug 2026 16:00:00 +0000",
+    "source": "TechCrunch - xAI",
+    "category": "Grok",
+    "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially"
+  },
+  {
     "id": "https://techcrunch.com/?p=3155131",
     "title": "Anthropic’s Opus 4.6 is a smut-machine",
     "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
@@ -1777,24 +1795,6 @@
     "title": "Hugging Face Models on Foundry Managed Compute",
     "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
     "pubDate": "Tue, 07 Jul 2026 15:20:06 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/australian-payments-plus",
-    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-    "link": "https://openai.com/index/australian-payments-plus",
-    "pubDate": "Tue, 07 Jul 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central."
-  },
-  {
-    "id": "https://huggingface.co/blog/skypilot-hf-storage",
-    "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-    "link": "https://huggingface.co/blog/skypilot-hf-storage",
-    "pubDate": "Tue, 07 Jul 2026 00:00:00 GMT",
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""

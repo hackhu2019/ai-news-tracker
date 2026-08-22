@@ -5,9 +5,27 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 21 Aug 2026 23:07:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 16:00:00 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Frontier AI labs still won’t say how they’d contain a rogue model]]></title>
+      <link>https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/</link>
+      <guid>https://techcrunch.com/?p=3155518</guid>
+      <pubDate>Sat, 22 Aug 2026 16:00:00 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially]]></description>
+      <source url="https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Frontier AI labs still won’t say how they’d contain a rogue model]]></title>
+      <link>https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/</link>
+      <guid>https://techcrunch.com/?p=3155518</guid>
+      <pubDate>Sat, 22 Aug 2026 16:00:00 +0000</pubDate>
+      <category>Grok</category>
+      <description><![CDATA[A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially]]></description>
+      <source url="https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/">TechCrunch - xAI</source>
+    </item>
     <item>
       <title><![CDATA[Anthropic’s Opus 4.6 is a smut-machine]]></title>
       <link>https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/</link>
@@ -439,24 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.]]></description>
       <source url="https://openai.com/index/ringcentral">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[An unreleased Anthropic model made progress on one of math’s biggest unsolved problems]]></title>
-      <link>https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/</link>
-      <guid>https://techcrunch.com/?p=3151819</guid>
-      <pubDate>Tue, 11 Aug 2026 16:25:20 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might ]]></description>
-      <source url="https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Thinking of ACE? We Can Do It with Fewer Tokens]]></title>
-      <link>https://huggingface.co/blog/ibm-research/altk-evolve-sldd</link>
-      <guid>https://huggingface.co/blog/ibm-research/altk-evolve-sldd</guid>
-      <pubDate>Tue, 11 Aug 2026 13:37:10 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/ibm-research/altk-evolve-sldd">Hugging Face Blog</source>
     </item>
   </channel>
 </rss>
