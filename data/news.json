@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "pubDate": "Tue, 25 Aug 2026 11:39:24 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "pubDate": "Tue, 25 Aug 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West."
+  },
+  {
+    "id": "https://huggingface.co/blog/gradio-workflow-guide",
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "link": "https://huggingface.co/blog/gradio-workflow-guide",
+    "pubDate": "Tue, 25 Aug 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/gpt-5-6-in-kiro",
+    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "link": "https://openai.com/index/gpt-5-6-in-kiro",
+    "pubDate": "Mon, 24 Aug 2026 12:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance."
+  },
+  {
     "id": "https://techcrunch.com/?p=3155518",
     "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
     "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
@@ -43,6 +79,15 @@
     "source": "Google DeepMind Blog",
     "category": "Gemini",
     "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
+  },
+  {
+    "id": "https://huggingface.co/blog/pwc-search",
+    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+    "link": "https://huggingface.co/blog/pwc-search",
+    "pubDate": "Fri, 21 Aug 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
   },
   {
     "id": "https://huggingface.co/blog/asr-benchmark-optimization",
@@ -1750,51 +1795,6 @@
     "title": "Native-speed vLLM transformers modeling backend",
     "link": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
     "pubDate": "Wed, 08 Jul 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-    "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-    "pubDate": "Tue, 07 Jul 2026 21:15:33 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3139798",
-    "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
-    "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-    "pubDate": "Tue, 07 Jul 2026 20:04:32 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3139819",
-    "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-    "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-    "pubDate": "Tue, 07 Jul 2026 19:58:20 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3139729",
-    "title": "Claude Cowork expands to mobile and web",
-    "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-    "pubDate": "Tue, 07 Jul 2026 16:27:18 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed."
-  },
-  {
-    "id": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-    "title": "Hugging Face Models on Foundry Managed Compute",
-    "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-    "pubDate": "Tue, 07 Jul 2026 15:20:06 GMT",
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
