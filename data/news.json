@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://openai.com/index/loveholidays",
+    "title": "How loveholidays is making everyone a builder with Codex",
+    "link": "https://openai.com/index/loveholidays",
+    "pubDate": "Wed, 26 Aug 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster."
+  },
+  {
     "id": "https://techcrunch.com/?p=3156630",
     "title": "Claude Cowork finally remembers what you told the app in chat",
     "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
@@ -1789,14 +1798,5 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3139890",
-    "title": "These AI startups are growing  revenue at faster and faster rates",
-    "link": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
-    "pubDate": "Wed, 08 Jul 2026 15:41:06 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say."
   }
 ]
