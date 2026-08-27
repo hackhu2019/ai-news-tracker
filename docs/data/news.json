@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3157364",
+    "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+    "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+    "pubDate": "Wed, 26 Aug 2026 21:37:39 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak."
+  },
+  {
     "id": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
     "title": "Intelligent transcription with Gemini 3.5 Transcribe",
     "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
@@ -25,6 +34,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom."
+  },
+  {
+    "id": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+    "title": "The Hugging Face incident and the road ahead",
+    "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+    "pubDate": "Wed, 26 Aug 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment."
   },
   {
     "id": "https://huggingface.co/blog/train-multi-vector-encoder",
@@ -214,6 +232,15 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/introducing-intelligence-age",
+    "title": "Introducing Intelligence Age",
+    "link": "https://openai.com/index/introducing-intelligence-age",
+    "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
   },
   {
     "id": "https://openai.com/index/introducing-ai-futures",
@@ -1771,32 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI compa"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3140476",
-    "title": "Anthropic’s new Claude feature is quietly selling you on AI",
-    "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
-    "pubDate": "Thu, 09 Jul 2026 14:53:09 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3140464",
-    "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
-    "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
-    "pubDate": "Thu, 09 Jul 2026 14:51:00 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC backed exits since 2000."
-  },
-  {
-    "id": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-    "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-    "pubDate": "Thu, 09 Jul 2026 13:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work."
   }
 ]

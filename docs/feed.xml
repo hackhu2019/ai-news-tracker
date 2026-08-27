@@ -5,9 +5,18 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 26 Aug 2026 17:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 21:37:39 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Anthropic continues compute-gobbling streak in $45B deal with Nscale]]></title>
+      <link>https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/</link>
+      <guid>https://techcrunch.com/?p=3157364</guid>
+      <pubDate>Wed, 26 Aug 2026 21:37:39 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.]]></description>
+      <source url="https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/">TechCrunch - Anthropic</source>
+    </item>
     <item>
       <title><![CDATA[Intelligent transcription with Gemini 3.5 Transcribe]]></title>
       <link>https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/</link>
@@ -34,6 +43,15 @@
       <category>ChatGPT</category>
       <description><![CDATA[OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.]]></description>
       <source url="https://openai.com/index/learning-never-stops">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[The Hugging Face incident and the road ahead]]></title>
+      <link>https://openai.com/index/hugging-face-incident-and-the-road-ahead</link>
+      <guid>https://openai.com/index/hugging-face-incident-and-the-road-ahead</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.]]></description>
+      <source url="https://openai.com/index/hugging-face-incident-and-the-road-ahead">OpenAI Blog</source>
     </item>
     <item>
       <title><![CDATA[Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers]]></title>
@@ -223,6 +241,15 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/LiquidAI/lfm25-dspark">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Introducing Intelligence Age]]></title>
+      <link>https://openai.com/index/introducing-intelligence-age</link>
+      <guid>https://openai.com/index/introducing-intelligence-age</guid>
+      <pubDate>Thu, 20 Aug 2026 07:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.]]></description>
+      <source url="https://openai.com/index/introducing-intelligence-age">OpenAI Blog</source>
     </item>
     <item>
       <title><![CDATA[Introducing AI Futures]]></title>
@@ -430,33 +457,6 @@
       <category>Claude</category>
       <description><![CDATA[How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?]]></description>
       <source url="https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[How to tell if your AI platforms’ accounts have been hacked]]></title>
-      <link>https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/</link>
-      <guid>https://techcrunch.com/?p=3153258</guid>
-      <pubDate>Sat, 15 Aug 2026 16:10:00 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.]]></description>
-      <source url="https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Does Mark Zuckerberg really believe AI is ‘for everyone’?]]></title>
-      <link>https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/</link>
-      <guid>https://techcrunch.com/?post_type=tc_video&p=3153153</guid>
-      <pubDate>Fri, 14 Aug 2026 15:43:28 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its ow]]></description>
-      <source url="https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Meta’s ‘open’ AI, and a $250M deal gone very wrong ]]></title>
-      <link>https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/</link>
-      <guid>https://techcrunch.com/?post_type=tc_podcast&p=3153152</guid>
-      <pubDate>Fri, 14 Aug 2026 14:00:00 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its ow]]></description>
-      <source url="https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>
