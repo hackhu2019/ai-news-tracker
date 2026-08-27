@@ -5,9 +5,63 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 26 Aug 2026 21:37:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 17:43:24 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI]]></title>
+      <link>https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/</link>
+      <guid>https://techcrunch.com/?p=3157852</guid>
+      <pubDate>Thu, 27 Aug 2026 17:43:24 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of]]></description>
+      <source url="https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Gemini Omni 1.1 Flash lets you build with more control]]></title>
+      <link>https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/</link>
+      <guid>https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/</guid>
+      <pubDate>Thu, 27 Aug 2026 16:11:32 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[]]></description>
+      <source url="https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/">Google DeepMind Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Here’s all the times AI has gone rogue and hacked other companies]]></title>
+      <link>https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/</link>
+      <guid>https://techcrunch.com/?p=3156027</guid>
+      <pubDate>Thu, 27 Aug 2026 14:01:42 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.]]></description>
+      <source url="https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Piloting the world's first double-blind AI evaluations]]></title>
+      <link>https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/</link>
+      <guid>https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/</guid>
+      <pubDate>Thu, 27 Aug 2026 12:59:16 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[Piloting the world's first double-blind AI evaluations]]></description>
+      <source url="https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/">Google DeepMind Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training]]></title>
+      <link>https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training</link>
+      <guid>https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training</guid>
+      <pubDate>Thu, 27 Aug 2026 09:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.]]></description>
+      <source url="https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Expanding OpenAI’s presence in Brazil]]></title>
+      <link>https://openai.com/index/expanding-our-presence-in-brazil</link>
+      <guid>https://openai.com/index/expanding-our-presence-in-brazil</guid>
+      <pubDate>Thu, 27 Aug 2026 03:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.]]></description>
+      <source url="https://openai.com/index/expanding-our-presence-in-brazil">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Anthropic continues compute-gobbling streak in $45B deal with Nscale]]></title>
       <link>https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/</link>
@@ -403,60 +457,6 @@
       <category>Claude</category>
       <description><![CDATA[The model maker added $18 billion in annualized revenue in two months.]]></description>
       <source url="https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Same Cluster, 33 Points More Utilization: What Changed Was the Order]]></title>
-      <link>https://huggingface.co/blog/Dharma-AI/gpu-management-pt2</link>
-      <guid>https://huggingface.co/blog/Dharma-AI/gpu-management-pt2</guid>
-      <pubDate>Mon, 17 Aug 2026 19:46:21 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/Dharma-AI/gpu-management-pt2">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[The Defender’s Window]]></title>
-      <link>https://openai.com/index/the-defenders-window</link>
-      <guid>https://openai.com/index/the-defenders-window</guid>
-      <pubDate>Mon, 17 Aug 2026 05:30:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.]]></description>
-      <source url="https://openai.com/index/the-defenders-window">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI joins PORTS-Pike project]]></title>
-      <link>https://openai.com/index/openai-joins-ports-pike-project</link>
-      <guid>https://openai.com/index/openai-joins-ports-pike-project</guid>
-      <pubDate>Mon, 17 Aug 2026 05:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs]]></description>
-      <source url="https://openai.com/index/openai-joins-ports-pike-project">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[New policy ideas for the Intelligence Age]]></title>
-      <link>https://openai.com/index/new-policy-ideas-for-the-intelligence-age</link>
-      <guid>https://openai.com/index/new-policy-ideas-for-the-intelligence-age</guid>
-      <pubDate>Mon, 17 Aug 2026 03:15:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.]]></description>
-      <source url="https://openai.com/index/new-policy-ideas-for-the-intelligence-age">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’]]></title>
-      <link>https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/</link>
-      <guid>https://techcrunch.com/?p=3153318</guid>
-      <pubDate>Sun, 16 Aug 2026 16:53:51 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.]]></description>
-      <source url="https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic shares more details about how Claude’s new watermarks will work]]></title>
-      <link>https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/</link>
-      <guid>https://techcrunch.com/?p=3153310</guid>
-      <pubDate>Sat, 15 Aug 2026 18:58:39 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?]]></description>
-      <source url="https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>
