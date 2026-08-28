@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3158505",
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "pubDate": "Fri, 28 Aug 2026 19:30:38 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3158189",
+    "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+    "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+    "pubDate": "Fri, 28 Aug 2026 12:46:12 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington."
+  },
+  {
     "id": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
     "title": "Supporting Thailand’s next generation of AI startups",
     "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
@@ -7,6 +25,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products."
+  },
+  {
+    "id": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+    "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "pubDate": "Fri, 28 Aug 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
   },
   {
     "id": "https://techcrunch.com/?p=3157852",
@@ -1771,32 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
-  },
-  {
-    "id": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "title": "How data science teams use ChatGPT Work",
-    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "pubDate": "Tue, 14 Jul 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
-  },
-  {
-    "id": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-    "title": "How sales teams use ChatGPT Work",
-    "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-    "pubDate": "Tue, 14 Jul 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3141549",
-    "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-    "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
-    "pubDate": "Mon, 13 Jul 2026 15:34:59 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans."
   }
 ]
