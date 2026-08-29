@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3158639",
+    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+    "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "pubDate": "Sat, 29 Aug 2026 18:41:59 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
+  },
+  {
     "id": "https://techcrunch.com/?p=3158505",
     "title": "An Anthropic researcher just gave us a peek at self-improving AI",
     "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
@@ -1789,14 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows."
-  },
-  {
-    "id": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
-    "title": "How data science teams use ChatGPT Work",
-    "link": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
-    "pubDate": "Tue, 14 Jul 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
   }
 ]
