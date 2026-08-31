@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "title": "A milestone in expanding access to AI",
+    "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "pubDate": "Mon, 31 Aug 2026 04:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options."
+  },
+  {
     "id": "https://techcrunch.com/?p=3158639",
     "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
     "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
@@ -1789,14 +1798,5 @@
     "source": "TechCrunch - DeepSeek",
     "category": "China AI",
     "summary": "DeepSeek, the Chinese large language model developer, is said to be preparing for a 2027 IPO debut as it also looks to raise around $1.5 billion in new funds at a $71 billion valuation."
-  },
-  {
-    "id": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-    "title": "How to manage AI investments in the agentic era",
-    "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-    "pubDate": "Tue, 14 Jul 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows."
   }
 ]

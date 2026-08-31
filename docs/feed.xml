@@ -5,9 +5,18 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 29 Aug 2026 18:41:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 04:00:00 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[A milestone in expanding access to AI]]></title>
+      <link>https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</link>
+      <guid>https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</guid>
+      <pubDate>Mon, 31 Aug 2026 04:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.]]></description>
+      <source url="https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft]]></title>
       <link>https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/</link>
@@ -448,15 +457,6 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/ibm-research/altk-evolve-hmm">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Pacing model development in an era of cyber-critical capabilities]]></title>
-      <link>https://openai.com/index/pacing-model-development-cyber-capabilities</link>
-      <guid>https://openai.com/index/pacing-model-development-cyber-capabilities</guid>
-      <pubDate>Tue, 18 Aug 2026 11:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.]]></description>
-      <source url="https://openai.com/index/pacing-model-development-cyber-capabilities">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
