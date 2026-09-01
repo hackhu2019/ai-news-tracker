@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3159842",
+    "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+    "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+    "pubDate": "Tue, 01 Sep 2026 19:39:22 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards."
+  },
+  {
+    "id": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "title": "Introducing agentic video understanding with Gemini",
+    "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "pubDate": "Tue, 01 Sep 2026 17:08:51 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/ai-native-company-workflows",
+    "title": "How AI-native companies turn workflows into operating capability",
+    "link": "https://openai.com/index/ai-native-company-workflows",
+    "pubDate": "Tue, 01 Sep 2026 17:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply."
+  },
+  {
+    "id": "https://openai.com/index/path-to-astra",
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "link": "https://openai.com/index/path-to-astra",
+    "pubDate": "Tue, 01 Sep 2026 13:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release."
+  },
+  {
+    "id": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+    "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "pubDate": "Tue, 01 Sep 2026 12:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more."
+  },
+  {
     "id": "https://huggingface.co/blog/webgpu-kernels",
     "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
     "link": "https://huggingface.co/blog/webgpu-kernels",
@@ -1750,51 +1795,6 @@
     "title": "Model Routing Is Simple. Until It Isn’t.",
     "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
     "pubDate": "Wed, 15 Jul 2026 17:27:01 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/?post_type=tc_video&p=3142876",
-    "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
-    "link": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
-    "pubDate": "Wed, 15 Jul 2026 15:00:00 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engineers in enterprise fi"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3142610",
-    "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
-    "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-    "pubDate": "Wed, 15 Jul 2026 13:10:47 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption."
-  },
-  {
-    "id": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-    "title": "The US is advancing AI safety through state and federal action",
-    "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-    "pubDate": "Wed, 15 Jul 2026 12:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI."
-  },
-  {
-    "id": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-    "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-    "pubDate": "Wed, 15 Jul 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness."
-  },
-  {
-    "id": "https://huggingface.co/blog/thinkingmachines-inkling",
-    "title": "Welcome Inkling by Thinking Machines",
-    "link": "https://huggingface.co/blog/thinkingmachines-inkling",
-    "pubDate": "Wed, 15 Jul 2026 00:00:00 GMT",
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""

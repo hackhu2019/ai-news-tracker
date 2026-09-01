@@ -5,9 +5,54 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 19:39:22 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Anthropic’s new Fable release is cheaper, less restrictive]]></title>
+      <link>https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/</link>
+      <guid>https://techcrunch.com/?p=3159842</guid>
+      <pubDate>Tue, 01 Sep 2026 19:39:22 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.]]></description>
+      <source url="https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Introducing agentic video understanding with Gemini]]></title>
+      <link>https://deepmind.google/blog/introducing-agentic-video-in-gemini/</link>
+      <guid>https://deepmind.google/blog/introducing-agentic-video-in-gemini/</guid>
+      <pubDate>Tue, 01 Sep 2026 17:08:51 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[]]></description>
+      <source url="https://deepmind.google/blog/introducing-agentic-video-in-gemini/">Google DeepMind Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[How AI-native companies turn workflows into operating capability]]></title>
+      <link>https://openai.com/index/ai-native-company-workflows</link>
+      <guid>https://openai.com/index/ai-native-company-workflows</guid>
+      <pubDate>Tue, 01 Sep 2026 17:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.]]></description>
+      <source url="https://openai.com/index/ai-native-company-workflows">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Path to Astra: critical capabilities and frontier safeguards]]></title>
+      <link>https://openai.com/index/path-to-astra</link>
+      <guid>https://openai.com/index/path-to-astra</guid>
+      <pubDate>Tue, 01 Sep 2026 13:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.]]></description>
+      <source url="https://openai.com/index/path-to-astra">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Healthcare organizations can now connect EHR and additional industry data to ChatGPT]]></title>
+      <link>https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</link>
+      <guid>https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</guid>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.]]></description>
+      <source url="https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI]]></title>
       <link>https://huggingface.co/blog/webgpu-kernels</link>
@@ -412,51 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.]]></description>
       <source url="https://openai.com/index/stampli">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI seeks to one-up Anthropic with new customer privacy protections]]></title>
-      <link>https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/</link>
-      <guid>https://techcrunch.com/?p=3154506</guid>
-      <pubDate>Wed, 19 Aug 2026 22:10:46 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.]]></description>
-      <source url="https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Offering Zero Data Retention for frontier models]]></title>
-      <link>https://openai.com/index/offering-zero-data-retention-for-frontier-models</link>
-      <guid>https://openai.com/index/offering-zero-data-retention-for-frontier-models</guid>
-      <pubDate>Wed, 19 Aug 2026 19:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.]]></description>
-      <source url="https://openai.com/index/offering-zero-data-retention-for-frontier-models">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Offering Zero Data Retention for frontier models]]></title>
-      <link>https://openai.com/index/our-commitment-to-zero-data-retention</link>
-      <guid>https://openai.com/index/our-commitment-to-zero-data-retention</guid>
-      <pubDate>Wed, 19 Aug 2026 19:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.]]></description>
-      <source url="https://openai.com/index/our-commitment-to-zero-data-retention">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[LFM2.5 Q4\_0 Checkpoints from Quantization-Aware Distillation]]></title>
-      <link>https://huggingface.co/blog/LiquidAI/qad</link>
-      <guid>https://huggingface.co/blog/LiquidAI/qad</guid>
-      <pubDate>Wed, 19 Aug 2026 13:48:49 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/LiquidAI/qad">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Replit expands access to software creation with GPT-5.6 Luna]]></title>
-      <link>https://openai.com/index/replit</link>
-      <guid>https://openai.com/index/replit</guid>
-      <pubDate>Wed, 19 Aug 2026 07:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.]]></description>
-      <source url="https://openai.com/index/replit">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
