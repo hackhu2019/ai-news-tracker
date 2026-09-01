@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "title": "OpenAI supports California’s bill to advance youth AI safety",
+    "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore."
+  },
+  {
+    "id": "https://openai.com/index/polimill",
+    "title": "Polimill builds Japan's next-generation public AI infrastructure",
+    "link": "https://openai.com/index/polimill",
+    "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development."
+  },
+  {
     "id": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
     "title": "A milestone in expanding access to AI",
     "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
@@ -1780,23 +1798,5 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3142178",
-    "title": "Anthropic’s newest ad is creeping people out",
-    "link": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
-    "pubDate": "Tue, 14 Jul 2026 19:41:27 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3142154",
-    "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
-    "link": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
-    "pubDate": "Tue, 14 Jul 2026 16:45:23 +0000",
-    "source": "TechCrunch - DeepSeek",
-    "category": "China AI",
-    "summary": "DeepSeek, the Chinese large language model developer, is said to be preparing for a 2027 IPO debut as it also looks to raise around $1.5 billion in new funds at a $71 billion valuation."
   }
 ]

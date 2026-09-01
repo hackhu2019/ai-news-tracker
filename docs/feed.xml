@@ -5,9 +5,27 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 31 Aug 2026 04:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 07:00:00 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[OpenAI supports California’s bill to advance youth AI safety]]></title>
+      <link>https://openai.com/index/supporting-california-bill-advance-ai-youth-safety</link>
+      <guid>https://openai.com/index/supporting-california-bill-advance-ai-youth-safety</guid>
+      <pubDate>Mon, 31 Aug 2026 07:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.]]></description>
+      <source url="https://openai.com/index/supporting-california-bill-advance-ai-youth-safety">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Polimill builds Japan's next-generation public AI infrastructure]]></title>
+      <link>https://openai.com/index/polimill</link>
+      <guid>https://openai.com/index/polimill</guid>
+      <pubDate>Mon, 31 Aug 2026 07:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.]]></description>
+      <source url="https://openai.com/index/polimill">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[A milestone in expanding access to AI]]></title>
       <link>https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</link>
@@ -439,24 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.]]></description>
       <source url="https://openai.com/index/chatgpt-ads-expands-across-europe">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Strengthening democratic oversight in national security]]></title>
-      <link>https://openai.com/index/strengthening-democratic-oversight-in-national-security</link>
-      <guid>https://openai.com/index/strengthening-democratic-oversight-in-national-security</guid>
-      <pubDate>Tue, 18 Aug 2026 19:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.]]></description>
-      <source url="https://openai.com/index/strengthening-democratic-oversight-in-national-security">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How Much Memory Does Your Agent Actually Need?]]></title>
-      <link>https://huggingface.co/blog/ibm-research/altk-evolve-hmm</link>
-      <guid>https://huggingface.co/blog/ibm-research/altk-evolve-hmm</guid>
-      <pubDate>Tue, 18 Aug 2026 18:09:38 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/ibm-research/altk-evolve-hmm">Hugging Face Blog</source>
     </item>
   </channel>
 </rss>
