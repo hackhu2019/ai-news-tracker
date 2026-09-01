@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://huggingface.co/blog/webgpu-kernels",
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "link": "https://huggingface.co/blog/webgpu-kernels",
+    "pubDate": "Tue, 01 Sep 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
     "title": "OpenAI supports California’s bill to advance youth AI safety",
     "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
@@ -1785,15 +1794,6 @@
     "id": "https://huggingface.co/blog/thinkingmachines-inkling",
     "title": "Welcome Inkling by Thinking Machines",
     "link": "https://huggingface.co/blog/thinkingmachines-inkling",
-    "pubDate": "Wed, 15 Jul 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/real-world-voiceeq",
-    "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-    "link": "https://huggingface.co/blog/real-world-voiceeq",
     "pubDate": "Wed, 15 Jul 2026 00:00:00 GMT",
     "source": "Hugging Face Blog",
     "category": "Open Source",
