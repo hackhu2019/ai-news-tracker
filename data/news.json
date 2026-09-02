@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "title": "Proactive cyber defense for governments and enterprises",
+    "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "pubDate": "Wed, 02 Sep 2026 16:24:24 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": ""
+  },
+  {
+    "id": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "pubDate": "Wed, 02 Sep 2026 16:18:31 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": ""
+  },
+  {
     "id": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
     "title": "Real-Time Intelligence with IBM Time Series Models on Confluent ",
     "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
@@ -1780,23 +1798,5 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3143129",
-    "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-    "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-    "pubDate": "Wed, 15 Jul 2026 23:59:44 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models."
-  },
-  {
-    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3142816",
-    "title": "Inside Ode with Anthropic, the private equity-backed startup betting AI services are the future of enterprise",
-    "link": "https://techcrunch.com/podcast/inside-ode-with-anthropic-the-private-equity-backed-startup-betting-ai-services-are-the-future-of-enterprise/",
-    "pubDate": "Wed, 15 Jul 2026 17:55:22 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engineers in enterprise fi"
   }
 ]

@@ -5,9 +5,27 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 02 Sep 2026 13:49:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 16:24:24 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Proactive cyber defense for governments and enterprises]]></title>
+      <link>https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/</link>
+      <guid>https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/</guid>
+      <pubDate>Wed, 02 Sep 2026 16:24:24 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[]]></description>
+      <source url="https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/">Google DeepMind Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Introducing Gemini 3.8 Flash and 3.8 Flash Cyber]]></title>
+      <link>https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/</link>
+      <guid>https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/</guid>
+      <pubDate>Wed, 02 Sep 2026 16:18:31 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[]]></description>
+      <source url="https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/">Google DeepMind Blog</source>
+    </item>
     <item>
       <title><![CDATA[Real-Time Intelligence with IBM Time Series Models on Confluent ]]></title>
       <link>https://huggingface.co/blog/ibm-research/real-time-intelligence</link>
@@ -439,24 +457,6 @@
       <category>Claude</category>
       <description><![CDATA[Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how "sticky" enterprise AI spending really is.]]></description>
       <source url="https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Grok keeps sending gibberish responses to users]]></title>
-      <link>https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/</link>
-      <guid>https://techcrunch.com/?p=3154977</guid>
-      <pubDate>Thu, 20 Aug 2026 17:32:16 +0000</pubDate>
-      <category>Grok</category>
-      <description><![CDATA[Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.]]></description>
-      <source url="https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/">TechCrunch - xAI</source>
-    </item>
-    <item>
-      <title><![CDATA[Up to 3.2x Faster Inference with LFM2.5-DSpark]]></title>
-      <link>https://huggingface.co/blog/LiquidAI/lfm25-dspark</link>
-      <guid>https://huggingface.co/blog/LiquidAI/lfm25-dspark</guid>
-      <pubDate>Thu, 20 Aug 2026 16:52:57 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/LiquidAI/lfm25-dspark">Hugging Face Blog</source>
     </item>
   </channel>
 </rss>
