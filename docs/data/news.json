@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent ",
+    "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "pubDate": "Wed, 02 Sep 2026 13:49:14 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://huggingface.co/blog/allenai/benchmirt",
     "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
     "link": "https://huggingface.co/blog/allenai/benchmirt",
@@ -1789,14 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engineers in enterprise fi"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3142810",
-    "title": "Google’s biggest clean power project is 40 miles north of xAI’s unpermitted gas power plant",
-    "link": "https://techcrunch.com/2026/07/15/googles-biggest-clean-power-project-is-40-miles-north-of-xais-unpermitted-gas-power-plant/",
-    "pubDate": "Wed, 15 Jul 2026 17:39:54 +0000",
-    "source": "TechCrunch - xAI",
-    "category": "Grok",
-    "summary": "Google's biggest solar and battery project stands in sharp contrast with xAI's nearby unpermitted power plant."
   }
 ]

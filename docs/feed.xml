@@ -5,9 +5,18 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 01 Sep 2026 21:39:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 13:49:14 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Real-Time Intelligence with IBM Time Series Models on Confluent ]]></title>
+      <link>https://huggingface.co/blog/ibm-research/real-time-intelligence</link>
+      <guid>https://huggingface.co/blog/ibm-research/real-time-intelligence</guid>
+      <pubDate>Wed, 02 Sep 2026 13:49:14 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/ibm-research/real-time-intelligence">Hugging Face Blog</source>
+    </item>
     <item>
       <title><![CDATA[BenchMIRT: What are LLM benchmarks actually measuring?]]></title>
       <link>https://huggingface.co/blog/allenai/benchmirt</link>
@@ -448,15 +457,6 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/LiquidAI/lfm25-dspark">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Introducing Intelligence Age]]></title>
-      <link>https://openai.com/index/introducing-intelligence-age</link>
-      <guid>https://openai.com/index/introducing-intelligence-age</guid>
-      <pubDate>Thu, 20 Aug 2026 07:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.]]></description>
-      <source url="https://openai.com/index/introducing-intelligence-age">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
