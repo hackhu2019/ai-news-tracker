@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://huggingface.co/blog/allenai/benchmirt",
+    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "link": "https://huggingface.co/blog/allenai/benchmirt",
+    "pubDate": "Tue, 01 Sep 2026 21:39:07 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/?p=3159842",
     "title": "Anthropic’s new Fable release is cheaper, less restrictive",
     "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
@@ -43,6 +52,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more."
+  },
+  {
+    "id": "https://openai.com/index/gilbert-tobin",
+    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "link": "https://openai.com/index/gilbert-tobin",
+    "pubDate": "Tue, 01 Sep 2026 01:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm."
   },
   {
     "id": "https://huggingface.co/blog/webgpu-kernels",
@@ -1780,23 +1798,5 @@
     "source": "TechCrunch - xAI",
     "category": "Grok",
     "summary": "Google's biggest solar and battery project stands in sharp contrast with xAI's nearby unpermitted power plant."
-  },
-  {
-    "id": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-    "title": "What building Shippy taught us about building agents",
-    "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-    "pubDate": "Wed, 15 Jul 2026 17:29:41 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-    "title": "Model Routing Is Simple. Until It Isn’t.",
-    "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-    "pubDate": "Wed, 15 Jul 2026 17:27:01 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
   }
 ]
