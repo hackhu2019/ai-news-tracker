@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "pubDate": "Thu, 03 Sep 2026 15:02:08 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/Hcompany/neomme",
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "link": "https://huggingface.co/blog/Hcompany/neomme",
+    "pubDate": "Thu, 03 Sep 2026 13:13:48 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "pubDate": "Thu, 03 Sep 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/funes",
+    "title": "Give Your Coding Agents a Memory You Own",
+    "link": "https://huggingface.co/blog/funes",
+    "pubDate": "Thu, 03 Sep 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://huggingface.co/blog/train-to-paint-with-code",
     "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
     "link": "https://huggingface.co/blog/train-to-paint-with-code",
@@ -1762,41 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion."
-  },
-  {
-    "id": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-    "title": "Newer Models, Same Advantage",
-    "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-    "pubDate": "Thu, 16 Jul 2026 11:49:48 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-    "title": "Our approach to bioresilience",
-    "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-    "pubDate": "Thu, 16 Jul 2026 09:30:42 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models."
-  },
-  {
-    "id": "https://openai.com/index/codex-collaborator-creative-team",
-    "title": "How Codex became a collaborator for OpenAI’s creative team",
-    "link": "https://openai.com/index/codex-collaborator-creative-team",
-    "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3143149",
-    "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
-    "link": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
-    "pubDate": "Thu, 16 Jul 2026 00:20:42 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls \"the most important partner\" to its founders."
   }
 ]
