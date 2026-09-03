@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://huggingface.co/blog/train-to-paint-with-code",
+    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "link": "https://huggingface.co/blog/train-to-paint-with-code",
+    "pubDate": "Thu, 03 Sep 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
     "title": "Proactive cyber defense for governments and enterprises",
     "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
@@ -1789,14 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls \"the most important partner\" to its founders."
-  },
-  {
-    "id": "https://openai.com/index/cars24",
-    "title": "How Cars24 scales conversations and builds faster with OpenAI",
-    "link": "https://openai.com/index/cars24",
-    "pubDate": "Thu, 16 Jul 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company."
   }
 ]
