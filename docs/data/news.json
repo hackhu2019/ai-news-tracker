@@ -9,6 +9,15 @@
     "summary": ""
   },
   {
+    "id": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "pubDate": "Thu, 03 Sep 2026 13:15:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
+  },
+  {
     "id": "https://huggingface.co/blog/Hcompany/neomme",
     "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
     "link": "https://huggingface.co/blog/Hcompany/neomme",
@@ -16,6 +25,33 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "pubDate": "Thu, 03 Sep 2026 12:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
+  },
+  {
+    "id": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "pubDate": "Thu, 03 Sep 2026 12:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
+  },
+  {
+    "id": "https://openai.com/index/safety-overview-gpt-6-astra",
+    "title": "Safety overview: GPT-6 Astra",
+    "link": "https://openai.com/index/safety-overview-gpt-6-astra",
+    "pubDate": "Thu, 03 Sep 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework."
   },
   {
     "id": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
@@ -1762,41 +1798,5 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
-  },
-  {
-    "id": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
-    "title": "Introducing Gemini 3.5 Flash Cyber",
-    "link": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
-    "pubDate": "Fri, 17 Jul 2026 15:00:11 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities."
-  },
-  {
-    "id": "https://openai.com/index/a-scorecard-for-the-ai-age",
-    "title": "A scorecard for the AI age",
-    "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
-    "pubDate": "Fri, 17 Jul 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute."
-  },
-  {
-    "id": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-    "title": "Why teens deserve access to safe AI",
-    "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-    "pubDate": "Thu, 16 Jul 2026 16:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3143233",
-    "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
-    "link": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-    "pubDate": "Thu, 16 Jul 2026 14:26:29 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion."
   }
 ]
