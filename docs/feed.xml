@@ -54,6 +54,15 @@
       <source url="https://openai.com/index/playco-game-prototyping-with-astra">OpenAI Blog</source>
     </item>
     <item>
+      <title><![CDATA[GPT-6 Astra: A new generation of intelligence]]></title>
+      <link>https://openai.com/index/gpt-6-astra</link>
+      <guid>https://openai.com/index/gpt-6-astra</guid>
+      <pubDate>Thu, 03 Sep 2026 11:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.]]></description>
+      <source url="https://openai.com/index/gpt-6-astra">OpenAI Blog</source>
+    </item>
+    <item>
       <title><![CDATA[Safety overview: GPT-6 Astra]]></title>
       <link>https://openai.com/index/safety-overview-gpt-6-astra</link>
       <guid>https://openai.com/index/safety-overview-gpt-6-astra</guid>
@@ -448,15 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.]]></description>
       <source url="https://openai.com/index/introducing-admin-plugin">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Disrupting a new covert influence campaign from Russia]]></title>
-      <link>https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia</link>
-      <guid>https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.]]></description>
-      <source url="https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia">OpenAI Blog</source>
     </item>
   </channel>
 </rss>

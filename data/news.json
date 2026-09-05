@@ -45,6 +45,15 @@
     "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
   },
   {
+    "id": "https://openai.com/index/gpt-6-astra",
+    "title": "GPT-6 Astra: A new generation of intelligence",
+    "link": "https://openai.com/index/gpt-6-astra",
+    "pubDate": "Thu, 03 Sep 2026 11:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
+  },
+  {
     "id": "https://openai.com/index/safety-overview-gpt-6-astra",
     "title": "Safety overview: GPT-6 Astra",
     "link": "https://openai.com/index/safety-overview-gpt-6-astra",
@@ -1789,14 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment."
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-    "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-    "pubDate": "Fri, 17 Jul 2026 15:57:54 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
   }
 ]
