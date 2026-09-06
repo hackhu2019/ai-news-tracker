@@ -5,9 +5,27 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 03 Sep 2026 15:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 09:00:00 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[An Alien Mind]]></title>
+      <link>https://openai.com/index/an-alien-mind</link>
+      <guid>https://openai.com/index/an-alien-mind</guid>
+      <pubDate>Sun, 06 Sep 2026 09:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.]]></description>
+      <source url="https://openai.com/index/an-alien-mind">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Research acceleration: The view inside OpenAI]]></title>
+      <link>https://openai.com/index/research-acceleration-view-inside-openai</link>
+      <guid>https://openai.com/index/research-acceleration-view-inside-openai</guid>
+      <pubDate>Sun, 06 Sep 2026 08:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.]]></description>
+      <source url="https://openai.com/index/research-acceleration-view-inside-openai">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Introducing WeatherNext 3, our most advanced and accurate global weather AI model]]></title>
       <link>https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/</link>
@@ -439,24 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.]]></description>
       <source url="https://openai.com/index/the-full-stack-behind-abundant-intelligence">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Jalapeño’s first results show industry-leading speed and efficiency in AI inference]]></title>
-      <link>https://openai.com/index/jalapeno-first-results</link>
-      <guid>https://openai.com/index/jalapeno-first-results</guid>
-      <pubDate>Tue, 25 Aug 2026 07:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.]]></description>
-      <source url="https://openai.com/index/jalapeno-first-results">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Introducing the Admin plugin for ChatGPT Work and Codex]]></title>
-      <link>https://openai.com/index/introducing-admin-plugin</link>
-      <guid>https://openai.com/index/introducing-admin-plugin</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.]]></description>
-      <source url="https://openai.com/index/introducing-admin-plugin">OpenAI Blog</source>
     </item>
   </channel>
 </rss>

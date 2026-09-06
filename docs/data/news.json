@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://openai.com/index/an-alien-mind",
+    "title": "An Alien Mind",
+    "link": "https://openai.com/index/an-alien-mind",
+    "pubDate": "Sun, 06 Sep 2026 09:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
+  },
+  {
+    "id": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "title": "Research acceleration: The view inside OpenAI",
+    "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "pubDate": "Sun, 06 Sep 2026 08:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration."
+  },
+  {
     "id": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
     "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
     "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
@@ -1780,23 +1798,5 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/cosmos3edge",
-    "title": "Introducing Cosmos 3 Edge",
-    "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
-    "pubDate": "Mon, 20 Jul 2026 15:58:51 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/safety-alignment-long-horizon-models",
-    "title": "Safety and alignment in an era of long-horizon models",
-    "link": "https://openai.com/index/safety-alignment-long-horizon-models",
-    "pubDate": "Mon, 20 Jul 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment."
   }
 ]
