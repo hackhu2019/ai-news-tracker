@@ -9,6 +9,15 @@
     "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism."
   },
   {
+    "id": "https://techcrunch.com/?p=3161058",
+    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+    "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+    "pubDate": "Sun, 06 Sep 2026 20:47:37 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments."
+  },
+  {
     "id": "https://openai.com/index/an-alien-mind",
     "title": "An Alien Mind",
     "link": "https://openai.com/index/an-alien-mind",
@@ -1789,14 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models."
-  },
-  {
-    "id": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-    "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-    "pubDate": "Tue, 21 Jul 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance."
   }
 ]
