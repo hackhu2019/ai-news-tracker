@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://openai.com/index/codex-quantum-computing-experiments",
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "link": "https://openai.com/index/codex-quantum-computing-experiments",
+    "pubDate": "Tue, 08 Sep 2026 17:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
+  },
+  {
     "id": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
     "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
     "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
@@ -34,6 +43,42 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical."
+  },
+  {
+    "id": "https://openai.com/index/introducing-chatgpt-images-2-5",
+    "title": "Introducing ChatGPT Images 2.5",
+    "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
+    "pubDate": "Tue, 08 Sep 2026 11:30:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas."
+  },
+  {
+    "id": "https://openai.com/index/navier-stokes-solution",
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "link": "https://openai.com/index/navier-stokes-solution",
+    "pubDate": "Tue, 08 Sep 2026 10:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
+  },
+  {
+    "id": "https://openai.com/index/teen-development-research-grants",
+    "title": "Funding grants for new research into AI and teen development",
+    "link": "https://openai.com/index/teen-development-research-grants",
+    "pubDate": "Tue, 08 Sep 2026 09:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety."
+  },
+  {
+    "id": "https://openai.com/index/1password",
+    "title": "1Password increases engineering productivity 21% with Codex",
+    "link": "https://openai.com/index/1password",
+    "pubDate": "Tue, 08 Sep 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies."
   },
   {
     "id": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
@@ -1753,50 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex."
-  },
-  {
-    "id": "https://openai.com/index/advancing-the-next-era-of-national-science",
-    "title": "Advancing the next era of national science",
-    "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
-    "pubDate": "Wed, 22 Jul 2026 12:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery."
-  },
-  {
-    "id": "https://openai.com/index/introducing-openai-presence",
-    "title": "Introducing OpenAI Presence",
-    "link": "https://openai.com/index/introducing-openai-presence",
-    "pubDate": "Wed, 22 Jul 2026 05:30:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3145006",
-    "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-    "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-    "pubDate": "Wed, 22 Jul 2026 03:20:57 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor."
-  },
-  {
-    "id": "https://openai.com/index/ntt-data",
-    "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-    "link": "https://openai.com/index/ntt-data",
-    "pubDate": "Wed, 22 Jul 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption."
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-    "title": "The State of Simulation for Physical AI: An Overview",
-    "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-    "pubDate": "Tue, 21 Jul 2026 20:00:27 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
   }
 ]

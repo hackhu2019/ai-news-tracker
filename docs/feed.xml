@@ -5,9 +5,18 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 08 Sep 2026 14:23:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 17:00:00 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[How GPT-5.6 Sol helps run quantum computing experiments]]></title>
+      <link>https://openai.com/index/codex-quantum-computing-experiments</link>
+      <guid>https://openai.com/index/codex-quantum-computing-experiments</guid>
+      <pubDate>Tue, 08 Sep 2026 17:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.]]></description>
+      <source url="https://openai.com/index/codex-quantum-computing-experiments">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic]]></title>
       <link>https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom</link>
@@ -43,6 +52,42 @@
       <category>ChatGPT</category>
       <description><![CDATA[Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.]]></description>
       <source url="https://openai.com/index/the-work-now-within-reach">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Introducing ChatGPT Images 2.5]]></title>
+      <link>https://openai.com/index/introducing-chatgpt-images-2-5</link>
+      <guid>https://openai.com/index/introducing-chatgpt-images-2-5</guid>
+      <pubDate>Tue, 08 Sep 2026 11:30:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.]]></description>
+      <source url="https://openai.com/index/introducing-chatgpt-images-2-5">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[On the Navier–Stokes Millennium Prize Problem]]></title>
+      <link>https://openai.com/index/navier-stokes-solution</link>
+      <guid>https://openai.com/index/navier-stokes-solution</guid>
+      <pubDate>Tue, 08 Sep 2026 10:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.]]></description>
+      <source url="https://openai.com/index/navier-stokes-solution">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Funding grants for new research into AI and teen development]]></title>
+      <link>https://openai.com/index/teen-development-research-grants</link>
+      <guid>https://openai.com/index/teen-development-research-grants</guid>
+      <pubDate>Tue, 08 Sep 2026 09:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.]]></description>
+      <source url="https://openai.com/index/teen-development-research-grants">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[1Password increases engineering productivity 21% with Codex]]></title>
+      <link>https://openai.com/index/1password</link>
+      <guid>https://openai.com/index/1password</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.]]></description>
+      <source url="https://openai.com/index/1password">OpenAI Blog</source>
     </item>
     <item>
       <title><![CDATA[OpenAI expands initiatives to support journalism from classrooms to newsrooms]]></title>
@@ -412,51 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.]]></description>
       <source url="https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Expanding OpenAI’s presence in Brazil]]></title>
-      <link>https://openai.com/index/expanding-our-presence-in-brazil</link>
-      <guid>https://openai.com/index/expanding-our-presence-in-brazil</guid>
-      <pubDate>Thu, 27 Aug 2026 03:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.]]></description>
-      <source url="https://openai.com/index/expanding-our-presence-in-brazil">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic continues compute-gobbling streak in $45B deal with Nscale]]></title>
-      <link>https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/</link>
-      <guid>https://techcrunch.com/?p=3157364</guid>
-      <pubDate>Wed, 26 Aug 2026 21:37:39 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.]]></description>
-      <source url="https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Intelligent transcription with Gemini 3.5 Transcribe]]></title>
-      <link>https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/</link>
-      <guid>https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/</guid>
-      <pubDate>Wed, 26 Aug 2026 17:01:00 +0000</pubDate>
-      <category>Gemini</category>
-      <description><![CDATA[Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.]]></description>
-      <source url="https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/">Google DeepMind Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Bringing ChatGPT for Teachers to more U.S. school districts]]></title>
-      <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
-      <guid>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.]]></description>
-      <source url="https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Learning never stops: How AI makes learning continuous]]></title>
-      <link>https://openai.com/index/learning-never-stops</link>
-      <guid>https://openai.com/index/learning-never-stops</guid>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.]]></description>
-      <source url="https://openai.com/index/learning-never-stops">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
