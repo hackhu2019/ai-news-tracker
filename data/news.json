@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "pubDate": "Tue, 08 Sep 2026 14:23:07 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/?p=3161251",
+    "title": "Mistral raises €3B as sovereign AI becomes big business",
+    "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+    "pubDate": "Tue, 08 Sep 2026 14:17:48 +0000",
+    "source": "TechCrunch - Mistral AI",
+    "category": "Mistral",
+    "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity."
+  },
+  {
+    "id": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+    "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "pubDate": "Tue, 08 Sep 2026 14:00:15 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
+  },
+  {
+    "id": "https://openai.com/index/the-work-now-within-reach",
+    "title": "The Work Now Within Reach",
+    "link": "https://openai.com/index/the-work-now-within-reach",
+    "pubDate": "Tue, 08 Sep 2026 13:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical."
+  },
+  {
+    "id": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+    "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+    "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+    "pubDate": "Tue, 08 Sep 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations."
+  },
+  {
     "id": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
     "title": "Supporting independent journalism in Ukraine",
     "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
@@ -1753,50 +1798,5 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/introducing-chatgpt-small-business-program",
-    "title": "Introducing the ChatGPT for small business program",
-    "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
-    "pubDate": "Tue, 21 Jul 2026 17:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work."
-  },
-  {
-    "id": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-    "link": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-    "pubDate": "Tue, 21 Jul 2026 15:16:30 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber."
-  },
-  {
-    "id": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
-    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-    "link": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
-    "pubDate": "Tue, 21 Jul 2026 15:16:30 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber."
-  },
-  {
-    "id": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-    "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-    "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-    "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3144516",
-    "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-    "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-    "pubDate": "Tue, 21 Jul 2026 00:12:24 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models."
   }
 ]

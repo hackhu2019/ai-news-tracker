@@ -5,9 +5,54 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 07 Sep 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 14:23:07 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic]]></title>
+      <link>https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom</link>
+      <guid>https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom</guid>
+      <pubDate>Tue, 08 Sep 2026 14:23:07 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Mistral raises €3B as sovereign AI becomes big business]]></title>
+      <link>https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/</link>
+      <guid>https://techcrunch.com/?p=3161251</guid>
+      <pubDate>Tue, 08 Sep 2026 14:17:48 +0000</pubDate>
+      <category>Mistral</category>
+      <description><![CDATA[The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.]]></description>
+      <source url="https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/">TechCrunch - Mistral AI</source>
+    </item>
+    <item>
+      <title><![CDATA[AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome]]></title>
+      <link>https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/</link>
+      <guid>https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/</guid>
+      <pubDate>Tue, 08 Sep 2026 14:00:15 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.]]></description>
+      <source url="https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/">Google DeepMind Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[The Work Now Within Reach]]></title>
+      <link>https://openai.com/index/the-work-now-within-reach</link>
+      <guid>https://openai.com/index/the-work-now-within-reach</guid>
+      <pubDate>Tue, 08 Sep 2026 13:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.]]></description>
+      <source url="https://openai.com/index/the-work-now-within-reach">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI expands initiatives to support journalism from classrooms to newsrooms]]></title>
+      <link>https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms</link>
+      <guid>https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.]]></description>
+      <source url="https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Supporting independent journalism in Ukraine]]></title>
       <link>https://openai.com/index/supporting-independent-journalism-in-ukraine</link>
@@ -412,51 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.]]></description>
       <source url="https://openai.com/index/learning-never-stops">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[The Hugging Face incident and the road ahead]]></title>
-      <link>https://openai.com/index/hugging-face-incident-and-the-road-ahead</link>
-      <guid>https://openai.com/index/hugging-face-incident-and-the-road-ahead</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.]]></description>
-      <source url="https://openai.com/index/hugging-face-incident-and-the-road-ahead">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers]]></title>
-      <link>https://huggingface.co/blog/train-multi-vector-encoder</link>
-      <guid>https://huggingface.co/blog/train-multi-vector-encoder</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/train-multi-vector-encoder">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How loveholidays is making everyone a builder with Codex]]></title>
-      <link>https://openai.com/index/loveholidays</link>
-      <guid>https://openai.com/index/loveholidays</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.]]></description>
-      <source url="https://openai.com/index/loveholidays">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Claude Cowork finally remembers what you told the app in chat]]></title>
-      <link>https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/</link>
-      <guid>https://techcrunch.com/?p=3156630</guid>
-      <pubDate>Tue, 25 Aug 2026 17:50:33 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.]]></description>
-      <source url="https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Granite 4.2 LLMs: How They're Built]]></title>
-      <link>https://huggingface.co/blog/ibm-granite/granite-4-2</link>
-      <guid>https://huggingface.co/blog/ibm-granite/granite-4-2</guid>
-      <pubDate>Tue, 25 Aug 2026 15:14:14 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/ibm-granite/granite-4-2">Hugging Face Blog</source>
     </item>
   </channel>
 </rss>
