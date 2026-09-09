@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+    "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "pubDate": "Wed, 09 Sep 2026 15:36:24 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/?p=3161915",
+    "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI ",
+    "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+    "pubDate": "Wed, 09 Sep 2026 15:02:47 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs."
+  },
+  {
     "id": "https://techcrunch.com/?p=3161463",
     "title": "Hackers are stealing Claude tokens from subscribers",
     "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
@@ -1780,23 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Anthropic leaped to a $47 billion revenue run rate by May, compared to $9 billion in 2025. It’s the kind of growth that Menlo Ventures’ Matt Murphy says he’s never seen in 25 years of investing, not i"
-  },
-  {
-    "id": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
-    "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-    "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
-    "pubDate": "Wed, 22 Jul 2026 13:38:54 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission"
-  },
-  {
-    "id": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-    "title": "Building AI infrastructure with the Effingham County community",
-    "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-    "pubDate": "Wed, 22 Jul 2026 13:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex."
   }
 ]
