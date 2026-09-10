@@ -5,9 +5,36 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 09 Sep 2026 17:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 15:00:00 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Now everyone can put data to work]]></title>
+      <link>https://openai.com/index/put-data-to-work</link>
+      <guid>https://openai.com/index/put-data-to-work</guid>
+      <pubDate>Thu, 10 Sep 2026 15:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.]]></description>
+      <source url="https://openai.com/index/put-data-to-work">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Expanding AI access and cyber defense for federal, state, local, and tribal governments]]></title>
+      <link>https://openai.com/index/expanding-ai-access-us-government</link>
+      <guid>https://openai.com/index/expanding-ai-access-us-government</guid>
+      <pubDate>Thu, 10 Sep 2026 07:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.]]></description>
+      <source url="https://openai.com/index/expanding-ai-access-us-government">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Rebuilding AUTOMATIC1111 with Gradio Workflow]]></title>
+      <link>https://huggingface.co/blog/gradio-workflow-1111</link>
+      <guid>https://huggingface.co/blog/gradio-workflow-1111</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/gradio-workflow-1111">Hugging Face Blog</source>
+    </item>
     <item>
       <title><![CDATA[Paul Christiano joins OpenAI Foundation Board]]></title>
       <link>https://openai.com/index/paul-christiano-joins-openai-foundation-board</link>
@@ -430,33 +457,6 @@
       <category>Claude</category>
       <description><![CDATA[Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.]]></description>
       <source url="https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic gets its first court win over the Pentagon’s supply-chain risk label]]></title>
-      <link>https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/</link>
-      <guid>https://techcrunch.com/?p=3158189</guid>
-      <pubDate>Fri, 28 Aug 2026 12:46:12 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.]]></description>
-      <source url="https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Our decision on Cursor following its acquisition by SpaceX]]></title>
-      <link>https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex</link>
-      <guid>https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex</guid>
-      <pubDate>Fri, 28 Aug 2026 06:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.]]></description>
-      <source url="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Supporting Thailand’s next generation of AI startups]]></title>
-      <link>https://openai.com/index/supporting-next-generation-ai-startups-thailand</link>
-      <guid>https://openai.com/index/supporting-next-generation-ai-startups-thailand</guid>
-      <pubDate>Fri, 28 Aug 2026 02:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.]]></description>
-      <source url="https://openai.com/index/supporting-next-generation-ai-startups-thailand">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
