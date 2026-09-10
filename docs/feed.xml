@@ -36,6 +36,24 @@
       <source url="https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/">TechCrunch - Anthropic</source>
     </item>
     <item>
+      <title><![CDATA[The AI policy window is open. We need to act.]]></title>
+      <link>https://openai.com/index/ai-policy-window</link>
+      <guid>https://openai.com/index/ai-policy-window</guid>
+      <pubDate>Wed, 09 Sep 2026 13:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.]]></description>
+      <source url="https://openai.com/index/ai-policy-window">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[GPT-6 Astra: The next generation in intelligence for work]]></title>
+      <link>https://openai.com/index/gpt-6-astra-next-generation-work</link>
+      <guid>https://openai.com/index/gpt-6-astra-next-generation-work</guid>
+      <pubDate>Wed, 09 Sep 2026 11:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.]]></description>
+      <source url="https://openai.com/index/gpt-6-astra-next-generation-work">OpenAI Blog</source>
+    </item>
+    <item>
       <title><![CDATA[Hackers are stealing Claude tokens from subscribers]]></title>
       <link>https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/</link>
       <guid>https://techcrunch.com/?p=3161463</guid>
@@ -439,24 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.]]></description>
       <source url="https://openai.com/index/supporting-next-generation-ai-startups-thailand">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[The Open ASR Leaderboard Adds Its First Global South Language]]></title>
-      <link>https://huggingface.co/blog/open-asr-leaderboard-global-south</link>
-      <guid>https://huggingface.co/blog/open-asr-leaderboard-global-south</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/open-asr-leaderboard-global-south">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI]]></title>
-      <link>https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/</link>
-      <guid>https://techcrunch.com/?p=3157852</guid>
-      <pubDate>Thu, 27 Aug 2026 17:43:24 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of]]></description>
-      <source url="https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>
