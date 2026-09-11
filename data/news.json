@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3163177",
+    "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+    "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+    "pubDate": "Fri, 11 Sep 2026 18:41:49 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment le"
+  },
+  {
+    "id": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "pubDate": "Fri, 11 Sep 2026 10:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
+  },
+  {
     "id": "https://techcrunch.com/?p=3162919",
     "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
     "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
@@ -1780,23 +1798,5 @@
     "source": "Google DeepMind Blog",
     "category": "Gemini",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3147197",
-    "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-    "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-    "pubDate": "Tue, 28 Jul 2026 00:13:33 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3147064",
-    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-    "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-    "pubDate": "Mon, 27 Jul 2026 20:19:42 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project."
   }
 ]
