@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3162919",
+    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+    "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+    "pubDate": "Thu, 10 Sep 2026 20:57:30 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3162739",
+    "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+    "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+    "pubDate": "Thu, 10 Sep 2026 17:54:44 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Come inside the mind of a bot trying to convince the internet it's human."
+  },
+  {
+    "id": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "pubDate": "Thu, 10 Sep 2026 16:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
+  },
+  {
     "id": "https://openai.com/index/put-data-to-work",
     "title": "Now everyone can put data to work",
     "link": "https://openai.com/index/put-data-to-work",
@@ -9,6 +36,15 @@
     "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
   },
   {
+    "id": "https://openai.com/index/introducing-chatgpt-financial-services",
+    "title": "Introducing ChatGPT for Financial Services",
+    "link": "https://openai.com/index/introducing-chatgpt-financial-services",
+    "pubDate": "Thu, 10 Sep 2026 07:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials."
+  },
+  {
     "id": "https://openai.com/index/expanding-ai-access-us-government",
     "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
     "link": "https://openai.com/index/expanding-ai-access-us-government",
@@ -16,6 +52,24 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
+  },
+  {
+    "id": "https://openai.com/index/introducing-the-agents-api",
+    "title": "Introducing the Agents API",
+    "link": "https://openai.com/index/introducing-the-agents-api",
+    "pubDate": "Thu, 10 Sep 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
+  },
+  {
+    "id": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "pubDate": "Thu, 10 Sep 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
   },
   {
     "id": "https://huggingface.co/blog/gradio-workflow-1111",
@@ -1744,59 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project."
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-    "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-    "pubDate": "Mon, 27 Jul 2026 09:32:20 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-    "title": "How AI is expanding what people do at work",
-    "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-    "pubDate": "Mon, 27 Jul 2026 03:30:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries."
-  },
-  {
-    "id": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-    "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-    "pubDate": "Mon, 27 Jul 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3146446",
-    "title": "Anthropic launches Opus 5",
-    "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-    "pubDate": "Fri, 24 Jul 2026 17:00:00 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3145851",
-    "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-    "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-    "pubDate": "Thu, 23 Jul 2026 20:33:02 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3145822",
-    "title": "Anthropic updates Claude voice mode with more capable models",
-    "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-    "pubDate": "Thu, 23 Jul 2026 19:00:00 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Claude's new voice model will let you reschedule your meeting or draft an email"
   }
 ]

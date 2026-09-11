@@ -5,9 +5,36 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 10 Sep 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 20:57:30 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek]]></title>
+      <link>https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/</link>
+      <guid>https://techcrunch.com/?p=3162919</guid>
+      <pubDate>Thu, 10 Sep 2026 20:57:30 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.]]></description>
+      <source url="https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic reveals rogue AI agents hate CAPTCHAs, just like you]]></title>
+      <link>https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/</link>
+      <guid>https://techcrunch.com/?p=3162739</guid>
+      <pubDate>Thu, 10 Sep 2026 17:54:44 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Come inside the mind of a bot trying to convince the internet it's human.]]></description>
+      <source url="https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules]]></title>
+      <link>https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</link>
+      <guid>https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</guid>
+      <pubDate>Thu, 10 Sep 2026 16:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.]]></description>
+      <source url="https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Now everyone can put data to work]]></title>
       <link>https://openai.com/index/put-data-to-work</link>
@@ -18,6 +45,15 @@
       <source url="https://openai.com/index/put-data-to-work">OpenAI Blog</source>
     </item>
     <item>
+      <title><![CDATA[Introducing ChatGPT for Financial Services]]></title>
+      <link>https://openai.com/index/introducing-chatgpt-financial-services</link>
+      <guid>https://openai.com/index/introducing-chatgpt-financial-services</guid>
+      <pubDate>Thu, 10 Sep 2026 07:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.]]></description>
+      <source url="https://openai.com/index/introducing-chatgpt-financial-services">OpenAI Blog</source>
+    </item>
+    <item>
       <title><![CDATA[Expanding AI access and cyber defense for federal, state, local, and tribal governments]]></title>
       <link>https://openai.com/index/expanding-ai-access-us-government</link>
       <guid>https://openai.com/index/expanding-ai-access-us-government</guid>
@@ -25,6 +61,24 @@
       <category>ChatGPT</category>
       <description><![CDATA[OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.]]></description>
       <source url="https://openai.com/index/expanding-ai-access-us-government">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Introducing the Agents API]]></title>
+      <link>https://openai.com/index/introducing-the-agents-api</link>
+      <guid>https://openai.com/index/introducing-the-agents-api</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.]]></description>
+      <source url="https://openai.com/index/introducing-the-agents-api">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Build more natural voice experiences with GPT‑Live‑1 in the API]]></title>
+      <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
+      <guid>https://openai.com/index/introducing-gpt-live-1-in-the-api</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.]]></description>
+      <source url="https://openai.com/index/introducing-gpt-live-1-in-the-api">OpenAI Blog</source>
     </item>
     <item>
       <title><![CDATA[Rebuilding AUTOMATIC1111 with Gradio Workflow]]></title>
@@ -403,60 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.]]></description>
       <source url="https://openai.com/index/gilbert-tobin">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI]]></title>
-      <link>https://huggingface.co/blog/webgpu-kernels</link>
-      <guid>https://huggingface.co/blog/webgpu-kernels</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/webgpu-kernels">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI supports California’s bill to advance youth AI safety]]></title>
-      <link>https://openai.com/index/supporting-california-bill-advance-ai-youth-safety</link>
-      <guid>https://openai.com/index/supporting-california-bill-advance-ai-youth-safety</guid>
-      <pubDate>Mon, 31 Aug 2026 07:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.]]></description>
-      <source url="https://openai.com/index/supporting-california-bill-advance-ai-youth-safety">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Polimill builds Japan's next-generation public AI infrastructure]]></title>
-      <link>https://openai.com/index/polimill</link>
-      <guid>https://openai.com/index/polimill</guid>
-      <pubDate>Mon, 31 Aug 2026 07:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.]]></description>
-      <source url="https://openai.com/index/polimill">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[A milestone in expanding access to AI]]></title>
-      <link>https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</link>
-      <guid>https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</guid>
-      <pubDate>Mon, 31 Aug 2026 04:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.]]></description>
-      <source url="https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft]]></title>
-      <link>https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/</link>
-      <guid>https://techcrunch.com/?p=3158639</guid>
-      <pubDate>Sat, 29 Aug 2026 18:41:59 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.]]></description>
-      <source url="https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[An Anthropic researcher just gave us a peek at self-improving AI]]></title>
-      <link>https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/</link>
-      <guid>https://techcrunch.com/?p=3158505</guid>
-      <pubDate>Fri, 28 Aug 2026 19:30:38 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.]]></description>
-      <source url="https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>
