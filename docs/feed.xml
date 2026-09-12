@@ -5,9 +5,18 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 11 Sep 2026 18:41:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Perplexity trusts GPT-6 Astra with end-to-end systems]]></title>
+      <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
+      <guid>https://openai.com/index/perplexity-improving-accuracy-with-astra</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.]]></description>
+      <source url="https://openai.com/index/perplexity-improving-accuracy-with-astra">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[An Anthropic researcher’s doomsday warning comes at a very interesting time]]></title>
       <link>https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/</link>
@@ -16,6 +25,15 @@
       <category>Claude</category>
       <description><![CDATA[An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment le]]></description>
       <source url="https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Cognition helps Devin test its own work with GPT‑6 Astra]]></title>
+      <link>https://openai.com/index/cognition-devin-testing-with-astra</link>
+      <guid>https://openai.com/index/cognition-devin-testing-with-astra</guid>
+      <pubDate>Fri, 11 Sep 2026 16:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.]]></description>
+      <source url="https://openai.com/index/cognition-devin-testing-with-astra">OpenAI Blog</source>
     </item>
     <item>
       <title><![CDATA[Rapidly scaling online storage to serve over 1 billion ChatGPT users]]></title>
@@ -439,24 +457,6 @@
       <category>Gemini</category>
       <description><![CDATA[]]></description>
       <source url="https://deepmind.google/blog/introducing-agentic-video-in-gemini/">Google DeepMind Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How AI-native companies turn workflows into operating capability]]></title>
-      <link>https://openai.com/index/ai-native-company-workflows</link>
-      <guid>https://openai.com/index/ai-native-company-workflows</guid>
-      <pubDate>Tue, 01 Sep 2026 17:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.]]></description>
-      <source url="https://openai.com/index/ai-native-company-workflows">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Path to Astra: critical capabilities and frontier safeguards]]></title>
-      <link>https://openai.com/index/path-to-astra</link>
-      <guid>https://openai.com/index/path-to-astra</guid>
-      <pubDate>Tue, 01 Sep 2026 13:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.]]></description>
-      <source url="https://openai.com/index/path-to-astra">OpenAI Blog</source>
     </item>
   </channel>
 </rss>

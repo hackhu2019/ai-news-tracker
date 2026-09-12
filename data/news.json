@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "pubDate": "Mon, 14 Sep 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+  },
+  {
     "id": "https://techcrunch.com/?post_type=tc_podcast&p=3163177",
     "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
     "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
@@ -7,6 +16,15 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment le"
+  },
+  {
+    "id": "https://openai.com/index/cognition-devin-testing-with-astra",
+    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+    "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+    "pubDate": "Fri, 11 Sep 2026 16:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
   },
   {
     "id": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
@@ -1779,24 +1797,6 @@
     "pubDate": "Tue, 28 Jul 2026 16:27:42 GMT",
     "source": "Hugging Face Blog",
     "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-    "pubDate": "Tue, 28 Jul 2026 15:01:45 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-    "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-    "pubDate": "Tue, 28 Jul 2026 13:21:37 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
     "summary": ""
   }
 ]
