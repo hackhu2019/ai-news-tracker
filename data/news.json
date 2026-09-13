@@ -9,6 +9,15 @@
     "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
   },
   {
+    "id": "https://techcrunch.com/?p=3163373",
+    "title": "Anthropic CEO outlines plan to slow AI development",
+    "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "pubDate": "Sat, 12 Sep 2026 19:34:44 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
+  },
+  {
     "id": "https://techcrunch.com/?post_type=tc_podcast&p=3163177",
     "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
     "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
@@ -1789,14 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond."
-  },
-  {
-    "id": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-    "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-    "pubDate": "Tue, 28 Jul 2026 16:27:42 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
   }
 ]
