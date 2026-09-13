@@ -9,6 +9,15 @@
     "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
   },
   {
+    "id": "https://techcrunch.com/?p=3163449",
+    "title": "What’s behind the AI industry’s latest warnings of doom?",
+    "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+    "pubDate": "Sun, 13 Sep 2026 19:40:15 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity."
+  },
+  {
     "id": "https://techcrunch.com/?p=3163373",
     "title": "Anthropic CEO outlines plan to slow AI development",
     "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
@@ -1789,14 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar."
-  },
-  {
-    "id": "https://openai.com/index/scientific-computing-agentic-ai",
-    "title": "Scientific computing in the age of agentic AI",
-    "link": "https://openai.com/index/scientific-computing-agentic-ai",
-    "pubDate": "Tue, 28 Jul 2026 17:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond."
   }
 ]
