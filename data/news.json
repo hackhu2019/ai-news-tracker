@@ -108,6 +108,15 @@
     "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
   },
   {
+    "id": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+    "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+    "pubDate": "Thu, 10 Sep 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://openai.com/index/introducing-the-agents-api",
     "title": "Introducing the Agents API",
     "link": "https://openai.com/index/introducing-the-agents-api",
@@ -1170,6 +1179,15 @@
     "summary": ""
   },
   {
+    "id": "https://openai.com/index/fyxer",
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "link": "https://openai.com/index/fyxer",
+    "pubDate": "Thu, 13 Aug 2026 12:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice."
+  },
+  {
     "id": "https://openai.com/index/builders-guide-to-gpt-5-6",
     "title": "The builder’s guide to GPT‑5.6",
     "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
@@ -1780,23 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction."
-  },
-  {
-    "id": "https://openai.com/index/chatgpt-for-academic-researchers",
-    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-    "link": "https://openai.com/index/chatgpt-for-academic-researchers",
-    "pubDate": "Wed, 29 Jul 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery."
-  },
-  {
-    "id": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-    "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-    "pubDate": "Wed, 29 Jul 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar."
   }
 ]
