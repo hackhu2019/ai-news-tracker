@@ -5,9 +5,27 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 15 Sep 2026 17:05:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 16:00:00 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Helping older adults use AI in everyday life]]></title>
+      <link>https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</link>
+      <guid>https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</guid>
+      <pubDate>Wed, 16 Sep 2026 16:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.]]></description>
+      <source url="https://openai.com/index/helping-older-adults-use-ai-in-everyday-life">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Reimagining advertising with AI]]></title>
+      <link>https://openai.com/index/reimagining-advertising-with-ai</link>
+      <guid>https://openai.com/index/reimagining-advertising-with-ai</guid>
+      <pubDate>Wed, 16 Sep 2026 13:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.]]></description>
+      <source url="https://openai.com/index/reimagining-advertising-with-ai">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking]]></title>
       <link>https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/</link>
@@ -439,24 +457,6 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/grpo-with-trl-ifstruct">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Give Your Coding Agents a Memory You Own]]></title>
-      <link>https://huggingface.co/blog/funes</link>
-      <guid>https://huggingface.co/blog/funes</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/funes">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Training a coding model to paint watercolours with TRL and OpenEnv]]></title>
-      <link>https://huggingface.co/blog/train-to-paint-with-code</link>
-      <guid>https://huggingface.co/blog/train-to-paint-with-code</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/train-to-paint-with-code">Hugging Face Blog</source>
     </item>
   </channel>
 </rss>

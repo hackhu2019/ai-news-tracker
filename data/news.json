@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "title": "Helping older adults use AI in everyday life",
+    "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "pubDate": "Wed, 16 Sep 2026 16:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
+  },
+  {
+    "id": "https://openai.com/index/reimagining-advertising-with-ai",
+    "title": "Reimagining advertising with AI",
+    "link": "https://openai.com/index/reimagining-advertising-with-ai",
+    "pubDate": "Wed, 16 Sep 2026 13:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
+  },
+  {
     "id": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
     "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
     "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
@@ -1780,23 +1798,5 @@
     "source": "Google DeepMind Blog",
     "category": "Gemini",
     "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic app"
-  },
-  {
-    "id": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-    "title": "Advancing the price-performance frontier with GPT-5.6",
-    "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-    "pubDate": "Thu, 30 Jul 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3148055",
-    "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-    "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-    "pubDate": "Thu, 30 Jul 2026 00:21:06 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth."
   }
 ]
