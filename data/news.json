@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3164745",
+    "title": "Anthropic merges Claude chat and Cowork in one interface",
+    "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+    "pubDate": "Wed, 16 Sep 2026 16:30:00 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers."
+  },
+  {
     "id": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
     "title": "Helping older adults use AI in everyday life",
     "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
@@ -16,6 +25,24 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
+  },
+  {
+    "id": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "title": "How to connect AI usage to business value",
+    "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "pubDate": "Wed, 16 Sep 2026 12:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
+  },
+  {
+    "id": "https://openai.com/index/unlocking-new-ways-of-working",
+    "title": "How workers are unlocking new ways of working",
+    "link": "https://openai.com/index/unlocking-new-ways-of-working",
+    "pubDate": "Wed, 16 Sep 2026 09:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work."
   },
   {
     "id": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
@@ -1771,32 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3148510",
-    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-    "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-    "pubDate": "Thu, 30 Jul 2026 20:26:38 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology."
-  },
-  {
-    "id": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-    "pubDate": "Thu, 30 Jul 2026 15:09:09 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-    "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-    "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-    "pubDate": "Thu, 30 Jul 2026 15:00:59 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic app"
   }
 ]
