@@ -5,9 +5,36 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 14 Sep 2026 16:27:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 17:05:57 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking]]></title>
+      <link>https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/</link>
+      <guid>https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/</guid>
+      <pubDate>Tue, 15 Sep 2026 17:05:57 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[]]></description>
+      <source url="https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/">Google DeepMind Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Your Agent Aced the Task. Will It Do It Again?]]></title>
+      <link>https://huggingface.co/blog/ibm-research/altk-evolve-consistency</link>
+      <guid>https://huggingface.co/blog/ibm-research/altk-evolve-consistency</guid>
+      <pubDate>Tue, 15 Sep 2026 16:00:44 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/ibm-research/altk-evolve-consistency">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI, Anthropic, Google have been in talks on AI safety for weeks]]></title>
+      <link>https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/</link>
+      <guid>https://techcrunch.com/?p=3164278</guid>
+      <pubDate>Tue, 15 Sep 2026 15:47:03 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.]]></description>
+      <source url="https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/">TechCrunch - Anthropic</source>
+    </item>
     <item>
       <title><![CDATA[Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans]]></title>
       <link>https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/</link>
@@ -430,33 +457,6 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/train-to-paint-with-code">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Proactive cyber defense for governments and enterprises]]></title>
-      <link>https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/</link>
-      <guid>https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/</guid>
-      <pubDate>Wed, 02 Sep 2026 16:24:24 +0000</pubDate>
-      <category>Gemini</category>
-      <description><![CDATA[]]></description>
-      <source url="https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/">Google DeepMind Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Introducing Gemini 3.8 Flash and 3.8 Flash Cyber]]></title>
-      <link>https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/</link>
-      <guid>https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/</guid>
-      <pubDate>Wed, 02 Sep 2026 16:18:31 +0000</pubDate>
-      <category>Gemini</category>
-      <description><![CDATA[]]></description>
-      <source url="https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/">Google DeepMind Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Real-Time Intelligence with IBM Time Series Models on Confluent ]]></title>
-      <link>https://huggingface.co/blog/ibm-research/real-time-intelligence</link>
-      <guid>https://huggingface.co/blog/ibm-research/real-time-intelligence</guid>
-      <pubDate>Wed, 02 Sep 2026 13:49:14 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/ibm-research/real-time-intelligence">Hugging Face Blog</source>
     </item>
   </channel>
 </rss>
