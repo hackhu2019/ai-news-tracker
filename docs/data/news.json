@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3165076",
+    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+    "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+    "pubDate": "Wed, 16 Sep 2026 21:07:24 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, "
+  },
+  {
+    "id": "https://openai.com/index/model-misalignment-reporting-framework",
+    "title": "Our framework for reporting model misalignment",
+    "link": "https://openai.com/index/model-misalignment-reporting-framework",
+    "pubDate": "Wed, 16 Sep 2026 17:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
+  },
+  {
     "id": "https://techcrunch.com/?p=3164745",
     "title": "Anthropic merges Claude chat and Cowork in one interface",
     "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
@@ -1780,23 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3148621",
-    "title": "Anthropic says its own AI models breached three companies during security tests",
-    "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-    "pubDate": "Fri, 31 Jul 2026 01:06:54 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3148482",
-    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-    "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-    "pubDate": "Thu, 30 Jul 2026 23:25:58 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play."
   }
 ]

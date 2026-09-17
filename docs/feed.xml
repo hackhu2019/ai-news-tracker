@@ -5,9 +5,27 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 16 Sep 2026 16:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:07:24 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?]]></title>
+      <link>https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/</link>
+      <guid>https://techcrunch.com/?p=3165076</guid>
+      <pubDate>Wed, 16 Sep 2026 21:07:24 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, ]]></description>
+      <source url="https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Our framework for reporting model misalignment]]></title>
+      <link>https://openai.com/index/model-misalignment-reporting-framework</link>
+      <guid>https://openai.com/index/model-misalignment-reporting-framework</guid>
+      <pubDate>Wed, 16 Sep 2026 17:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.]]></description>
+      <source url="https://openai.com/index/model-misalignment-reporting-framework">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Anthropic merges Claude chat and Cowork in one interface]]></title>
       <link>https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/</link>
@@ -439,24 +457,6 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/Hcompany/neomme">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Legora reviewed 41 documents in minutes with GPT-6 Astra]]></title>
-      <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
-      <guid>https://openai.com/index/legora-financial-statement-review-with-astra</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.]]></description>
-      <source url="https://openai.com/index/legora-financial-statement-review-with-astra">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Playco cut manual fixes 50% prototyping games with GPT-6 Astra]]></title>
-      <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
-      <guid>https://openai.com/index/playco-game-prototyping-with-astra</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.]]></description>
-      <source url="https://openai.com/index/playco-game-prototyping-with-astra">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
