@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3166021",
+    "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+    "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+    "pubDate": "Fri, 18 Sep 2026 14:00:14 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws."
+  },
+  {
     "id": "https://techcrunch.com/?p=3165059",
     "title": "Is the AI safety debate about safety or control?",
     "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
@@ -1789,14 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out o"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3148699",
-    "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-    "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-    "pubDate": "Fri, 31 Jul 2026 15:16:17 +0000",
-    "source": "TechCrunch - xAI",
-    "category": "Grok",
-    "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months."
   }
 ]
