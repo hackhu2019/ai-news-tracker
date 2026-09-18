@@ -5,9 +5,45 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 16 Sep 2026 21:07:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:19:37 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Is the AI safety debate about safety or control?]]></title>
+      <link>https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/</link>
+      <guid>https://techcrunch.com/?p=3165059</guid>
+      <pubDate>Thu, 17 Sep 2026 20:19:37 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Not everyone agrees with Amodei's call for globally coordinated action for AI safety.]]></description>
+      <source url="https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers]]></title>
+      <link>https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/</link>
+      <guid>https://techcrunch.com/?p=3165426</guid>
+      <pubDate>Thu, 17 Sep 2026 13:38:33 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.]]></description>
+      <source url="https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[How Cooley is accelerating IPO work with ChatGPT]]></title>
+      <link>https://openai.com/index/cooley-gopublic</link>
+      <guid>https://openai.com/index/cooley-gopublic</guid>
+      <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.]]></description>
+      <source url="https://openai.com/index/cooley-gopublic">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Introducing Astra for Law]]></title>
+      <link>https://openai.com/index/astra-for-law</link>
+      <guid>https://openai.com/index/astra-for-law</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.]]></description>
+      <source url="https://openai.com/index/astra-for-law">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?]]></title>
       <link>https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/</link>
@@ -421,42 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.]]></description>
       <source url="https://openai.com/index/an-alien-mind">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Research acceleration: The view inside OpenAI]]></title>
-      <link>https://openai.com/index/research-acceleration-view-inside-openai</link>
-      <guid>https://openai.com/index/research-acceleration-view-inside-openai</guid>
-      <pubDate>Sun, 06 Sep 2026 08:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.]]></description>
-      <source url="https://openai.com/index/research-acceleration-view-inside-openai">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Introducing WeatherNext 3, our most advanced and accurate global weather AI model]]></title>
-      <link>https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/</link>
-      <guid>https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/</guid>
-      <pubDate>Thu, 03 Sep 2026 15:02:08 +0000</pubDate>
-      <category>Gemini</category>
-      <description><![CDATA[]]></description>
-      <source url="https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/">Google DeepMind Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Daybreak for Frontline Defenders: $1B to protect essential services]]></title>
-      <link>https://openai.com/index/daybreak-for-frontline-defenders</link>
-      <guid>https://openai.com/index/daybreak-for-frontline-defenders</guid>
-      <pubDate>Thu, 03 Sep 2026 13:15:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.]]></description>
-      <source url="https://openai.com/index/daybreak-for-frontline-defenders">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[NeoMME: an efficient Multimodal-native and Multilingual Encoder]]></title>
-      <link>https://huggingface.co/blog/Hcompany/neomme</link>
-      <guid>https://huggingface.co/blog/Hcompany/neomme</guid>
-      <pubDate>Thu, 03 Sep 2026 13:13:48 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/Hcompany/neomme">Hugging Face Blog</source>
     </item>
   </channel>
 </rss>
