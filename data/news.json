@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?post_type=tc_video&p=3166249",
+    "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+    "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+    "pubDate": "Fri, 18 Sep 2026 17:09:56 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on indep"
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3166233",
+    "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
+    "link": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+    "pubDate": "Fri, 18 Sep 2026 17:06:32 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on indep"
+  },
+  {
     "id": "https://techcrunch.com/?p=3166021",
     "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
     "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
@@ -1780,23 +1798,5 @@
     "source": "TechCrunch - xAI",
     "category": "Grok",
     "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward."
-  },
-  {
-    "id": "https://openai.com/index/ten-advances-in-mathematics",
-    "title": "Ten advances in mathematics and theoretical computer science",
-    "link": "https://openai.com/index/ten-advances-in-mathematics",
-    "pubDate": "Sat, 01 Aug 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity."
-  },
-  {
-    "id": "https://techcrunch.com/?post_type=tc_video&p=3148833",
-    "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-    "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-    "pubDate": "Fri, 31 Jul 2026 17:26:32 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out o"
   }
 ]
