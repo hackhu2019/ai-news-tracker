@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3166494",
+    "title": "Anthropic is operating a lab that conducts biology experiments",
+    "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+    "pubDate": "Fri, 18 Sep 2026 23:13:31 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3166479",
+    "title": "Anthropic’s first embedded evaluator is … Accenture?",
+    "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+    "pubDate": "Fri, 18 Sep 2026 21:44:33 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Accenture is about to take on its most high-risk consulting engagement ever."
+  },
+  {
     "id": "https://techcrunch.com/?post_type=tc_video&p=3166249",
     "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
     "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
@@ -106,6 +124,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
+  },
+  {
+    "id": "https://openai.com/index/hex-gpt-6-astra",
+    "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+    "link": "https://openai.com/index/hex-gpt-6-astra",
+    "pubDate": "Wed, 16 Sep 2026 12:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share."
   },
   {
     "id": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
@@ -1771,32 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the"
-  },
-  {
-    "id": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-    "title": "How we built a realtime system for responsive voice AI in six months",
-    "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-    "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations."
-  },
-  {
-    "id": "https://openai.com/index/circles",
-    "title": "Circles powers telco personalization with OpenAI technology",
-    "link": "https://openai.com/index/circles",
-    "pubDate": "Mon, 03 Aug 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3149027",
-    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-    "pubDate": "Sat, 01 Aug 2026 20:26:04 +0000",
-    "source": "TechCrunch - xAI",
-    "category": "Grok",
-    "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward."
   }
 ]
