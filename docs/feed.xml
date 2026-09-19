@@ -54,6 +54,15 @@
       <source url="https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/">TechCrunch - Anthropic</source>
     </item>
     <item>
+      <title><![CDATA[Introducing the Australian Youth Safety Blueprint]]></title>
+      <link>https://openai.com/index/australian-youth-safety-blueprint</link>
+      <guid>https://openai.com/index/australian-youth-safety-blueprint</guid>
+      <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.]]></description>
+      <source url="https://openai.com/index/australian-youth-safety-blueprint">OpenAI Blog</source>
+    </item>
+    <item>
       <title><![CDATA[Is the AI safety debate about safety or control?]]></title>
       <link>https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/</link>
       <guid>https://techcrunch.com/?p=3165059</guid>
@@ -448,15 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.]]></description>
       <source url="https://openai.com/index/introducing-chatgpt-images-2-5">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[On the Navier–Stokes Millennium Prize Problem]]></title>
-      <link>https://openai.com/index/navier-stokes-solution</link>
-      <guid>https://openai.com/index/navier-stokes-solution</guid>
-      <pubDate>Tue, 08 Sep 2026 10:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.]]></description>
-      <source url="https://openai.com/index/navier-stokes-solution">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
