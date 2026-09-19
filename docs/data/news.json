@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3165814",
+    "title": "AI safety conversations have gotten unbelievable",
+    "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+    "pubDate": "Sat, 19 Sep 2026 15:00:00 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction."
+  },
+  {
     "id": "https://techcrunch.com/?p=3166494",
     "title": "Anthropic is operating a lab that conducts biology experiments",
     "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
@@ -1789,14 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
-  },
-  {
-    "id": "https://openai.com/index/apple-is-getting-this-wrong",
-    "title": "Apple is getting this wrong",
-    "link": "https://openai.com/index/apple-is-getting-this-wrong",
-    "pubDate": "Mon, 03 Aug 2026 22:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened."
   }
 ]
