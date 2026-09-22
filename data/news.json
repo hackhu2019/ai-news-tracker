@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+    "pubDate": "Mon, 21 Sep 2026 13:44:34 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "pubDate": "Mon, 21 Sep 2026 12:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
+  },
+  {
+    "id": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "pubDate": "Mon, 21 Sep 2026 12:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster."
+  },
+  {
+    "id": "https://openai.com/index/building-standards-next-phase-ai",
+    "title": "Building standards for the next phase of AI",
+    "link": "https://openai.com/index/building-standards-next-phase-ai",
+    "pubDate": "Mon, 21 Sep 2026 10:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety."
+  },
+  {
+    "id": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+    "title": "Expanding OpenAI Academy with new learning paths",
+    "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+    "pubDate": "Mon, 21 Sep 2026 07:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills."
+  },
+  {
+    "id": "https://openai.com/index/v7",
+    "title": "How V7 gives AI agents institutional memory",
+    "link": "https://openai.com/index/v7",
+    "pubDate": "Mon, 21 Sep 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work."
+  },
+  {
+    "id": "https://huggingface.co/blog/tokenizers-v1",
+    "title": "tokenizers v1: encode, decode and scaling, measured",
+    "link": "https://huggingface.co/blog/tokenizers-v1",
+    "pubDate": "Mon, 21 Sep 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/?p=3165814",
     "title": "AI safety conversations have gotten unbelievable",
     "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
@@ -1735,68 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3150081",
-    "title": "Anthropic is hiring an AI chip design team",
-    "link": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-    "pubDate": "Wed, 05 Aug 2026 14:13:18 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3149877",
-    "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-    "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
-    "pubDate": "Tue, 04 Aug 2026 21:07:26 +0000",
-    "source": "TechCrunch - xAI",
-    "category": "Grok",
-    "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3149770",
-    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-    "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-    "pubDate": "Tue, 04 Aug 2026 19:48:40 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta."
-  },
-  {
-    "id": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-    "title": "Third-party cyber evaluations involving OpenAI models",
-    "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-    "pubDate": "Tue, 04 Aug 2026 19:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation."
-  },
-  {
-    "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-    "pubDate": "Tue, 04 Aug 2026 13:58:29 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-    "title": "New ways to learn and teach with ChatGPT Work and Codex",
-    "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-    "pubDate": "Tue, 04 Aug 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build."
-  },
-  {
-    "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-    "title": "Disrupting a Criminal Scam Operation",
-    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-    "pubDate": "Tue, 04 Aug 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
   }
 ]
