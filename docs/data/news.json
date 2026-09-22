@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "title": "Better prompt caching for GPT-6",
+    "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "pubDate": "Tue, 22 Sep 2026 21:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs."
+  },
+  {
+    "id": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "title": "Introducing GPT-6 Sol and Luna",
+    "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "pubDate": "Tue, 22 Sep 2026 18:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3167580",
+    "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+    "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+    "pubDate": "Tue, 22 Sep 2026 16:30:07 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\""
+  },
+  {
+    "id": "https://techcrunch.com/?p=3167384",
+    "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+    "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+    "pubDate": "Tue, 22 Sep 2026 15:00:00 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to s"
+  },
+  {
+    "id": "https://openai.com/index/priorities-principles-third-party-assessments",
+    "title": "Priorities and principles for effective third party assessments",
+    "link": "https://openai.com/index/priorities-principles-third-party-assessments",
+    "pubDate": "Tue, 22 Sep 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards."
+  },
+  {
+    "id": "https://huggingface.co/blog/evaleval-aisi",
+    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+    "link": "https://huggingface.co/blog/evaleval-aisi",
+    "pubDate": "Tue, 22 Sep 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://huggingface.co/blog/transformers-llama-cpp-quants",
     "title": "Transformers now runs llama.cpp quants",
     "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
@@ -1744,59 +1798,5 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-    "title": "Responding to the next frontier of critical cyber capabilities",
-    "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-    "pubDate": "Fri, 07 Aug 2026 15:20:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls."
-  },
-  {
-    "id": "https://openai.com/index/hsp-gruppe",
-    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-    "link": "https://openai.com/index/hsp-gruppe",
-    "pubDate": "Fri, 07 Aug 2026 09:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service."
-  },
-  {
-    "id": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-    "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-    "pubDate": "Thu, 06 Aug 2026 15:06:15 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-    "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-    "pubDate": "Thu, 06 Aug 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna."
-  },
-  {
-    "id": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-    "title": "Working with the American Psychological Association on youth mental health and AI",
-    "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-    "pubDate": "Thu, 06 Aug 2026 06:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health."
-  },
-  {
-    "id": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-    "title": "From asking to doing: How the world is putting ChatGPT to work",
-    "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-    "pubDate": "Thu, 06 Aug 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior."
   }
 ]
