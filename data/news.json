@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "title": "Advancing Private AI Compute with secure, server-side memory",
+    "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "pubDate": "Wed, 23 Sep 2026 16:00:57 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": "Introducing private, server-side memory to Private AI Compute for personal AI."
+  },
+  {
+    "id": "https://openai.com/index/two-years-of-openai-academy",
+    "title": "Two years of OpenAI Academy",
+    "link": "https://openai.com/index/two-years-of-openai-academy",
+    "pubDate": "Wed, 23 Sep 2026 16:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
+  },
+  {
+    "id": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+    "title": "Gemini 3.8 text-to-speech says hello",
+    "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+    "pubDate": "Wed, 23 Sep 2026 15:25:14 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+    "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+    "pubDate": "Wed, 23 Sep 2026 13:17:01 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+    "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+    "pubDate": "Wed, 23 Sep 2026 13:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
+  },
+  {
+    "id": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+    "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+    "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+    "pubDate": "Wed, 23 Sep 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia."
+  },
+  {
     "id": "https://openai.com/index/better-prompt-caching-for-gpt-6",
     "title": "Better prompt caching for GPT-6",
     "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
@@ -1744,59 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers."
-  },
-  {
-    "id": "https://openai.com/index/zapier",
-    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-    "link": "https://openai.com/index/zapier",
-    "pubDate": "Mon, 10 Aug 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting."
-  },
-  {
-    "id": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-    "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-    "pubDate": "Mon, 10 Aug 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey."
-  },
-  {
-    "id": "https://openai.com/index/premium-seats-chatgpt-business",
-    "title": "Premium seats are coming to ChatGPT Business",
-    "link": "https://openai.com/index/premium-seats-chatgpt-business",
-    "pubDate": "Mon, 10 Aug 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work."
-  },
-  {
-    "id": "https://huggingface.co/blog/muse-glimmer",
-    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-    "link": "https://huggingface.co/blog/muse-glimmer",
-    "pubDate": "Mon, 10 Aug 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3151431",
-    "title": "Anthropic is turning Claude Code’s auto mode on by default",
-    "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-    "pubDate": "Sun, 09 Aug 2026 19:20:32 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Programming with Claude Code will soon require even less human oversight."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3151324",
-    "title": "The AI safety test is becoming a safety risk",
-    "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-    "pubDate": "Sun, 09 Aug 2026 14:30:00 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with i"
   }
 ]
