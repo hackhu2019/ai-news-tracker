@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+    "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+    "pubDate": "Wed, 23 Sep 2026 18:41:40 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
     "title": "Advancing Private AI Compute with secure, server-side memory",
     "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
@@ -43,6 +52,60 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
+  },
+  {
+    "id": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "title": "Sam Altman’s remarks at the United Nations Security Council",
+    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "pubDate": "Wed, 23 Sep 2026 12:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
+  },
+  {
+    "id": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "pubDate": "Wed, 23 Sep 2026 12:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy."
+  },
+  {
+    "id": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "pubDate": "Wed, 23 Sep 2026 12:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day."
+  },
+  {
+    "id": "https://openai.com/index/ringg",
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "link": "https://openai.com/index/ringg",
+    "pubDate": "Wed, 23 Sep 2026 12:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1."
+  },
+  {
+    "id": "https://openai.com/index/introducing-mentalhealthbench",
+    "title": "Introducing MentalHealthBench",
+    "link": "https://openai.com/index/introducing-mentalhealthbench",
+    "pubDate": "Wed, 23 Sep 2026 10:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations."
+  },
+  {
+    "id": "https://openai.com/index/airbnb-gpt-6-astra",
+    "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+    "link": "https://openai.com/index/airbnb-gpt-6-astra",
+    "pubDate": "Wed, 23 Sep 2026 01:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster."
   },
   {
     "id": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
@@ -1735,68 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it."
-  },
-  {
-    "id": "https://openai.com/index/building-an-ai-native-finance-function",
-    "title": "What building an AI-native finance function taught me",
-    "link": "https://openai.com/index/building-an-ai-native-finance-function",
-    "pubDate": "Mon, 10 Aug 2026 17:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI."
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-    "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-    "pubDate": "Mon, 10 Aug 2026 16:25:36 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/responsible-ai-infrastructure-texas",
-    "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-    "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
-    "pubDate": "Mon, 10 Aug 2026 14:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans."
-  },
-  {
-    "id": "https://openai.com/index/model-ml",
-    "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-    "link": "https://openai.com/index/model-ml",
-    "pubDate": "Mon, 10 Aug 2026 12:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks."
-  },
-  {
-    "id": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-    "pubDate": "Mon, 10 Aug 2026 10:05:36 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-    "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-    "pubDate": "Mon, 10 Aug 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing."
-  },
-  {
-    "id": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-    "title": "Putting frontier cyber models in more trusted hands",
-    "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-    "pubDate": "Mon, 10 Aug 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers."
   }
 ]

@@ -5,9 +5,18 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 23 Sep 2026 16:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 18:41:40 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows]]></title>
+      <link>https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp</link>
+      <guid>https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp</guid>
+      <pubDate>Wed, 23 Sep 2026 18:41:40 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp">Hugging Face Blog</source>
+    </item>
     <item>
       <title><![CDATA[Advancing Private AI Compute with secure, server-side memory]]></title>
       <link>https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/</link>
@@ -52,6 +61,60 @@
       <category>ChatGPT</category>
       <description><![CDATA[OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.]]></description>
       <source url="https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Sam Altman’s remarks at the United Nations Security Council]]></title>
+      <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
+      <guid>https://openai.com/index/sam-altman-un-security-council-remarks</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.]]></description>
+      <source url="https://openai.com/index/sam-altman-un-security-council-remarks">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Harvey turns legal context into stronger drafts with GPT-6 Astra]]></title>
+      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
+      <guid>https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.]]></description>
+      <source url="https://openai.com/index/harvey-from-context-to-confidence-with-astra">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[How invideo improves color grading 3x with GPT‑6 Astra]]></title>
+      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
+      <guid>https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.]]></description>
+      <source url="https://openai.com/index/invideo-builds-with-gpt-6-astra">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Ringg’s AI agents resolve up to 65% of customer calls with OpenAI]]></title>
+      <link>https://openai.com/index/ringg</link>
+      <guid>https://openai.com/index/ringg</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.]]></description>
+      <source url="https://openai.com/index/ringg">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Introducing MentalHealthBench]]></title>
+      <link>https://openai.com/index/introducing-mentalhealthbench</link>
+      <guid>https://openai.com/index/introducing-mentalhealthbench</guid>
+      <pubDate>Wed, 23 Sep 2026 10:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.]]></description>
+      <source url="https://openai.com/index/introducing-mentalhealthbench">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Airbnb widens access to GPT-6 Astra and OpenAI frontier models]]></title>
+      <link>https://openai.com/index/airbnb-gpt-6-astra</link>
+      <guid>https://openai.com/index/airbnb-gpt-6-astra</guid>
+      <pubDate>Wed, 23 Sep 2026 01:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.]]></description>
+      <source url="https://openai.com/index/airbnb-gpt-6-astra">OpenAI Blog</source>
     </item>
     <item>
       <title><![CDATA[Grab and OpenAI bring practical AI skills to Southeast Asia]]></title>
@@ -394,69 +457,6 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/ibm-research/altk-evolve-consistency">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI, Anthropic, Google have been in talks on AI safety for weeks]]></title>
-      <link>https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/</link>
-      <guid>https://techcrunch.com/?p=3164278</guid>
-      <pubDate>Tue, 15 Sep 2026 15:47:03 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.]]></description>
-      <source url="https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans]]></title>
-      <link>https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/</link>
-      <guid>https://techcrunch.com/?p=3163598</guid>
-      <pubDate>Mon, 14 Sep 2026 16:27:53 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as spe]]></description>
-      <source url="https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Perplexity trusts GPT-6 Astra with end-to-end systems]]></title>
-      <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
-      <guid>https://openai.com/index/perplexity-improving-accuracy-with-astra</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.]]></description>
-      <source url="https://openai.com/index/perplexity-improving-accuracy-with-astra">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[What’s behind the AI industry’s latest warnings of doom?]]></title>
-      <link>https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/</link>
-      <guid>https://techcrunch.com/?p=3163449</guid>
-      <pubDate>Sun, 13 Sep 2026 19:40:15 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.]]></description>
-      <source url="https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic CEO outlines plan to slow AI development]]></title>
-      <link>https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/</link>
-      <guid>https://techcrunch.com/?p=3163373</guid>
-      <pubDate>Sat, 12 Sep 2026 19:34:44 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to "pace the frontier." What would that actually look like?]]></description>
-      <source url="https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[An Anthropic researcher’s doomsday warning comes at a very interesting time]]></title>
-      <link>https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/</link>
-      <guid>https://techcrunch.com/?post_type=tc_podcast&p=3163177</guid>
-      <pubDate>Fri, 11 Sep 2026 18:41:49 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment le]]></description>
-      <source url="https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Cognition helps Devin test its own work with GPT‑6 Astra]]></title>
-      <link>https://openai.com/index/cognition-devin-testing-with-astra</link>
-      <guid>https://openai.com/index/cognition-devin-testing-with-astra</guid>
-      <pubDate>Fri, 11 Sep 2026 16:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.]]></description>
-      <source url="https://openai.com/index/cognition-devin-testing-with-astra">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
