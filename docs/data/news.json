@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3168463",
+    "title": "Anthropic says its biology lab has already found something big",
+    "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+    "pubDate": "Wed, 23 Sep 2026 22:17:39 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop."
+  },
+  {
     "id": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
     "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
     "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
@@ -97,6 +106,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations."
+  },
+  {
+    "id": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+    "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+    "link": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+    "pubDate": "Wed, 23 Sep 2026 02:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries."
   },
   {
     "id": "https://openai.com/index/airbnb-gpt-6-astra",
@@ -1780,23 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows."
-  },
-  {
-    "id": "https://openai.com/index/testing-ads-in-chatgpt",
-    "title": "Testing ads in ChatGPT",
-    "link": "https://openai.com/index/testing-ads-in-chatgpt",
-    "pubDate": "Tue, 11 Aug 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3151655",
-    "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-    "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-    "pubDate": "Mon, 10 Aug 2026 23:56:15 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it."
   }
 ]
