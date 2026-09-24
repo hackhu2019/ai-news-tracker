@@ -5,9 +5,27 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 23 Sep 2026 22:17:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 16:20:39 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Introducing Gemini 3.8 Live with Live Avatar]]></title>
+      <link>https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/</link>
+      <guid>https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/</guid>
+      <pubDate>Thu, 24 Sep 2026 16:20:39 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[]]></description>
+      <source url="https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/">Google DeepMind Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Accelerating vision-language models with LFM2.5-VL-DSpark]]></title>
+      <link>https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark</link>
+      <guid>https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark</guid>
+      <pubDate>Thu, 24 Sep 2026 14:08:57 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark">Hugging Face Blog</source>
+    </item>
     <item>
       <title><![CDATA[Anthropic says its biology lab has already found something big]]></title>
       <link>https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/</link>
@@ -439,24 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.]]></description>
       <source url="https://openai.com/index/hex-gpt-6-astra">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How to connect AI usage to business value]]></title>
-      <link>https://openai.com/index/how-to-connect-ai-usage-to-business-value</link>
-      <guid>https://openai.com/index/how-to-connect-ai-usage-to-business-value</guid>
-      <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.]]></description>
-      <source url="https://openai.com/index/how-to-connect-ai-usage-to-business-value">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How workers are unlocking new ways of working]]></title>
-      <link>https://openai.com/index/unlocking-new-ways-of-working</link>
-      <guid>https://openai.com/index/unlocking-new-ways-of-working</guid>
-      <pubDate>Wed, 16 Sep 2026 09:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.]]></description>
-      <source url="https://openai.com/index/unlocking-new-ways-of-working">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
