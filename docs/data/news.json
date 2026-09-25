@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3169815",
+    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+    "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+    "pubDate": "Fri, 25 Sep 2026 19:13:38 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a"
+  },
+  {
     "id": "https://openai.com/index/proaction",
     "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
     "link": "https://openai.com/index/proaction",
@@ -7,6 +16,24 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster."
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3169914",
+    "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+    "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+    "pubDate": "Fri, 25 Sep 2026 18:22:47 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic ro"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3169728",
+    "title": "Astra and Opus just passed Turing’s other test",
+    "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+    "pubDate": "Fri, 25 Sep 2026 17:24:36 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work."
   },
   {
     "id": "https://techcrunch.com/?p=3169652",
@@ -1771,32 +1798,5 @@
     "source": "Google DeepMind Blog",
     "category": "Gemini",
     "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
-  },
-  {
-    "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-    "pubDate": "Wed, 12 Aug 2026 14:00:51 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/how-enterprises-put-ai-to-work",
-    "title": "From assistance to execution: How enterprises put AI to work",
-    "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
-    "pubDate": "Wed, 12 Aug 2026 06:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption."
-  },
-  {
-    "id": "https://openai.com/index/ringcentral",
-    "title": "How RingCentral builds AI-native work from engineering to ops",
-    "link": "https://openai.com/index/ringcentral",
-    "pubDate": "Wed, 12 Aug 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations."
   }
 ]
