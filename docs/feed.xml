@@ -5,9 +5,27 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 24 Sep 2026 16:20:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 19:00:00 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Proaction boosts sales 60% and saves 75+ hours with Codex]]></title>
+      <link>https://openai.com/index/proaction</link>
+      <guid>https://openai.com/index/proaction</guid>
+      <pubDate>Fri, 25 Sep 2026 19:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.]]></description>
+      <source url="https://openai.com/index/proaction">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic’s founders seek voting control ahead of IPO]]></title>
+      <link>https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/</link>
+      <guid>https://techcrunch.com/?p=3169652</guid>
+      <pubDate>Fri, 25 Sep 2026 15:40:03 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Anthropic is asking its shareholders to approve a  structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.]]></description>
+      <source url="https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/">TechCrunch - Anthropic</source>
+    </item>
     <item>
       <title><![CDATA[Introducing Gemini 3.8 Live with Live Avatar]]></title>
       <link>https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/</link>
@@ -439,24 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.]]></description>
       <source url="https://openai.com/index/helping-older-adults-use-ai-in-everyday-life">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Reimagining advertising with AI]]></title>
-      <link>https://openai.com/index/reimagining-advertising-with-ai</link>
-      <guid>https://openai.com/index/reimagining-advertising-with-ai</guid>
-      <pubDate>Wed, 16 Sep 2026 13:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.]]></description>
-      <source url="https://openai.com/index/reimagining-advertising-with-ai">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Hex turns complex analysis into visual reports with GPT‑6 Astra]]></title>
-      <link>https://openai.com/index/hex-gpt-6-astra</link>
-      <guid>https://openai.com/index/hex-gpt-6-astra</guid>
-      <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.]]></description>
-      <source url="https://openai.com/index/hex-gpt-6-astra">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
