@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3170341",
+    "title": "Anthropic’s CEO is about to have dinner with President Trump",
+    "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+    "pubDate": "Sun, 27 Sep 2026 20:34:28 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3170300",
+    "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+    "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+    "pubDate": "Sun, 27 Sep 2026 16:30:00 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "\"AI is the devil and I its maker.\""
+  },
+  {
     "id": "https://techcrunch.com/?p=3169815",
     "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
     "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
@@ -1780,23 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is."
-  },
-  {
-    "id": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-    "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-    "pubDate": "Wed, 12 Aug 2026 16:14:36 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-    "title": "Putting sign language AI into users’ hands",
-    "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-    "pubDate": "Wed, 12 Aug 2026 14:01:59 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
   }
 ]
