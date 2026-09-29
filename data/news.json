@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://huggingface.co/blog/nvidia/kumo-tabular",
+    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+    "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
+    "pubDate": "Tue, 29 Sep 2026 15:30:38 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+    "pubDate": "Tue, 29 Sep 2026 13:07:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "title": "Introducing GPT-6.1 Sol",
+    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "pubDate": "Tue, 29 Sep 2026 10:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices."
+  },
+  {
+    "id": "https://openai.com/index/devday-2026-recap",
+    "title": "DevDay 2026 Recap",
+    "link": "https://openai.com/index/devday-2026-recap",
+    "pubDate": "Tue, 29 Sep 2026 10:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders."
+  },
+  {
     "id": "https://techcrunch.com/?p=3171132",
     "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
     "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
@@ -7,6 +43,15 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity."
+  },
+  {
+    "id": "https://openai.com/index/introducing-dots",
+    "title": "Introducing dots",
+    "link": "https://openai.com/index/introducing-dots",
+    "pubDate": "Tue, 29 Sep 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward."
   },
   {
     "id": "https://openai.com/index/how-we-will-do-better-for-australia",
@@ -1753,50 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3153310",
-    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-    "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-    "pubDate": "Sat, 15 Aug 2026 18:58:39 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3153258",
-    "title": "How to tell if your AI platforms’ accounts have been hacked",
-    "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
-    "pubDate": "Sat, 15 Aug 2026 16:10:00 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms."
-  },
-  {
-    "id": "https://techcrunch.com/?post_type=tc_video&p=3153153",
-    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-    "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-    "pubDate": "Fri, 14 Aug 2026 15:43:28 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its ow"
-  },
-  {
-    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3153152",
-    "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong ",
-    "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-    "pubDate": "Fri, 14 Aug 2026 14:00:00 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its ow"
-  },
-  {
-    "id": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-    "title": "State of Open Models: Summer 2026 Observations",
-    "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-    "pubDate": "Fri, 14 Aug 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
   }
 ]

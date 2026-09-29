@@ -5,9 +5,45 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 29 Sep 2026 05:13:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 15:30:38 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction]]></title>
+      <link>https://huggingface.co/blog/nvidia/kumo-tabular</link>
+      <guid>https://huggingface.co/blog/nvidia/kumo-tabular</guid>
+      <pubDate>Tue, 29 Sep 2026 15:30:38 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/nvidia/kumo-tabular">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents]]></title>
+      <link>https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</link>
+      <guid>https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</guid>
+      <pubDate>Tue, 29 Sep 2026 13:07:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Introducing GPT-6.1 Sol]]></title>
+      <link>https://openai.com/index/introducing-gpt-6-1-sol</link>
+      <guid>https://openai.com/index/introducing-gpt-6-1-sol</guid>
+      <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.]]></description>
+      <source url="https://openai.com/index/introducing-gpt-6-1-sol">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[DevDay 2026 Recap]]></title>
+      <link>https://openai.com/index/devday-2026-recap</link>
+      <guid>https://openai.com/index/devday-2026-recap</guid>
+      <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.]]></description>
+      <source url="https://openai.com/index/devday-2026-recap">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity]]></title>
       <link>https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/</link>
@@ -16,6 +52,15 @@
       <category>Claude</category>
       <description><![CDATA[In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.]]></description>
       <source url="https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Introducing dots]]></title>
+      <link>https://openai.com/index/introducing-dots</link>
+      <guid>https://openai.com/index/introducing-dots</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.]]></description>
+      <source url="https://openai.com/index/introducing-dots">OpenAI Blog</source>
     </item>
     <item>
       <title><![CDATA[How we will do better for Australia]]></title>
@@ -412,51 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.]]></description>
       <source url="https://openai.com/index/higgsfield-from-prompt-to-production-with-astra">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Building standards for the next phase of AI]]></title>
-      <link>https://openai.com/index/building-standards-next-phase-ai</link>
-      <guid>https://openai.com/index/building-standards-next-phase-ai</guid>
-      <pubDate>Mon, 21 Sep 2026 10:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.]]></description>
-      <source url="https://openai.com/index/building-standards-next-phase-ai">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Expanding OpenAI Academy with new learning paths]]></title>
-      <link>https://openai.com/index/expanding-openai-academy-with-new-learning-paths</link>
-      <guid>https://openai.com/index/expanding-openai-academy-with-new-learning-paths</guid>
-      <pubDate>Mon, 21 Sep 2026 07:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.]]></description>
-      <source url="https://openai.com/index/expanding-openai-academy-with-new-learning-paths">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How V7 gives AI agents institutional memory]]></title>
-      <link>https://openai.com/index/v7</link>
-      <guid>https://openai.com/index/v7</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.]]></description>
-      <source url="https://openai.com/index/v7">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[tokenizers v1: encode, decode and scaling, measured]]></title>
-      <link>https://huggingface.co/blog/tokenizers-v1</link>
-      <guid>https://huggingface.co/blog/tokenizers-v1</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/tokenizers-v1">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[AI safety conversations have gotten unbelievable]]></title>
-      <link>https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/</link>
-      <guid>https://techcrunch.com/?p=3165814</guid>
-      <pubDate>Sat, 19 Sep 2026 15:00:00 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.]]></description>
-      <source url="https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>
