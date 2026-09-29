@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3171132",
+    "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+    "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+    "pubDate": "Tue, 29 Sep 2026 05:13:43 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity."
+  },
+  {
+    "id": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "title": "How we will do better for Australia",
+    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "pubDate": "Mon, 28 Sep 2026 19:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences."
+  },
+  {
+    "id": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "title": "Towards safety cases for frontier AI training",
+    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "pubDate": "Mon, 28 Sep 2026 19:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
+  },
+  {
     "id": "https://techcrunch.com/?p=3170644",
     "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
     "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
@@ -619,6 +646,15 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as spe"
+  },
+  {
+    "id": "https://openai.com/index/fyxer",
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "link": "https://openai.com/index/fyxer",
+    "pubDate": "Mon, 14 Sep 2026 12:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice."
   },
   {
     "id": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
@@ -1761,42 +1797,6 @@
     "pubDate": "Fri, 14 Aug 2026 00:00:00 GMT",
     "source": "Hugging Face Blog",
     "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3152875",
-    "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-    "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-    "pubDate": "Thu, 13 Aug 2026 19:22:40 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3152849",
-    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-    "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-    "pubDate": "Thu, 13 Aug 2026 18:28:14 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems."
-  },
-  {
-    "id": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-    "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-    "pubDate": "Thu, 13 Aug 2026 17:16:04 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-    "title": "Introducing Gemini 3.7 Flash",
-    "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-    "pubDate": "Thu, 13 Aug 2026 17:04:18 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
     "summary": ""
   }
 ]
