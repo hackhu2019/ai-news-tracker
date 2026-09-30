@@ -5,9 +5,45 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 29 Sep 2026 15:30:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 15:03:07 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Introducing SynthID Bio]]></title>
+      <link>https://deepmind.google/blog/introducing-synthid-bio/</link>
+      <guid>https://deepmind.google/blog/introducing-synthid-bio/</guid>
+      <pubDate>Wed, 30 Sep 2026 15:03:07 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[Proof of concept for watermarking AI-generated proteins while preserving biological function.]]></description>
+      <source url="https://deepmind.google/blog/introducing-synthid-bio/">Google DeepMind Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Disrupting a coordinated model-distillation campaign]]></title>
+      <link>https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</link>
+      <guid>https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</guid>
+      <pubDate>Wed, 30 Sep 2026 10:30:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.]]></description>
+      <source url="https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Helping small businesses put AI to work]]></title>
+      <link>https://openai.com/index/helping-small-businesses-put-ai-to-work</link>
+      <guid>https://openai.com/index/helping-small-businesses-put-ai-to-work</guid>
+      <pubDate>Wed, 30 Sep 2026 10:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.]]></description>
+      <source url="https://openai.com/index/helping-small-businesses-put-ai-to-work">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning]]></title>
+      <link>https://huggingface.co/blog/open-tts-leaderboard</link>
+      <guid>https://huggingface.co/blog/open-tts-leaderboard</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/open-tts-leaderboard">Hugging Face Blog</source>
+    </item>
     <item>
       <title><![CDATA[NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction]]></title>
       <link>https://huggingface.co/blog/nvidia/kumo-tabular</link>
@@ -421,42 +457,6 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/transformers-llama-cpp-quants">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community]]></title>
-      <link>https://huggingface.co/blog/omlx</link>
-      <guid>https://huggingface.co/blog/omlx</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/omlx">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem]]></title>
-      <link>https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an</link>
-      <guid>https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an</guid>
-      <pubDate>Mon, 21 Sep 2026 13:44:34 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Advisory Group on Mathematics and Artificial Intelligence]]></title>
-      <link>https://openai.com/index/advisory-group-on-mathematics-and-ai</link>
-      <guid>https://openai.com/index/advisory-group-on-mathematics-and-ai</guid>
-      <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.]]></description>
-      <source url="https://openai.com/index/advisory-group-on-mathematics-and-ai">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Higgsfield AI ships new video features in a day with GPT-6 Astra]]></title>
-      <link>https://openai.com/index/higgsfield-from-prompt-to-production-with-astra</link>
-      <guid>https://openai.com/index/higgsfield-from-prompt-to-production-with-astra</guid>
-      <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.]]></description>
-      <source url="https://openai.com/index/higgsfield-from-prompt-to-production-with-astra">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
