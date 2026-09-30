@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "title": "Gemini 4 Argon: our next era of frontier intelligence",
+    "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "pubDate": "Wed, 30 Sep 2026 20:01:45 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": ""
+  },
+  {
     "id": "https://deepmind.google/blog/introducing-synthid-bio/",
     "title": "Introducing SynthID Bio",
     "link": "https://deepmind.google/blog/introducing-synthid-bio/",
@@ -1789,14 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "The model maker added $18 billion in annualized revenue in two months."
-  },
-  {
-    "id": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-    "pubDate": "Mon, 17 Aug 2026 19:46:21 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
   }
 ]
