@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3172744",
+    "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+    "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+    "pubDate": "Thu, 01 Oct 2026 17:50:19 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples."
+  },
+  {
+    "id": "https://openai.com/index/the-eternal-complement",
+    "title": "The eternal complement",
+    "link": "https://openai.com/index/the-eternal-complement",
+    "pubDate": "Thu, 01 Oct 2026 17:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress."
+  },
+  {
+    "id": "https://openai.com/index/albertsons-reimagining-retail",
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "link": "https://openai.com/index/albertsons-reimagining-retail",
+    "pubDate": "Thu, 01 Oct 2026 16:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
+  },
+  {
+    "id": "https://huggingface.co/blog/allenai/olmocore3",
+    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+    "link": "https://huggingface.co/blog/allenai/olmocore3",
+    "pubDate": "Thu, 01 Oct 2026 15:01:43 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/the-den-family-social",
+    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+    "link": "https://openai.com/index/the-den-family-social",
+    "pubDate": "Thu, 01 Oct 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
+  },
+  {
     "id": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
     "title": "Gemini 4 Argon: our next era of frontier intelligence",
     "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
@@ -1753,50 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly."
-  },
-  {
-    "id": "https://openai.com/index/chatgpt-for-teens",
-    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-    "link": "https://openai.com/index/chatgpt-for-teens",
-    "pubDate": "Tue, 18 Aug 2026 11:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents."
-  },
-  {
-    "id": "https://openai.com/index/asana",
-    "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-    "link": "https://openai.com/index/asana",
-    "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K."
-  },
-  {
-    "id": "https://openai.com/index/nvidia/chatgpt-work",
-    "title": "How NVIDIA scales expertise with ChatGPT Work",
-    "link": "https://openai.com/index/nvidia/chatgpt-work",
-    "pubDate": "Tue, 18 Aug 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally."
-  },
-  {
-    "id": "https://huggingface.co/blog/multi-vector-encoder",
-    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-    "link": "https://huggingface.co/blog/multi-vector-encoder",
-    "pubDate": "Tue, 18 Aug 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3153733",
-    "title": "Anthropic’s annualized revenue surges to $65B",
-    "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-    "pubDate": "Mon, 17 Aug 2026 23:56:26 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "The model maker added $18 billion in annualized revenue in two months."
   }
 ]
