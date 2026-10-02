@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+    "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "pubDate": "Fri, 02 Oct 2026 04:01:31 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/?p=3172744",
     "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
     "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
@@ -1782,21 +1791,12 @@
     "summary": ""
   },
   {
-    "id": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-    "title": "Pacing model development in an era of cyber-critical capabilities",
-    "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "id": "https://openai.com/index/chatgpt-for-teens",
+    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "link": "https://openai.com/index/chatgpt-for-teens",
     "pubDate": "Tue, 18 Aug 2026 11:00:00 GMT",
     "source": "OpenAI Blog",
     "category": "ChatGPT",
-    "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development."
-  },
-  {
-    "id": "https://openai.com/index/partnering-with-codeai",
-    "title": "Partnering with CodeAI to prepare the first AI generation",
-    "link": "https://openai.com/index/partnering-with-codeai",
-    "pubDate": "Tue, 18 Aug 2026 11:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly."
+    "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents."
   }
 ]
