@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3173316",
+    "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+    "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+    "pubDate": "Fri, 02 Oct 2026 17:56:00 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump call"
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_video&p=3173314",
+    "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+    "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+    "pubDate": "Fri, 02 Oct 2026 17:48:16 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump call"
+  },
+  {
+    "id": "https://openai.com/index/practical-guide-building-gpt-6",
+    "title": "A model guide for the GPT-6 family",
+    "link": "https://openai.com/index/practical-guide-building-gpt-6",
+    "pubDate": "Fri, 02 Oct 2026 16:15:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
+  },
+  {
+    "id": "https://huggingface.co/blog/allenai/astabrief",
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "link": "https://huggingface.co/blog/allenai/astabrief",
+    "pubDate": "Fri, 02 Oct 2026 15:19:50 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/?p=3173140",
+    "title": "Medical records giant Epic pauses product development to fix security bugs that risk patients’ data",
+    "link": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
+    "pubDate": "Fri, 02 Oct 2026 13:23:09 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "The health tech software giant, which makes the widely used MyChart system for accessing medical data, will focus on fixing security bugs for the next few weeks."
+  },
+  {
     "id": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
     "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
     "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
@@ -7,6 +52,15 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/chatham-financial",
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "link": "https://openai.com/index/chatham-financial",
+    "pubDate": "Fri, 02 Oct 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
   },
   {
     "id": "https://techcrunch.com/?p=3172744",
@@ -1744,59 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
-  },
-  {
-    "id": "https://huggingface.co/blog/LiquidAI/qad",
-    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-    "link": "https://huggingface.co/blog/LiquidAI/qad",
-    "pubDate": "Wed, 19 Aug 2026 13:48:49 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/replit",
-    "title": "Replit expands access to software creation with GPT-5.6 Luna",
-    "link": "https://openai.com/index/replit",
-    "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
-  },
-  {
-    "id": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-    "title": "ChatGPT Ads expands across Europe",
-    "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-    "pubDate": "Tue, 18 Aug 2026 22:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions."
-  },
-  {
-    "id": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-    "title": "Strengthening democratic oversight in national security",
-    "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-    "pubDate": "Tue, 18 Aug 2026 19:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise."
-  },
-  {
-    "id": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-    "title": "How Much Memory Does Your Agent Actually Need?",
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-    "pubDate": "Tue, 18 Aug 2026 18:09:38 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/chatgpt-for-teens",
-    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-    "link": "https://openai.com/index/chatgpt-for-teens",
-    "pubDate": "Tue, 18 Aug 2026 11:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents."
   }
 ]
