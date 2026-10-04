@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://huggingface.co/blog/microsoft/thinkingbox",
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+    "pubDate": "Sat, 03 Oct 2026 22:56:48 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/?post_type=tc_podcast&p=3173316",
     "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
     "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
@@ -1785,15 +1794,6 @@
     "id": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
     "title": "Offering Zero Data Retention for frontier models",
     "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-    "pubDate": "Wed, 19 Aug 2026 19:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
-  },
-  {
-    "id": "https://openai.com/index/our-commitment-to-zero-data-retention",
-    "title": "Offering Zero Data Retention for frontier models",
-    "link": "https://openai.com/index/our-commitment-to-zero-data-retention",
     "pubDate": "Wed, 19 Aug 2026 19:00:00 GMT",
     "source": "OpenAI Blog",
     "category": "ChatGPT",
