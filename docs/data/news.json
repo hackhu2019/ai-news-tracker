@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://openai.com/index/eu-text-provenance",
+    "title": "Our approach to EU text provenance rules",
+    "link": "https://openai.com/index/eu-text-provenance",
+    "pubDate": "Mon, 05 Oct 2026 15:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
+  },
+  {
+    "id": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "title": "Building advertising for the way people use AI",
+    "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "pubDate": "Mon, 05 Oct 2026 10:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers."
+  },
+  {
     "id": "https://huggingface.co/blog/microsoft/thinkingbox",
     "title": "The Agent Said It Was Done. The Database Disagreed.",
     "link": "https://huggingface.co/blog/microsoft/thinkingbox",
@@ -270,6 +288,15 @@
     "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support."
   },
   {
+    "id": "https://huggingface.co/blog/rl-environments",
+    "title": "Welcome RL Environments to the hub",
+    "link": "https://huggingface.co/blog/rl-environments",
+    "pubDate": "Mon, 28 Sep 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://openai.com/form/codex-originals",
     "title": "Are you a Codex Original?",
     "link": "https://openai.com/form/codex-originals",
@@ -349,6 +376,15 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Anthropic is asking its shareholders to approve a  structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters."
+  },
+  {
+    "id": "https://openai.com/index/wayfair",
+    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+    "link": "https://openai.com/index/wayfair",
+    "pubDate": "Fri, 25 Sep 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale."
   },
   {
     "id": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
@@ -1762,41 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
-  },
-  {
-    "id": "https://openai.com/index/introducing-ai-futures",
-    "title": "Introducing AI Futures",
-    "link": "https://openai.com/index/introducing-ai-futures",
-    "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
-  },
-  {
-    "id": "https://openai.com/index/stampli",
-    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-    "link": "https://openai.com/index/stampli",
-    "pubDate": "Thu, 20 Aug 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3154506",
-    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-    "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-    "pubDate": "Wed, 19 Aug 2026 22:10:46 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data."
-  },
-  {
-    "id": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-    "title": "Offering Zero Data Retention for frontier models",
-    "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-    "pubDate": "Wed, 19 Aug 2026 19:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
   }
 ]
