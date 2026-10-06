@@ -5,9 +5,54 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 06 Oct 2026 06:44:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 19:57:04 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[EmbeddingGemma 2: an open, lightweight multimodal embedding model]]></title>
+      <link>https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/</link>
+      <guid>https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/</guid>
+      <pubDate>Tue, 06 Oct 2026 19:57:04 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[]]></description>
+      <source url="https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/">Google DeepMind Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Atlassian and OpenAI expand partnership to turn enterprise knowledge into action]]></title>
+      <link>https://openai.com/index/atlassian-partnership</link>
+      <guid>https://openai.com/index/atlassian-partnership</guid>
+      <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.]]></description>
+      <source url="https://openai.com/index/atlassian-partnership">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic is giving startups a free year of Claude Team and $1,000 in credits]]></title>
+      <link>https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/</link>
+      <guid>https://techcrunch.com/?p=3174443</guid>
+      <pubDate>Tue, 06 Oct 2026 16:00:00 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA["We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone."]]></description>
+      <source url="https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Mistral’s new 1T model aims to leapfrog closed and open rivals]]></title>
+      <link>https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/</link>
+      <guid>https://techcrunch.com/?p=3174387</guid>
+      <pubDate>Tue, 06 Oct 2026 14:33:16 +0000</pubDate>
+      <category>Mistral</category>
+      <description><![CDATA[French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.]]></description>
+      <source url="https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/">TechCrunch - Mistral AI</source>
+    </item>
+    <item>
+      <title><![CDATA[Advancing computer use with Ironclad]]></title>
+      <link>https://openai.com/index/advancing-computer-use-with-ironclad</link>
+      <guid>https://openai.com/index/advancing-computer-use-with-ironclad</guid>
+      <pubDate>Tue, 06 Oct 2026 10:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.]]></description>
+      <source url="https://openai.com/index/advancing-computer-use-with-ironclad">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance]]></title>
       <link>https://huggingface.co/blog/tiiuae/falcon-emirati</link>
@@ -412,51 +457,6 @@
       <category>Gemini</category>
       <description><![CDATA[]]></description>
       <source url="https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/">Google DeepMind Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Accelerating vision-language models with LFM2.5-VL-DSpark]]></title>
-      <link>https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark</link>
-      <guid>https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark</guid>
-      <pubDate>Thu, 24 Sep 2026 14:08:57 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic says its biology lab has already found something big]]></title>
-      <link>https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/</link>
-      <guid>https://techcrunch.com/?p=3168463</guid>
-      <pubDate>Wed, 23 Sep 2026 22:17:39 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.]]></description>
-      <source url="https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows]]></title>
-      <link>https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp</link>
-      <guid>https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp</guid>
-      <pubDate>Wed, 23 Sep 2026 18:41:40 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Advancing Private AI Compute with secure, server-side memory]]></title>
-      <link>https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/</link>
-      <guid>https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/</guid>
-      <pubDate>Wed, 23 Sep 2026 16:00:57 +0000</pubDate>
-      <category>Gemini</category>
-      <description><![CDATA[Introducing private, server-side memory to Private AI Compute for personal AI.]]></description>
-      <source url="https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/">Google DeepMind Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Two years of OpenAI Academy]]></title>
-      <link>https://openai.com/index/two-years-of-openai-academy</link>
-      <guid>https://openai.com/index/two-years-of-openai-academy</guid>
-      <pubDate>Wed, 23 Sep 2026 16:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Marking two years of OpenAI Academy and bringing AI skills to even more communities.]]></description>
-      <source url="https://openai.com/index/two-years-of-openai-academy">OpenAI Blog</source>
     </item>
   </channel>
 </rss>

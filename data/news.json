@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "pubDate": "Tue, 06 Oct 2026 19:57:04 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/atlassian-partnership",
+    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "link": "https://openai.com/index/atlassian-partnership",
+    "pubDate": "Tue, 06 Oct 2026 16:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3174443",
+    "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+    "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+    "pubDate": "Tue, 06 Oct 2026 16:00:00 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\""
+  },
+  {
+    "id": "https://techcrunch.com/?p=3174387",
+    "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+    "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+    "pubDate": "Tue, 06 Oct 2026 14:33:16 +0000",
+    "source": "TechCrunch - Mistral AI",
+    "category": "Mistral",
+    "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals."
+  },
+  {
+    "id": "https://openai.com/index/advancing-computer-use-with-ironclad",
+    "title": "Advancing computer use with Ironclad",
+    "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
+    "pubDate": "Tue, 06 Oct 2026 10:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
+  },
+  {
     "id": "https://huggingface.co/blog/tiiuae/falcon-emirati",
     "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
     "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
@@ -1753,50 +1798,5 @@
     "source": "Google DeepMind Blog",
     "category": "Gemini",
     "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
-  },
-  {
-    "id": "https://huggingface.co/blog/pwc-search",
-    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-    "link": "https://huggingface.co/blog/pwc-search",
-    "pubDate": "Fri, 21 Aug 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/asr-benchmark-optimization",
-    "title": "Measuring benchmark optimization in speech recognition",
-    "link": "https://huggingface.co/blog/asr-benchmark-optimization",
-    "pubDate": "Fri, 21 Aug 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3155215",
-    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-    "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-    "pubDate": "Thu, 20 Aug 2026 22:36:37 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3154977",
-    "title": "Grok keeps sending gibberish responses to users",
-    "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-    "pubDate": "Thu, 20 Aug 2026 17:32:16 +0000",
-    "source": "TechCrunch - xAI",
-    "category": "Grok",
-    "summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning."
-  },
-  {
-    "id": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-    "pubDate": "Thu, 20 Aug 2026 16:52:57 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
   }
 ]
