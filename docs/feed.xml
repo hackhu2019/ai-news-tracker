@@ -5,9 +5,18 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 05 Oct 2026 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 06:44:39 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance]]></title>
+      <link>https://huggingface.co/blog/tiiuae/falcon-emirati</link>
+      <guid>https://huggingface.co/blog/tiiuae/falcon-emirati</guid>
+      <pubDate>Tue, 06 Oct 2026 06:44:39 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/tiiuae/falcon-emirati">Hugging Face Blog</source>
+    </item>
     <item>
       <title><![CDATA[Our approach to EU text provenance rules]]></title>
       <link>https://openai.com/index/eu-text-provenance</link>
@@ -448,15 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[Marking two years of OpenAI Academy and bringing AI skills to even more communities.]]></description>
       <source url="https://openai.com/index/two-years-of-openai-academy">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Gemini 3.8 text-to-speech says hello]]></title>
-      <link>https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/</link>
-      <guid>https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/</guid>
-      <pubDate>Wed, 23 Sep 2026 15:25:14 +0000</pubDate>
-      <category>Gemini</category>
-      <description><![CDATA[]]></description>
-      <source url="https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/">Google DeepMind Blog</source>
     </item>
   </channel>
 </rss>

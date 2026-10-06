@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+    "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+    "pubDate": "Tue, 06 Oct 2026 06:44:39 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://openai.com/index/eu-text-provenance",
     "title": "Our approach to EU text provenance rules",
     "link": "https://openai.com/index/eu-text-provenance",
@@ -1789,14 +1798,5 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/introducing-intelligence-age",
-    "title": "Introducing Intelligence Age",
-    "link": "https://openai.com/index/introducing-intelligence-age",
-    "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
   }
 ]
