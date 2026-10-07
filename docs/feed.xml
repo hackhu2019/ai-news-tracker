@@ -5,9 +5,54 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 06 Oct 2026 19:57:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 16:54:33 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Multimodal open d1 decision models for the edge]]></title>
+      <link>https://huggingface.co/blog/LiquidAI/open-d1</link>
+      <guid>https://huggingface.co/blog/LiquidAI/open-d1</guid>
+      <pubDate>Wed, 07 Oct 2026 16:54:33 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/LiquidAI/open-d1">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO]]></title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</link>
+      <guid>https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</guid>
+      <pubDate>Wed, 07 Oct 2026 12:45:31 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Helping teens learn, plan, and shape the future of AI]]></title>
+      <link>https://openai.com/index/teens-learn-and-plan</link>
+      <guid>https://openai.com/index/teens-learn-and-plan</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.]]></description>
+      <source url="https://openai.com/index/teens-learn-and-plan">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Radisson Hotel Group brings hotel discovery into ChatGPT]]></title>
+      <link>https://openai.com/index/radisson</link>
+      <guid>https://openai.com/index/radisson</guid>
+      <pubDate>Wed, 07 Oct 2026 07:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.]]></description>
+      <source url="https://openai.com/index/radisson">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[GPT-6 and Intelligent UI for everyone]]></title>
+      <link>https://openai.com/index/gpt-6-for-everyone</link>
+      <guid>https://openai.com/index/gpt-6-for-everyone</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.]]></description>
+      <source url="https://openai.com/index/gpt-6-for-everyone">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[EmbeddingGemma 2: an open, lightweight multimodal embedding model]]></title>
       <link>https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/</link>
@@ -412,51 +457,6 @@
       <category>Claude</category>
       <description><![CDATA["AI is the devil and I its maker."]]></description>
       <source url="https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic to pay Akamai $11.6 billion over seven years in cloud deal]]></title>
-      <link>https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/</link>
-      <guid>https://techcrunch.com/?p=3169815</guid>
-      <pubDate>Fri, 25 Sep 2026 19:13:38 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a]]></description>
-      <source url="https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Proaction boosts sales 60% and saves 75+ hours with Codex]]></title>
-      <link>https://openai.com/index/proaction</link>
-      <guid>https://openai.com/index/proaction</guid>
-      <pubDate>Fri, 25 Sep 2026 19:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.]]></description>
-      <source url="https://openai.com/index/proaction">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic]]></title>
-      <link>https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/</link>
-      <guid>https://techcrunch.com/?post_type=tc_podcast&p=3169914</guid>
-      <pubDate>Fri, 25 Sep 2026 18:22:47 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic ro]]></description>
-      <source url="https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Astra and Opus just passed Turing’s other test]]></title>
-      <link>https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/</link>
-      <guid>https://techcrunch.com/?p=3169728</guid>
-      <pubDate>Fri, 25 Sep 2026 17:24:36 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Frontier AI models are finishing Alan Turing's World War II codebreaking work.]]></description>
-      <source url="https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic’s founders seek voting control ahead of IPO]]></title>
-      <link>https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/</link>
-      <guid>https://techcrunch.com/?p=3169652</guid>
-      <pubDate>Fri, 25 Sep 2026 15:40:03 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Anthropic is asking its shareholders to approve a  structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.]]></description>
-      <source url="https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>
