@@ -5,9 +5,63 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 07 Oct 2026 16:54:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:19:42 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[OpenAI’s revenue is reportedly $20 billion less than previously projected]]></title>
+      <link>https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/</link>
+      <guid>https://techcrunch.com/?p=3175754</guid>
+      <pubDate>Thu, 08 Oct 2026 18:19:42 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.]]></description>
+      <source url="https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic changes usage policy to ban model abuse and election interference]]></title>
+      <link>https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/</link>
+      <guid>https://techcrunch.com/?p=3175777</guid>
+      <pubDate>Thu, 08 Oct 2026 18:16:24 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address ele]]></description>
+      <source url="https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[How Oracle turns days of work into minutes with ChatGPT and Codex]]></title>
+      <link>https://openai.com/index/oracle</link>
+      <guid>https://openai.com/index/oracle</guid>
+      <pubDate>Thu, 08 Oct 2026 16:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.]]></description>
+      <source url="https://openai.com/index/oracle">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Pollo AI turns creative ideas into campaigns with OpenAI]]></title>
+      <link>https://openai.com/index/pollo-ai</link>
+      <guid>https://openai.com/index/pollo-ai</guid>
+      <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.]]></description>
+      <source url="https://openai.com/index/pollo-ai">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Disrupting AI-enabled “false front” operations]]></title>
+      <link>https://openai.com/index/disrupting-ai-enabled-false-front-operations</link>
+      <guid>https://openai.com/index/disrupting-ai-enabled-false-front-operations</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.]]></description>
+      <source url="https://openai.com/index/disrupting-ai-enabled-false-front-operations">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[The model that didn't exist, so you made it yourself]]></title>
+      <link>https://huggingface.co/blog/building-with-ml-intern</link>
+      <guid>https://huggingface.co/blog/building-with-ml-intern</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/building-with-ml-intern">Hugging Face Blog</source>
+    </item>
     <item>
       <title><![CDATA[Multimodal open d1 decision models for the edge]]></title>
       <link>https://huggingface.co/blog/LiquidAI/open-d1</link>
@@ -16,6 +70,15 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/LiquidAI/open-d1">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Introducing Falcon ASR]]></title>
+      <link>https://huggingface.co/blog/tiiuae/falcon-asr</link>
+      <guid>https://huggingface.co/blog/tiiuae/falcon-asr</guid>
+      <pubDate>Wed, 07 Oct 2026 13:21:03 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/tiiuae/falcon-asr">Hugging Face Blog</source>
     </item>
     <item>
       <title><![CDATA[One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO]]></title>
@@ -394,69 +457,6 @@
       <category>Claude</category>
       <description><![CDATA[Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.]]></description>
       <source url="https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Holo4: powering generalist computer-use agents]]></title>
-      <link>https://huggingface.co/blog/Hcompany/holo4</link>
-      <guid>https://huggingface.co/blog/Hcompany/holo4</guid>
-      <pubDate>Mon, 28 Sep 2026 09:44:05 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/Hcompany/holo4">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[The Lenfest Institute grows landmark program with expanded OpenAI support]]></title>
-      <link>https://openai.com/index/lenfest-ai-collaborative-expansion</link>
-      <guid>https://openai.com/index/lenfest-ai-collaborative-expansion</guid>
-      <pubDate>Mon, 28 Sep 2026 07:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.]]></description>
-      <source url="https://openai.com/index/lenfest-ai-collaborative-expansion">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Welcome RL Environments to the hub]]></title>
-      <link>https://huggingface.co/blog/rl-environments</link>
-      <guid>https://huggingface.co/blog/rl-environments</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/rl-environments">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Are you a Codex Original?]]></title>
-      <link>https://openai.com/form/codex-originals</link>
-      <guid>https://openai.com/form/codex-originals</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program]]></description>
-      <source url="https://openai.com/form/codex-originals">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Basis completes a tax workbook 2x faster with GPT-6 Astra]]></title>
-      <link>https://openai.com/index/basis-tax-workbook-with-astra</link>
-      <guid>https://openai.com/index/basis-tax-workbook-with-astra</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.]]></description>
-      <source url="https://openai.com/index/basis-tax-workbook-with-astra">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic’s CEO is about to have dinner with President Trump]]></title>
-      <link>https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/</link>
-      <guid>https://techcrunch.com/?p=3170341</guid>
-      <pubDate>Sun, 27 Sep 2026 20:34:28 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[This will be the first one-on-one meeting between Dario Amodei and Donald Trump]]></description>
-      <source url="https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic’s Dario Amodei gets the SNL treatment]]></title>
-      <link>https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/</link>
-      <guid>https://techcrunch.com/?p=3170300</guid>
-      <pubDate>Sun, 27 Sep 2026 16:30:00 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA["AI is the devil and I its maker."]]></description>
-      <source url="https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>

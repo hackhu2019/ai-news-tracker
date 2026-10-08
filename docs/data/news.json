@@ -1,9 +1,72 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3175754",
+    "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+    "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+    "pubDate": "Thu, 08 Oct 2026 18:19:42 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3175777",
+    "title": "Anthropic changes usage policy to ban model abuse and election interference",
+    "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+    "pubDate": "Thu, 08 Oct 2026 18:16:24 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address ele"
+  },
+  {
+    "id": "https://openai.com/index/oracle",
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "link": "https://openai.com/index/oracle",
+    "pubDate": "Thu, 08 Oct 2026 16:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
+  },
+  {
+    "id": "https://openai.com/index/pollo-ai",
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "link": "https://openai.com/index/pollo-ai",
+    "pubDate": "Thu, 08 Oct 2026 12:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
+  },
+  {
+    "id": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+    "title": "Disrupting AI-enabled “false front” operations",
+    "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+    "pubDate": "Thu, 08 Oct 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging."
+  },
+  {
+    "id": "https://huggingface.co/blog/building-with-ml-intern",
+    "title": "The model that didn't exist, so you made it yourself",
+    "link": "https://huggingface.co/blog/building-with-ml-intern",
+    "pubDate": "Thu, 08 Oct 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://huggingface.co/blog/LiquidAI/open-d1",
     "title": "Multimodal open d1 decision models for the edge",
     "link": "https://huggingface.co/blog/LiquidAI/open-d1",
     "pubDate": "Wed, 07 Oct 2026 16:54:33 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "title": "Introducing Falcon ASR",
+    "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "pubDate": "Wed, 07 Oct 2026 13:21:03 GMT",
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
@@ -1735,68 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3156630",
-    "title": "Claude Cowork finally remembers what you told the app in chat",
-    "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-    "pubDate": "Tue, 25 Aug 2026 17:50:33 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context."
-  },
-  {
-    "id": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-    "title": "Granite 4.2 LLMs: How They're Built",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-    "pubDate": "Tue, 25 Aug 2026 15:14:14 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-    "pubDate": "Tue, 25 Aug 2026 11:39:24 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-    "title": "The full stack behind abundant intelligence",
-    "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-    "pubDate": "Tue, 25 Aug 2026 07:05:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost."
-  },
-  {
-    "id": "https://openai.com/index/jalapeno-first-results",
-    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-    "link": "https://openai.com/index/jalapeno-first-results",
-    "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models."
-  },
-  {
-    "id": "https://huggingface.co/blog/gradio-workflow-guide",
-    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-    "link": "https://huggingface.co/blog/gradio-workflow-guide",
-    "pubDate": "Tue, 25 Aug 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/introducing-admin-plugin",
-    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-    "link": "https://openai.com/index/introducing-admin-plugin",
-    "pubDate": "Tue, 25 Aug 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests."
   }
 ]
