@@ -1782,6 +1782,15 @@
     "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models."
   },
   {
+    "id": "https://huggingface.co/blog/gradio-workflow-guide",
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "link": "https://huggingface.co/blog/gradio-workflow-guide",
+    "pubDate": "Tue, 25 Aug 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://openai.com/index/introducing-admin-plugin",
     "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
     "link": "https://openai.com/index/introducing-admin-plugin",
@@ -1789,14 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests."
-  },
-  {
-    "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-    "title": "Disrupting a new covert influence campaign from Russia",
-    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-    "pubDate": "Tue, 25 Aug 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West."
   }
 ]
