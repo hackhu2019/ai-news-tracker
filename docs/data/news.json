@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3176212",
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "pubDate": "Fri, 09 Oct 2026 19:36:56 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip."
+  },
+  {
+    "id": "https://huggingface.co/blog/allenai/impactful-scheduling",
+    "title": "Impactful scheduling for GPU clusters",
+    "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
+    "pubDate": "Fri, 09 Oct 2026 15:20:29 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/asana-browser-agent",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "link": "https://openai.com/index/asana-browser-agent",
+    "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
+  },
+  {
     "id": "https://openai.com/index/sophos",
     "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
     "link": "https://openai.com/index/sophos",
@@ -574,6 +601,15 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Anthropic is asking its shareholders to approve a  structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters."
+  },
+  {
+    "id": "https://openai.com/index/lowes",
+    "title": "Lowe’s answers millions of home improvement questions with OpenAI",
+    "link": "https://openai.com/index/lowes",
+    "pubDate": "Fri, 25 Sep 2026 07:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Lowe’s uses OpenAI models to power Mylow and Mylow Companion, helping customers and associates answer 25M+ questions and move home improvement projects forward."
   },
   {
     "id": "https://openai.com/index/wayfair",
@@ -1762,41 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak."
-  },
-  {
-    "id": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-    "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-    "pubDate": "Wed, 26 Aug 2026 17:01:00 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe."
-  },
-  {
-    "id": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "pubDate": "Wed, 26 Aug 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff."
-  },
-  {
-    "id": "https://openai.com/index/learning-never-stops",
-    "title": "Learning never stops: How AI makes learning continuous",
-    "link": "https://openai.com/index/learning-never-stops",
-    "pubDate": "Wed, 26 Aug 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom."
-  },
-  {
-    "id": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-    "title": "The Hugging Face incident and the road ahead",
-    "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-    "pubDate": "Wed, 26 Aug 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment."
   }
 ]

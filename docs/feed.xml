@@ -5,9 +5,36 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 09 Oct 2026 07:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 19:36:56 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[An Anthropic AI model sent a false homicide tip to Philadelphia police]]></title>
+      <link>https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/</link>
+      <guid>https://techcrunch.com/?p=3176212</guid>
+      <pubDate>Fri, 09 Oct 2026 19:36:56 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Anthropic did not discover this behavior until over two months after its AI submitted the false tip.]]></description>
+      <source url="https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Impactful scheduling for GPU clusters]]></title>
+      <link>https://huggingface.co/blog/allenai/impactful-scheduling</link>
+      <guid>https://huggingface.co/blog/allenai/impactful-scheduling</guid>
+      <pubDate>Fri, 09 Oct 2026 15:20:29 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/allenai/impactful-scheduling">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Asana cuts model costs 76x in browser tests with GPT-6.1 Sol]]></title>
+      <link>https://openai.com/index/asana-browser-agent</link>
+      <guid>https://openai.com/index/asana-browser-agent</guid>
+      <pubDate>Fri, 09 Oct 2026 07:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.]]></description>
+      <source url="https://openai.com/index/asana-browser-agent">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Sophos cuts threat investigation time by 96% with OpenAI Daybreak]]></title>
       <link>https://openai.com/index/sophos</link>
@@ -430,33 +457,6 @@
       <category>Claude</category>
       <description><![CDATA[In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.]]></description>
       <source url="https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Introducing dots]]></title>
-      <link>https://openai.com/index/introducing-dots</link>
-      <guid>https://openai.com/index/introducing-dots</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.]]></description>
-      <source url="https://openai.com/index/introducing-dots">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How we will do better for Australia]]></title>
-      <link>https://openai.com/index/how-we-will-do-better-for-australia</link>
-      <guid>https://openai.com/index/how-we-will-do-better-for-australia</guid>
-      <pubDate>Mon, 28 Sep 2026 19:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.]]></description>
-      <source url="https://openai.com/index/how-we-will-do-better-for-australia">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Towards safety cases for frontier AI training]]></title>
-      <link>https://openai.com/index/towards-safety-cases-for-frontier-ai-training</link>
-      <guid>https://openai.com/index/towards-safety-cases-for-frontier-ai-training</guid>
-      <pubDate>Mon, 28 Sep 2026 19:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents]]></description>
-      <source url="https://openai.com/index/towards-safety-cases-for-frontier-ai-training">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
