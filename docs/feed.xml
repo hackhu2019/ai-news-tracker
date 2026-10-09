@@ -5,9 +5,18 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 08 Oct 2026 18:19:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 07:00:00 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Sophos cuts threat investigation time by 96% with OpenAI Daybreak]]></title>
+      <link>https://openai.com/index/sophos</link>
+      <guid>https://openai.com/index/sophos</guid>
+      <pubDate>Fri, 09 Oct 2026 07:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.]]></description>
+      <source url="https://openai.com/index/sophos">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[OpenAI’s revenue is reportedly $20 billion less than previously projected]]></title>
       <link>https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/</link>
@@ -34,6 +43,15 @@
       <category>ChatGPT</category>
       <description><![CDATA[Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.]]></description>
       <source url="https://openai.com/index/oracle">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[LegalOn halves Codex costs while maintaining development speed]]></title>
+      <link>https://openai.com/index/legalon-halves-codex-costs</link>
+      <guid>https://openai.com/index/legalon-halves-codex-costs</guid>
+      <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.]]></description>
+      <source url="https://openai.com/index/legalon-halves-codex-costs">OpenAI Blog</source>
     </item>
     <item>
       <title><![CDATA[Pollo AI turns creative ideas into campaigns with OpenAI]]></title>
@@ -439,24 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents]]></description>
       <source url="https://openai.com/index/towards-safety-cases-for-frontier-ai-training">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner]]></title>
-      <link>https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/</link>
-      <guid>https://techcrunch.com/?p=3170644</guid>
-      <pubDate>Mon, 28 Sep 2026 18:00:00 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.]]></description>
-      <source url="https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026]]></title>
-      <link>https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/</link>
-      <guid>https://techcrunch.com/?p=3170437</guid>
-      <pubDate>Mon, 28 Sep 2026 15:30:00 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.]]></description>
-      <source url="https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>
