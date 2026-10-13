@@ -5,9 +5,54 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 10 Oct 2026 00:18:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 19:43:07 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Developing Gemini 4 Argon responsibly and safely]]></title>
+      <link>https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/</link>
+      <guid>https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/</guid>
+      <pubDate>Tue, 13 Oct 2026 19:43:07 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[]]></description>
+      <source url="https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/">Google DeepMind Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Run fast, private agents on-device with LFM2.5-24B-A2B]]></title>
+      <link>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</link>
+      <guid>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</guid>
+      <pubDate>Tue, 13 Oct 2026 17:05:48 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Gemini 4 Argon for Robotics]]></title>
+      <link>https://deepmind.google/blog/gemini-4-argon-for-robotics/</link>
+      <guid>https://deepmind.google/blog/gemini-4-argon-for-robotics/</guid>
+      <pubDate>Tue, 13 Oct 2026 16:01:58 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[]]></description>
+      <source url="https://deepmind.google/blog/gemini-4-argon-for-robotics/">Google DeepMind Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Gemini 4 Argon: Built to solve your hardest problems]]></title>
+      <link>https://deepmind.google/blog/introducing-gemini-4-argon/</link>
+      <guid>https://deepmind.google/blog/introducing-gemini-4-argon/</guid>
+      <pubDate>Tue, 13 Oct 2026 16:01:52 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[]]></description>
+      <source url="https://deepmind.google/blog/introducing-gemini-4-argon/">Google DeepMind Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Higgsfield takes AI video from 1 minute to over 10]]></title>
+      <link>https://openai.com/index/higgsfield-longer-videos-voice</link>
+      <guid>https://openai.com/index/higgsfield-longer-videos-voice</guid>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.]]></description>
+      <source url="https://openai.com/index/higgsfield-longer-videos-voice">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Anthropic can’t reliably control its AI agents — it’s cutting off its internal evals from the live internet instead]]></title>
       <link>https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/</link>
@@ -412,51 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.]]></description>
       <source url="https://openai.com/index/helping-small-businesses-put-ai-to-work">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning]]></title>
-      <link>https://huggingface.co/blog/open-tts-leaderboard</link>
-      <guid>https://huggingface.co/blog/open-tts-leaderboard</guid>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/open-tts-leaderboard">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction]]></title>
-      <link>https://huggingface.co/blog/nvidia/kumo-tabular</link>
-      <guid>https://huggingface.co/blog/nvidia/kumo-tabular</guid>
-      <pubDate>Tue, 29 Sep 2026 15:30:38 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/nvidia/kumo-tabular">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents]]></title>
-      <link>https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</link>
-      <guid>https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</guid>
-      <pubDate>Tue, 29 Sep 2026 13:07:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Introducing GPT-6.1 Sol]]></title>
-      <link>https://openai.com/index/introducing-gpt-6-1-sol</link>
-      <guid>https://openai.com/index/introducing-gpt-6-1-sol</guid>
-      <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.]]></description>
-      <source url="https://openai.com/index/introducing-gpt-6-1-sol">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[DevDay 2026 Recap]]></title>
-      <link>https://openai.com/index/devday-2026-recap</link>
-      <guid>https://openai.com/index/devday-2026-recap</guid>
-      <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.]]></description>
-      <source url="https://openai.com/index/devday-2026-recap">OpenAI Blog</source>
     </item>
   </channel>
 </rss>

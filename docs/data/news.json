@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+    "title": "Developing Gemini 4 Argon responsibly and safely",
+    "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+    "pubDate": "Tue, 13 Oct 2026 19:43:07 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+    "pubDate": "Tue, 13 Oct 2026 17:05:48 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "title": "Gemini 4 Argon for Robotics",
+    "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "pubDate": "Tue, 13 Oct 2026 16:01:58 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": ""
+  },
+  {
+    "id": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+    "title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+    "pubDate": "Tue, 13 Oct 2026 16:01:52 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/higgsfield-longer-videos-voice",
+    "title": "Higgsfield takes AI video from 1 minute to over 10",
+    "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+    "pubDate": "Tue, 13 Oct 2026 12:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
+  },
+  {
     "id": "https://techcrunch.com/?p=3176323",
     "title": "Anthropic can’t reliably control its AI agents — it’s cutting off its internal evals from the live internet instead",
     "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
@@ -1753,50 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of"
-  },
-  {
-    "id": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-    "title": "Gemini Omni 1.1 Flash lets you build with more control",
-    "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-    "pubDate": "Thu, 27 Aug 2026 16:11:32 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3156027",
-    "title": "Here’s all the times AI has gone rogue and hacked other companies",
-    "link": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-    "pubDate": "Thu, 27 Aug 2026 14:01:42 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet."
-  },
-  {
-    "id": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-    "title": "Piloting the world's first double-blind AI evaluations",
-    "link": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-    "pubDate": "Thu, 27 Aug 2026 12:59:16 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Piloting the world's first double-blind AI evaluations"
-  },
-  {
-    "id": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-    "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-    "pubDate": "Thu, 27 Aug 2026 09:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment."
-  },
-  {
-    "id": "https://openai.com/index/expanding-our-presence-in-brazil",
-    "title": "Expanding OpenAI’s presence in Brazil",
-    "link": "https://openai.com/index/expanding-our-presence-in-brazil",
-    "pubDate": "Thu, 27 Aug 2026 03:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country."
   }
 ]
