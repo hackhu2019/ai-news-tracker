@@ -5,9 +5,18 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 09 Oct 2026 19:36:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:18:32 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Anthropic can’t reliably control its AI agents — it’s cutting off its internal evals from the live internet instead]]></title>
+      <link>https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/</link>
+      <guid>https://techcrunch.com/?p=3176323</guid>
+      <pubDate>Sat, 10 Oct 2026 00:18:32 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[The incidents involved AI agents tasked to solve problems seeking resources on the internet. In the process, they exploited software flaws, accessed databases without paying fees, used URL-shortening ]]></description>
+      <source url="https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/">TechCrunch - Anthropic</source>
+    </item>
     <item>
       <title><![CDATA[An Anthropic AI model sent a false homicide tip to Philadelphia police]]></title>
       <link>https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/</link>
@@ -448,15 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.]]></description>
       <source url="https://openai.com/index/devday-2026-recap">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity]]></title>
-      <link>https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/</link>
-      <guid>https://techcrunch.com/?p=3171132</guid>
-      <pubDate>Tue, 29 Sep 2026 05:13:43 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.]]></description>
-      <source url="https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>
