@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://huggingface.co/blog/allenai/hiro-acev2",
+    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+    "link": "https://huggingface.co/blog/allenai/hiro-acev2",
+    "pubDate": "Wed, 14 Oct 2026 16:12:42 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/third-moment-research",
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "link": "https://openai.com/index/third-moment-research",
+    "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
+  },
+  {
     "id": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
     "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
     "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
@@ -7,6 +25,15 @@
     "source": "Google DeepMind Blog",
     "category": "Gemini",
     "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
+  },
+  {
+    "id": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "title": "The EU’s next chapter in AI is agentic",
+    "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "pubDate": "Wed, 14 Oct 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
   },
   {
     "id": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
@@ -1771,32 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington."
-  },
-  {
-    "id": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-    "title": "Our decision on Cursor following its acquisition by SpaceX",
-    "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-    "pubDate": "Fri, 28 Aug 2026 06:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX."
-  },
-  {
-    "id": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-    "title": "Supporting Thailand’s next generation of AI startups",
-    "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-    "pubDate": "Fri, 28 Aug 2026 02:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products."
-  },
-  {
-    "id": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-    "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-    "pubDate": "Fri, 28 Aug 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
   }
 ]
