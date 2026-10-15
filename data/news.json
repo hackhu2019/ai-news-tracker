@@ -27,6 +27,15 @@
     "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
   },
   {
+    "id": "https://openai.com/index/block-ai-powered-security",
+    "title": "How Block is building AI-powered security with OpenAI technology",
+    "link": "https://openai.com/index/block-ai-powered-security",
+    "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes."
+  },
+  {
     "id": "https://openai.com/index/third-moment-research",
     "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
     "link": "https://openai.com/index/third-moment-research",
@@ -1789,14 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3158639",
-    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-    "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-    "pubDate": "Sat, 29 Aug 2026 18:41:59 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
   }
 ]
