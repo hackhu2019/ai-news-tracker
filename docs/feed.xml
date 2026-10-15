@@ -5,9 +5,27 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 15 Oct 2026 16:08:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 20:34:01 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint]]></title>
+      <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</link>
+      <guid>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</guid>
+      <pubDate>Thu, 15 Oct 2026 20:34:01 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/ibm-granite/granite-switch-4-1">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic is letting METR researchers look under the hood with employee-level access]]></title>
+      <link>https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/</link>
+      <guid>https://techcrunch.com/?p=3178367</guid>
+      <pubDate>Thu, 15 Oct 2026 19:14:26 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.]]></description>
+      <source url="https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/">TechCrunch - Anthropic</source>
+    </item>
     <item>
       <title><![CDATA[Accelerating the search for antimicrobial peptides with Google Antigravity]]></title>
       <link>https://deepmind.google/blog/accelerating-antimicrobial-discovery/</link>
@@ -34,6 +52,15 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta]]></title>
+      <link>https://huggingface.co/blog/meta-muse-spark-open</link>
+      <guid>https://huggingface.co/blog/meta-muse-spark-open</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/meta-muse-spark-open">Hugging Face Blog</source>
     </item>
     <item>
       <title><![CDATA[Welcome FLUX.3 Image Klein in Diffusers]]></title>
@@ -430,33 +457,6 @@
       <category>Claude</category>
       <description><![CDATA[This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump call]]></description>
       <source url="https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[A model guide for the GPT-6 family]]></title>
-      <link>https://openai.com/index/practical-guide-building-gpt-6</link>
-      <guid>https://openai.com/index/practical-guide-building-gpt-6</guid>
-      <pubDate>Fri, 02 Oct 2026 16:15:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.]]></description>
-      <source url="https://openai.com/index/practical-guide-building-gpt-6">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Open-sourcing AstaBrief, the fast report-generation model in Asta]]></title>
-      <link>https://huggingface.co/blog/allenai/astabrief</link>
-      <guid>https://huggingface.co/blog/allenai/astabrief</guid>
-      <pubDate>Fri, 02 Oct 2026 15:19:50 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/allenai/astabrief">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Medical records giant Epic pauses product development to fix security bugs that risk patients’ data]]></title>
-      <link>https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/</link>
-      <guid>https://techcrunch.com/?p=3173140</guid>
-      <pubDate>Fri, 02 Oct 2026 13:23:09 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[The health tech software giant, which makes the widely used MyChart system for accessing medical data, will focus on fixing security bugs for the next few weeks.]]></description>
-      <source url="https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>
