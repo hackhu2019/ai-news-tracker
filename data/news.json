@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "pubDate": "Thu, 15 Oct 2026 16:08:03 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science."
+  },
+  {
+    "id": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "title": "Teaching students to think and learn through questions",
+    "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "pubDate": "Thu, 15 Oct 2026 13:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
+  },
+  {
+    "id": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "title": "Apertus 1.5 Release Notes",
+    "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "pubDate": "Thu, 15 Oct 2026 09:08:45 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/flux-3",
+    "title": "Welcome FLUX.3 Image Klein in Diffusers",
+    "link": "https://huggingface.co/blog/flux-3",
+    "pubDate": "Thu, 15 Oct 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://huggingface.co/blog/allenai/hiro-acev2",
     "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
     "link": "https://huggingface.co/blog/allenai/hiro-acev2",
@@ -1762,41 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm."
-  },
-  {
-    "id": "https://huggingface.co/blog/webgpu-kernels",
-    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-    "link": "https://huggingface.co/blog/webgpu-kernels",
-    "pubDate": "Tue, 01 Sep 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-    "title": "OpenAI supports California’s bill to advance youth AI safety",
-    "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-    "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore."
-  },
-  {
-    "id": "https://openai.com/index/polimill",
-    "title": "Polimill builds Japan's next-generation public AI infrastructure",
-    "link": "https://openai.com/index/polimill",
-    "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development."
-  },
-  {
-    "id": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-    "title": "A milestone in expanding access to AI",
-    "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-    "pubDate": "Mon, 31 Aug 2026 04:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options."
   }
 ]
