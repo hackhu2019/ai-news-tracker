@@ -9,6 +9,24 @@
     "summary": ""
   },
   {
+    "id": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "pubDate": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
+  },
+  {
+    "id": "https://huggingface.co/blog/reflection-beam",
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "link": "https://huggingface.co/blog/reflection-beam",
+    "pubDate": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
     "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
     "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
@@ -1777,24 +1795,6 @@
     "title": "Real-Time Intelligence with IBM Time Series Models on Confluent ",
     "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
     "pubDate": "Wed, 02 Sep 2026 13:49:14 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/atv-big-air-tour",
-    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-    "link": "https://openai.com/index/atv-big-air-tour",
-    "pubDate": "Wed, 02 Sep 2026 12:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes."
-  },
-  {
-    "id": "https://huggingface.co/blog/allenai/benchmirt",
-    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-    "link": "https://huggingface.co/blog/allenai/benchmirt",
-    "pubDate": "Tue, 01 Sep 2026 21:39:07 GMT",
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
