@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3178496",
+    "title": "Replit is no longer working with Anthropic, CEO says",
+    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "pubDate": "Fri, 16 Oct 2026 21:22:28 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with "
+  },
+  {
+    "id": "https://openai.com/index/itau-generative-ai",
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "link": "https://openai.com/index/itau-generative-ai",
+    "pubDate": "Fri, 16 Oct 2026 19:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors."
+  },
+  {
     "id": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
     "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
     "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
@@ -7,6 +25,15 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/benefit-street-partners",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "link": "https://openai.com/index/benefit-street-partners",
+    "pubDate": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
   },
   {
     "id": "https://openai.com/index/stack-overflow-chatgpt-plugin",
@@ -1768,33 +1795,6 @@
     "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
     "link": "https://huggingface.co/blog/train-to-paint-with-code",
     "pubDate": "Thu, 03 Sep 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-    "title": "Proactive cyber defense for governments and enterprises",
-    "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-    "pubDate": "Wed, 02 Sep 2026 16:24:24 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": ""
-  },
-  {
-    "id": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-    "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-    "pubDate": "Wed, 02 Sep 2026 16:18:31 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent ",
-    "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-    "pubDate": "Wed, 02 Sep 2026 13:49:14 GMT",
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
