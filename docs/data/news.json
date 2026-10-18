@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3178934",
+    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "pubDate": "Sat, 17 Oct 2026 20:21:19 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
+  },
+  {
     "id": "https://techcrunch.com/?p=3178496",
     "title": "Replit is no longer working with Anthropic, CEO says",
     "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
@@ -1785,15 +1794,6 @@
     "id": "https://huggingface.co/blog/funes",
     "title": "Give Your Coding Agents a Memory You Own",
     "link": "https://huggingface.co/blog/funes",
-    "pubDate": "Thu, 03 Sep 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/train-to-paint-with-code",
-    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-    "link": "https://huggingface.co/blog/train-to-paint-with-code",
     "pubDate": "Thu, 03 Sep 2026 00:00:00 GMT",
     "source": "Hugging Face Blog",
     "category": "Open Source",
