@@ -5,9 +5,18 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 17 Oct 2026 20:21:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 20:37:40 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’]]></title>
+      <link>https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/</link>
+      <guid>https://techcrunch.com/?p=3178960</guid>
+      <pubDate>Sun, 18 Oct 2026 20:37:40 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Anthropic said that it will commit 5% of its shares to the fund.]]></description>
+      <source url="https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/">TechCrunch - Anthropic</source>
+    </item>
     <item>
       <title><![CDATA[Anthropic says its workforce has become less junior and is spending more time in meetings]]></title>
       <link>https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/</link>
@@ -448,15 +457,6 @@
       <category>Claude</category>
       <description><![CDATA["We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone."]]></description>
       <source url="https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Mistral’s new 1T model aims to leapfrog closed and open rivals]]></title>
-      <link>https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/</link>
-      <guid>https://techcrunch.com/?p=3174387</guid>
-      <pubDate>Tue, 06 Oct 2026 14:33:16 +0000</pubDate>
-      <category>Mistral</category>
-      <description><![CDATA[French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.]]></description>
-      <source url="https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/">TechCrunch - Mistral AI</source>
     </item>
   </channel>
 </rss>
