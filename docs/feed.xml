@@ -5,9 +5,18 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 18 Oct 2026 20:37:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[TorchNeuron: running HF models on AWS Trainium is easier than ever]]></title>
+      <link>https://huggingface.co/blog/hf-torchneuron</link>
+      <guid>https://huggingface.co/blog/hf-torchneuron</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/hf-torchneuron">Hugging Face Blog</source>
+    </item>
     <item>
       <title><![CDATA[Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’]]></title>
       <link>https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/</link>
@@ -448,15 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.]]></description>
       <source url="https://openai.com/index/atlassian-partnership">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic is giving startups a free year of Claude Team and $1,000 in credits]]></title>
-      <link>https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/</link>
-      <guid>https://techcrunch.com/?p=3174443</guid>
-      <pubDate>Tue, 06 Oct 2026 16:00:00 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA["We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone."]]></description>
-      <source url="https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>
