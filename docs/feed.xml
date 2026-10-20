@@ -5,9 +5,27 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 19 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 23:39:38 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Nscale and Anthropic are reportedly in talks for yet another $45B compute deal]]></title>
+      <link>https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/</link>
+      <guid>https://techcrunch.com/?p=3179487</guid>
+      <pubDate>Mon, 19 Oct 2026 23:39:38 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.]]></description>
+      <source url="https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Advancing coding in low‑resource programming languages]]></title>
+      <link>https://openai.com/index/low-resource-programming-languages</link>
+      <guid>https://openai.com/index/low-resource-programming-languages</guid>
+      <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.]]></description>
+      <source url="https://openai.com/index/low-resource-programming-languages">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[TorchNeuron: running HF models on AWS Trainium is easier than ever]]></title>
       <link>https://huggingface.co/blog/hf-torchneuron</link>
@@ -439,24 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.]]></description>
       <source url="https://openai.com/index/gpt-6-for-everyone">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[EmbeddingGemma 2: an open, lightweight multimodal embedding model]]></title>
-      <link>https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/</link>
-      <guid>https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/</guid>
-      <pubDate>Tue, 06 Oct 2026 19:57:04 +0000</pubDate>
-      <category>Gemini</category>
-      <description><![CDATA[]]></description>
-      <source url="https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/">Google DeepMind Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Atlassian and OpenAI expand partnership to turn enterprise knowledge into action]]></title>
-      <link>https://openai.com/index/atlassian-partnership</link>
-      <guid>https://openai.com/index/atlassian-partnership</guid>
-      <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.]]></description>
-      <source url="https://openai.com/index/atlassian-partnership">OpenAI Blog</source>
     </item>
   </channel>
 </rss>

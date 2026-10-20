@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3179487",
+    "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+    "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+    "pubDate": "Mon, 19 Oct 2026 23:39:38 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year."
+  },
+  {
+    "id": "https://openai.com/index/low-resource-programming-languages",
+    "title": "Advancing coding in low‑resource programming languages",
+    "link": "https://openai.com/index/low-resource-programming-languages",
+    "pubDate": "Mon, 19 Oct 2026 12:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
+  },
+  {
     "id": "https://huggingface.co/blog/hf-torchneuron",
     "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
     "link": "https://huggingface.co/blog/hf-torchneuron",
@@ -1780,23 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
-  },
-  {
-    "id": "https://openai.com/index/gpt-6-astra",
-    "title": "GPT-6 Astra: A new generation of intelligence",
-    "link": "https://openai.com/index/gpt-6-astra",
-    "pubDate": "Thu, 03 Sep 2026 11:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
-  },
-  {
-    "id": "https://huggingface.co/blog/funes",
-    "title": "Give Your Coding Agents a Memory You Own",
-    "link": "https://huggingface.co/blog/funes",
-    "pubDate": "Thu, 03 Sep 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
   }
 ]
