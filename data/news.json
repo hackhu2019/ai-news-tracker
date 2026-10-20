@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://huggingface.co/blog/allenai/fairstress",
+    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "link": "https://huggingface.co/blog/allenai/fairstress",
+    "pubDate": "Tue, 20 Oct 2026 16:09:19 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+    "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+    "pubDate": "Tue, 20 Oct 2026 15:19:48 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/?p=3179571",
+    "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+    "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+    "pubDate": "Tue, 20 Oct 2026 13:07:24 +0000",
+    "source": "TechCrunch - DeepSeek",
+    "category": "China AI",
+    "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns."
+  },
+  {
+    "id": "https://huggingface.co/blog/hf-torchtpu",
+    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+    "link": "https://huggingface.co/blog/hf-torchtpu",
+    "pubDate": "Tue, 20 Oct 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/anylanguagemodel-1-0",
+    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+    "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
+    "pubDate": "Tue, 20 Oct 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/mps-pytorch-2-15",
+    "title": "MPS in PyTorch 2.15",
+    "link": "https://huggingface.co/blog/mps-pytorch-2-15",
+    "pubDate": "Tue, 20 Oct 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/?p=3179487",
     "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
     "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
@@ -1744,59 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
-  },
-  {
-    "id": "https://openai.com/index/research-acceleration-view-inside-openai",
-    "title": "Research acceleration: The view inside OpenAI",
-    "link": "https://openai.com/index/research-acceleration-view-inside-openai",
-    "pubDate": "Sun, 06 Sep 2026 08:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration."
-  },
-  {
-    "id": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-    "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-    "pubDate": "Thu, 03 Sep 2026 15:02:08 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/daybreak-for-frontline-defenders",
-    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-    "link": "https://openai.com/index/daybreak-for-frontline-defenders",
-    "pubDate": "Thu, 03 Sep 2026 13:15:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
-  },
-  {
-    "id": "https://huggingface.co/blog/Hcompany/neomme",
-    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-    "link": "https://huggingface.co/blog/Hcompany/neomme",
-    "pubDate": "Thu, 03 Sep 2026 13:13:48 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/legora-financial-statement-review-with-astra",
-    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
-    "pubDate": "Thu, 03 Sep 2026 12:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
-  },
-  {
-    "id": "https://openai.com/index/playco-game-prototyping-with-astra",
-    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
-    "pubDate": "Thu, 03 Sep 2026 12:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
   }
 ]

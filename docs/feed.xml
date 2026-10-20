@@ -5,9 +5,63 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 19 Oct 2026 23:39:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 16:09:19 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[FairStress: A deeper evaluation of fairness in LLM decision-making]]></title>
+      <link>https://huggingface.co/blog/allenai/fairstress</link>
+      <guid>https://huggingface.co/blog/allenai/fairstress</guid>
+      <pubDate>Tue, 20 Oct 2026 16:09:19 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/allenai/fairstress">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model]]></title>
+      <link>https://huggingface.co/blog/ibm-research/altk-evolve-bc</link>
+      <guid>https://huggingface.co/blog/ibm-research/altk-evolve-bc</guid>
+      <pubDate>Tue, 20 Oct 2026 15:19:48 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/ibm-research/altk-evolve-bc">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[US orders federal agencies to remove China’s DeepSeek AI from their systems]]></title>
+      <link>https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/</link>
+      <guid>https://techcrunch.com/?p=3179571</guid>
+      <pubDate>Tue, 20 Oct 2026 13:07:24 +0000</pubDate>
+      <category>China AI</category>
+      <description><![CDATA[The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.]]></description>
+      <source url="https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/">TechCrunch - DeepSeek</source>
+    </item>
+    <item>
+      <title><![CDATA[Hugging Face ❤️ TorchTPU: TPUs, Natively]]></title>
+      <link>https://huggingface.co/blog/hf-torchtpu</link>
+      <guid>https://huggingface.co/blog/hf-torchtpu</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/hf-torchtpu">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms]]></title>
+      <link>https://huggingface.co/blog/anylanguagemodel-1-0</link>
+      <guid>https://huggingface.co/blog/anylanguagemodel-1-0</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/anylanguagemodel-1-0">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[MPS in PyTorch 2.15]]></title>
+      <link>https://huggingface.co/blog/mps-pytorch-2-15</link>
+      <guid>https://huggingface.co/blog/mps-pytorch-2-15</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/mps-pytorch-2-15">Hugging Face Blog</source>
+    </item>
     <item>
       <title><![CDATA[Nscale and Anthropic are reportedly in talks for yet another $45B compute deal]]></title>
       <link>https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/</link>
@@ -403,60 +457,6 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/building-with-ml-intern">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Multimodal open d1 decision models for the edge]]></title>
-      <link>https://huggingface.co/blog/LiquidAI/open-d1</link>
-      <guid>https://huggingface.co/blog/LiquidAI/open-d1</guid>
-      <pubDate>Wed, 07 Oct 2026 16:54:33 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/LiquidAI/open-d1">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Introducing Falcon ASR]]></title>
-      <link>https://huggingface.co/blog/tiiuae/falcon-asr</link>
-      <guid>https://huggingface.co/blog/tiiuae/falcon-asr</guid>
-      <pubDate>Wed, 07 Oct 2026 13:21:03 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/tiiuae/falcon-asr">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO]]></title>
-      <link>https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</link>
-      <guid>https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</guid>
-      <pubDate>Wed, 07 Oct 2026 12:45:31 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Helping teens learn, plan, and shape the future of AI]]></title>
-      <link>https://openai.com/index/teens-learn-and-plan</link>
-      <guid>https://openai.com/index/teens-learn-and-plan</guid>
-      <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.]]></description>
-      <source url="https://openai.com/index/teens-learn-and-plan">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Radisson Hotel Group brings hotel discovery into ChatGPT]]></title>
-      <link>https://openai.com/index/radisson</link>
-      <guid>https://openai.com/index/radisson</guid>
-      <pubDate>Wed, 07 Oct 2026 07:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.]]></description>
-      <source url="https://openai.com/index/radisson">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[GPT-6 and Intelligent UI for everyone]]></title>
-      <link>https://openai.com/index/gpt-6-for-everyone</link>
-      <guid>https://openai.com/index/gpt-6-for-everyone</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.]]></description>
-      <source url="https://openai.com/index/gpt-6-for-everyone">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
