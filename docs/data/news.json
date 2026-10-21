@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3179755",
+    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "pubDate": "Tue, 20 Oct 2026 23:01:23 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3179891",
+    "title": "Anthropic’s cloud partnerships are getting messy",
+    "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+    "pubDate": "Tue, 20 Oct 2026 21:25:22 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO"
+  },
+  {
+    "id": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+    "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+    "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+    "pubDate": "Tue, 20 Oct 2026 18:17:47 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/?p=3179732",
+    "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+    "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+    "pubDate": "Tue, 20 Oct 2026 17:55:12 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Eric Schmidt’s fortune is about to get even bigger."
+  },
+  {
     "id": "https://huggingface.co/blog/allenai/fairstress",
     "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
     "link": "https://huggingface.co/blog/allenai/fairstress",
@@ -25,6 +61,33 @@
     "source": "TechCrunch - DeepSeek",
     "category": "China AI",
     "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns."
+  },
+  {
+    "id": "https://openai.com/index/ted-taylor-restaurant",
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "link": "https://openai.com/index/ted-taylor-restaurant",
+    "pubDate": "Tue, 20 Oct 2026 10:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow."
+  },
+  {
+    "id": "https://openai.com/index/terminal-x",
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "link": "https://openai.com/index/terminal-x",
+    "pubDate": "Tue, 20 Oct 2026 07:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol."
+  },
+  {
+    "id": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "title": "OpenAI acquires Orchestra Bio",
+    "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "pubDate": "Tue, 20 Oct 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments."
   },
   {
     "id": "https://huggingface.co/blog/hf-torchtpu",
@@ -1735,68 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas."
-  },
-  {
-    "id": "https://openai.com/index/navier-stokes-solution",
-    "title": "On the Navier–Stokes Millennium Prize Problem",
-    "link": "https://openai.com/index/navier-stokes-solution",
-    "pubDate": "Tue, 08 Sep 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
-  },
-  {
-    "id": "https://openai.com/index/teen-development-research-grants",
-    "title": "Funding grants for new research into AI and teen development",
-    "link": "https://openai.com/index/teen-development-research-grants",
-    "pubDate": "Tue, 08 Sep 2026 09:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety."
-  },
-  {
-    "id": "https://openai.com/index/1password",
-    "title": "1Password increases engineering productivity 21% with Codex",
-    "link": "https://openai.com/index/1password",
-    "pubDate": "Tue, 08 Sep 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies."
-  },
-  {
-    "id": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-    "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-    "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-    "pubDate": "Tue, 08 Sep 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations."
-  },
-  {
-    "id": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-    "title": "Supporting independent journalism in Ukraine",
-    "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-    "pubDate": "Mon, 07 Sep 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3161058",
-    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-    "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-    "pubDate": "Sun, 06 Sep 2026 20:47:37 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments."
-  },
-  {
-    "id": "https://openai.com/index/an-alien-mind",
-    "title": "An Alien Mind",
-    "link": "https://openai.com/index/an-alien-mind",
-    "pubDate": "Sun, 06 Sep 2026 09:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
   }
 ]
