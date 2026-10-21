@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://huggingface.co/blog/nvidia/kumo-relational",
+    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+    "link": "https://huggingface.co/blog/nvidia/kumo-relational",
+    "pubDate": "Wed, 21 Oct 2026 18:26:30 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+    "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+    "pubDate": "Wed, 21 Oct 2026 17:35:36 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/att-legal",
+    "title": "How AT&T is rethinking in-house legal work with OpenAI",
+    "link": "https://openai.com/index/att-legal",
+    "pubDate": "Wed, 21 Oct 2026 17:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
+  },
+  {
+    "id": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+    "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+    "pubDate": "Wed, 21 Oct 2026 16:04:43 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+    "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+    "pubDate": "Wed, 21 Oct 2026 14:58:18 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+    "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+    "pubDate": "Wed, 21 Oct 2026 13:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
+  },
+  {
+    "id": "https://openai.com/index/openai-models-google-cloud",
+    "title": "OpenAI models are coming to Google Cloud",
+    "link": "https://openai.com/index/openai-models-google-cloud",
+    "pubDate": "Wed, 21 Oct 2026 12:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
+  },
+  {
     "id": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
     "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
     "link": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
@@ -7,6 +70,42 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+    "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+    "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source."
+  },
+  {
+    "id": "https://openai.com/index/building-chatgpt-ad-stack",
+    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+    "link": "https://openai.com/index/building-chatgpt-ad-stack",
+    "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale."
+  },
+  {
+    "id": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+    "title": "Using thousands of AI agents to uncover new leads in biological data",
+    "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+    "pubDate": "Wed, 21 Oct 2026 04:50:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
+  },
+  {
+    "id": "https://openai.com/index/empowering-cyber-defenders",
+    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+    "link": "https://openai.com/index/empowering-cyber-defenders",
+    "pubDate": "Wed, 21 Oct 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions."
   },
   {
     "id": "https://techcrunch.com/?p=3179755",
@@ -1699,104 +1798,5 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-    "title": "Paul Christiano joins OpenAI Foundation Board",
-    "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-    "pubDate": "Wed, 09 Sep 2026 17:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards."
-  },
-  {
-    "id": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-    "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-    "pubDate": "Wed, 09 Sep 2026 15:36:24 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3161915",
-    "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI ",
-    "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
-    "pubDate": "Wed, 09 Sep 2026 15:02:47 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs."
-  },
-  {
-    "id": "https://openai.com/index/ai-policy-window",
-    "title": "The AI policy window is open. We need to act.",
-    "link": "https://openai.com/index/ai-policy-window",
-    "pubDate": "Wed, 09 Sep 2026 13:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open."
-  },
-  {
-    "id": "https://openai.com/index/gpt-6-astra-next-generation-work",
-    "title": "GPT-6 Astra: The next generation in intelligence for work",
-    "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
-    "pubDate": "Wed, 09 Sep 2026 11:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3161463",
-    "title": "Hackers are stealing Claude tokens from subscribers",
-    "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-    "pubDate": "Tue, 08 Sep 2026 21:10:27 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers."
-  },
-  {
-    "id": "https://openai.com/index/codex-quantum-computing-experiments",
-    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-    "link": "https://openai.com/index/codex-quantum-computing-experiments",
-    "pubDate": "Tue, 08 Sep 2026 17:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
-  },
-  {
-    "id": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-    "pubDate": "Tue, 08 Sep 2026 14:23:07 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3161251",
-    "title": "Mistral raises €3B as sovereign AI becomes big business",
-    "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-    "pubDate": "Tue, 08 Sep 2026 14:17:48 +0000",
-    "source": "TechCrunch - Mistral AI",
-    "category": "Mistral",
-    "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity."
-  },
-  {
-    "id": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-    "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-    "pubDate": "Tue, 08 Sep 2026 14:00:15 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
-  },
-  {
-    "id": "https://openai.com/index/the-work-now-within-reach",
-    "title": "The Work Now Within Reach",
-    "link": "https://openai.com/index/the-work-now-within-reach",
-    "pubDate": "Tue, 08 Sep 2026 13:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical."
   }
 ]
