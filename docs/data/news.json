@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://openai.com/index/broad-access-through-consistent-standards",
+    "title": "Broad access through consistent standards",
+    "link": "https://openai.com/index/broad-access-through-consistent-standards",
+    "pubDate": "Wed, 21 Oct 2026 21:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
+  },
+  {
     "id": "https://huggingface.co/blog/nvidia/kumo-relational",
     "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
     "link": "https://huggingface.co/blog/nvidia/kumo-relational",
@@ -97,6 +106,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
+  },
+  {
+    "id": "https://openai.com/index/cloudflare-cyber",
+    "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+    "link": "https://openai.com/index/cloudflare-cyber",
+    "pubDate": "Wed, 21 Oct 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality."
   },
   {
     "id": "https://openai.com/index/empowering-cyber-defenders",
@@ -1780,23 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
-  },
-  {
-    "id": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-    "pubDate": "Thu, 10 Sep 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
-  },
-  {
-    "id": "https://huggingface.co/blog/gradio-workflow-1111",
-    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-    "link": "https://huggingface.co/blog/gradio-workflow-1111",
-    "pubDate": "Thu, 10 Sep 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
   }
 ]

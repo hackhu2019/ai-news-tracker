@@ -5,9 +5,18 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 21 Oct 2026 18:26:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 21:00:00 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Broad access through consistent standards]]></title>
+      <link>https://openai.com/index/broad-access-through-consistent-standards</link>
+      <guid>https://openai.com/index/broad-access-through-consistent-standards</guid>
+      <pubDate>Wed, 21 Oct 2026 21:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.]]></description>
+      <source url="https://openai.com/index/broad-access-through-consistent-standards">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required]]></title>
       <link>https://huggingface.co/blog/nvidia/kumo-relational</link>
@@ -106,6 +115,15 @@
       <category>ChatGPT</category>
       <description><![CDATA[See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.]]></description>
       <source url="https://openai.com/index/scaling-ai-research-for-complex-biological-data">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Cloudflare links vulnerability discovery to defense with OpenAI]]></title>
+      <link>https://openai.com/index/cloudflare-cyber</link>
+      <guid>https://openai.com/index/cloudflare-cyber</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.]]></description>
+      <source url="https://openai.com/index/cloudflare-cyber">OpenAI Blog</source>
     </item>
     <item>
       <title><![CDATA[Democratic governance of frontier AI, part II: Empowering cyber defenders]]></title>
@@ -439,24 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.]]></description>
       <source url="https://openai.com/index/sentinelone">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How Block is building AI-powered security with OpenAI technology]]></title>
-      <link>https://openai.com/index/block-ai-powered-security</link>
-      <guid>https://openai.com/index/block-ai-powered-security</guid>
-      <pubDate>Wed, 14 Oct 2026 07:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.]]></description>
-      <source url="https://openai.com/index/block-ai-powered-security">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How Third Moment Research runs 10,000 agents for 36+ hours]]></title>
-      <link>https://openai.com/index/third-moment-research</link>
-      <guid>https://openai.com/index/third-moment-research</guid>
-      <pubDate>Wed, 14 Oct 2026 07:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.]]></description>
-      <source url="https://openai.com/index/third-moment-research">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
