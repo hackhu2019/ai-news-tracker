@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+    "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+    "pubDate": "Thu, 22 Oct 2026 16:11:31 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "title": "Beyond tree cover: mapping the world’s forest types",
+    "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "pubDate": "Thu, 22 Oct 2026 14:30:24 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3180587",
+    "title": "Claude Duet app is Anthropic’s bet on agents",
+    "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+    "pubDate": "Thu, 22 Oct 2026 13:53:26 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Claude Duet is available through waitlist for Pro and Max plan users."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3180589",
+    "title": "DeepSeek reportedly raises $15B days after US restrictions",
+    "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+    "pubDate": "Thu, 22 Oct 2026 13:11:13 +0000",
+    "source": "TechCrunch - DeepSeek",
+    "category": "China AI",
+    "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns."
+  },
+  {
     "id": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
     "title": "Ensemble forecasting with IBM Granite time-series models",
     "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
@@ -7,6 +43,24 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/forward-deployed-engineering-means",
+    "title": "What FDE means at OpenAI",
+    "link": "https://openai.com/index/forward-deployed-engineering-means",
+    "pubDate": "Thu, 22 Oct 2026 06:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "What forward deployed engineering means at OpenAI"
+  },
+  {
+    "id": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "link": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "pubDate": "Thu, 22 Oct 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
   },
   {
     "id": "https://openai.com/index/broad-access-through-consistent-standards",
@@ -1744,59 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3162739",
-    "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-    "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-    "pubDate": "Thu, 10 Sep 2026 17:54:44 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Come inside the mind of a bot trying to convince the internet it's human."
-  },
-  {
-    "id": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-    "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-    "pubDate": "Thu, 10 Sep 2026 16:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
-  },
-  {
-    "id": "https://openai.com/index/put-data-to-work",
-    "title": "Now everyone can put data to work",
-    "link": "https://openai.com/index/put-data-to-work",
-    "pubDate": "Thu, 10 Sep 2026 15:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
-  },
-  {
-    "id": "https://openai.com/index/introducing-chatgpt-financial-services",
-    "title": "Introducing ChatGPT for Financial Services",
-    "link": "https://openai.com/index/introducing-chatgpt-financial-services",
-    "pubDate": "Thu, 10 Sep 2026 07:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials."
-  },
-  {
-    "id": "https://openai.com/index/expanding-ai-access-us-government",
-    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-    "link": "https://openai.com/index/expanding-ai-access-us-government",
-    "pubDate": "Thu, 10 Sep 2026 07:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
-  },
-  {
-    "id": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-    "pubDate": "Thu, 10 Sep 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
   }
 ]
