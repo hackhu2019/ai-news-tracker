@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "pubDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
+  },
+  {
+    "id": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "pubDate": "Thu, 22 Oct 2026 22:24:34 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/decisions-api",
+    "title": "Build more responsive apps with the Decisions API",
+    "link": "https://openai.com/index/decisions-api",
+    "pubDate": "Thu, 22 Oct 2026 19:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Fast, focused, low-cost decisions for any application."
+  },
+  {
     "id": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
     "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
     "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
@@ -1771,32 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment le"
-  },
-  {
-    "id": "https://openai.com/index/cognition-devin-testing-with-astra",
-    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-    "link": "https://openai.com/index/cognition-devin-testing-with-astra",
-    "pubDate": "Fri, 11 Sep 2026 16:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
-  },
-  {
-    "id": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-    "pubDate": "Fri, 11 Sep 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3162919",
-    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-    "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-    "pubDate": "Thu, 10 Sep 2026 20:57:30 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified."
   }
 ]
