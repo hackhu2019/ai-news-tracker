@@ -5,9 +5,45 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 23 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 17:00:00 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)]]></title>
+      <link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
+      <guid>https://openai.com/index/scaling-storage-one-billion-users-part-two</guid>
+      <pubDate>Fri, 23 Oct 2026 17:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.]]></description>
+      <source url="https://openai.com/index/scaling-storage-one-billion-users-part-two">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[LitPivot: Developing research ideas through dynamic contextualization within the literature landscape]]></title>
+      <link>https://huggingface.co/blog/allenai/litpivot</link>
+      <guid>https://huggingface.co/blog/allenai/litpivot</guid>
+      <pubDate>Fri, 23 Oct 2026 16:15:50 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/allenai/litpivot">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[What some of Anthropic’s backers are reportedly worth before its IPO]]></title>
+      <link>https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/</link>
+      <guid>https://techcrunch.com/?p=3181130</guid>
+      <pubDate>Fri, 23 Oct 2026 16:02:43 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.]]></description>
+      <source url="https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Does Your Model Run on AWS Trainium? Look It Up]]></title>
+      <link>https://huggingface.co/blog/torch-neuronx-model-support</link>
+      <guid>https://huggingface.co/blog/torch-neuronx-model-support</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/torch-neuronx-model-support">Hugging Face Blog</source>
+    </item>
     <item>
       <title><![CDATA[OpenAI and Poland’s NASK partner to advance AI safety and security]]></title>
       <link>https://openai.com/index/openai-nask-ai-safety-security-partnership</link>
@@ -421,42 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.]]></description>
       <source url="https://openai.com/index/benefit-street-partners">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Stack Overflow for Agents triples signups with ChatGPT plugin]]></title>
-      <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
-      <guid>https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.]]></description>
-      <source url="https://openai.com/index/stack-overflow-chatgpt-plugin">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Welcome Beam: a 501B open model you can own, customize, and scale]]></title>
-      <link>https://huggingface.co/blog/reflection-beam</link>
-      <guid>https://huggingface.co/blog/reflection-beam</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/reflection-beam">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint]]></title>
-      <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</link>
-      <guid>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</guid>
-      <pubDate>Thu, 15 Oct 2026 20:34:01 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/ibm-granite/granite-switch-4-1">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic is letting METR researchers look under the hood with employee-level access]]></title>
-      <link>https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/</link>
-      <guid>https://techcrunch.com/?p=3178367</guid>
-      <pubDate>Thu, 15 Oct 2026 19:14:26 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.]]></description>
-      <source url="https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "pubDate": "Fri, 23 Oct 2026 17:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
+  },
+  {
+    "id": "https://huggingface.co/blog/allenai/litpivot",
+    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "link": "https://huggingface.co/blog/allenai/litpivot",
+    "pubDate": "Fri, 23 Oct 2026 16:15:50 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/?p=3181130",
+    "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
+    "link": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+    "pubDate": "Fri, 23 Oct 2026 16:02:43 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns."
+  },
+  {
+    "id": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "pubDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
     "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
     "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
@@ -1762,41 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice."
-  },
-  {
-    "id": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-    "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-    "pubDate": "Mon, 14 Sep 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3163449",
-    "title": "What’s behind the AI industry’s latest warnings of doom?",
-    "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-    "pubDate": "Sun, 13 Sep 2026 19:40:15 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3163373",
-    "title": "Anthropic CEO outlines plan to slow AI development",
-    "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-    "pubDate": "Sat, 12 Sep 2026 19:34:44 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
-  },
-  {
-    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3163177",
-    "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-    "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-    "pubDate": "Fri, 11 Sep 2026 18:41:49 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment le"
   }
 ]
