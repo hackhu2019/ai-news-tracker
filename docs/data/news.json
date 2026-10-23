@@ -27,6 +27,15 @@
     "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns."
   },
   {
+    "id": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "title": "Securing our frontier model training environment",
+    "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "pubDate": "Fri, 23 Oct 2026 10:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
+  },
+  {
     "id": "https://huggingface.co/blog/torch-neuronx-model-support",
     "title": "Does Your Model Run on AWS Trainium? Look It Up",
     "link": "https://huggingface.co/blog/torch-neuronx-model-support",
@@ -1789,14 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as spe"
-  },
-  {
-    "id": "https://openai.com/index/fyxer",
-    "title": "How Fyxer built an AI executive assistant people trust",
-    "link": "https://openai.com/index/fyxer",
-    "pubDate": "Mon, 14 Sep 2026 12:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice."
   }
 ]
