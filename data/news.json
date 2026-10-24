@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3181243",
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. ",
+    "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "pubDate": "Sat, 24 Oct 2026 15:00:00 +0000",
+    "source": "TechCrunch - xAI",
+    "category": "Grok",
+    "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
+  },
+  {
     "id": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
     "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
     "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
@@ -1789,14 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3163598",
-    "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-    "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-    "pubDate": "Mon, 14 Sep 2026 16:27:53 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as spe"
   }
 ]
