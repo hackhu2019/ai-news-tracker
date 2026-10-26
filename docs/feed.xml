@@ -5,9 +5,81 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 25 Oct 2026 21:31:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 16:49:42 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked]]></title>
+      <link>https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/</link>
+      <guid>https://techcrunch.com/?p=3181689</guid>
+      <pubDate>Mon, 26 Oct 2026 16:49:42 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise cust]]></description>
+      <source url="https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic officially files for its public debut]]></title>
+      <link>https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/</link>
+      <guid>https://techcrunch.com/?p=3181633</guid>
+      <pubDate>Mon, 26 Oct 2026 14:35:22 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI sa]]></description>
+      <source url="https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases]]></title>
+      <link>https://openai.com/index/gpt-6-1-sol-coderabbit-code-security</link>
+      <guid>https://openai.com/index/gpt-6-1-sol-coderabbit-code-security</guid>
+      <pubDate>Mon, 26 Oct 2026 13:45:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.]]></description>
+      <source url="https://openai.com/index/gpt-6-1-sol-coderabbit-code-security">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[ChatGPT’s expanding world of work]]></title>
+      <link>https://openai.com/index/chatgpt-expanding-world-of-work</link>
+      <guid>https://openai.com/index/chatgpt-expanding-world-of-work</guid>
+      <pubDate>Mon, 26 Oct 2026 10:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.]]></description>
+      <source url="https://openai.com/index/chatgpt-expanding-world-of-work">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[How Fanatics and OpenAI streamline the fan experience]]></title>
+      <link>https://openai.com/index/fanatics-streamline-fan-experience</link>
+      <guid>https://openai.com/index/fanatics-streamline-fan-experience</guid>
+      <pubDate>Mon, 26 Oct 2026 07:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.]]></description>
+      <source url="https://openai.com/index/fanatics-streamline-fan-experience">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[How Ultrafast cut incident investigation from hours to minutes at OpenAI]]></title>
+      <link>https://openai.com/index/openai-cut-incident-investigation</link>
+      <guid>https://openai.com/index/openai-cut-incident-investigation</guid>
+      <pubDate>Mon, 26 Oct 2026 07:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.]]></description>
+      <source url="https://openai.com/index/openai-cut-incident-investigation">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Working with academic communities to build scientific understanding]]></title>
+      <link>https://openai.com/index/building-scientific-understanding-with-academic-communities</link>
+      <guid>https://openai.com/index/building-scientific-understanding-with-academic-communities</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.]]></description>
+      <source url="https://openai.com/index/building-scientific-understanding-with-academic-communities">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Introducing GPT-6.1 Terra]]></title>
+      <link>https://openai.com/index/introducing-gpt-6-1-terra</link>
+      <guid>https://openai.com/index/introducing-gpt-6-1-terra</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Bringing fast and capable computer use to everyone]]></description>
+      <source url="https://openai.com/index/introducing-gpt-6-1-terra">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Grok releases the first seven minutes of its AI-generated ‘Odyssey’]]></title>
       <link>https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/</link>
@@ -385,78 +457,6 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/hf-torchtpu">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms]]></title>
-      <link>https://huggingface.co/blog/anylanguagemodel-1-0</link>
-      <guid>https://huggingface.co/blog/anylanguagemodel-1-0</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/anylanguagemodel-1-0">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[MPS in PyTorch 2.15]]></title>
-      <link>https://huggingface.co/blog/mps-pytorch-2-15</link>
-      <guid>https://huggingface.co/blog/mps-pytorch-2-15</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/mps-pytorch-2-15">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Nscale and Anthropic are reportedly in talks for yet another $45B compute deal]]></title>
-      <link>https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/</link>
-      <guid>https://techcrunch.com/?p=3179487</guid>
-      <pubDate>Mon, 19 Oct 2026 23:39:38 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.]]></description>
-      <source url="https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Advancing coding in low‑resource programming languages]]></title>
-      <link>https://openai.com/index/low-resource-programming-languages</link>
-      <guid>https://openai.com/index/low-resource-programming-languages</guid>
-      <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.]]></description>
-      <source url="https://openai.com/index/low-resource-programming-languages">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[TorchNeuron: running HF models on AWS Trainium is easier than ever]]></title>
-      <link>https://huggingface.co/blog/hf-torchneuron</link>
-      <guid>https://huggingface.co/blog/hf-torchneuron</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/hf-torchneuron">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’]]></title>
-      <link>https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/</link>
-      <guid>https://techcrunch.com/?p=3178960</guid>
-      <pubDate>Sun, 18 Oct 2026 20:37:40 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Anthropic said that it will commit 5% of its shares to the fund.]]></description>
-      <source url="https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic says its workforce has become less junior and is spending more time in meetings]]></title>
-      <link>https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/</link>
-      <guid>https://techcrunch.com/?p=3178934</guid>
-      <pubDate>Sat, 17 Oct 2026 20:21:19 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.]]></description>
-      <source url="https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Replit is no longer working with Anthropic, CEO says]]></title>
-      <link>https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/</link>
-      <guid>https://techcrunch.com/?p=3178496</guid>
-      <pubDate>Fri, 16 Oct 2026 21:22:28 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with ]]></description>
-      <source url="https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>
