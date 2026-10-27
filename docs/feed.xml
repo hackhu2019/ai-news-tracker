@@ -5,9 +5,18 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 26 Oct 2026 16:49:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 22:00:00 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Greptile takes bug detection beyond code review with GPT-6 Astra]]></title>
+      <link>https://openai.com/index/greptile-code-review-codex-astra</link>
+      <guid>https://openai.com/index/greptile-code-review-codex-astra</guid>
+      <pubDate>Mon, 26 Oct 2026 22:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.]]></description>
+      <source url="https://openai.com/index/greptile-code-review-codex-astra">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked]]></title>
       <link>https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/</link>
@@ -448,15 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.]]></description>
       <source url="https://openai.com/index/openai-to-acquire-orchestra-bio">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Hugging Face ❤️ TorchTPU: TPUs, Natively]]></title>
-      <link>https://huggingface.co/blog/hf-torchtpu</link>
-      <guid>https://huggingface.co/blog/hf-torchtpu</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/hf-torchtpu">Hugging Face Blog</source>
     </item>
   </channel>
 </rss>

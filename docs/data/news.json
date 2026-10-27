@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://openai.com/index/greptile-code-review-codex-astra",
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "link": "https://openai.com/index/greptile-code-review-codex-astra",
+    "pubDate": "Mon, 26 Oct 2026 22:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
+  },
+  {
     "id": "https://techcrunch.com/?p=3181689",
     "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
     "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
@@ -1789,14 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, "
-  },
-  {
-    "id": "https://openai.com/index/model-misalignment-reporting-framework",
-    "title": "Our framework for reporting model misalignment",
-    "link": "https://openai.com/index/model-misalignment-reporting-framework",
-    "pubDate": "Wed, 16 Sep 2026 17:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
   }
 ]
