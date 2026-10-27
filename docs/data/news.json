@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "title": "Build specialized multimodal models with LFM3",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "pubDate": "Tue, 27 Oct 2026 17:16:52 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/allenai/novelty-bench",
+    "title": "Can we trust LLMs to judge whether a research idea is novel?",
+    "link": "https://huggingface.co/blog/allenai/novelty-bench",
+    "pubDate": "Tue, 27 Oct 2026 16:12:42 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "pubDate": "Tue, 27 Oct 2026 07:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
+  },
+  {
     "id": "https://openai.com/index/greptile-code-review-codex-astra",
     "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
     "link": "https://openai.com/index/greptile-code-review-codex-astra",
@@ -133,6 +160,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
+  },
+  {
+    "id": "https://openai.com/index/anima",
+    "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+    "link": "https://openai.com/index/anima",
+    "pubDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients."
   },
   {
     "id": "https://huggingface.co/blog/torch-neuronx-model-support",
@@ -1762,41 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3165426",
-    "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-    "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
-    "pubDate": "Thu, 17 Sep 2026 13:38:33 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers."
-  },
-  {
-    "id": "https://openai.com/index/cooley-gopublic",
-    "title": "How Cooley is accelerating IPO work with ChatGPT",
-    "link": "https://openai.com/index/cooley-gopublic",
-    "pubDate": "Thu, 17 Sep 2026 12:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most."
-  },
-  {
-    "id": "https://openai.com/index/astra-for-law",
-    "title": "Introducing Astra for Law",
-    "link": "https://openai.com/index/astra-for-law",
-    "pubDate": "Thu, 17 Sep 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3165076",
-    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-    "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-    "pubDate": "Wed, 16 Sep 2026 21:07:24 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, "
   }
 ]
