@@ -18,6 +18,15 @@
       <source url="https://huggingface.co/blog/LiquidAI/lfm3">Hugging Face Blog</source>
     </item>
     <item>
+      <title><![CDATA[Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?]]></title>
+      <link>https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/</link>
+      <guid>https://techcrunch.com/?p=3182002</guid>
+      <pubDate>Tue, 27 Oct 2026 17:08:08 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.]]></description>
+      <source url="https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
       <title><![CDATA[Can we trust LLMs to judge whether a research idea is novel?]]></title>
       <link>https://huggingface.co/blog/allenai/novelty-bench</link>
       <guid>https://huggingface.co/blog/allenai/novelty-bench</guid>
@@ -34,6 +43,15 @@
       <category>ChatGPT</category>
       <description><![CDATA[OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.]]></description>
       <source url="https://openai.com/index/oracle-apps-in-chatgpt">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[How Check Point accelerates vulnerability research with Daybreak]]></title>
+      <link>https://openai.com/index/check-point-daybreak</link>
+      <guid>https://openai.com/index/check-point-daybreak</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.]]></description>
+      <source url="https://openai.com/index/check-point-daybreak">OpenAI Blog</source>
     </item>
     <item>
       <title><![CDATA[Greptile takes bug detection beyond code review with GPT-6 Astra]]></title>
@@ -439,24 +457,6 @@
       <category>Claude</category>
       <description><![CDATA[Eric Schmidt’s fortune is about to get even bigger.]]></description>
       <source url="https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[FairStress: A deeper evaluation of fairness in LLM decision-making]]></title>
-      <link>https://huggingface.co/blog/allenai/fairstress</link>
-      <guid>https://huggingface.co/blog/allenai/fairstress</guid>
-      <pubDate>Tue, 20 Oct 2026 16:09:19 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/allenai/fairstress">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model]]></title>
-      <link>https://huggingface.co/blog/ibm-research/altk-evolve-bc</link>
-      <guid>https://huggingface.co/blog/ibm-research/altk-evolve-bc</guid>
-      <pubDate>Tue, 20 Oct 2026 15:19:48 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/ibm-research/altk-evolve-bc">Hugging Face Blog</source>
     </item>
   </channel>
 </rss>
