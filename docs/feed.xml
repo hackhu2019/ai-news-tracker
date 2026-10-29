@@ -5,9 +5,81 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 27 Oct 2026 17:16:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 19:19:58 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Anthropic just launched tools to show companies what their AI spending is buying]]></title>
+      <link>https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/</link>
+      <guid>https://techcrunch.com/?p=3182643</guid>
+      <pubDate>Wed, 28 Oct 2026 19:19:58 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.]]></description>
+      <source url="https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Gemini 4 Carbon: Our next frontier model]]></title>
+      <link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</link>
+      <guid>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</guid>
+      <pubDate>Wed, 28 Oct 2026 17:00:58 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[]]></description>
+      <source url="https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/">Google DeepMind Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt]]></title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</link>
+      <guid>https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</guid>
+      <pubDate>Wed, 28 Oct 2026 14:58:17 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/nvidia/nemotron-transcribe-granary">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI and ServiceNow expand partnership across enterprise workflows]]></title>
+      <link>https://openai.com/index/openai-servicenow-partnership-expansion</link>
+      <guid>https://openai.com/index/openai-servicenow-partnership-expansion</guid>
+      <pubDate>Wed, 28 Oct 2026 13:15:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.]]></description>
+      <source url="https://openai.com/index/openai-servicenow-partnership-expansion">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[The future of the firm]]></title>
+      <link>https://openai.com/index/the-future-of-the-firm</link>
+      <guid>https://openai.com/index/the-future-of-the-firm</guid>
+      <pubDate>Wed, 28 Oct 2026 10:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[How AI might enter the org chart—beneath, beside, and between us.]]></description>
+      <source url="https://openai.com/index/the-future-of-the-firm">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Legora is building the agentic operating system for legal work]]></title>
+      <link>https://openai.com/index/legora</link>
+      <guid>https://openai.com/index/legora</guid>
+      <pubDate>Wed, 28 Oct 2026 09:30:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.]]></description>
+      <source url="https://openai.com/index/legora">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more]]></title>
+      <link>https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/</link>
+      <guid>https://techcrunch.com/?p=3182406</guid>
+      <pubDate>Wed, 28 Oct 2026 01:15:28 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.]]></description>
+      <source url="https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Who’s really in charge at Anthropic after the IPO?]]></title>
+      <link>https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/</link>
+      <guid>https://techcrunch.com/?p=3182153</guid>
+      <pubDate>Tue, 27 Oct 2026 21:38:28 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Here's a clear explanation of Anthropic's incredibly complex governance structure.]]></description>
+      <source url="https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/">TechCrunch - Anthropic</source>
+    </item>
     <item>
       <title><![CDATA[Build specialized multimodal models with LFM3]]></title>
       <link>https://huggingface.co/blog/LiquidAI/lfm3</link>
@@ -34,6 +106,24 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/allenai/novelty-bench">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Genie 4: A new generation of world simulation]]></title>
+      <link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</link>
+      <guid>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</guid>
+      <pubDate>Tue, 27 Oct 2026 16:01:38 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[Genie 4: our new world model unlocking unprecedented realism in real-time simulation.]]></description>
+      <source url="https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/">Google DeepMind Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Retell uses OpenAI models to help power 100M monthly calls]]></title>
+      <link>https://openai.com/index/retell-ai</link>
+      <guid>https://openai.com/index/retell-ai</guid>
+      <pubDate>Tue, 27 Oct 2026 15:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.]]></description>
+      <source url="https://openai.com/index/retell-ai">OpenAI Blog</source>
     </item>
     <item>
       <title><![CDATA[OpenAI expands partnership with Oracle to bring its apps to ChatGPT]]></title>
@@ -367,96 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.]]></description>
       <source url="https://openai.com/index/openai-models-google-cloud">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories]]></title>
-      <link>https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories</link>
-      <guid>https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories</guid>
-      <pubDate>Wed, 21 Oct 2026 10:59:42 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Patch the Planet: global response coordination as agents uncover critical vulnerabilities]]></title>
-      <link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</link>
-      <guid>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</guid>
-      <pubDate>Wed, 21 Oct 2026 07:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.]]></description>
-      <source url="https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How we built ChatGPT’s novel ad stack for user trust and relevance]]></title>
-      <link>https://openai.com/index/building-chatgpt-ad-stack</link>
-      <guid>https://openai.com/index/building-chatgpt-ad-stack</guid>
-      <pubDate>Wed, 21 Oct 2026 07:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.]]></description>
-      <source url="https://openai.com/index/building-chatgpt-ad-stack">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Using thousands of AI agents to uncover new leads in biological data]]></title>
-      <link>https://openai.com/index/scaling-ai-research-for-complex-biological-data</link>
-      <guid>https://openai.com/index/scaling-ai-research-for-complex-biological-data</guid>
-      <pubDate>Wed, 21 Oct 2026 04:50:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.]]></description>
-      <source url="https://openai.com/index/scaling-ai-research-for-complex-biological-data">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Cloudflare links vulnerability discovery to defense with OpenAI]]></title>
-      <link>https://openai.com/index/cloudflare-cyber</link>
-      <guid>https://openai.com/index/cloudflare-cyber</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.]]></description>
-      <source url="https://openai.com/index/cloudflare-cyber">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Democratic governance of frontier AI, part II: Empowering cyber defenders]]></title>
-      <link>https://openai.com/index/empowering-cyber-defenders</link>
-      <guid>https://openai.com/index/empowering-cyber-defenders</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.]]></description>
-      <source url="https://openai.com/index/empowering-cyber-defenders">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic pitches AI safety bill that may block a model if 50+ people could be killed]]></title>
-      <link>https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/</link>
-      <guid>https://techcrunch.com/?p=3179755</guid>
-      <pubDate>Tue, 20 Oct 2026 23:01:23 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.]]></description>
-      <source url="https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic’s cloud partnerships are getting messy]]></title>
-      <link>https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/</link>
-      <guid>https://techcrunch.com/?p=3179891</guid>
-      <pubDate>Tue, 20 Oct 2026 21:25:22 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO]]></description>
-      <source url="https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation]]></title>
-      <link>https://huggingface.co/blog/nvidia/cosmos3-h-dreams</link>
-      <guid>https://huggingface.co/blog/nvidia/cosmos3-h-dreams</guid>
-      <pubDate>Tue, 20 Oct 2026 18:17:47 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/nvidia/cosmos3-h-dreams">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei]]></title>
-      <link>https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/</link>
-      <guid>https://techcrunch.com/?p=3179732</guid>
-      <pubDate>Tue, 20 Oct 2026 17:55:12 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Eric Schmidt’s fortune is about to get even bigger.]]></description>
-      <source url="https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>
