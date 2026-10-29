@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://huggingface.co/blog/anydecisionmodel",
+    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+    "link": "https://huggingface.co/blog/anydecisionmodel",
+    "pubDate": "Thu, 29 Oct 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/?p=3182643",
     "title": "Anthropic just launched tools to show companies what their AI spending is buying",
     "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
@@ -1786,15 +1795,6 @@
     "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
     "link": "https://huggingface.co/blog/omlx",
     "pubDate": "Tue, 22 Sep 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-    "pubDate": "Mon, 21 Sep 2026 13:44:34 GMT",
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
