@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://openai.com/index/updated-model-spec",
+    "title": "An updated Model Spec for more capable and beneficial AI",
+    "link": "https://openai.com/index/updated-model-spec",
+    "pubDate": "Thu, 29 Oct 2026 17:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
+  },
+  {
+    "id": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "title": "Granite Switch 4.1.1 — Update models like you update software",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "pubDate": "Thu, 29 Oct 2026 13:37:07 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+    "title": "How we detect frontier model misalignment",
+    "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+    "pubDate": "Thu, 29 Oct 2026 09:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
+  },
+  {
+    "id": "https://openai.com/index/ropes-gray-ai-diligence",
+    "title": "How Ropes & Gray is developing AI for transactional diligence",
+    "link": "https://openai.com/index/ropes-gray-ai-diligence",
+    "pubDate": "Thu, 29 Oct 2026 07:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
+  },
+  {
+    "id": "https://huggingface.co/blog/announcing-project-protostar",
+    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "link": "https://huggingface.co/blog/announcing-project-protostar",
+    "pubDate": "Thu, 29 Oct 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/mistral-large4",
+    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+    "link": "https://huggingface.co/blog/mistral-large4",
+    "pubDate": "Thu, 29 Oct 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://huggingface.co/blog/anydecisionmodel",
     "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
     "link": "https://huggingface.co/blog/anydecisionmodel",
@@ -1744,59 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3167384",
-    "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-    "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-    "pubDate": "Tue, 22 Sep 2026 15:00:00 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to s"
-  },
-  {
-    "id": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-    "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-    "pubDate": "Tue, 22 Sep 2026 12:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models."
-  },
-  {
-    "id": "https://openai.com/index/priorities-principles-third-party-assessments",
-    "title": "Priorities and principles for effective third party assessments",
-    "link": "https://openai.com/index/priorities-principles-third-party-assessments",
-    "pubDate": "Tue, 22 Sep 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards."
-  },
-  {
-    "id": "https://huggingface.co/blog/evaleval-aisi",
-    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-    "link": "https://huggingface.co/blog/evaleval-aisi",
-    "pubDate": "Tue, 22 Sep 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-    "title": "Transformers now runs llama.cpp quants",
-    "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-    "pubDate": "Tue, 22 Sep 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/omlx",
-    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-    "link": "https://huggingface.co/blog/omlx",
-    "pubDate": "Tue, 22 Sep 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
   }
 ]

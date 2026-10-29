@@ -5,9 +5,63 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 29 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 17:00:00 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[An updated Model Spec for more capable and beneficial AI]]></title>
+      <link>https://openai.com/index/updated-model-spec</link>
+      <guid>https://openai.com/index/updated-model-spec</guid>
+      <pubDate>Thu, 29 Oct 2026 17:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.]]></description>
+      <source url="https://openai.com/index/updated-model-spec">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Granite Switch 4.1.1 — Update models like you update software]]></title>
+      <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</link>
+      <guid>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</guid>
+      <pubDate>Thu, 29 Oct 2026 13:37:07 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[How we detect frontier model misalignment]]></title>
+      <link>https://openai.com/index/how-we-detect-frontier-model-misalignment</link>
+      <guid>https://openai.com/index/how-we-detect-frontier-model-misalignment</guid>
+      <pubDate>Thu, 29 Oct 2026 09:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.]]></description>
+      <source url="https://openai.com/index/how-we-detect-frontier-model-misalignment">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[How Ropes & Gray is developing AI for transactional diligence]]></title>
+      <link>https://openai.com/index/ropes-gray-ai-diligence</link>
+      <guid>https://openai.com/index/ropes-gray-ai-diligence</guid>
+      <pubDate>Thu, 29 Oct 2026 07:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.]]></description>
+      <source url="https://openai.com/index/ropes-gray-ai-diligence">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready]]></title>
+      <link>https://huggingface.co/blog/announcing-project-protostar</link>
+      <guid>https://huggingface.co/blog/announcing-project-protostar</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/announcing-project-protostar">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Welcome Le Chonk: Mistral Large 4 on Hugging Face]]></title>
+      <link>https://huggingface.co/blog/mistral-large4</link>
+      <guid>https://huggingface.co/blog/mistral-large4</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/mistral-large4">Hugging Face Blog</source>
+    </item>
     <item>
       <title><![CDATA[Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms]]></title>
       <link>https://huggingface.co/blog/anydecisionmodel</link>
@@ -403,60 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.]]></description>
       <source url="https://openai.com/index/broad-access-through-consistent-standards">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required]]></title>
-      <link>https://huggingface.co/blog/nvidia/kumo-relational</link>
-      <guid>https://huggingface.co/blog/nvidia/kumo-relational</guid>
-      <pubDate>Wed, 21 Oct 2026 18:26:30 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/nvidia/kumo-relational">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications]]></title>
-      <link>https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</link>
-      <guid>https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</guid>
-      <pubDate>Wed, 21 Oct 2026 17:35:36 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How AT&T is rethinking in-house legal work with OpenAI]]></title>
-      <link>https://openai.com/index/att-legal</link>
-      <guid>https://openai.com/index/att-legal</guid>
-      <pubDate>Wed, 21 Oct 2026 17:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.]]></description>
-      <source url="https://openai.com/index/att-legal">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.]]></title>
-      <link>https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</link>
-      <guid>https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</guid>
-      <pubDate>Wed, 21 Oct 2026 16:04:43 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/amazon/profiling-torchneuron-part-1">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster]]></title>
-      <link>https://huggingface.co/blog/ibm-granite/granite-speech-5</link>
-      <guid>https://huggingface.co/blog/ibm-granite/granite-speech-5</guid>
-      <pubDate>Wed, 21 Oct 2026 14:58:18 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/ibm-granite/granite-speech-5">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform]]></title>
-      <link>https://openai.com/index/chatgpt-ads-expands-26-new-countries</link>
-      <guid>https://openai.com/index/chatgpt-ads-expands-26-new-countries</guid>
-      <pubDate>Wed, 21 Oct 2026 13:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.]]></description>
-      <source url="https://openai.com/index/chatgpt-ads-expands-26-new-countries">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
