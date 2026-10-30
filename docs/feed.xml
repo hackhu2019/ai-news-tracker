@@ -5,9 +5,54 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 29 Oct 2026 17:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 21:52:03 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says]]></title>
+      <link>https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/</link>
+      <guid>https://techcrunch.com/?p=3183715</guid>
+      <pubDate>Fri, 30 Oct 2026 21:52:03 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[The new report says the AI lab will likely qualify for a high junk rating.]]></description>
+      <source url="https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[nemotron-halloween]]></title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-halloween</link>
+      <guid>https://huggingface.co/blog/nvidia/nemotron-halloween</guid>
+      <pubDate>Fri, 30 Oct 2026 17:57:24 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/nvidia/nemotron-halloween">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Making it easier for websites to express AI training preferences]]></title>
+      <link>https://openai.com/index/helping-websites-express-ai-training-preferences</link>
+      <guid>https://openai.com/index/helping-websites-express-ai-training-preferences</guid>
+      <pubDate>Fri, 30 Oct 2026 09:30:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.]]></description>
+      <source url="https://openai.com/index/helping-websites-express-ai-training-preferences">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Community safety report and new protections for teens]]></title>
+      <link>https://openai.com/index/community-safety-report-and-new-protections-for-teens</link>
+      <guid>https://openai.com/index/community-safety-report-and-new-protections-for-teens</guid>
+      <pubDate>Fri, 30 Oct 2026 09:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.]]></description>
+      <source url="https://openai.com/index/community-safety-report-and-new-protections-for-teens">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Fair use benefits everyone]]></title>
+      <link>https://openai.com/index/fair-use-benefits-everyone</link>
+      <guid>https://openai.com/index/fair-use-benefits-everyone</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.]]></description>
+      <source url="https://openai.com/index/fair-use-benefits-everyone">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[An updated Model Spec for more capable and beneficial AI]]></title>
       <link>https://openai.com/index/updated-model-spec</link>
@@ -43,6 +88,15 @@
       <category>ChatGPT</category>
       <description><![CDATA[Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.]]></description>
       <source url="https://openai.com/index/ropes-gray-ai-diligence">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot]]></title>
+      <link>https://openai.com/index/credit-saison</link>
+      <guid>https://openai.com/index/credit-saison</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.]]></description>
+      <source url="https://openai.com/index/credit-saison">OpenAI Blog</source>
     </item>
     <item>
       <title><![CDATA[Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready]]></title>
@@ -403,60 +457,6 @@
       <category>Gemini</category>
       <description><![CDATA[A global map categorizing every 10-meter patch of land on Earth into distinct forest types.]]></description>
       <source url="https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/">Google DeepMind Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Claude Duet app is Anthropic’s bet on agents]]></title>
-      <link>https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/</link>
-      <guid>https://techcrunch.com/?p=3180587</guid>
-      <pubDate>Thu, 22 Oct 2026 13:53:26 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Claude Duet is available through waitlist for Pro and Max plan users.]]></description>
-      <source url="https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[DeepSeek reportedly raises $15B days after US restrictions]]></title>
-      <link>https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/</link>
-      <guid>https://techcrunch.com/?p=3180589</guid>
-      <pubDate>Thu, 22 Oct 2026 13:11:13 +0000</pubDate>
-      <category>China AI</category>
-      <description><![CDATA[DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.]]></description>
-      <source url="https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/">TechCrunch - DeepSeek</source>
-    </item>
-    <item>
-      <title><![CDATA[Ensemble forecasting with IBM Granite time-series models]]></title>
-      <link>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</link>
-      <guid>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</guid>
-      <pubDate>Thu, 22 Oct 2026 07:51:31 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[What FDE means at OpenAI]]></title>
-      <link>https://openai.com/index/forward-deployed-engineering-means</link>
-      <guid>https://openai.com/index/forward-deployed-engineering-means</guid>
-      <pubDate>Thu, 22 Oct 2026 06:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[What forward deployed engineering means at OpenAI]]></description>
-      <source url="https://openai.com/index/forward-deployed-engineering-means">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Uber brings ChatGPT Work to all employees with OpenAI]]></title>
-      <link>https://openai.com/index/uber-chatgpt-work-rollout</link>
-      <guid>https://openai.com/index/uber-chatgpt-work-rollout</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.]]></description>
-      <source url="https://openai.com/index/uber-chatgpt-work-rollout">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Broad access through consistent standards]]></title>
-      <link>https://openai.com/index/broad-access-through-consistent-standards</link>
-      <guid>https://openai.com/index/broad-access-through-consistent-standards</guid>
-      <pubDate>Wed, 21 Oct 2026 21:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.]]></description>
-      <source url="https://openai.com/index/broad-access-through-consistent-standards">OpenAI Blog</source>
     </item>
   </channel>
 </rss>

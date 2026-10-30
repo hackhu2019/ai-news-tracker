@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3183715",
+    "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
+    "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+    "pubDate": "Fri, 30 Oct 2026 21:52:03 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "The new report says the AI lab will likely qualify for a high junk rating."
+  },
+  {
+    "id": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+    "title": "nemotron-halloween",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+    "pubDate": "Fri, 30 Oct 2026 17:57:24 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "title": "Making it easier for websites to express AI training preferences",
+    "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "pubDate": "Fri, 30 Oct 2026 09:30:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
+  },
+  {
+    "id": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+    "title": "Community safety report and new protections for teens",
+    "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+    "pubDate": "Fri, 30 Oct 2026 09:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
+  },
+  {
+    "id": "https://openai.com/index/fair-use-benefits-everyone",
+    "title": "Fair use benefits everyone",
+    "link": "https://openai.com/index/fair-use-benefits-everyone",
+    "pubDate": "Fri, 30 Oct 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
+  },
+  {
     "id": "https://openai.com/index/updated-model-spec",
     "title": "An updated Model Spec for more capable and beneficial AI",
     "link": "https://openai.com/index/updated-model-spec",
@@ -34,6 +79,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
+  },
+  {
+    "id": "https://openai.com/index/credit-saison",
+    "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+    "link": "https://openai.com/index/credit-saison",
+    "pubDate": "Thu, 29 Oct 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption."
   },
   {
     "id": "https://huggingface.co/blog/announcing-project-protostar",
@@ -1744,59 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations."
-  },
-  {
-    "id": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-    "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-    "link": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-    "pubDate": "Wed, 23 Sep 2026 02:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries."
-  },
-  {
-    "id": "https://openai.com/index/airbnb-gpt-6-astra",
-    "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-    "link": "https://openai.com/index/airbnb-gpt-6-astra",
-    "pubDate": "Wed, 23 Sep 2026 01:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster."
-  },
-  {
-    "id": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-    "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-    "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-    "pubDate": "Wed, 23 Sep 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia."
-  },
-  {
-    "id": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-    "title": "Better prompt caching for GPT-6",
-    "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-    "pubDate": "Tue, 22 Sep 2026 21:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs."
-  },
-  {
-    "id": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-    "title": "Introducing GPT-6 Sol and Luna",
-    "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-    "pubDate": "Tue, 22 Sep 2026 18:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3167580",
-    "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-    "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-    "pubDate": "Tue, 22 Sep 2026 16:30:07 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\""
   }
 ]
