@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3184013",
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "pubDate": "Sat, 31 Oct 2026 21:17:03 +0000",
+    "source": "TechCrunch - xAI",
+    "category": "Grok",
+    "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
+  },
+  {
     "id": "https://techcrunch.com/?p=3183715",
     "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
     "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
@@ -1789,14 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1."
-  },
-  {
-    "id": "https://openai.com/index/introducing-mentalhealthbench",
-    "title": "Introducing MentalHealthBench",
-    "link": "https://openai.com/index/introducing-mentalhealthbench",
-    "pubDate": "Wed, 23 Sep 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations."
   }
 ]
