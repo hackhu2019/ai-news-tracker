@@ -5,9 +5,99 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 31 Oct 2026 21:17:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 08:00:00 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Heimstaden is changing residential real estate management with AI]]></title>
+      <link>https://openai.com/index/heimstaden</link>
+      <guid>https://openai.com/index/heimstaden</guid>
+      <pubDate>Tue, 03 Nov 2026 08:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.]]></description>
+      <source url="https://openai.com/index/heimstaden">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Transformers Model Integration Contracts]]></title>
+      <link>https://huggingface.co/blog/transformers-mic</link>
+      <guid>https://huggingface.co/blog/transformers-mic</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/transformers-mic">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic warns that it’s very close to RSI capability, aka self-building AI]]></title>
+      <link>https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/</link>
+      <guid>https://techcrunch.com/?p=3184332</guid>
+      <pubDate>Mon, 02 Nov 2026 22:14:50 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.]]></description>
+      <source url="https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Rewarding defenders with bigger bug bounties]]></title>
+      <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
+      <guid>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.]]></description>
+      <source url="https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Preparing our next security sprint to harden OpenAI]]></title>
+      <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
+      <guid>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.]]></description>
+      <source url="https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Scaling Git at OpenAI]]></title>
+      <link>https://openai.com/index/scaling-git-at-openai</link>
+      <guid>https://openai.com/index/scaling-git-at-openai</guid>
+      <pubDate>Mon, 02 Nov 2026 15:30:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.]]></description>
+      <source url="https://openai.com/index/scaling-git-at-openai">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Introducing the Grid Protectors Program]]></title>
+      <link>https://openai.com/index/grid-protectors-program</link>
+      <guid>https://openai.com/index/grid-protectors-program</guid>
+      <pubDate>Mon, 02 Nov 2026 15:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.]]></description>
+      <source url="https://openai.com/index/grid-protectors-program">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[LifeVal]]></title>
+      <link>https://openai.com/index/lifeval</link>
+      <guid>https://openai.com/index/lifeval</guid>
+      <pubDate>Mon, 02 Nov 2026 09:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.]]></description>
+      <source url="https://openai.com/index/lifeval">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Qodo builds context into AI code review with Codex]]></title>
+      <link>https://openai.com/index/qodo-codex-plugin</link>
+      <guid>https://openai.com/index/qodo-codex-plugin</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.]]></description>
+      <source url="https://openai.com/index/qodo-codex-plugin">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization]]></title>
+      <link>https://openai.com/index/dan-driscoll-joins-openai</link>
+      <guid>https://openai.com/index/dan-driscoll-joins-openai</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.]]></description>
+      <source url="https://openai.com/index/dan-driscoll-joins-openai">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Judge allows NAACP lawsuit over xAI data center pollution to move forward]]></title>
       <link>https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/</link>
@@ -367,96 +457,6 @@
       <category>Grok</category>
       <description><![CDATA[A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.]]></description>
       <source url="https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/">TechCrunch - xAI</source>
-    </item>
-    <item>
-      <title><![CDATA[Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)]]></title>
-      <link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
-      <guid>https://openai.com/index/scaling-storage-one-billion-users-part-two</guid>
-      <pubDate>Fri, 23 Oct 2026 17:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.]]></description>
-      <source url="https://openai.com/index/scaling-storage-one-billion-users-part-two">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[LitPivot: Developing research ideas through dynamic contextualization within the literature landscape]]></title>
-      <link>https://huggingface.co/blog/allenai/litpivot</link>
-      <guid>https://huggingface.co/blog/allenai/litpivot</guid>
-      <pubDate>Fri, 23 Oct 2026 16:15:50 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/allenai/litpivot">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[What some of Anthropic’s backers are reportedly worth before its IPO]]></title>
-      <link>https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/</link>
-      <guid>https://techcrunch.com/?p=3181130</guid>
-      <pubDate>Fri, 23 Oct 2026 16:02:43 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.]]></description>
-      <source url="https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Securing our frontier model training environment]]></title>
-      <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
-      <guid>https://openai.com/index/securing-our-frontier-model-training-environment</guid>
-      <pubDate>Fri, 23 Oct 2026 10:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.]]></description>
-      <source url="https://openai.com/index/securing-our-frontier-model-training-environment">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live]]></title>
-      <link>https://openai.com/index/anima</link>
-      <guid>https://openai.com/index/anima</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.]]></description>
-      <source url="https://openai.com/index/anima">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Does Your Model Run on AWS Trainium? Look It Up]]></title>
-      <link>https://huggingface.co/blog/torch-neuronx-model-support</link>
-      <guid>https://huggingface.co/blog/torch-neuronx-model-support</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/torch-neuronx-model-support">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI and Poland’s NASK partner to advance AI safety and security]]></title>
-      <link>https://openai.com/index/openai-nask-ai-safety-security-partnership</link>
-      <guid>https://openai.com/index/openai-nask-ai-safety-security-partnership</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.]]></description>
-      <source url="https://openai.com/index/openai-nask-ai-safety-security-partnership">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox]]></title>
-      <link>https://huggingface.co/blog/microsoft/thinkingbox-training</link>
-      <guid>https://huggingface.co/blog/microsoft/thinkingbox-training</guid>
-      <pubDate>Thu, 22 Oct 2026 22:24:34 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/microsoft/thinkingbox-training">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Build more responsive apps with the Decisions API]]></title>
-      <link>https://openai.com/index/decisions-api</link>
-      <guid>https://openai.com/index/decisions-api</guid>
-      <pubDate>Thu, 22 Oct 2026 19:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Fast, focused, low-cost decisions for any application.]]></description>
-      <source url="https://openai.com/index/decisions-api">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[OlmoEarth v1.3: State-of-the-art embeddings for the whole planet]]></title>
-      <link>https://huggingface.co/blog/allenai/olmoearth-v1-3</link>
-      <guid>https://huggingface.co/blog/allenai/olmoearth-v1-3</guid>
-      <pubDate>Thu, 22 Oct 2026 16:11:31 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/allenai/olmoearth-v1-3">Hugging Face Blog</source>
     </item>
   </channel>
 </rss>

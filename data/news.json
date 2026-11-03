@@ -1,5 +1,95 @@
 [
   {
+    "id": "https://openai.com/index/heimstaden",
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "link": "https://openai.com/index/heimstaden",
+    "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
+  },
+  {
+    "id": "https://huggingface.co/blog/transformers-mic",
+    "title": "Transformers Model Integration Contracts",
+    "link": "https://huggingface.co/blog/transformers-mic",
+    "pubDate": "Tue, 03 Nov 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/?p=3184332",
+    "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+    "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+    "pubDate": "Mon, 02 Nov 2026 22:14:50 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return."
+  },
+  {
+    "id": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "title": "Rewarding defenders with bigger bug bounties",
+    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "pubDate": "Mon, 02 Nov 2026 18:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
+  },
+  {
+    "id": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "pubDate": "Mon, 02 Nov 2026 18:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
+  },
+  {
+    "id": "https://openai.com/index/scaling-git-at-openai",
+    "title": "Scaling Git at OpenAI",
+    "link": "https://openai.com/index/scaling-git-at-openai",
+    "pubDate": "Mon, 02 Nov 2026 15:30:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
+  },
+  {
+    "id": "https://openai.com/index/grid-protectors-program",
+    "title": "Introducing the Grid Protectors Program",
+    "link": "https://openai.com/index/grid-protectors-program",
+    "pubDate": "Mon, 02 Nov 2026 15:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
+  },
+  {
+    "id": "https://openai.com/index/lifeval",
+    "title": "LifeVal",
+    "link": "https://openai.com/index/lifeval",
+    "pubDate": "Mon, 02 Nov 2026 09:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork."
+  },
+  {
+    "id": "https://openai.com/index/qodo-codex-plugin",
+    "title": "Qodo builds context into AI code review with Codex",
+    "link": "https://openai.com/index/qodo-codex-plugin",
+    "pubDate": "Mon, 02 Nov 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request."
+  },
+  {
+    "id": "https://openai.com/index/dan-driscoll-joins-openai",
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "link": "https://openai.com/index/dan-driscoll-joins-openai",
+    "pubDate": "Mon, 02 Nov 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies."
+  },
+  {
     "id": "https://techcrunch.com/?p=3184013",
     "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
     "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
@@ -1708,95 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop."
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-    "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-    "pubDate": "Wed, 23 Sep 2026 18:41:40 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-    "title": "Advancing Private AI Compute with secure, server-side memory",
-    "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-    "pubDate": "Wed, 23 Sep 2026 16:00:57 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Introducing private, server-side memory to Private AI Compute for personal AI."
-  },
-  {
-    "id": "https://openai.com/index/two-years-of-openai-academy",
-    "title": "Two years of OpenAI Academy",
-    "link": "https://openai.com/index/two-years-of-openai-academy",
-    "pubDate": "Wed, 23 Sep 2026 16:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
-  },
-  {
-    "id": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-    "title": "Gemini 3.8 text-to-speech says hello",
-    "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-    "pubDate": "Wed, 23 Sep 2026 15:25:14 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-    "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-    "pubDate": "Wed, 23 Sep 2026 13:17:01 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-    "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-    "pubDate": "Wed, 23 Sep 2026 13:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
-  },
-  {
-    "id": "https://openai.com/index/sam-altman-un-security-council-remarks",
-    "title": "Sam Altman’s remarks at the United Nations Security Council",
-    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-    "pubDate": "Wed, 23 Sep 2026 12:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
-  },
-  {
-    "id": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "pubDate": "Wed, 23 Sep 2026 12:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy."
-  },
-  {
-    "id": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-    "pubDate": "Wed, 23 Sep 2026 12:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day."
-  },
-  {
-    "id": "https://openai.com/index/ringg",
-    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "link": "https://openai.com/index/ringg",
-    "pubDate": "Wed, 23 Sep 2026 12:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1."
   }
 ]
