@@ -5,9 +5,72 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 03 Nov 2026 08:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 22:41:03 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Anthropic is working on a system to prove AI models’ identity]]></title>
+      <link>https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/</link>
+      <guid>https://techcrunch.com/?p=3184891</guid>
+      <pubDate>Tue, 03 Nov 2026 22:41:03 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.]]></description>
+      <source url="https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[StateBench: Testing how language models track state changes over long documents]]></title>
+      <link>https://huggingface.co/blog/allenai/statebench</link>
+      <guid>https://huggingface.co/blog/allenai/statebench</guid>
+      <pubDate>Tue, 03 Nov 2026 17:15:21 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/allenai/statebench">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic is still grappling with the economics of compute]]></title>
+      <link>https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/</link>
+      <guid>https://techcrunch.com/?p=3184638</guid>
+      <pubDate>Tue, 03 Nov 2026 17:07:01 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[At a moment when Anthropic's compute margins should be getting better, they’re getting worse.]]></description>
+      <source url="https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Agentic cheminformatics with Google Antigravity]]></title>
+      <link>https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/</link>
+      <guid>https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/</guid>
+      <pubDate>Tue, 03 Nov 2026 17:01:49 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.]]></description>
+      <source url="https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/">Google DeepMind Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Palette: teaching a small model to build decks in your design language]]></title>
+      <link>https://huggingface.co/blog/ibm-research/palette-deck-building</link>
+      <guid>https://huggingface.co/blog/ibm-research/palette-deck-building</guid>
+      <pubDate>Tue, 03 Nov 2026 16:35:36 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/ibm-research/palette-deck-building">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Accelerating engineering for the physical world]]></title>
+      <link>https://openai.com/index/accelerating-engineering-for-the-physical-world</link>
+      <guid>https://openai.com/index/accelerating-engineering-for-the-physical-world</guid>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.]]></description>
+      <source url="https://openai.com/index/accelerating-engineering-for-the-physical-world">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[How Cisco defends at machine speed with OpenAI]]></title>
+      <link>https://openai.com/index/cisco-cyber</link>
+      <guid>https://openai.com/index/cisco-cyber</guid>
+      <pubDate>Tue, 03 Nov 2026 08:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.]]></description>
+      <source url="https://openai.com/index/cisco-cyber">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Heimstaden is changing residential real estate management with AI]]></title>
       <link>https://openai.com/index/heimstaden</link>
@@ -16,6 +79,24 @@
       <category>ChatGPT</category>
       <description><![CDATA[Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.]]></description>
       <source url="https://openai.com/index/heimstaden">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer]]></title>
+      <link>https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer</link>
+      <guid>https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.]]></description>
+      <source url="https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[CWE-bench v2: More coverage, quality, and transparency]]></title>
+      <link>https://huggingface.co/blog/cwe-bench</link>
+      <guid>https://huggingface.co/blog/cwe-bench</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/cwe-bench">Hugging Face Blog</source>
     </item>
     <item>
       <title><![CDATA[Transformers Model Integration Contracts]]></title>
@@ -126,6 +207,15 @@
       <source url="https://huggingface.co/blog/nvidia/nemotron-halloween">Hugging Face Blog</source>
     </item>
     <item>
+      <title><![CDATA[Speeding up planning decisions with AI]]></title>
+      <link>https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/</link>
+      <guid>https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/</guid>
+      <pubDate>Fri, 30 Oct 2026 14:18:30 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[Google DeepMind and UK government work together to reduce planning assessment times]]></description>
+      <source url="https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/">Google DeepMind Blog</source>
+    </item>
+    <item>
       <title><![CDATA[Making it easier for websites to express AI training preferences]]></title>
       <link>https://openai.com/index/helping-websites-express-ai-training-preferences</link>
       <guid>https://openai.com/index/helping-websites-express-ai-training-preferences</guid>
@@ -223,6 +313,15 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/anydecisionmodel">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Evernote turns AI-driven discovery into paid subscriptions]]></title>
+      <link>https://openai.com/ads/customers/evernote</link>
+      <guid>https://openai.com/ads/customers/evernote</guid>
+      <pubDate>Wed, 28 Oct 2026 19:40:49 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.]]></description>
+      <source url="https://openai.com/ads/customers/evernote">OpenAI Blog</source>
     </item>
     <item>
       <title><![CDATA[Anthropic just launched tools to show companies what their AI spending is buying]]></title>
@@ -358,105 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.]]></description>
       <source url="https://openai.com/index/check-point-daybreak">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Greptile takes bug detection beyond code review with GPT-6 Astra]]></title>
-      <link>https://openai.com/index/greptile-code-review-codex-astra</link>
-      <guid>https://openai.com/index/greptile-code-review-codex-astra</guid>
-      <pubDate>Mon, 26 Oct 2026 22:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.]]></description>
-      <source url="https://openai.com/index/greptile-code-review-codex-astra">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked]]></title>
-      <link>https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/</link>
-      <guid>https://techcrunch.com/?p=3181689</guid>
-      <pubDate>Mon, 26 Oct 2026 16:49:42 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise cust]]></description>
-      <source url="https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic officially files for its public debut]]></title>
-      <link>https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/</link>
-      <guid>https://techcrunch.com/?p=3181633</guid>
-      <pubDate>Mon, 26 Oct 2026 14:35:22 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI sa]]></description>
-      <source url="https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases]]></title>
-      <link>https://openai.com/index/gpt-6-1-sol-coderabbit-code-security</link>
-      <guid>https://openai.com/index/gpt-6-1-sol-coderabbit-code-security</guid>
-      <pubDate>Mon, 26 Oct 2026 13:45:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.]]></description>
-      <source url="https://openai.com/index/gpt-6-1-sol-coderabbit-code-security">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[ChatGPT’s expanding world of work]]></title>
-      <link>https://openai.com/index/chatgpt-expanding-world-of-work</link>
-      <guid>https://openai.com/index/chatgpt-expanding-world-of-work</guid>
-      <pubDate>Mon, 26 Oct 2026 10:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.]]></description>
-      <source url="https://openai.com/index/chatgpt-expanding-world-of-work">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How Fanatics and OpenAI streamline the fan experience]]></title>
-      <link>https://openai.com/index/fanatics-streamline-fan-experience</link>
-      <guid>https://openai.com/index/fanatics-streamline-fan-experience</guid>
-      <pubDate>Mon, 26 Oct 2026 07:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.]]></description>
-      <source url="https://openai.com/index/fanatics-streamline-fan-experience">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How Ultrafast cut incident investigation from hours to minutes at OpenAI]]></title>
-      <link>https://openai.com/index/openai-cut-incident-investigation</link>
-      <guid>https://openai.com/index/openai-cut-incident-investigation</guid>
-      <pubDate>Mon, 26 Oct 2026 07:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.]]></description>
-      <source url="https://openai.com/index/openai-cut-incident-investigation">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Working with academic communities to build scientific understanding]]></title>
-      <link>https://openai.com/index/building-scientific-understanding-with-academic-communities</link>
-      <guid>https://openai.com/index/building-scientific-understanding-with-academic-communities</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.]]></description>
-      <source url="https://openai.com/index/building-scientific-understanding-with-academic-communities">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Introducing GPT-6.1 Terra]]></title>
-      <link>https://openai.com/index/introducing-gpt-6-1-terra</link>
-      <guid>https://openai.com/index/introducing-gpt-6-1-terra</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Bringing fast and capable computer use to everyone]]></description>
-      <source url="https://openai.com/index/introducing-gpt-6-1-terra">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Grok releases the first seven minutes of its AI-generated ‘Odyssey’]]></title>
-      <link>https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/</link>
-      <guid>https://techcrunch.com/?p=3181554</guid>
-      <pubDate>Sun, 25 Oct 2026 21:31:16 +0000</pubDate>
-      <category>Grok</category>
-      <description><![CDATA[The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.]]></description>
-      <source url="https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/">TechCrunch - xAI</source>
-    </item>
-    <item>
-      <title><![CDATA[Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. ]]></title>
-      <link>https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/</link>
-      <guid>https://techcrunch.com/?p=3181243</guid>
-      <pubDate>Sat, 24 Oct 2026 15:00:00 +0000</pubDate>
-      <category>Grok</category>
-      <description><![CDATA[A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.]]></description>
-      <source url="https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/">TechCrunch - xAI</source>
     </item>
   </channel>
 </rss>

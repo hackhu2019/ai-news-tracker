@@ -1,5 +1,68 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3184891",
+    "title": "Anthropic is working on a system to prove AI models’ identity",
+    "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+    "pubDate": "Tue, 03 Nov 2026 22:41:03 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from."
+  },
+  {
+    "id": "https://huggingface.co/blog/allenai/statebench",
+    "title": "StateBench: Testing how language models track state changes over long documents",
+    "link": "https://huggingface.co/blog/allenai/statebench",
+    "pubDate": "Tue, 03 Nov 2026 17:15:21 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/?p=3184638",
+    "title": "Anthropic is still grappling with the economics of compute",
+    "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+    "pubDate": "Tue, 03 Nov 2026 17:07:01 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse."
+  },
+  {
+    "id": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "title": "Agentic cheminformatics with Google Antigravity",
+    "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "pubDate": "Tue, 03 Nov 2026 17:01:49 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles."
+  },
+  {
+    "id": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "title": "Palette: teaching a small model to build decks in your design language",
+    "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "pubDate": "Tue, 03 Nov 2026 16:35:36 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "title": "Accelerating engineering for the physical world",
+    "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "pubDate": "Tue, 03 Nov 2026 12:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world."
+  },
+  {
+    "id": "https://openai.com/index/cisco-cyber",
+    "title": "How Cisco defends at machine speed with OpenAI",
+    "link": "https://openai.com/index/cisco-cyber",
+    "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses."
+  },
+  {
     "id": "https://openai.com/index/heimstaden",
     "title": "Heimstaden is changing residential real estate management with AI",
     "link": "https://openai.com/index/heimstaden",
@@ -7,6 +70,24 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
+  },
+  {
+    "id": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+    "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+    "pubDate": "Tue, 03 Nov 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning."
+  },
+  {
+    "id": "https://huggingface.co/blog/cwe-bench",
+    "title": "CWE-bench v2: More coverage, quality, and transparency",
+    "link": "https://huggingface.co/blog/cwe-bench",
+    "pubDate": "Tue, 03 Nov 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
   },
   {
     "id": "https://huggingface.co/blog/transformers-mic",
@@ -117,6 +198,15 @@
     "summary": ""
   },
   {
+    "id": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+    "title": "Speeding up planning decisions with AI",
+    "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+    "pubDate": "Fri, 30 Oct 2026 14:18:30 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": "Google DeepMind and UK government work together to reduce planning assessment times"
+  },
+  {
     "id": "https://openai.com/index/helping-websites-express-ai-training-preferences",
     "title": "Making it easier for websites to express AI training preferences",
     "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
@@ -214,6 +304,15 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
+  },
+  {
+    "id": "https://openai.com/ads/customers/evernote",
+    "title": "Evernote turns AI-driven discovery into paid subscriptions",
+    "link": "https://openai.com/ads/customers/evernote",
+    "pubDate": "Wed, 28 Oct 2026 19:40:49 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions."
   },
   {
     "id": "https://techcrunch.com/?p=3182643",
@@ -1699,104 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3170300",
-    "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-    "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-    "pubDate": "Sun, 27 Sep 2026 16:30:00 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "\"AI is the devil and I its maker.\""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3169815",
-    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-    "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-    "pubDate": "Fri, 25 Sep 2026 19:13:38 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a"
-  },
-  {
-    "id": "https://openai.com/index/proaction",
-    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-    "link": "https://openai.com/index/proaction",
-    "pubDate": "Fri, 25 Sep 2026 19:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster."
-  },
-  {
-    "id": "https://techcrunch.com/?post_type=tc_podcast&p=3169914",
-    "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-    "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-    "pubDate": "Fri, 25 Sep 2026 18:22:47 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic ro"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3169728",
-    "title": "Astra and Opus just passed Turing’s other test",
-    "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-    "pubDate": "Fri, 25 Sep 2026 17:24:36 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3169652",
-    "title": "Anthropic’s founders seek voting control ahead of IPO",
-    "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-    "pubDate": "Fri, 25 Sep 2026 15:40:03 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic is asking its shareholders to approve a  structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters."
-  },
-  {
-    "id": "https://openai.com/index/lowes",
-    "title": "Lowe’s answers millions of home improvement questions with OpenAI",
-    "link": "https://openai.com/index/lowes",
-    "pubDate": "Fri, 25 Sep 2026 07:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Lowe’s uses OpenAI models to power Mylow and Mylow Companion, helping customers and associates answer 25M+ questions and move home improvement projects forward."
-  },
-  {
-    "id": "https://openai.com/index/wayfair",
-    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-    "link": "https://openai.com/index/wayfair",
-    "pubDate": "Fri, 25 Sep 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale."
-  },
-  {
-    "id": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-    "title": "Introducing Gemini 3.8 Live with Live Avatar",
-    "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-    "pubDate": "Thu, 24 Sep 2026 16:20:39 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-    "pubDate": "Thu, 24 Sep 2026 14:08:57 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3168463",
-    "title": "Anthropic says its biology lab has already found something big",
-    "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-    "pubDate": "Wed, 23 Sep 2026 22:17:39 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop."
   }
 ]
