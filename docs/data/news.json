@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+    "title": "Setting a new standard for responsible AI infrastructure",
+    "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+    "pubDate": "Thu, 05 Nov 2026 02:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
+  },
+  {
+    "id": "https://huggingface.co/blog/phonon-tts",
+    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+    "link": "https://huggingface.co/blog/phonon-tts",
+    "pubDate": "Thu, 05 Nov 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
     "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
     "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
@@ -1780,23 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3170644",
-    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-    "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-    "pubDate": "Mon, 28 Sep 2026 18:00:00 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3170437",
-    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-    "pubDate": "Mon, 28 Sep 2026 15:30:00 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass."
   }
 ]

@@ -5,9 +5,27 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 04 Nov 2026 17:50:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 02:00:00 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Setting a new standard for responsible AI infrastructure]]></title>
+      <link>https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</link>
+      <guid>https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</guid>
+      <pubDate>Thu, 05 Nov 2026 02:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.]]></description>
+      <source url="https://openai.com/index/setting-new-standard-responsible-ai-infrastructure">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.]]></title>
+      <link>https://huggingface.co/blog/phonon-tts</link>
+      <guid>https://huggingface.co/blog/phonon-tts</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/phonon-tts">Hugging Face Blog</source>
+    </item>
     <item>
       <title><![CDATA[Dharma Field Extractor: Any Document In, Structured Fields in JSON Out]]></title>
       <link>https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</link>
@@ -439,24 +457,6 @@
       <category>Claude</category>
       <description><![CDATA[Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.]]></description>
       <source url="https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Who’s really in charge at Anthropic after the IPO?]]></title>
-      <link>https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/</link>
-      <guid>https://techcrunch.com/?p=3182153</guid>
-      <pubDate>Tue, 27 Oct 2026 21:38:28 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Here's a clear explanation of Anthropic's incredibly complex governance structure.]]></description>
-      <source url="https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Build specialized multimodal models with LFM3]]></title>
-      <link>https://huggingface.co/blog/LiquidAI/lfm3</link>
-      <guid>https://huggingface.co/blog/LiquidAI/lfm3</guid>
-      <pubDate>Tue, 27 Oct 2026 17:16:52 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/LiquidAI/lfm3">Hugging Face Blog</source>
     </item>
   </channel>
 </rss>
