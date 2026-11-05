@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+    "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+    "pubDate": "Wed, 04 Nov 2026 17:50:10 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/openai-to-acquire-pierre",
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "link": "https://openai.com/index/openai-to-acquire-pierre",
+    "pubDate": "Wed, 04 Nov 2026 14:30:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
+  },
+  {
+    "id": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "title": "A thousand fewer paths to root",
+    "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "pubDate": "Wed, 04 Nov 2026 08:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
+  },
+  {
+    "id": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "pubDate": "Wed, 04 Nov 2026 07:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
+  },
+  {
+    "id": "https://openai.com/index/introducing-images-2-6",
+    "title": "Introducing Images 2.6",
+    "link": "https://openai.com/index/introducing-images-2-6",
+    "pubDate": "Wed, 04 Nov 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API."
+  },
+  {
+    "id": "https://openai.com/index/devrev-enterprise-self-service",
+    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+    "link": "https://openai.com/index/devrev-enterprise-self-service",
+    "pubDate": "Wed, 04 Nov 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service."
+  },
+  {
     "id": "https://techcrunch.com/?p=3184891",
     "title": "Anthropic is working on a system to prove AI models’ identity",
     "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
@@ -1744,59 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass."
-  },
-  {
-    "id": "https://huggingface.co/blog/Hcompany/holo4",
-    "title": "Holo4: powering generalist computer-use agents",
-    "link": "https://huggingface.co/blog/Hcompany/holo4",
-    "pubDate": "Mon, 28 Sep 2026 09:44:05 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-    "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-    "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support."
-  },
-  {
-    "id": "https://huggingface.co/blog/rl-environments",
-    "title": "Welcome RL Environments to the hub",
-    "link": "https://huggingface.co/blog/rl-environments",
-    "pubDate": "Mon, 28 Sep 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/form/codex-originals",
-    "title": "Are you a Codex Original?",
-    "link": "https://openai.com/form/codex-originals",
-    "pubDate": "Mon, 28 Sep 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program"
-  },
-  {
-    "id": "https://openai.com/index/basis-tax-workbook-with-astra",
-    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "link": "https://openai.com/index/basis-tax-workbook-with-astra",
-    "pubDate": "Mon, 28 Sep 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3170341",
-    "title": "Anthropic’s CEO is about to have dinner with President Trump",
-    "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-    "pubDate": "Sun, 27 Sep 2026 20:34:28 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump"
   }
 ]

@@ -5,9 +5,63 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 03 Nov 2026 22:41:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 17:50:10 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Dharma Field Extractor: Any Document In, Structured Fields in JSON Out]]></title>
+      <link>https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</link>
+      <guid>https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</guid>
+      <pubDate>Wed, 04 Nov 2026 17:50:10 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/Dharma-AI/dharma-field-extractor">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI to acquire Pierre Computer Company, Inc.]]></title>
+      <link>https://openai.com/index/openai-to-acquire-pierre</link>
+      <guid>https://openai.com/index/openai-to-acquire-pierre</guid>
+      <pubDate>Wed, 04 Nov 2026 14:30:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.]]></description>
+      <source url="https://openai.com/index/openai-to-acquire-pierre">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[A thousand fewer paths to root]]></title>
+      <link>https://openai.com/index/a-thousand-fewer-paths-to-root</link>
+      <guid>https://openai.com/index/a-thousand-fewer-paths-to-root</guid>
+      <pubDate>Wed, 04 Nov 2026 08:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.]]></description>
+      <source url="https://openai.com/index/a-thousand-fewer-paths-to-root">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Daybreak Red is now available in AWS GovCloud (US-East)]]></title>
+      <link>https://openai.com/index/daybreak-red-aws-govcloud</link>
+      <guid>https://openai.com/index/daybreak-red-aws-govcloud</guid>
+      <pubDate>Wed, 04 Nov 2026 07:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.]]></description>
+      <source url="https://openai.com/index/daybreak-red-aws-govcloud">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Introducing Images 2.6]]></title>
+      <link>https://openai.com/index/introducing-images-2-6</link>
+      <guid>https://openai.com/index/introducing-images-2-6</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.]]></description>
+      <source url="https://openai.com/index/introducing-images-2-6">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[DevRev delivers autonomous self-service with GPT-6.1 Sol]]></title>
+      <link>https://openai.com/index/devrev-enterprise-self-service</link>
+      <guid>https://openai.com/index/devrev-enterprise-self-service</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.]]></description>
+      <source url="https://openai.com/index/devrev-enterprise-self-service">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Anthropic is working on a system to prove AI models’ identity]]></title>
       <link>https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/</link>
@@ -403,60 +457,6 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/LiquidAI/lfm3">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?]]></title>
-      <link>https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/</link>
-      <guid>https://techcrunch.com/?p=3182002</guid>
-      <pubDate>Tue, 27 Oct 2026 17:08:08 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.]]></description>
-      <source url="https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Can we trust LLMs to judge whether a research idea is novel?]]></title>
-      <link>https://huggingface.co/blog/allenai/novelty-bench</link>
-      <guid>https://huggingface.co/blog/allenai/novelty-bench</guid>
-      <pubDate>Tue, 27 Oct 2026 16:12:42 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/allenai/novelty-bench">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Genie 4: A new generation of world simulation]]></title>
-      <link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</link>
-      <guid>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</guid>
-      <pubDate>Tue, 27 Oct 2026 16:01:38 +0000</pubDate>
-      <category>Gemini</category>
-      <description><![CDATA[Genie 4: our new world model unlocking unprecedented realism in real-time simulation.]]></description>
-      <source url="https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/">Google DeepMind Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Retell uses OpenAI models to help power 100M monthly calls]]></title>
-      <link>https://openai.com/index/retell-ai</link>
-      <guid>https://openai.com/index/retell-ai</guid>
-      <pubDate>Tue, 27 Oct 2026 15:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.]]></description>
-      <source url="https://openai.com/index/retell-ai">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI expands partnership with Oracle to bring its apps to ChatGPT]]></title>
-      <link>https://openai.com/index/oracle-apps-in-chatgpt</link>
-      <guid>https://openai.com/index/oracle-apps-in-chatgpt</guid>
-      <pubDate>Tue, 27 Oct 2026 07:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.]]></description>
-      <source url="https://openai.com/index/oracle-apps-in-chatgpt">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How Check Point accelerates vulnerability research with Daybreak]]></title>
-      <link>https://openai.com/index/check-point-daybreak</link>
-      <guid>https://openai.com/index/check-point-daybreak</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.]]></description>
-      <source url="https://openai.com/index/check-point-daybreak">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
