@@ -5,9 +5,45 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 06 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 15:54:47 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Ramp data shows AI spending stalling just as Anthropic nears its IPO]]></title>
+      <link>https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/</link>
+      <guid>https://techcrunch.com/?p=3185848</guid>
+      <pubDate>Fri, 06 Nov 2026 15:54:47 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.]]></description>
+      <source url="https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[ToyBlocks: A controlled world for robot learning and evaluation]]></title>
+      <link>https://huggingface.co/blog/allenai/toyblocks</link>
+      <guid>https://huggingface.co/blog/allenai/toyblocks</guid>
+      <pubDate>Fri, 06 Nov 2026 14:00:48 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/allenai/toyblocks">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Partnering with Hacktron to find vulnerabilities in OpenAI’s systems]]></title>
+      <link>https://openai.com/index/partnering-with-hacktron</link>
+      <guid>https://openai.com/index/partnering-with-hacktron</guid>
+      <pubDate>Fri, 06 Nov 2026 08:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.]]></description>
+      <source url="https://openai.com/index/partnering-with-hacktron">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Measuring how AI agents handle everyday wet-lab science]]></title>
+      <link>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</link>
+      <guid>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.]]></description>
+      <source url="https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Egyptian and Nigerian English join the Open ASR Leaderboard]]></title>
       <link>https://huggingface.co/blog/open-asr-leaderboard-liva</link>
@@ -421,42 +457,6 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How we detect frontier model misalignment]]></title>
-      <link>https://openai.com/index/how-we-detect-frontier-model-misalignment</link>
-      <guid>https://openai.com/index/how-we-detect-frontier-model-misalignment</guid>
-      <pubDate>Thu, 29 Oct 2026 09:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.]]></description>
-      <source url="https://openai.com/index/how-we-detect-frontier-model-misalignment">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How Ropes & Gray is developing AI for transactional diligence]]></title>
-      <link>https://openai.com/index/ropes-gray-ai-diligence</link>
-      <guid>https://openai.com/index/ropes-gray-ai-diligence</guid>
-      <pubDate>Thu, 29 Oct 2026 07:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.]]></description>
-      <source url="https://openai.com/index/ropes-gray-ai-diligence">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot]]></title>
-      <link>https://openai.com/index/credit-saison</link>
-      <guid>https://openai.com/index/credit-saison</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.]]></description>
-      <source url="https://openai.com/index/credit-saison">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready]]></title>
-      <link>https://huggingface.co/blog/announcing-project-protostar</link>
-      <guid>https://huggingface.co/blog/announcing-project-protostar</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/announcing-project-protostar">Hugging Face Blog</source>
     </item>
   </channel>
 </rss>
