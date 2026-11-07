@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3186034",
+    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "pubDate": "Fri, 06 Nov 2026 22:53:46 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
+  },
+  {
     "id": "https://techcrunch.com/?p=3185848",
     "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
     "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
@@ -1789,14 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
-  },
-  {
-    "id": "https://huggingface.co/blog/allenai/olmocore3",
-    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-    "link": "https://huggingface.co/blog/allenai/olmocore3",
-    "pubDate": "Thu, 01 Oct 2026 15:01:43 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
   }
 ]

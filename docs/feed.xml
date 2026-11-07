@@ -5,9 +5,18 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 06 Nov 2026 15:54:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 22:53:46 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation]]></title>
+      <link>https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/</link>
+      <guid>https://techcrunch.com/?p=3186034</guid>
+      <pubDate>Fri, 06 Nov 2026 22:53:46 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.]]></description>
+      <source url="https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/">TechCrunch - Anthropic</source>
+    </item>
     <item>
       <title><![CDATA[Ramp data shows AI spending stalling just as Anthropic nears its IPO]]></title>
       <link>https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/</link>
@@ -448,15 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.]]></description>
       <source url="https://openai.com/index/updated-model-spec">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Granite Switch 4.1.1 — Update models like you update software]]></title>
-      <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</link>
-      <guid>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</guid>
-      <pubDate>Thu, 29 Oct 2026 13:37:07 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1">Hugging Face Blog</source>
     </item>
   </channel>
 </rss>
