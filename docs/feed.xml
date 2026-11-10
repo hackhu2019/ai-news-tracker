@@ -5,9 +5,45 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 09 Nov 2026 19:24:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 14:01:39 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion]]></title>
+      <link>https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/</link>
+      <guid>https://techcrunch.com/?p=3186772</guid>
+      <pubDate>Tue, 10 Nov 2026 14:01:39 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.]]></description>
+      <source url="https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Helping caregivers use AI in everyday life]]></title>
+      <link>https://openai.com/index/helping-caregivers-use-ai-in-everyday-life</link>
+      <guid>https://openai.com/index/helping-caregivers-use-ai-in-everyday-life</guid>
+      <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.]]></description>
+      <source url="https://openai.com/index/helping-caregivers-use-ai-in-everyday-life">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Closing the AI guidance gap in education]]></title>
+      <link>https://openai.com/index/closing-ai-guidance-gap-education</link>
+      <guid>https://openai.com/index/closing-ai-guidance-gap-education</guid>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.]]></description>
+      <source url="https://openai.com/index/closing-ai-guidance-gap-education">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic reportedly plans to move forward with IPO plans]]></title>
+      <link>https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/</link>
+      <guid>https://techcrunch.com/?p=3186715</guid>
+      <pubDate>Tue, 10 Nov 2026 01:27:12 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[The AI company is expected to set its valuation range this week, the Wall Street Journal reported.]]></description>
+      <source url="https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/">TechCrunch - Anthropic</source>
+    </item>
     <item>
       <title><![CDATA[Anthropic releases new Mythos and Fable models amid RSI concerns]]></title>
       <link>https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/</link>
@@ -421,42 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.]]></description>
       <source url="https://openai.com/index/scaling-git-at-openai">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Introducing the Grid Protectors Program]]></title>
-      <link>https://openai.com/index/grid-protectors-program</link>
-      <guid>https://openai.com/index/grid-protectors-program</guid>
-      <pubDate>Mon, 02 Nov 2026 15:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.]]></description>
-      <source url="https://openai.com/index/grid-protectors-program">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[LifeVal]]></title>
-      <link>https://openai.com/index/lifeval</link>
-      <guid>https://openai.com/index/lifeval</guid>
-      <pubDate>Mon, 02 Nov 2026 09:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.]]></description>
-      <source url="https://openai.com/index/lifeval">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Qodo builds context into AI code review with Codex]]></title>
-      <link>https://openai.com/index/qodo-codex-plugin</link>
-      <guid>https://openai.com/index/qodo-codex-plugin</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.]]></description>
-      <source url="https://openai.com/index/qodo-codex-plugin">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization]]></title>
-      <link>https://openai.com/index/dan-driscoll-joins-openai</link>
-      <guid>https://openai.com/index/dan-driscoll-joins-openai</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.]]></description>
-      <source url="https://openai.com/index/dan-driscoll-joins-openai">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
