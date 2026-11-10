@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3186369",
+    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+    "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+    "pubDate": "Mon, 09 Nov 2026 19:24:51 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users."
+  },
+  {
+    "id": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "pubDate": "Mon, 09 Nov 2026 19:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3186273",
+    "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+    "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+    "pubDate": "Mon, 09 Nov 2026 16:56:54 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse."
+  },
+  {
+    "id": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context ",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "pubDate": "Mon, 09 Nov 2026 15:05:57 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/control-room",
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "link": "https://openai.com/index/control-room",
+    "pubDate": "Mon, 09 Nov 2026 13:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
+  },
+  {
+    "id": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+    "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+    "pubDate": "Mon, 09 Nov 2026 12:34:29 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/coderabbit-codex-daybreak",
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "link": "https://openai.com/index/coderabbit-codex-daybreak",
+    "pubDate": "Mon, 09 Nov 2026 08:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team."
+  },
+  {
+    "id": "https://openai.com/index/kuken",
+    "title": "Kuken Industries searches 70 years of drawings in minutes",
+    "link": "https://openai.com/index/kuken",
+    "pubDate": "Mon, 09 Nov 2026 08:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour."
+  },
+  {
     "id": "https://techcrunch.com/?p=3186034",
     "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
     "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
@@ -1726,77 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump call"
-  },
-  {
-    "id": "https://openai.com/index/practical-guide-building-gpt-6",
-    "title": "A model guide for the GPT-6 family",
-    "link": "https://openai.com/index/practical-guide-building-gpt-6",
-    "pubDate": "Fri, 02 Oct 2026 16:15:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
-  },
-  {
-    "id": "https://huggingface.co/blog/allenai/astabrief",
-    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-    "link": "https://huggingface.co/blog/allenai/astabrief",
-    "pubDate": "Fri, 02 Oct 2026 15:19:50 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3173140",
-    "title": "Medical records giant Epic pauses product development to fix security bugs that risk patients’ data",
-    "link": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
-    "pubDate": "Fri, 02 Oct 2026 13:23:09 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "The health tech software giant, which makes the widely used MyChart system for accessing medical data, will focus on fixing security bugs for the next few weeks."
-  },
-  {
-    "id": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-    "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-    "pubDate": "Fri, 02 Oct 2026 04:01:31 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/chatham-financial",
-    "title": "Chatham scales its capital markets expertise with OpenAI",
-    "link": "https://openai.com/index/chatham-financial",
-    "pubDate": "Fri, 02 Oct 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3172744",
-    "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-    "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
-    "pubDate": "Thu, 01 Oct 2026 17:50:19 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples."
-  },
-  {
-    "id": "https://openai.com/index/the-eternal-complement",
-    "title": "The eternal complement",
-    "link": "https://openai.com/index/the-eternal-complement",
-    "pubDate": "Thu, 01 Oct 2026 17:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress."
-  },
-  {
-    "id": "https://openai.com/index/albertsons-reimagining-retail",
-    "title": "How Albertsons Companies is reimagining retail from the inside out",
-    "link": "https://openai.com/index/albertsons-reimagining-retail",
-    "pubDate": "Thu, 01 Oct 2026 16:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
   }
 ]
