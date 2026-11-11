@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "pubDate": "Thu, 12 Nov 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+  },
+  {
     "id": "https://techcrunch.com/?p=3187145",
     "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
     "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
@@ -1789,14 +1798,5 @@
     "source": "Google DeepMind Blog",
     "category": "Gemini",
     "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/atlassian-partnership",
-    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-    "link": "https://openai.com/index/atlassian-partnership",
-    "pubDate": "Tue, 06 Oct 2026 16:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work."
   }
 ]
