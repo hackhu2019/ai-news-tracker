@@ -9,6 +9,24 @@
     "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
   },
   {
+    "id": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "pubDate": "Wed, 11 Nov 2026 08:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+  },
+  {
+    "id": "https://huggingface.co/blog/qvac/botpsy",
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "link": "https://huggingface.co/blog/qvac/botpsy",
+    "pubDate": "Wed, 11 Nov 2026 05:01:16 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/?p=3187145",
     "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
     "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
@@ -36,6 +54,15 @@
     "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such "
   },
   {
+    "id": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+    "title": "Gemini 4 Carbon is now available",
+    "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+    "pubDate": "Tue, 10 Nov 2026 16:03:47 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/?p=3186772",
     "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
     "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
@@ -43,6 +70,15 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis."
+  },
+  {
+    "id": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "pubDate": "Tue, 10 Nov 2026 12:02:28 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption."
   },
   {
     "id": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
@@ -72,6 +108,15 @@
     "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
   },
   {
+    "id": "https://openai.com/index/singapore-airlines-travel-work",
+    "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+    "link": "https://openai.com/index/singapore-airlines-travel-work",
+    "pubDate": "Tue, 10 Nov 2026 08:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot."
+  },
+  {
     "id": "https://openai.com/index/ai-effect-on-freelance-work",
     "title": "Work at the Frontier: AI’s effect on freelance work",
     "link": "https://openai.com/index/ai-effect-on-freelance-work",
@@ -90,6 +135,15 @@
     "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
   },
   {
+    "id": "https://openai.com/index/cogent-security",
+    "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+    "link": "https://openai.com/index/cogent-security",
+    "pubDate": "Tue, 10 Nov 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents."
+  },
+  {
     "id": "https://huggingface.co/blog/hub-gcp-marketplace",
     "title": "Pay for Hugging Face Hub with your Google Cloud Account",
     "link": "https://huggingface.co/blog/hub-gcp-marketplace",
@@ -106,6 +160,15 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
+  },
+  {
+    "id": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+    "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+    "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+    "pubDate": "Mon, 09 Nov 2026 19:51:47 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety"
   },
   {
     "id": "https://techcrunch.com/?p=3186369",
@@ -1734,69 +1797,6 @@
     "pubDate": "Thu, 08 Oct 2026 00:00:00 GMT",
     "source": "Hugging Face Blog",
     "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/LiquidAI/open-d1",
-    "title": "Multimodal open d1 decision models for the edge",
-    "link": "https://huggingface.co/blog/LiquidAI/open-d1",
-    "pubDate": "Wed, 07 Oct 2026 16:54:33 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/tiiuae/falcon-asr",
-    "title": "Introducing Falcon ASR",
-    "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
-    "pubDate": "Wed, 07 Oct 2026 13:21:03 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-    "pubDate": "Wed, 07 Oct 2026 12:45:31 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/teens-learn-and-plan",
-    "title": "Helping teens learn, plan, and shape the future of AI",
-    "link": "https://openai.com/index/teens-learn-and-plan",
-    "pubDate": "Wed, 07 Oct 2026 12:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council."
-  },
-  {
-    "id": "https://openai.com/index/radisson",
-    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-    "link": "https://openai.com/index/radisson",
-    "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips."
-  },
-  {
-    "id": "https://openai.com/index/gpt-6-for-everyone",
-    "title": "GPT-6 and Intelligent UI for everyone",
-    "link": "https://openai.com/index/gpt-6-for-everyone",
-    "pubDate": "Wed, 07 Oct 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly."
-  },
-  {
-    "id": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-    "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-    "pubDate": "Tue, 06 Oct 2026 19:57:04 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
     "summary": ""
   }
 ]
