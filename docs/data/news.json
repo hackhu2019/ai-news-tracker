@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "title": "Holiday Extras is rethinking what it can build with Codex",
+    "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "pubDate": "Thu, 12 Nov 2026 09:30:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth."
+  },
+  {
+    "id": "https://openai.com/index/children-first-declaration",
+    "title": "Supporting research on AI and children’s safety",
+    "link": "https://openai.com/index/children-first-declaration",
+    "pubDate": "Thu, 12 Nov 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people."
+  },
+  {
+    "id": "https://huggingface.co/blog/3d-lora-finetuning",
+    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "link": "https://huggingface.co/blog/3d-lora-finetuning",
+    "pubDate": "Thu, 12 Nov 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://openai.com/index/gilbert-tobin-sam-nickless",
     "title": "Gilbert + Tobin rethinks the business of law with AI",
     "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
@@ -1771,32 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3175754",
-    "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-    "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-    "pubDate": "Thu, 08 Oct 2026 18:19:42 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3175777",
-    "title": "Anthropic changes usage policy to ban model abuse and election interference",
-    "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-    "pubDate": "Thu, 08 Oct 2026 18:16:24 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address ele"
-  },
-  {
-    "id": "https://openai.com/index/oracle",
-    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-    "link": "https://openai.com/index/oracle",
-    "pubDate": "Thu, 08 Oct 2026 16:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
   }
 ]
