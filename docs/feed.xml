@@ -18,6 +18,24 @@
       <source url="https://openai.com/index/gilbert-tobin-sam-nickless">OpenAI Blog</source>
     </item>
     <item>
+      <title><![CDATA[OpenAI’s quarterly revenue reportedly crosses $10B for the first time]]></title>
+      <link>https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/</link>
+      <guid>https://techcrunch.com/?p=3187315</guid>
+      <pubDate>Wed, 11 Nov 2026 16:14:44 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.]]></description>
+      <source url="https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[AlphaGenome 2: Deciphering how cells read DNA to better understand disease]]></title>
+      <link>https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/</link>
+      <guid>https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/</guid>
+      <pubDate>Wed, 11 Nov 2026 15:00:15 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[Predicting how DNA sequences and their variations impact specific human cell types and disease.]]></description>
+      <source url="https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/">Google DeepMind Blog</source>
+    </item>
+    <item>
       <title><![CDATA[ChatGPT Plus for veterans and servicemembers]]></title>
       <link>https://openai.com/index/chatgpt-plus-for-veterans</link>
       <guid>https://openai.com/index/chatgpt-plus-for-veterans</guid>
@@ -34,6 +52,24 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/qvac/botpsy">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[JioStar’s chief architect on AI discovery at 500M-user scale]]></title>
+      <link>https://openai.com/index/jiostar-vijay-seshadri</link>
+      <guid>https://openai.com/index/jiostar-vijay-seshadri</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.]]></description>
+      <source url="https://openai.com/index/jiostar-vijay-seshadri">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Token Pooling-Aware Training for Multi-Vector Embedding Models]]></title>
+      <link>https://huggingface.co/blog/token-pooling</link>
+      <guid>https://huggingface.co/blog/token-pooling</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/token-pooling">Hugging Face Blog</source>
     </item>
     <item>
       <title><![CDATA[OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect]]></title>
@@ -421,42 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.]]></description>
       <source url="https://openai.com/index/openai-to-acquire-pierre">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[A thousand fewer paths to root]]></title>
-      <link>https://openai.com/index/a-thousand-fewer-paths-to-root</link>
-      <guid>https://openai.com/index/a-thousand-fewer-paths-to-root</guid>
-      <pubDate>Wed, 04 Nov 2026 08:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.]]></description>
-      <source url="https://openai.com/index/a-thousand-fewer-paths-to-root">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Daybreak Red is now available in AWS GovCloud (US-East)]]></title>
-      <link>https://openai.com/index/daybreak-red-aws-govcloud</link>
-      <guid>https://openai.com/index/daybreak-red-aws-govcloud</guid>
-      <pubDate>Wed, 04 Nov 2026 07:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.]]></description>
-      <source url="https://openai.com/index/daybreak-red-aws-govcloud">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Introducing Images 2.6]]></title>
-      <link>https://openai.com/index/introducing-images-2-6</link>
-      <guid>https://openai.com/index/introducing-images-2-6</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.]]></description>
-      <source url="https://openai.com/index/introducing-images-2-6">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[DevRev delivers autonomous self-service with GPT-6.1 Sol]]></title>
-      <link>https://openai.com/index/devrev-enterprise-self-service</link>
-      <guid>https://openai.com/index/devrev-enterprise-self-service</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.]]></description>
-      <source url="https://openai.com/index/devrev-enterprise-self-service">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
