@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "pubDate": "Fri, 13 Nov 2026 18:00:39 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/allenai/xybench",
+    "title": "XYBench: Helping with the problem behind the question",
+    "link": "https://huggingface.co/blog/allenai/xybench",
+    "pubDate": "Fri, 13 Nov 2026 17:02:35 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/introducing-chatgpt-wallet",
+    "title": "Introducing ChatGPT Wallet",
+    "link": "https://openai.com/index/introducing-chatgpt-wallet",
+    "pubDate": "Fri, 13 Nov 2026 15:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
+  },
+  {
+    "id": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "pubDate": "Fri, 13 Nov 2026 14:05:22 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://openai.com/business/customer-stories/amplitude",
     "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
     "link": "https://openai.com/business/customer-stories/amplitude",
@@ -196,6 +232,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+  },
+  {
+    "id": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+    "title": "Opening the datasets behind our AI weather models",
+    "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+    "pubDate": "Tue, 10 Nov 2026 11:13:04 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly."
   },
   {
     "id": "https://openai.com/index/introducing-businesses-chatgpt",
@@ -1753,50 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
-  },
-  {
-    "id": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-    "title": "Developing Gemini 4 Argon responsibly and safely",
-    "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-    "pubDate": "Tue, 13 Oct 2026 19:43:07 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-    "pubDate": "Tue, 13 Oct 2026 17:05:48 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-    "title": "Gemini 4 Argon for Robotics",
-    "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-    "pubDate": "Tue, 13 Oct 2026 16:01:58 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": ""
-  },
-  {
-    "id": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-    "title": "Gemini 4 Argon: Built to solve your hardest problems",
-    "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-    "pubDate": "Tue, 13 Oct 2026 16:01:52 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/higgsfield-longer-videos-voice",
-    "title": "Higgsfield takes AI video from 1 minute to over 10",
-    "link": "https://openai.com/index/higgsfield-longer-videos-voice",
-    "pubDate": "Tue, 13 Oct 2026 12:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
   }
 ]
