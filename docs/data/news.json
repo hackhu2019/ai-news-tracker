@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://openai.com/business/customer-stories/amplitude",
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "link": "https://openai.com/business/customer-stories/amplitude",
+    "pubDate": "Thu, 12 Nov 2026 20:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
+  },
+  {
     "id": "https://openai.com/index/amplitude",
     "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
     "link": "https://openai.com/index/amplitude",
@@ -25,6 +34,15 @@
     "source": "Google DeepMind Blog",
     "category": "Gemini",
     "summary": ""
+  },
+  {
+    "id": "https://openai.com/business/customer-stories/gondola",
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "link": "https://openai.com/business/customer-stories/gondola",
+    "pubDate": "Thu, 12 Nov 2026 12:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work."
   },
   {
     "id": "https://openai.com/business/customer-stories/holidays-extras-codex",
@@ -1780,23 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3176323",
-    "title": "Anthropic can’t reliably control its AI agents — it’s cutting off its internal evals from the live internet instead",
-    "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-    "pubDate": "Sat, 10 Oct 2026 00:18:32 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "The incidents involved AI agents tasked to solve problems seeking resources on the internet. In the process, they exploited software flaws, accessed databases without paying fees, used URL-shortening "
-  },
-  {
-    "id": "https://techcrunch.com/?p=3176212",
-    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-    "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-    "pubDate": "Fri, 09 Oct 2026 19:36:56 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip."
   }
 ]
