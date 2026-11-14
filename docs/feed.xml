@@ -45,6 +45,15 @@
       <source url="https://huggingface.co/blog/ggml-org/llama-cpp-v1">Hugging Face Blog</source>
     </item>
     <item>
+      <title><![CDATA[Shield helps technicians hand off legacy portal work with OpenAI]]></title>
+      <link>https://openai.com/business/customer-stories/shield</link>
+      <guid>https://openai.com/business/customer-stories/shield</guid>
+      <pubDate>Fri, 13 Nov 2026 08:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.]]></description>
+      <source url="https://openai.com/business/customer-stories/shield">OpenAI Blog</source>
+    </item>
+    <item>
       <title><![CDATA[How Amplitude ships product improvements in 1–2 days with OpenAI]]></title>
       <link>https://openai.com/business/customer-stories/amplitude</link>
       <guid>https://openai.com/business/customer-stories/amplitude</guid>
@@ -448,15 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.]]></description>
       <source url="https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Egyptian and Nigerian English join the Open ASR Leaderboard]]></title>
-      <link>https://huggingface.co/blog/open-asr-leaderboard-liva</link>
-      <guid>https://huggingface.co/blog/open-asr-leaderboard-liva</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/open-asr-leaderboard-liva">Hugging Face Blog</source>
     </item>
   </channel>
 </rss>
