@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "title": "A step toward defining the Standard Model on a lattice",
+    "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "pubDate": "Sun, 15 Nov 2026 22:00:01 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof."
+  },
+  {
+    "id": "https://openai.com/index/our-new-blog-for-science",
+    "title": "Our new blog for science",
+    "link": "https://openai.com/index/our-new-blog-for-science",
+    "pubDate": "Sun, 15 Nov 2026 22:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
+  },
+  {
     "id": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
     "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
     "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
@@ -1780,23 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes."
-  },
-  {
-    "id": "https://openai.com/index/third-moment-research",
-    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-    "link": "https://openai.com/index/third-moment-research",
-    "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
-  },
-  {
-    "id": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-    "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-    "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-    "pubDate": "Wed, 14 Oct 2026 02:00:14 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
   }
 ]
