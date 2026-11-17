@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "pubDate": "Tue, 17 Nov 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
+  },
+  {
+    "id": "https://openai.com/index/introducing-openai-for-chile",
+    "title": "Introducing OpenAI for Chile",
+    "link": "https://openai.com/index/introducing-openai-for-chile",
+    "pubDate": "Tue, 17 Nov 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
+  },
+  {
     "id": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
     "title": "Broadening access to AI for scientists",
     "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
@@ -25,6 +43,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
+  },
+  {
+    "id": "https://openai.com/business/customer-stories/revolut",
+    "title": "How Revolut raises ambition without lowering the bar",
+    "link": "https://openai.com/business/customer-stories/revolut",
+    "pubDate": "Mon, 16 Nov 2026 09:30:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security."
   },
   {
     "id": "https://openai.com/index/lvmh-media-division-partnership",
@@ -1771,32 +1798,5 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-    "pubDate": "Thu, 15 Oct 2026 20:34:01 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3178367",
-    "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-    "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-    "pubDate": "Thu, 15 Oct 2026 19:14:26 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them."
-  },
-  {
-    "id": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-    "title": "Bringing GPT-Rosalind to academic research labs",
-    "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-    "pubDate": "Thu, 15 Oct 2026 19:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
   }
 ]

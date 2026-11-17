@@ -5,9 +5,27 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 16 Nov 2026 17:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Strengthening NATO and allied cyber defenses with AI]]></title>
+      <link>https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</link>
+      <guid>https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.]]></description>
+      <source url="https://openai.com/index/strengthening-nato-allied-cyber-defences-ai">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Introducing OpenAI for Chile]]></title>
+      <link>https://openai.com/index/introducing-openai-for-chile</link>
+      <guid>https://openai.com/index/introducing-openai-for-chile</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.]]></description>
+      <source url="https://openai.com/index/introducing-openai-for-chile">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Broadening access to AI for scientists]]></title>
       <link>https://openai.com/index/expanding-chatgpt-for-academic-researchers</link>
@@ -34,6 +52,15 @@
       <category>ChatGPT</category>
       <description><![CDATA[Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.]]></description>
       <source url="https://openai.com/index/science-at-the-frontier">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[How Revolut raises ambition without lowering the bar]]></title>
+      <link>https://openai.com/business/customer-stories/revolut</link>
+      <guid>https://openai.com/business/customer-stories/revolut</guid>
+      <pubDate>Mon, 16 Nov 2026 09:30:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.]]></description>
+      <source url="https://openai.com/business/customer-stories/revolut">OpenAI Blog</source>
     </item>
     <item>
       <title><![CDATA[LVMH’s Media Division announces strategic partnership with OpenAI]]></title>
@@ -430,33 +457,6 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/hub-gcp-marketplace">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Decision Models in Hugging Face]]></title>
-      <link>https://huggingface.co/blog/decision</link>
-      <guid>https://huggingface.co/blog/decision</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/decision">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Gemini Robotics 2.5 accelerates real-world general dexterity]]></title>
-      <link>https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/</link>
-      <guid>https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/</guid>
-      <pubDate>Mon, 09 Nov 2026 19:51:47 +0000</pubDate>
-      <category>Gemini</category>
-      <description><![CDATA[Our most capable vision-language-action model enhances robot dexterity, reliability, and safety]]></description>
-      <source url="https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/">Google DeepMind Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic releases new Mythos and Fable models amid RSI concerns]]></title>
-      <link>https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/</link>
-      <guid>https://techcrunch.com/?p=3186369</guid>
-      <pubDate>Mon, 09 Nov 2026 19:24:51 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Anthropic says the new models "show improvements in areas like coding, reasoning, and vision," as well as in communicating more clearly with users.]]></description>
-      <source url="https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/">TechCrunch - Anthropic</source>
     </item>
   </channel>
 </rss>
