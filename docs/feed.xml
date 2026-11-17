@@ -5,9 +5,99 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 15 Nov 2026 22:00:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 17:00:00 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Broadening access to AI for scientists]]></title>
+      <link>https://openai.com/index/expanding-chatgpt-for-academic-researchers</link>
+      <guid>https://openai.com/index/expanding-chatgpt-for-academic-researchers</guid>
+      <pubDate>Mon, 16 Nov 2026 17:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.]]></description>
+      <source url="https://openai.com/index/expanding-chatgpt-for-academic-researchers">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Strengthening the fight against online child sexual abuse with new tools and support]]></title>
+      <link>https://openai.com/index/strengthening-online-child-safety</link>
+      <guid>https://openai.com/index/strengthening-online-child-safety</guid>
+      <pubDate>Mon, 16 Nov 2026 17:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.]]></description>
+      <source url="https://openai.com/index/strengthening-online-child-safety">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Science at the Frontier: How scientists use ChatGPT]]></title>
+      <link>https://openai.com/index/science-at-the-frontier</link>
+      <guid>https://openai.com/index/science-at-the-frontier</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.]]></description>
+      <source url="https://openai.com/index/science-at-the-frontier">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[LVMH’s Media Division announces strategic partnership with OpenAI]]></title>
+      <link>https://openai.com/index/lvmh-media-division-partnership</link>
+      <guid>https://openai.com/index/lvmh-media-division-partnership</guid>
+      <pubDate>Mon, 16 Nov 2026 09:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.]]></description>
+      <source url="https://openai.com/index/lvmh-media-division-partnership">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Our first phase of embedded assessments]]></title>
+      <link>https://openai.com/index/our-first-phase-of-embedded-assessments</link>
+      <guid>https://openai.com/index/our-first-phase-of-embedded-assessments</guid>
+      <pubDate>Mon, 16 Nov 2026 08:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.]]></description>
+      <source url="https://openai.com/index/our-first-phase-of-embedded-assessments">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Advancing computer-use agents for healthcare teams]]></title>
+      <link>https://openai.com/index/advancing-computer-use-for-healthcare-teams</link>
+      <guid>https://openai.com/index/advancing-computer-use-for-healthcare-teams</guid>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[]]></description>
+      <source url="https://openai.com/index/advancing-computer-use-for-healthcare-teams">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[More ways to move care forward with ChatGPT for Healthcare]]></title>
+      <link>https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</link>
+      <guid>https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</guid>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.]]></description>
+      <source url="https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[The King’s Trust and OpenAI launch £1m partnership]]></title>
+      <link>https://openai.com/index/the-kings-trust-and-openai</link>
+      <guid>https://openai.com/index/the-kings-trust-and-openai</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.]]></description>
+      <source url="https://openai.com/index/the-kings-trust-and-openai">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[At Holiday Extras, dots get to work before anyone asks]]></title>
+      <link>https://openai.com/business/customer-stories/holiday-extras-dots</link>
+      <guid>https://openai.com/business/customer-stories/holiday-extras-dots</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.]]></description>
+      <source url="https://openai.com/business/customer-stories/holiday-extras-dots">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Hugging Face and OpenRouter join forces to make open-weight models easy to run]]></title>
+      <link>https://huggingface.co/blog/openrouter</link>
+      <guid>https://huggingface.co/blog/openrouter</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/openrouter">Hugging Face Blog</source>
+    </item>
     <item>
       <title><![CDATA[A step toward defining the Standard Model on a lattice]]></title>
       <link>https://openai.com/index/step-toward-defining-the-standard-model</link>
@@ -367,96 +457,6 @@
       <category>Claude</category>
       <description><![CDATA[Anthropic says the new models "show improvements in areas like coding, reasoning, and vision," as well as in communicating more clearly with users.]]></description>
       <source url="https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[ChatGPT Enterprise now available in AWS Marketplace]]></title>
-      <link>https://openai.com/index/chatgpt-enterprise-aws-marketplace</link>
-      <guid>https://openai.com/index/chatgpt-enterprise-aws-marketplace</guid>
-      <pubDate>Mon, 09 Nov 2026 19:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.]]></description>
-      <source url="https://openai.com/index/chatgpt-enterprise-aws-marketplace">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines]]></title>
-      <link>https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/</link>
-      <guid>https://techcrunch.com/?p=3186273</guid>
-      <pubDate>Mon, 09 Nov 2026 16:56:54 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.]]></description>
-      <source url="https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context ]]></title>
-      <link>https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</link>
-      <guid>https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</guid>
-      <pubDate>Mon, 09 Nov 2026 15:05:57 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Control Room: A central system to track and stop model workloads across our research infrastructure]]></title>
-      <link>https://openai.com/index/control-room</link>
-      <guid>https://openai.com/index/control-room</guid>
-      <pubDate>Mon, 09 Nov 2026 13:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.]]></description>
-      <source url="https://openai.com/index/control-room">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Your Experts Have Partners. There's HOPE for Keeping Them Together]]></title>
-      <link>https://huggingface.co/blog/amazon/higher-order-pruning-experts</link>
-      <guid>https://huggingface.co/blog/amazon/higher-order-pruning-experts</guid>
-      <pubDate>Mon, 09 Nov 2026 12:34:29 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/amazon/higher-order-pruning-experts">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[CodeRabbit scales agentic software development and ships 20x more]]></title>
-      <link>https://openai.com/index/coderabbit-codex-daybreak</link>
-      <guid>https://openai.com/index/coderabbit-codex-daybreak</guid>
-      <pubDate>Mon, 09 Nov 2026 08:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.]]></description>
-      <source url="https://openai.com/index/coderabbit-codex-daybreak">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Kuken Industries searches 70 years of drawings in minutes]]></title>
-      <link>https://openai.com/index/kuken</link>
-      <guid>https://openai.com/index/kuken</guid>
-      <pubDate>Mon, 09 Nov 2026 08:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.]]></description>
-      <source url="https://openai.com/index/kuken">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation]]></title>
-      <link>https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/</link>
-      <guid>https://techcrunch.com/?p=3186034</guid>
-      <pubDate>Fri, 06 Nov 2026 22:53:46 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.]]></description>
-      <source url="https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[Ramp data shows AI spending stalling just as Anthropic nears its IPO]]></title>
-      <link>https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/</link>
-      <guid>https://techcrunch.com/?p=3185848</guid>
-      <pubDate>Fri, 06 Nov 2026 15:54:47 +0000</pubDate>
-      <category>Claude</category>
-      <description><![CDATA[AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.]]></description>
-      <source url="https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/">TechCrunch - Anthropic</source>
-    </item>
-    <item>
-      <title><![CDATA[ToyBlocks: A controlled world for robot learning and evaluation]]></title>
-      <link>https://huggingface.co/blog/allenai/toyblocks</link>
-      <guid>https://huggingface.co/blog/allenai/toyblocks</guid>
-      <pubDate>Fri, 06 Nov 2026 14:00:48 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/allenai/toyblocks">Hugging Face Blog</source>
     </item>
   </channel>
 </rss>
