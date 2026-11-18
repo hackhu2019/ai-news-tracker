@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+    "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+    "pubDate": "Wed, 18 Nov 2026 15:00:23 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "pubDate": "Wed, 18 Nov 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories."
+  },
+  {
+    "id": "https://huggingface.co/blog/rumble-2-flash",
+    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+    "link": "https://huggingface.co/blog/rumble-2-flash",
+    "pubDate": "Wed, 18 Nov 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/?p=3189746",
     "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
     "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
@@ -1771,32 +1798,5 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3178960",
-    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-    "pubDate": "Sun, 18 Oct 2026 20:37:40 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic said that it will commit 5% of its shares to the fund."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3178934",
-    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-    "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-    "pubDate": "Sat, 17 Oct 2026 20:21:19 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3178496",
-    "title": "Replit is no longer working with Anthropic, CEO says",
-    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "pubDate": "Fri, 16 Oct 2026 21:22:28 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with "
   }
 ]

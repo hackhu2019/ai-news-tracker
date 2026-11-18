@@ -5,9 +5,36 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 17 Nov 2026 22:29:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 15:00:23 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Time-Series Models in the Streamhouse: A New Frontier and Use Cases]]></title>
+      <link>https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</link>
+      <guid>https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</guid>
+      <pubDate>Wed, 18 Nov 2026 15:00:23 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT]]></title>
+      <link>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</link>
+      <guid>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.]]></description>
+      <source url="https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Rumble-2-Flash: an open 0.5B speech model for 40+ languages]]></title>
+      <link>https://huggingface.co/blog/rumble-2-flash</link>
+      <guid>https://huggingface.co/blog/rumble-2-flash</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/rumble-2-flash">Hugging Face Blog</source>
+    </item>
     <item>
       <title><![CDATA[Amazon and Google will together own nearly 30% of Anthropic after its IPO]]></title>
       <link>https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/</link>
@@ -430,33 +457,6 @@
       <category>Gemini</category>
       <description><![CDATA[AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.]]></description>
       <source url="https://deepmind.google/blog/introducing-alphaproof-code/">Google DeepMind Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Helping caregivers use AI in everyday life]]></title>
-      <link>https://openai.com/index/helping-caregivers-use-ai-in-everyday-life</link>
-      <guid>https://openai.com/index/helping-caregivers-use-ai-in-everyday-life</guid>
-      <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.]]></description>
-      <source url="https://openai.com/index/helping-caregivers-use-ai-in-everyday-life">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Opening the datasets behind our AI weather models]]></title>
-      <link>https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/</link>
-      <guid>https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/</guid>
-      <pubDate>Tue, 10 Nov 2026 11:13:04 +0000</pubDate>
-      <category>Gemini</category>
-      <description><![CDATA[Foundational precipitation and geostationary satellite datasets to observe the planet clearly.]]></description>
-      <source url="https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/">Google DeepMind Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Introducing Businesses in ChatGPT]]></title>
-      <link>https://openai.com/index/introducing-businesses-chatgpt</link>
-      <guid>https://openai.com/index/introducing-businesses-chatgpt</guid>
-      <pubDate>Tue, 10 Nov 2026 10:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.]]></description>
-      <source url="https://openai.com/index/introducing-businesses-chatgpt">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
