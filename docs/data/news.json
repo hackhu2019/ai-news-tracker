@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3189746",
+    "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+    "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+    "pubDate": "Tue, 17 Nov 2026 22:29:05 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%."
+  },
+  {
+    "id": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "pubDate": "Tue, 17 Nov 2026 17:45:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3189496",
+    "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+    "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+    "pubDate": "Tue, 17 Nov 2026 17:20:41 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled."
+  },
+  {
+    "id": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "title": "Introducing ChatGPT for Sales",
+    "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "pubDate": "Tue, 17 Nov 2026 08:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
+  },
+  {
+    "id": "https://openai.com/index/astra-law-6-2",
+    "title": "Astra for Law leads in legal intelligence",
+    "link": "https://openai.com/index/astra-law-6-2",
+    "pubDate": "Tue, 17 Nov 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access."
+  },
+  {
     "id": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
     "title": "Strengthening NATO and allied cyber defenses with AI",
     "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
@@ -232,6 +277,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth."
+  },
+  {
+    "id": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+    "title": "ChatGPT Ads increases its market presence in 44 countries",
+    "link": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+    "pubDate": "Thu, 12 Nov 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies"
   },
   {
     "id": "https://openai.com/index/children-first-declaration",
@@ -538,6 +592,15 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour."
+  },
+  {
+    "id": "https://openai.com/ads/customers/vistaprint",
+    "title": "How VistaPrint helps small businesses get the word out",
+    "link": "https://openai.com/ads/customers/vistaprint",
+    "pubDate": "Mon, 09 Nov 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Small business owners preparing for a launch or an event often know what they want to accomplish before they know what to print. VistaPrint uses ChatGPT Ads to show how products like signs and branded"
   },
   {
     "id": "https://techcrunch.com/?p=3186034",
@@ -1735,68 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with "
-  },
-  {
-    "id": "https://openai.com/index/itau-generative-ai",
-    "title": "How Itaú is building generative AI for its entire customer base",
-    "link": "https://openai.com/index/itau-generative-ai",
-    "pubDate": "Fri, 16 Oct 2026 19:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors."
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-    "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-    "pubDate": "Fri, 16 Oct 2026 01:44:47 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/grupo-boticario",
-    "title": "How Grupo Boticário uses AI to strengthen human connections",
-    "link": "https://openai.com/index/grupo-boticario",
-    "pubDate": "Fri, 16 Oct 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the"
-  },
-  {
-    "id": "https://openai.com/index/localiza-generative-ai",
-    "title": "How Localiza reorganized work around generative AI",
-    "link": "https://openai.com/index/localiza-generative-ai",
-    "pubDate": "Fri, 16 Oct 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences."
-  },
-  {
-    "id": "https://openai.com/index/benefit-street-partners",
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "link": "https://openai.com/index/benefit-street-partners",
-    "pubDate": "Fri, 16 Oct 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
-  },
-  {
-    "id": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "pubDate": "Fri, 16 Oct 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
-  },
-  {
-    "id": "https://huggingface.co/blog/reflection-beam",
-    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-    "link": "https://huggingface.co/blog/reflection-beam",
-    "pubDate": "Fri, 16 Oct 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
   }
 ]
