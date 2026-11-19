@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3190534",
+    "title": "Anthropic’s IPO could deliver $156 billion to charity",
+    "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+    "pubDate": "Thu, 19 Nov 2026 19:10:45 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3190451",
+    "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+    "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+    "pubDate": "Thu, 19 Nov 2026 16:59:23 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3190440",
+    "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+    "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+    "pubDate": "Thu, 19 Nov 2026 16:19:41 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure."
+  },
+  {
+    "id": "https://techcrunch.com/?p=3190277",
+    "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+    "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+    "pubDate": "Thu, 19 Nov 2026 14:54:39 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead."
+  },
+  {
+    "id": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "pubDate": "Thu, 19 Nov 2026 08:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
+  },
+  {
     "id": "https://techcrunch.com/?p=3190228",
     "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
     "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
@@ -1753,50 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality."
-  },
-  {
-    "id": "https://openai.com/index/empowering-cyber-defenders",
-    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-    "link": "https://openai.com/index/empowering-cyber-defenders",
-    "pubDate": "Wed, 21 Oct 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3179755",
-    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-    "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-    "pubDate": "Tue, 20 Oct 2026 23:01:23 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3179891",
-    "title": "Anthropic’s cloud partnerships are getting messy",
-    "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-    "pubDate": "Tue, 20 Oct 2026 21:25:22 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO"
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-    "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-    "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-    "pubDate": "Tue, 20 Oct 2026 18:17:47 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3179732",
-    "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-    "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-    "pubDate": "Tue, 20 Oct 2026 17:55:12 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Eric Schmidt’s fortune is about to get even bigger."
   }
 ]

@@ -5,9 +5,54 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 18 Nov 2026 22:11:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 19:10:45 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Anthropic’s IPO could deliver $156 billion to charity]]></title>
+      <link>https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/</link>
+      <guid>https://techcrunch.com/?p=3190534</guid>
+      <pubDate>Thu, 19 Nov 2026 19:10:45 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.]]></description>
+      <source url="https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic hits Nasdaq exchanges at $111, 33% above IPO price]]></title>
+      <link>https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/</link>
+      <guid>https://techcrunch.com/?p=3190451</guid>
+      <pubDate>Thu, 19 Nov 2026 16:59:23 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.]]></description>
+      <source url="https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development]]></title>
+      <link>https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/</link>
+      <guid>https://techcrunch.com/?p=3190440</guid>
+      <pubDate>Thu, 19 Nov 2026 16:19:41 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.]]></description>
+      <source url="https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic’s IPO puts AI’s circular financing boom to the test]]></title>
+      <link>https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/</link>
+      <guid>https://techcrunch.com/?p=3190277</guid>
+      <pubDate>Thu, 19 Nov 2026 14:54:39 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.]]></description>
+      <source url="https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[How OpenAI’s Performance Factory keeps ChatGPT fast]]></title>
+      <link>https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</link>
+      <guid>https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</guid>
+      <pubDate>Thu, 19 Nov 2026 08:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.]]></description>
+      <source url="https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[Anthropic reportedly prices IPO at $83 a share, above projected range]]></title>
       <link>https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/</link>
@@ -412,51 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.]]></description>
       <source url="https://openai.com/business/customer-stories/gondola">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Holiday Extras is rethinking what it can build with Codex]]></title>
-      <link>https://openai.com/business/customer-stories/holidays-extras-codex</link>
-      <guid>https://openai.com/business/customer-stories/holidays-extras-codex</guid>
-      <pubDate>Thu, 12 Nov 2026 09:30:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.]]></description>
-      <source url="https://openai.com/business/customer-stories/holidays-extras-codex">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[ChatGPT Ads increases its market presence in 44 countries]]></title>
-      <link>https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence</link>
-      <guid>https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies]]></description>
-      <source url="https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Supporting research on AI and children’s safety]]></title>
-      <link>https://openai.com/index/children-first-declaration</link>
-      <guid>https://openai.com/index/children-first-declaration</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.]]></description>
-      <source url="https://openai.com/index/children-first-declaration">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[The Definitive Fine-Tuning Guide for 3D Generation Models]]></title>
-      <link>https://huggingface.co/blog/3d-lora-finetuning</link>
-      <guid>https://huggingface.co/blog/3d-lora-finetuning</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/3d-lora-finetuning">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Gilbert + Tobin rethinks the business of law with AI]]></title>
-      <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
-      <guid>https://openai.com/index/gilbert-tobin-sam-nickless</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.]]></description>
-      <source url="https://openai.com/index/gilbert-tobin-sam-nickless">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
