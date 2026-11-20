@@ -5,9 +5,18 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 19 Nov 2026 19:10:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 00:43:50 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO]]></title>
+      <link>https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/</link>
+      <guid>https://techcrunch.com/?p=3190498</guid>
+      <pubDate>Fri, 20 Nov 2026 00:43:50 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.]]></description>
+      <source url="https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/">TechCrunch - Anthropic</source>
+    </item>
     <item>
       <title><![CDATA[Anthropic’s IPO could deliver $156 billion to charity]]></title>
       <link>https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/</link>
@@ -52,6 +61,42 @@
       <category>ChatGPT</category>
       <description><![CDATA[Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.]]></description>
       <source url="https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Deploying Daybreak Red]]></title>
+      <link>https://openai.com/business/learn/deploying-daybreak-red</link>
+      <guid>https://openai.com/business/learn/deploying-daybreak-red</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.]]></description>
+      <source url="https://openai.com/business/learn/deploying-daybreak-red">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[See PR scans in action]]></title>
+      <link>https://openai.com/business/learn/pr-scans-demo</link>
+      <guid>https://openai.com/business/learn/pr-scans-demo</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.]]></description>
+      <source url="https://openai.com/business/learn/pr-scans-demo">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Explore the Codex Security Plugin]]></title>
+      <link>https://openai.com/business/learn/codex-security-plugin-demo</link>
+      <guid>https://openai.com/business/learn/codex-security-plugin-demo</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.]]></description>
+      <source url="https://openai.com/business/learn/codex-security-plugin-demo">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Get started with Daybreak Blue]]></title>
+      <link>https://openai.com/business/learn/daybreak-blue-onboarding-demo</link>
+      <guid>https://openai.com/business/learn/daybreak-blue-onboarding-demo</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.]]></description>
+      <source url="https://openai.com/business/learn/daybreak-blue-onboarding-demo">OpenAI Blog</source>
     </item>
     <item>
       <title><![CDATA[Anthropic reportedly prices IPO at $83 a share, above projected range]]></title>
@@ -412,51 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.]]></description>
       <source url="https://openai.com/business/customer-stories/shield">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How Amplitude ships product improvements in 1–2 days with OpenAI]]></title>
-      <link>https://openai.com/business/customer-stories/amplitude</link>
-      <guid>https://openai.com/business/customer-stories/amplitude</guid>
-      <pubDate>Thu, 12 Nov 2026 20:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.]]></description>
-      <source url="https://openai.com/business/customer-stories/amplitude">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How Amplitude ships product improvements in 1–2 days with OpenAI]]></title>
-      <link>https://openai.com/index/amplitude</link>
-      <guid>https://openai.com/index/amplitude</guid>
-      <pubDate>Thu, 12 Nov 2026 20:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.]]></description>
-      <source url="https://openai.com/index/amplitude">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B]]></title>
-      <link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
-      <guid>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
-      <pubDate>Thu, 12 Nov 2026 19:07:35 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite">Hugging Face Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Introducing Gemini 4 Hydrogen]]></title>
-      <link>https://deepmind.google/blog/introducing-gemini-4-hydrogen/</link>
-      <guid>https://deepmind.google/blog/introducing-gemini-4-hydrogen/</guid>
-      <pubDate>Thu, 12 Nov 2026 18:00:50 +0000</pubDate>
-      <category>Gemini</category>
-      <description><![CDATA[]]></description>
-      <source url="https://deepmind.google/blog/introducing-gemini-4-hydrogen/">Google DeepMind Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Gondola doubles revenue as its team builds more with Codex]]></title>
-      <link>https://openai.com/business/customer-stories/gondola</link>
-      <guid>https://openai.com/business/customer-stories/gondola</guid>
-      <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.]]></description>
-      <source url="https://openai.com/business/customer-stories/gondola">OpenAI Blog</source>
     </item>
   </channel>
 </rss>

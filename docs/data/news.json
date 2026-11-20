@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3190498",
+    "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+    "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+    "pubDate": "Fri, 20 Nov 2026 00:43:50 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
+  },
+  {
     "id": "https://techcrunch.com/?p=3190534",
     "title": "Anthropic’s IPO could deliver $156 billion to charity",
     "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
@@ -43,6 +52,42 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
+  },
+  {
+    "id": "https://openai.com/business/learn/deploying-daybreak-red",
+    "title": "Deploying Daybreak Red",
+    "link": "https://openai.com/business/learn/deploying-daybreak-red",
+    "pubDate": "Thu, 19 Nov 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring."
+  },
+  {
+    "id": "https://openai.com/business/learn/pr-scans-demo",
+    "title": "See PR scans in action",
+    "link": "https://openai.com/business/learn/pr-scans-demo",
+    "pubDate": "Thu, 19 Nov 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow."
+  },
+  {
+    "id": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "title": "Explore the Codex Security Plugin",
+    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "pubDate": "Thu, 19 Nov 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording."
+  },
+  {
+    "id": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+    "title": "Get started with Daybreak Blue",
+    "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+    "pubDate": "Thu, 19 Nov 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started."
   },
   {
     "id": "https://techcrunch.com/?p=3190228",
@@ -1753,50 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
-    "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
-    "link": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
-    "pubDate": "Wed, 21 Oct 2026 10:59:42 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-    "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-    "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source."
-  },
-  {
-    "id": "https://openai.com/index/building-chatgpt-ad-stack",
-    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-    "link": "https://openai.com/index/building-chatgpt-ad-stack",
-    "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale."
-  },
-  {
-    "id": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-    "title": "Using thousands of AI agents to uncover new leads in biological data",
-    "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-    "pubDate": "Wed, 21 Oct 2026 04:50:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
-  },
-  {
-    "id": "https://openai.com/index/cloudflare-cyber",
-    "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-    "link": "https://openai.com/index/cloudflare-cyber",
-    "pubDate": "Wed, 21 Oct 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality."
   }
 ]
