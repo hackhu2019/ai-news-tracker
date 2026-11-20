@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3190908",
+    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+    "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+    "pubDate": "Fri, 20 Nov 2026 19:32:08 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too."
+  },
+  {
+    "id": "https://openai.com/index/combatting-adversarial-distillation",
+    "title": "Combatting adversarial distillation",
+    "link": "https://openai.com/index/combatting-adversarial-distillation",
+    "pubDate": "Fri, 20 Nov 2026 10:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
+  },
+  {
     "id": "https://techcrunch.com/?p=3190498",
     "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
     "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
@@ -7,6 +25,33 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
+  },
+  {
+    "id": "https://openai.com/business/customer-stories/hebbia",
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "link": "https://openai.com/business/customer-stories/hebbia",
+    "pubDate": "Fri, 20 Nov 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
+  },
+  {
+    "id": "https://openai.com/index/introducing-medchembench",
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "link": "https://openai.com/index/introducing-medchembench",
+    "pubDate": "Fri, 20 Nov 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery."
+  },
+  {
+    "id": "https://huggingface.co/blog/inkling2mini",
+    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "link": "https://huggingface.co/blog/inkling2mini",
+    "pubDate": "Fri, 20 Nov 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
   },
   {
     "id": "https://huggingface.co/blog/harness-adapters-at-scale",
@@ -1753,50 +1798,5 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-    "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-    "pubDate": "Wed, 21 Oct 2026 17:35:36 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/att-legal",
-    "title": "How AT&T is rethinking in-house legal work with OpenAI",
-    "link": "https://openai.com/index/att-legal",
-    "pubDate": "Wed, 21 Oct 2026 17:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
-  },
-  {
-    "id": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-    "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-    "pubDate": "Wed, 21 Oct 2026 16:04:43 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-    "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-    "pubDate": "Wed, 21 Oct 2026 14:58:18 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-    "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-    "pubDate": "Wed, 21 Oct 2026 13:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
   }
 ]
