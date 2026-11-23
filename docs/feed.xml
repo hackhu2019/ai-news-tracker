@@ -5,9 +5,27 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 23 Nov 2026 01:25:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 17:20:37 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[RoboTrack: Point tracking for real-world robotic manipulation]]></title>
+      <link>https://huggingface.co/blog/allenai/robotrack</link>
+      <guid>https://huggingface.co/blog/allenai/robotrack</guid>
+      <pubDate>Mon, 23 Nov 2026 17:20:37 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/allenai/robotrack">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Finding faster quantum algorithms with agents and formal verification]]></title>
+      <link>https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/</link>
+      <guid>https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/</guid>
+      <pubDate>Mon, 23 Nov 2026 16:59:40 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.]]></description>
+      <source url="https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/">Google DeepMind Blog</source>
+    </item>
     <item>
       <title><![CDATA[How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO]]></title>
       <link>https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/</link>
@@ -16,6 +34,15 @@
       <category>Claude</category>
       <description><![CDATA[Three significant backers share what gave them conviction to bet billions on Anthropic.]]></description>
       <source url="https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[How to build and maintain an agentic evaluation]]></title>
+      <link>https://huggingface.co/blog/agentic-evals</link>
+      <guid>https://huggingface.co/blog/agentic-evals</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/agentic-evals">Hugging Face Blog</source>
     </item>
     <item>
       <title><![CDATA[Perplexity and Intelligence]]></title>
@@ -430,33 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[]]></description>
       <source url="https://openai.com/index/advancing-computer-use-for-healthcare-teams">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[More ways to move care forward with ChatGPT for Healthcare]]></title>
-      <link>https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</link>
-      <guid>https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</guid>
-      <pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.]]></description>
-      <source url="https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[The King’s Trust and OpenAI launch £1m partnership]]></title>
-      <link>https://openai.com/index/the-kings-trust-and-openai</link>
-      <guid>https://openai.com/index/the-kings-trust-and-openai</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.]]></description>
-      <source url="https://openai.com/index/the-kings-trust-and-openai">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[At Holiday Extras, dots get to work before anyone asks]]></title>
-      <link>https://openai.com/business/customer-stories/holiday-extras-dots</link>
-      <guid>https://openai.com/business/customer-stories/holiday-extras-dots</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.]]></description>
-      <source url="https://openai.com/business/customer-stories/holiday-extras-dots">OpenAI Blog</source>
     </item>
   </channel>
 </rss>

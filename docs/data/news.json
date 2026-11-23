@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://huggingface.co/blog/allenai/robotrack",
+    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+    "link": "https://huggingface.co/blog/allenai/robotrack",
+    "pubDate": "Mon, 23 Nov 2026 17:20:37 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+    "title": "Finding faster quantum algorithms with agents and formal verification",
+    "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+    "pubDate": "Mon, 23 Nov 2026 16:59:40 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry."
+  },
+  {
     "id": "https://techcrunch.com/?p=3191173",
     "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
     "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
@@ -7,6 +25,15 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic."
+  },
+  {
+    "id": "https://huggingface.co/blog/agentic-evals",
+    "title": "How to build and maintain an agentic evaluation",
+    "link": "https://huggingface.co/blog/agentic-evals",
+    "pubDate": "Mon, 23 Nov 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
   },
   {
     "id": "https://openai.com/index/perplexity-and-intelligence",
@@ -1771,32 +1798,5 @@
     "source": "TechCrunch - DeepSeek",
     "category": "China AI",
     "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns."
-  },
-  {
-    "id": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-    "title": "Ensemble forecasting with IBM Granite time-series models",
-    "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-    "pubDate": "Thu, 22 Oct 2026 07:51:31 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/forward-deployed-engineering-means",
-    "title": "What FDE means at OpenAI",
-    "link": "https://openai.com/index/forward-deployed-engineering-means",
-    "pubDate": "Thu, 22 Oct 2026 06:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "What forward deployed engineering means at OpenAI"
-  },
-  {
-    "id": "https://openai.com/index/uber-chatgpt-work-rollout",
-    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-    "link": "https://openai.com/index/uber-chatgpt-work-rollout",
-    "pubDate": "Thu, 22 Oct 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
   }
 ]
