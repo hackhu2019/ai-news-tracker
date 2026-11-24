@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+    "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+    "pubDate": "Tue, 24 Nov 2026 16:34:13 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://techcrunch.com/?p=3191583",
+    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+    "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+    "pubDate": "Mon, 23 Nov 2026 22:05:50 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."
+  },
+  {
+    "id": "https://openai.com/index/introducing-shirudo",
+    "title": "OpenAI and Cisco introduce Shirudo",
+    "link": "https://openai.com/index/introducing-shirudo",
+    "pubDate": "Mon, 23 Nov 2026 21:20:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
+  },
+  {
     "id": "https://huggingface.co/blog/allenai/robotrack",
     "title": "RoboTrack: Point tracking for real-world robotic manipulation",
     "link": "https://huggingface.co/blog/allenai/robotrack",
@@ -16,6 +43,24 @@
     "source": "Google DeepMind Blog",
     "category": "Gemini",
     "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry."
+  },
+  {
+    "id": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+    "title": "Connected intelligence for in-house legal",
+    "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+    "pubDate": "Mon, 23 Nov 2026 08:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get "
+  },
+  {
+    "id": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+    "title": "Richpanel helps companies automate 50% of support in 30 days",
+    "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+    "pubDate": "Mon, 23 Nov 2026 08:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations."
   },
   {
     "id": "https://techcrunch.com/?p=3191173",
@@ -1753,50 +1798,5 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/decisions-api",
-    "title": "Build more responsive apps with the Decisions API",
-    "link": "https://openai.com/index/decisions-api",
-    "pubDate": "Thu, 22 Oct 2026 19:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Fast, focused, low-cost decisions for any application."
-  },
-  {
-    "id": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-    "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-    "pubDate": "Thu, 22 Oct 2026 16:11:31 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-    "title": "Beyond tree cover: mapping the world’s forest types",
-    "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-    "pubDate": "Thu, 22 Oct 2026 14:30:24 +0000",
-    "source": "Google DeepMind Blog",
-    "category": "Gemini",
-    "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3180587",
-    "title": "Claude Duet app is Anthropic’s bet on agents",
-    "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-    "pubDate": "Thu, 22 Oct 2026 13:53:26 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Claude Duet is available through waitlist for Pro and Max plan users."
-  },
-  {
-    "id": "https://techcrunch.com/?p=3180589",
-    "title": "DeepSeek reportedly raises $15B days after US restrictions",
-    "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-    "pubDate": "Thu, 22 Oct 2026 13:11:13 +0000",
-    "source": "TechCrunch - DeepSeek",
-    "category": "China AI",
-    "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns."
   }
 ]

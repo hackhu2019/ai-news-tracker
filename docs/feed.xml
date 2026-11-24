@@ -5,9 +5,36 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 23 Nov 2026 17:20:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 16:34:13 GMT</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton]]></title>
+      <link>https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</link>
+      <guid>https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</guid>
+      <pubDate>Tue, 24 Nov 2026 16:34:13 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes]]></title>
+      <link>https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/</link>
+      <guid>https://techcrunch.com/?p=3191583</guid>
+      <pubDate>Mon, 23 Nov 2026 22:05:50 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.]]></description>
+      <source url="https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI and Cisco introduce Shirudo]]></title>
+      <link>https://openai.com/index/introducing-shirudo</link>
+      <guid>https://openai.com/index/introducing-shirudo</guid>
+      <pubDate>Mon, 23 Nov 2026 21:20:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.]]></description>
+      <source url="https://openai.com/index/introducing-shirudo">OpenAI Blog</source>
+    </item>
     <item>
       <title><![CDATA[RoboTrack: Point tracking for real-world robotic manipulation]]></title>
       <link>https://huggingface.co/blog/allenai/robotrack</link>
@@ -25,6 +52,24 @@
       <category>Gemini</category>
       <description><![CDATA[Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.]]></description>
       <source url="https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/">Google DeepMind Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Connected intelligence for in-house legal]]></title>
+      <link>https://openai.com/business/learn/connected-intelligence-for-in-house-legal</link>
+      <guid>https://openai.com/business/learn/connected-intelligence-for-in-house-legal</guid>
+      <pubDate>Mon, 23 Nov 2026 08:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get ]]></description>
+      <source url="https://openai.com/business/learn/connected-intelligence-for-in-house-legal">OpenAI Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Richpanel helps companies automate 50% of support in 30 days]]></title>
+      <link>https://openai.com/business/customer-stories/richpanel-ai-customer-support</link>
+      <guid>https://openai.com/business/customer-stories/richpanel-ai-customer-support</guid>
+      <pubDate>Mon, 23 Nov 2026 08:00:00 GMT</pubDate>
+      <category>ChatGPT</category>
+      <description><![CDATA[Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.]]></description>
+      <source url="https://openai.com/business/customer-stories/richpanel-ai-customer-support">OpenAI Blog</source>
     </item>
     <item>
       <title><![CDATA[How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO]]></title>
@@ -412,51 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.]]></description>
       <source url="https://openai.com/index/strengthening-online-child-safety">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Science at the Frontier: How scientists use ChatGPT]]></title>
-      <link>https://openai.com/index/science-at-the-frontier</link>
-      <guid>https://openai.com/index/science-at-the-frontier</guid>
-      <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.]]></description>
-      <source url="https://openai.com/index/science-at-the-frontier">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How Revolut raises ambition without lowering the bar]]></title>
-      <link>https://openai.com/business/customer-stories/revolut</link>
-      <guid>https://openai.com/business/customer-stories/revolut</guid>
-      <pubDate>Mon, 16 Nov 2026 09:30:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.]]></description>
-      <source url="https://openai.com/business/customer-stories/revolut">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[LVMH’s Media Division announces strategic partnership with OpenAI]]></title>
-      <link>https://openai.com/index/lvmh-media-division-partnership</link>
-      <guid>https://openai.com/index/lvmh-media-division-partnership</guid>
-      <pubDate>Mon, 16 Nov 2026 09:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.]]></description>
-      <source url="https://openai.com/index/lvmh-media-division-partnership">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Our first phase of embedded assessments]]></title>
-      <link>https://openai.com/index/our-first-phase-of-embedded-assessments</link>
-      <guid>https://openai.com/index/our-first-phase-of-embedded-assessments</guid>
-      <pubDate>Mon, 16 Nov 2026 08:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.]]></description>
-      <source url="https://openai.com/index/our-first-phase-of-embedded-assessments">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Advancing computer-use agents for healthcare teams]]></title>
-      <link>https://openai.com/index/advancing-computer-use-for-healthcare-teams</link>
-      <guid>https://openai.com/index/advancing-computer-use-for-healthcare-teams</guid>
-      <pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[]]></description>
-      <source url="https://openai.com/index/advancing-computer-use-for-healthcare-teams">OpenAI Blog</source>
     </item>
   </channel>
 </rss>
