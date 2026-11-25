@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "title": "An Indic Voice Agent with CUGA",
+    "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "pubDate": "Wed, 25 Nov 2026 10:22:09 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/?p=3192038",
     "title": "Even the best AI agents struggle with everyday life",
     "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
@@ -1789,14 +1798,5 @@
     "source": "TechCrunch - xAI",
     "category": "Grok",
     "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
-  },
-  {
-    "id": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-    "pubDate": "Fri, 23 Oct 2026 17:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
   }
 ]
