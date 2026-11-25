@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3192038",
+    "title": "Even the best AI agents struggle with everyday life",
+    "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+    "pubDate": "Tue, 24 Nov 2026 21:33:29 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new prob"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3191971",
+    "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+    "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+    "pubDate": "Tue, 24 Nov 2026 18:30:42 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations."
+  },
+  {
     "id": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
     "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
     "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
@@ -7,6 +25,51 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
+  },
+  {
+    "id": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "pubDate": "Tue, 24 Nov 2026 13:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
+  },
+  {
+    "id": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "title": "Searching for distant planets with Astra",
+    "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "pubDate": "Tue, 24 Nov 2026 11:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes."
+  },
+  {
+    "id": "https://openai.com/business/customer-stories/intentful-dots",
+    "title": "How Intentful uses dots to make more time for growth",
+    "link": "https://openai.com/business/customer-stories/intentful-dots",
+    "pubDate": "Tue, 24 Nov 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
+  },
+  {
+    "id": "https://openai.com/business/customer-stories/ifood",
+    "title": "How iFood scales coding agents across 15,000 repositories",
+    "link": "https://openai.com/business/customer-stories/ifood",
+    "pubDate": "Tue, 24 Nov 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": ""
+  },
+  {
+    "id": "https://openai.com/business/customer-stories/clay-plugins-openai",
+    "title": "Clay helps sales teams win with Codex and ChatGPT",
+    "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
+    "pubDate": "Tue, 24 Nov 2026 00:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning."
   },
   {
     "id": "https://techcrunch.com/?p=3191583",
@@ -1735,68 +1798,5 @@
     "source": "OpenAI Blog",
     "category": "ChatGPT",
     "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
-  },
-  {
-    "id": "https://huggingface.co/blog/allenai/litpivot",
-    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-    "link": "https://huggingface.co/blog/allenai/litpivot",
-    "pubDate": "Fri, 23 Oct 2026 16:15:50 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://techcrunch.com/?p=3181130",
-    "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
-    "link": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
-    "pubDate": "Fri, 23 Oct 2026 16:02:43 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns."
-  },
-  {
-    "id": "https://openai.com/index/securing-our-frontier-model-training-environment",
-    "title": "Securing our frontier model training environment",
-    "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
-    "pubDate": "Fri, 23 Oct 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
-  },
-  {
-    "id": "https://openai.com/index/anima",
-    "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-    "link": "https://openai.com/index/anima",
-    "pubDate": "Fri, 23 Oct 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients."
-  },
-  {
-    "id": "https://huggingface.co/blog/torch-neuronx-model-support",
-    "title": "Does Your Model Run on AWS Trainium? Look It Up",
-    "link": "https://huggingface.co/blog/torch-neuronx-model-support",
-    "pubDate": "Fri, 23 Oct 2026 00:00:00 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
-  },
-  {
-    "id": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-    "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-    "pubDate": "Fri, 23 Oct 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
-  },
-  {
-    "id": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-    "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-    "pubDate": "Thu, 22 Oct 2026 22:24:34 GMT",
-    "source": "Hugging Face Blog",
-    "category": "Open Source",
-    "summary": ""
   }
 ]
