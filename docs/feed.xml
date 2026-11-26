@@ -5,9 +5,45 @@
     <link>https://hackhu2019.github.io/ai-news-tracker/</link>
     <description>聚合 Claude、ChatGPT、Gemini 等一流 AI 模型的最新动态</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 19:44:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:00:00 +0000</lastBuildDate>
     <atom:link href="https://hackhu2019.github.io/ai-news-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue]]></title>
+      <link>https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/</link>
+      <guid>https://techcrunch.com/?p=3190829</guid>
+      <pubDate>Thu, 26 Nov 2026 16:00:00 +0000</pubDate>
+      <category>Claude</category>
+      <description><![CDATA[On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.]]></description>
+      <source url="https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/">TechCrunch - Anthropic</source>
+    </item>
+    <item>
+      <title><![CDATA[Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon]]></title>
+      <link>https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</link>
+      <guid>https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</guid>
+      <pubDate>Thu, 26 Nov 2026 11:37:17 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/ggml-org/llamacpp-amd-bench">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference]]></title>
+      <link>https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</link>
+      <guid>https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</guid>
+      <pubDate>Thu, 26 Nov 2026 05:05:36 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems]]></title>
+      <link>https://huggingface.co/blog/training-swarms</link>
+      <guid>https://huggingface.co/blog/training-swarms</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Open Source</category>
+      <description><![CDATA[]]></description>
+      <source url="https://huggingface.co/blog/training-swarms">Hugging Face Blog</source>
+    </item>
     <item>
       <title><![CDATA[Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’]]></title>
       <link>https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/</link>
@@ -70,6 +106,15 @@
       <category>Open Source</category>
       <description><![CDATA[]]></description>
       <source url="https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance">Hugging Face Blog</source>
+    </item>
+    <item>
+      <title><![CDATA[From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity]]></title>
+      <link>https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/</link>
+      <guid>https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/</guid>
+      <pubDate>Tue, 24 Nov 2026 13:07:53 +0000</pubDate>
+      <category>Gemini</category>
+      <description><![CDATA[Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.]]></description>
+      <source url="https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/">Google DeepMind Blog</source>
     </item>
     <item>
       <title><![CDATA[GPT-6 models demonstrate intrinsic protein-design capabilities]]></title>
@@ -412,51 +457,6 @@
       <category>ChatGPT</category>
       <description><![CDATA[OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.]]></description>
       <source url="https://openai.com/index/research-acceleration-jagged-frontier">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise]]></title>
-      <link>https://openai.com/business/customer-stories/sumitomo-life</link>
-      <guid>https://openai.com/business/customer-stories/sumitomo-life</guid>
-      <pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.]]></description>
-      <source url="https://openai.com/business/customer-stories/sumitomo-life">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Inside the Codex sandbox]]></title>
-      <link>https://openai.com/index/inside-the-codex-sandbox</link>
-      <guid>https://openai.com/index/inside-the-codex-sandbox</guid>
-      <pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.]]></description>
-      <source url="https://openai.com/index/inside-the-codex-sandbox">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Managing frontier AI risk: From training to deployment]]></title>
-      <link>https://openai.com/index/managing-frontier-ai-risk</link>
-      <guid>https://openai.com/index/managing-frontier-ai-risk</guid>
-      <pubDate>Wed, 18 Nov 2026 06:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.]]></description>
-      <source url="https://openai.com/index/managing-frontier-ai-risk">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[Advancing chip design with OpenAI models]]></title>
-      <link>https://openai.com/index/advancing-chip-design-with-our-models</link>
-      <guid>https://openai.com/index/advancing-chip-design-with-our-models</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <category>ChatGPT</category>
-      <description><![CDATA[OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.]]></description>
-      <source url="https://openai.com/index/advancing-chip-design-with-our-models">OpenAI Blog</source>
-    </item>
-    <item>
-      <title><![CDATA[180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers]]></title>
-      <link>https://huggingface.co/blog/moe-expert-streaming</link>
-      <guid>https://huggingface.co/blog/moe-expert-streaming</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <category>Open Source</category>
-      <description><![CDATA[]]></description>
-      <source url="https://huggingface.co/blog/moe-expert-streaming">Hugging Face Blog</source>
     </item>
   </channel>
 </rss>

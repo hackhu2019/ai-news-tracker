@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://techcrunch.com/?p=3190829",
+    "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+    "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+    "pubDate": "Thu, 26 Nov 2026 16:00:00 +0000",
+    "source": "TechCrunch - Anthropic",
+    "category": "Claude",
+    "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time."
+  },
+  {
+    "id": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "pubDate": "Thu, 26 Nov 2026 11:37:17 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "pubDate": "Thu, 26 Nov 2026 05:05:36 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
+    "id": "https://huggingface.co/blog/training-swarms",
+    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "link": "https://huggingface.co/blog/training-swarms",
+    "pubDate": "Thu, 26 Nov 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog",
+    "category": "Open Source",
+    "summary": ""
+  },
+  {
     "id": "https://techcrunch.com/?p=3192506",
     "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
     "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
@@ -61,6 +97,15 @@
     "source": "Hugging Face Blog",
     "category": "Open Source",
     "summary": ""
+  },
+  {
+    "id": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+    "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+    "link": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+    "pubDate": "Tue, 24 Nov 2026 13:07:53 +0000",
+    "source": "Google DeepMind Blog",
+    "category": "Gemini",
+    "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra."
   },
   {
     "id": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
@@ -1737,6 +1782,15 @@
     "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
   },
   {
+    "id": "https://openai.com/index/introducing-gpt-6-1-terra",
+    "title": "Introducing GPT-6.1 Terra",
+    "link": "https://openai.com/index/introducing-gpt-6-1-terra",
+    "pubDate": "Mon, 26 Oct 2026 18:00:00 GMT",
+    "source": "OpenAI Blog",
+    "category": "ChatGPT",
+    "summary": "Delivering fast and capable computer use at scale"
+  },
+  {
     "id": "https://techcrunch.com/?p=3181689",
     "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
     "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
@@ -1744,59 +1798,5 @@
     "source": "TechCrunch - Anthropic",
     "category": "Claude",
     "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise cust"
-  },
-  {
-    "id": "https://techcrunch.com/?p=3181633",
-    "title": "Anthropic officially files for its public debut",
-    "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-    "pubDate": "Mon, 26 Oct 2026 14:35:22 +0000",
-    "source": "TechCrunch - Anthropic",
-    "category": "Claude",
-    "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI sa"
-  },
-  {
-    "id": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-    "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-    "pubDate": "Mon, 26 Oct 2026 13:45:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
-  },
-  {
-    "id": "https://openai.com/index/chatgpt-expanding-world-of-work",
-    "title": "ChatGPT’s expanding world of work",
-    "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
-    "pubDate": "Mon, 26 Oct 2026 10:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
-  },
-  {
-    "id": "https://openai.com/index/fanatics-streamline-fan-experience",
-    "title": "How Fanatics and OpenAI streamline the fan experience",
-    "link": "https://openai.com/index/fanatics-streamline-fan-experience",
-    "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement."
-  },
-  {
-    "id": "https://openai.com/index/openai-cut-incident-investigation",
-    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-    "link": "https://openai.com/index/openai-cut-incident-investigation",
-    "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows."
-  },
-  {
-    "id": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-    "title": "Working with academic communities to build scientific understanding",
-    "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-    "pubDate": "Mon, 26 Oct 2026 00:00:00 GMT",
-    "source": "OpenAI Blog",
-    "category": "ChatGPT",
-    "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them."
   }
 ]
